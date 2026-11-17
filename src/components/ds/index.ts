@@ -1,4 +1,5 @@
 export { Callout } from '@/components/ds/Callout'
+export { CompleteBurst } from '@/components/ds/CompleteBurst'
 export { EmptyState } from '@/components/ds/EmptyState'
 export { ExampleRow } from '@/components/ds/ExampleRow'
 export { FormulaBox } from '@/components/ds/FormulaBox'

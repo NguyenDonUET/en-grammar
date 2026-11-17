@@ -39,8 +39,8 @@ export function LevelPage() {
         />
       ) : (
         <div className="grid gap-4 sm:grid-cols-2">
-          {units.map((unit) => (
-            <UnitCard key={unit.id} unit={unit} />
+          {units.map((unit, index) => (
+            <UnitCard key={unit.id} unit={unit} index={index} />
           ))}
         </div>
       )}

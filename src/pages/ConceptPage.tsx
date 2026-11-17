@@ -50,12 +50,18 @@ export function ConceptPage() {
             Bài tập
           </TabsTrigger>
         </TabsList>
-        <TabsContent value="theory">
+        <TabsContent
+          value="theory"
+          className="motion-safe:animate-in motion-safe:fade-in motion-safe:slide-in-from-bottom-2 motion-safe:duration-200"
+        >
           <TheoryView sections={unit.theory} />
         </TabsContent>
-        <TabsContent value="practice">
+        <TabsContent
+          value="practice"
+          className="motion-safe:animate-in motion-safe:fade-in motion-safe:slide-in-from-bottom-2 motion-safe:duration-200"
+        >
           {unit.exercises.length > 0 ? (
-            <PracticeView unit={unit} />
+            <PracticeView key={unit.id} unit={unit} />
           ) : (
             <EmptyState
               icon={PencilLine}

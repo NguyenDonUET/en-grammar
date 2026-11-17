@@ -25,7 +25,7 @@ export function Feedback({
         aria-live="polite"
         className="flex items-center gap-1.5 text-sm font-medium text-success-foreground"
       >
-        <CheckCircle2 className="size-4 shrink-0" aria-hidden />
+        <CheckCircle2 className="size-4 shrink-0 motion-safe:animate-pop" aria-hidden />
         Correct
       </p>
     )

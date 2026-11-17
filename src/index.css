@@ -22,4 +22,22 @@
   #root {
     @apply min-h-svh;
   }
+
+  @media (min-width: 640px) {
+    :root {
+      --header-offset: 4.75rem;
+    }
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    html {
+      scroll-behavior: auto;
+    }
+
+    .animate-shake,
+    .animate-pop,
+    .animate-burst {
+      animation: none !important;
+    }
+  }
 }

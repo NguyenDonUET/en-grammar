@@ -1,5 +1,6 @@
 import { create } from 'zustand'
 import { persist } from 'zustand/middleware'
+import { defaultSoundEnabled } from '@/lib/motion'
 import type { AnswersByUnitId, ConceptTab } from '@/types/grammar'
 
 interface GrammarState {
@@ -23,7 +24,7 @@ export const useGrammarStore = create<GrammarState>()(
       activeTabByUnit: {},
       activeExerciseGroupByUnit: {},
       answersByUnitId: {},
-      soundEnabled: true,
+      soundEnabled: defaultSoundEnabled(),
       setActiveTab: (unitId, tab) =>
         set((state) => ({
           activeTabByUnit: { ...state.activeTabByUnit, [unitId]: tab },

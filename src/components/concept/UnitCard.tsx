@@ -10,9 +10,10 @@ import type { UnitSummary } from '@/types/grammar'
 
 interface UnitCardProps {
   unit: UnitSummary
+  index?: number
 }
 
-export function UnitCard({ unit }: UnitCardProps) {
+export function UnitCard({ unit, index = 0 }: UnitCardProps) {
   const answers = useGrammarStore((s) => s.answersByUnitId[unit.id])
   const fullUnit = getUnit(unit.level, unit.id)
   const { correct, total } = fullUnit
@@ -23,7 +24,8 @@ export function UnitCard({ unit }: UnitCardProps) {
   return (
     <Link
       to={unitPath(unit.level, unit.id)}
-      className="group block rounded-xl focus-visible:ring-[3px] focus-visible:ring-ring/50 focus-visible:outline-none"
+      className="group motion-safe:animate-in motion-safe:fade-in motion-safe:slide-in-from-bottom-3 motion-safe:fill-mode-both block rounded-xl focus-visible:ring-[3px] focus-visible:ring-ring/50 focus-visible:outline-none"
+      style={{ animationDelay: `${index * 70}ms` }}
     >
       <Card className="h-full transition-shadow group-hover:shadow-md">
         <CardHeader className="gap-3">

@@ -1,7 +1,9 @@
-import { Outlet } from 'react-router'
+import { Outlet, useLocation } from 'react-router'
 import { AppHeader } from '@/components/layout/AppHeader'
 
 export function RootLayout() {
+  const { pathname } = useLocation()
+
   return (
     <div className="min-h-svh bg-background">
       <a
@@ -16,7 +18,12 @@ export function RootLayout() {
         tabIndex={-1}
         className="mx-auto max-w-5xl px-4 py-8 outline-none sm:px-6 sm:py-10"
       >
-        <Outlet />
+        <div
+          key={pathname}
+          className="motion-safe:animate-in motion-safe:fade-in motion-safe:slide-in-from-bottom-2 motion-safe:duration-300"
+        >
+          <Outlet />
+        </div>
       </main>
     </div>
   )

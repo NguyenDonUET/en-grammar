@@ -1,6 +1,7 @@
 import { BookOpenText } from "lucide-react";
 import { Link } from "react-router";
 import { LevelSwitcher } from "@/components/layout/LevelSwitcher";
+import { SoundToggle } from "@/components/layout/SoundToggle";
 
 export function AppHeader() {
   return (
@@ -15,7 +16,10 @@ export function AppHeader() {
           </span>
           <span>English Grammar</span>
         </Link>
-        <LevelSwitcher />
+        <div className="flex items-center gap-1 sm:gap-2">
+          <SoundToggle />
+          <LevelSwitcher />
+        </div>
       </div>
     </header>
   );

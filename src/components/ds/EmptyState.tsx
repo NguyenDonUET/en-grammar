@@ -19,6 +19,7 @@ export function EmptyState({
     <div
       className={cn(
         'flex flex-col items-center justify-center rounded-2xl border border-dashed bg-card px-6 py-16 text-center',
+        'motion-safe:animate-in motion-safe:fade-in motion-safe:zoom-in-95 motion-safe:duration-300',
         className,
       )}
     >

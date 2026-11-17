@@ -1,5 +1,6 @@
-import type { ReactNode } from 'react'
+import { useRef, type ReactNode } from 'react'
 import { Button } from '@/components/ui/button'
+import { prefersReducedMotion } from '@/lib/motion'
 import { cn } from '@/lib/utils'
 
 interface ItemShellProps {
@@ -19,8 +20,20 @@ export function ItemShell({
   children,
   footer,
 }: ItemShellProps) {
+  const shellRef = useRef<HTMLDivElement>(null)
+
+  function handleCheck() {
+    onCheck()
+    const el = shellRef.current
+    if (!el || prefersReducedMotion()) return
+    el.classList.remove('animate-pop', 'animate-shake')
+    void el.offsetWidth
+    el.classList.add(correct ? 'animate-pop' : 'animate-shake')
+  }
+
   return (
     <div
+      ref={shellRef}
       className={cn(
         'space-y-3 rounded-xl border bg-card p-4 sm:p-5',
         checked && correct && 'border-success-foreground/30 bg-success/40',
@@ -36,7 +49,7 @@ export function ItemShell({
           size="sm"
           variant="outline"
           aria-label={`Check item ${index}`}
-          onClick={onCheck}
+          onClick={handleCheck}
         >
           Check
         </Button>

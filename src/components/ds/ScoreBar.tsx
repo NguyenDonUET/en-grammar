@@ -28,7 +28,7 @@ export function ScoreBar({ correct, total, className, label = 'Score' }: ScoreBa
         className="h-2 overflow-hidden rounded-full bg-muted"
       >
         <div
-          className="h-full rounded-full bg-success-foreground/80 transition-[width]"
+          className="h-full rounded-full bg-success-foreground/80 transition-[width] duration-500 motion-reduce:transition-none"
           style={{ width: `${percent}%` }}
         />
       </div>

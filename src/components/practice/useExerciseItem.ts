@@ -1,4 +1,5 @@
 import { isItemCorrect } from '@/lib/answers'
+import { playCue } from '@/lib/sound'
 import { useGrammarStore } from '@/store/useGrammarStore'
 import type { AnswerState, ExerciseGroup, ExerciseItem } from '@/types/grammar'
 
@@ -16,6 +17,9 @@ export function useExerciseItem(unitId: string, group: ExerciseGroup, item: Exer
     correct,
     setValue: (value: string) => setAnswer(unitId, item.id, value),
     setSelectedSpan: (selected: string) => setSelected(unitId, item.id, selected),
-    check: () => markChecked(unitId, item.id, true),
+    check: () => {
+      markChecked(unitId, item.id, true)
+      playCue(correct ? 'correct' : 'incorrect')
+    },
   }
 }
