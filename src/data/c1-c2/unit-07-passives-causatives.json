@@ -1,0 +1,818 @@
+{
+  "id": "unit-07-passives-causatives",
+  "level": "c1-c2",
+  "unitNumber": 7,
+  "title": "Passives and causatives",
+  "subtitle": "The passive, impersonal passives, objects, avoiding the passive, have/get something done",
+  "theory": [
+    {
+      "id": "the-passive",
+      "title": "The passive",
+      "icon": "BookOpen",
+      "blocks": [
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "When we don't know who does/did something",
+              "example": "The prototype **was stolen** at approximately 1.30 am."
+            },
+            {
+              "use": "When it's obvious who does/did something",
+              "example": "**Having been passed** in 1988, the Road Traffic Act regulates all vehicle use on UK roads."
+            },
+            {
+              "use": "When it isn't important who does/did something",
+              "example": "The XL500 **was designed** with young families in mind, so there's plenty of room in the boot."
+            },
+            {
+              "use": "To emphasise new information (which appears at the end of the sentence)",
+              "example": "This type of submarine **was developed** during the Second World War by the Americans."
+            },
+            {
+              "use": "To avoid starting clauses with long expressions",
+              "example": "We **were surprised** by the number of people trying to leave the city for the long weekend. (More natural than The number of people trying to leave the city for the long weekend surprised us.)"
+            },
+            {
+              "use": "To produce a formal style",
+              "example": "All passengers **are required** to present their ticket to the inspector."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "impersonal-passive",
+      "title": "Impersonal passive",
+      "icon": "Sparkles",
+      "blocks": [
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "noun + verb in passive form + infinitive / perfect infinitive",
+              "example": "Tourism **is expected to become** a major part of the country's economy. Common verbs: **agree, assume, believe, claim, consider, estimate, expect, feel, find, guarantee, know, mean, presume, regard, report, say, suppose, think, understand**"
+            },
+            {
+              "use": "There + verb in passive form + infinitive / perfect infinitive",
+              "example": "**There are reported to have been** a record number of accidents on the roads this year."
+            },
+            {
+              "use": "It + verb in passive form + that clause",
+              "example": "**It is thought that** the new railway will provide employment opportunities for local people. Common verbs: **accept, agree, argue, assume, believe, calculate, claim, consider, estimate, expect, feel, know, presume, report, say, suggest, suppose, think, understand**"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "direct-indirect-object",
+      "title": "Direct and indirect object",
+      "icon": "Table2",
+      "blocks": [
+        {
+          "type": "prose",
+          "text": "Some verbs in active sentences can be followed by both a direct and an indirect object (usually a person). Common verbs include: **bring, buy, get, give, leave, lend, make, offer, owe, pass, pay, promise, refuse, send, show, take, teach, tell, write**, etc. There are two possible passive forms."
+        },
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "Active sentence",
+              "example": "Michael **gave** the plane tickets to Jill."
+            },
+            {
+              "use": "With indirect object as subject of passive verb",
+              "example": "**Jill was given** the plane tickets (by Michael)."
+            },
+            {
+              "use": "With direct object as subject of passive verb",
+              "example": "**The plane tickets were given** to Jill (by Michael)."
+            }
+          ]
+        },
+        {
+          "type": "watch-out",
+          "text": "In the second structure, we sometimes omit the preposition before indirect object **pronouns**.",
+          "note": "Sharon's Rolls-Royce **was left (to)** her by her grandfather."
+        },
+        {
+          "type": "watch-out",
+          "text": "With the verbs **explain** and **suggest**, the preposition before indirect object pronouns **cannot** be omitted. They cannot be used with the first structure in the table above.",
+          "note": "How to drive the train **was explained to me**. (not **I was explained how to drive the train.** · not **How to drive the train was explained me.**)"
+        }
+      ]
+    },
+    {
+      "id": "avoiding-the-passive",
+      "title": "Avoiding the passive",
+      "icon": "AlertTriangle",
+      "blocks": [
+        {
+          "type": "prose",
+          "text": "The passive is not normally used with verbs in the present perfect continuous, past perfect continuous, future continuous or future perfect continuous tenses. Various prepositional phrases are used to avoid the passive in these tenses."
+        },
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "in progress",
+              "example": "Preparations for the flight **will be in progress** as the President arrives at the airport. (not **will be being made**)"
+            },
+            {
+              "use": "in training",
+              "example": "By the end of this year, I **will have been in training** as a pilot for four years. (not **will have been being trained**)"
+            },
+            {
+              "use": "on display",
+              "example": "Vintage cars **have been on display** in the town centre all this week. (not **have been being displayed**)"
+            },
+            {
+              "use": "under consideration",
+              "example": "By the time they came to a decision, the problem **had been under consideration** for some time. (not **had been being considered**)"
+            },
+            {
+              "use": "under construction",
+              "example": "The new railway station **has been under construction** for two years now. (not **has been being built**)"
+            }
+          ]
+        },
+        {
+          "type": "watch-out",
+          "text": "Some verbs are not usually used in the passive. They include intransitive verbs such as **appear, arrive, die**, etc. Many verbs used statively are also not usually used in the passive. They include **consist, deserve, fit, have, lack, look, mind, realise, resemble, seem, suit**, etc."
+        },
+        {
+          "type": "watch-out",
+          "text": "The verb **let** is not used in the passive when it means 'allow', although phrasal verbs with **let** can be used in the passive.",
+          "note": "Alice was clearly guilty, but she **was let off** with a warning."
+        },
+        {
+          "type": "watch-out",
+          "text": "Some verbs can be followed by the **bare infinitive** (without **to**) in active sentences. They are followed by the **full infinitive** in passive sentences. These verbs include **hear, help, make** and **see**.",
+          "note": "We **heard** Jim **say** he was going to Albania. (active) · Jim **was heard to say** he was going to Albania. (passive)"
+        }
+      ]
+    },
+    {
+      "id": "causative-sth-done",
+      "title": "Causative: get/have something done",
+      "icon": "CheckCircle2",
+      "blocks": [
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "Actions we arrange for other people to do for us",
+              "example": "Did you finally **get** your bike **fixed**?"
+            },
+            {
+              "use": "Things we experience (usually negative and not intended)",
+              "example": "I heard that Susie **had** her motorbike **stolen**."
+            }
+          ]
+        },
+        {
+          "type": "watch-out",
+          "text": "In general, **get** is more informal than **have** in causative structures. We can use other verbs instead of **get** and **have** with a causative meaning. They include **need, want** and **would like**.",
+          "note": "I'd **like** those cars **washed** by this evening, please."
+        },
+        {
+          "type": "watch-out",
+          "text": "The structure **get something done** can also mean 'finish doing something'.",
+          "note": "We'll set off as soon as I've **got** the car **fixed**."
+        }
+      ]
+    },
+    {
+      "id": "causative-sb",
+      "title": "Causative: get/have somebody do / doing",
+      "icon": "PencilLine",
+      "blocks": [
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "get somebody to do / have somebody do · actions we make somebody/something do for us",
+              "example": "Did you **get** Alex **to drive** you all the way to London?"
+            },
+            {
+              "use": "get/have somebody doing · actions we make somebody/something start doing",
+              "example": "Don't worry. We'll soon **have** your car **running** like new."
+            }
+          ]
+        },
+        {
+          "type": "watch-out",
+          "text": "Most of the time, we do not show who does/did an action (the 'agent') in a passive or causative sentence. When we do want to refer to the agent, we use **by**.",
+          "note": "We should **get** the car **looked at by** a professional."
+        },
+        {
+          "type": "watch-out",
+          "text": "When we want to refer to materials or instruments used in a passive or causative sentence, we use **with**.",
+          "note": "The engine **is started with** a special electronic card instead of a key."
+        },
+        {
+          "type": "watch-out",
+          "text": "We use other prepositions after some past participles that are used like adjectives.",
+          "note": "I am **frightened of** driving on motorways. · My car is **covered in** dirt."
+        }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "a",
+      "type": "rewrite",
+      "title": "A · Tick or rewrite",
+      "instruction": "If the verb in bold is correct, write a tick (✓). If it is incorrect, rewrite it correctly.",
+      "items": [
+        {
+          "id": "a1",
+          "prompt": "Could you tell me where your passport **was been issued**?",
+          "acceptedAnswers": ["was issued"]
+        },
+        {
+          "id": "a2",
+          "prompt": "When the winning actor **was finally announced**, a big cheer went up.",
+          "acceptedAnswers": ["✓", "tick", "correct", "was finally announced"]
+        },
+        {
+          "id": "a3",
+          "prompt": "Has your business trip to Calcutta next week **confirmed** by the Indian office?",
+          "acceptedAnswers": ["been confirmed", "has been confirmed"]
+        },
+        {
+          "id": "a4",
+          "prompt": "Everyone who **was been invited** to the wedding came.",
+          "acceptedAnswers": ["was invited"]
+        },
+        {
+          "id": "a5",
+          "prompt": "The wire coat hanger **invented** in 1903 by a Mr Parkhouse.",
+          "acceptedAnswers": ["was invented"]
+        },
+        {
+          "id": "a6",
+          "prompt": "The issue **has discussed** in Parliament yesterday, but no decisions were taken.",
+          "acceptedAnswers": ["was discussed"]
+        },
+        {
+          "id": "a7",
+          "prompt": "By the time we get there, the problem **should have been sorted out**.",
+          "acceptedAnswers": ["✓", "tick", "correct", "should have been sorted out"]
+        },
+        {
+          "id": "a8",
+          "prompt": "Britain **was been invaded** by the Romans under Emperor Claudius in 43 AD.",
+          "acceptedAnswers": ["was invaded"]
+        },
+        {
+          "id": "a9",
+          "prompt": "The party **had been planned** months in advance, but we still had problems.",
+          "acceptedAnswers": ["✓", "tick", "correct", "had been planned"]
+        },
+        {
+          "id": "a10",
+          "prompt": "After **be treated**, I was allowed to leave the hospital.",
+          "acceptedAnswers": ["being treated", "I had been treated"]
+        },
+        {
+          "id": "a11",
+          "prompt": "We boarded the ship and **were showing** to our cabin by a steward.",
+          "acceptedAnswers": ["were shown"]
+        },
+        {
+          "id": "a12",
+          "prompt": "The new supermarket **is to be opened** by an actor from a soap opera.",
+          "acceptedAnswers": ["✓", "tick", "correct", "is to be opened"]
+        }
+      ]
+    },
+    {
+      "id": "b",
+      "type": "gap-fill",
+      "title": "B · Passive forms",
+      "instruction": "Write a verb from the box in the correct passive form in each gap.",
+      "wordBank": ["allow", "ask", "find", "give", "know", "light", "make", "meet", "show", "write"],
+      "items": [
+        {
+          "id": "b1",
+          "prompt": "The stolen items ___ in the attic of an empty house last week.",
+          "acceptedAnswers": ["were found"]
+        },
+        {
+          "id": "b2",
+          "prompt": "When the open-air cinema opens, the first film ___ will be Vertigo.",
+          "acceptedAnswers": ["to be shown", "shown"]
+        },
+        {
+          "id": "b3",
+          "prompt": "Questions ___ in Parliament about the Minister's business interests.",
+          "acceptedAnswers": ["were asked", "have been asked", "are being asked"]
+        },
+        {
+          "id": "b4",
+          "prompt": "We're looking forward to ___ a guided tour of the whole factory.",
+          "acceptedAnswers": ["being given", "being shown"]
+        },
+        {
+          "id": "b5",
+          "prompt": "Just imagine that when these words ___ , Europeans had not yet discovered America.",
+          "acceptedAnswers": ["were being written", "were written"]
+        },
+        {
+          "id": "b6",
+          "prompt": "Once the barbecue ___ , we'll be able to start cooking.",
+          "acceptedAnswers": ["has been lit", "is lit"]
+        },
+        {
+          "id": "b7",
+          "prompt": "Before I ___ to see the invention, I had to agree not to tell anyone.",
+          "acceptedAnswers": ["was allowed"]
+        },
+        {
+          "id": "b8",
+          "prompt": "I would really like ___ at the airport, if that's possible.",
+          "acceptedAnswers": ["to be met"]
+        },
+        {
+          "id": "b9",
+          "prompt": "It ___ very clear to us that we weren't welcome.",
+          "acceptedAnswers": ["was made"]
+        },
+        {
+          "id": "b10",
+          "prompt": "Gareth says he's always wanted ___ as someone with a good sense of humour.",
+          "acceptedAnswers": ["to be known"]
+        }
+      ]
+    },
+    {
+      "id": "c",
+      "type": "multiple-choice",
+      "title": "C · Circle the correct phrase",
+      "instruction": "Select the form that fits.",
+      "items": [
+        {
+          "id": "c1",
+          "prompt": "Global warming is thought ___ by pollution.",
+          "options": ["to be caused", "is caused"],
+          "acceptedAnswers": ["to be caused"]
+        },
+        {
+          "id": "c2",
+          "prompt": "There ___ to be about 5,400 different species of mammals.",
+          "options": ["are to be reported", "are estimated"],
+          "acceptedAnswers": ["are estimated"]
+        },
+        {
+          "id": "c3",
+          "prompt": "It is to be reported / has been reported that gunshots have been heard in the city centre.",
+          "options": ["It is to be reported", "It has been reported"],
+          "acceptedAnswers": ["It has been reported"]
+        },
+        {
+          "id": "c4",
+          "prompt": "The escaped prisoner is believed ___ a rope to climb the wall.",
+          "options": ["to use", "to have used"],
+          "acceptedAnswers": ["to have used"]
+        },
+        {
+          "id": "c5",
+          "prompt": "It is to be calculated / is calculated that about 60% of a man's body mass is water.",
+          "options": ["It is to be calculated", "It is calculated"],
+          "acceptedAnswers": ["It is calculated"]
+        },
+        {
+          "id": "c6",
+          "prompt": "Over 200 people are being understood / are understood to have been injured in the explosion.",
+          "options": ["are being understood", "are understood"],
+          "acceptedAnswers": ["are understood"]
+        },
+        {
+          "id": "c7",
+          "prompt": "It is considered impolite in some cultures ___ with your left hand.",
+          "options": ["to be eaten", "to eat"],
+          "acceptedAnswers": ["to eat"]
+        },
+        {
+          "id": "c8",
+          "prompt": "There ___ to have been 60 crates of olives in the order, not 600!",
+          "options": ["mean", "were meant"],
+          "acceptedAnswers": ["were meant"]
+        },
+        {
+          "id": "c9",
+          "prompt": "___ has been suggested that people who don't recycle should pay more tax.",
+          "options": ["It", "There"],
+          "acceptedAnswers": ["It"]
+        },
+        {
+          "id": "c10",
+          "prompt": "Your order is guaranteed ___ within three working days.",
+          "options": ["will be delivered", "to be delivered"],
+          "acceptedAnswers": ["to be delivered"]
+        }
+      ]
+    },
+    {
+      "id": "d",
+      "type": "rewrite",
+      "title": "D · Heathrow",
+      "instruction": "Each sentence contains one verb in the wrong form. Rewrite the incorrect word or phrase correctly.",
+      "items": [
+        {
+          "id": "d1",
+          "prompt": "Heathrow Airport, near London, has called the world's busiest international airport and the 68 million passengers who **are processed** each year would probably agree.",
+          "acceptedAnswers": ["has been called", "is called"]
+        },
+        {
+          "id": "d2",
+          "prompt": "The land on which the airport stands **sold** to Fairey Aviation by the local vicar and was used for test flights during the 1930s, under the name Great Western Aerodrome.",
+          "acceptedAnswers": ["was sold"]
+        },
+        {
+          "id": "d3",
+          "prompt": "In 1944, the airport **was handed** over to the government and was developed for civilian use, was named after a small village that was removed to create space, Heath Row.",
+          "acceptedAnswers": ["✓", "tick", "correct", "was handed"]
+        },
+        {
+          "id": "d4",
+          "prompt": "The first concrete slab of the modern runways **laid** by Queen Elizabeth II in 1953, and the first terminal building, which has later renamed Terminal 2, was opened two years later.",
+          "acceptedAnswers": ["was laid"]
+        },
+        {
+          "id": "d5",
+          "prompt": "The London Underground **was extended** to reach Heathrow in 1977, meaning that passengers could be transport from central London via the Piccadilly Line in just under an hour.",
+          "acceptedAnswers": ["could be transported", "be transported"]
+        },
+        {
+          "id": "d6",
+          "prompt": "Four passenger terminals and a cargo terminal **have been constructed** and permission was been granted for a fifth passenger terminal in 2001.",
+          "acceptedAnswers": ["was granted", "has been granted"]
+        },
+        {
+          "id": "d7",
+          "prompt": "It has been suggested that a new airport, which would lead to Heathrow **being retired** over a period of 20 years, has been built on a floating island in the Thames, although no firm plans have been drawn up.",
+          "acceptedAnswers": ["being built", "be built"]
+        }
+      ]
+    },
+    {
+      "id": "e",
+      "type": "rewrite",
+      "title": "E · Avoiding the passive",
+      "instruction": "Complete the sentences describing each situation using the phrase given.",
+      "items": [
+        {
+          "id": "e1",
+          "prompt": "I started training to be an accountant six months ago. I've got six more months to go, and then I have to take some exams. **in training**\nBy the time I take my exams, ___ .",
+          "acceptedAnswers": [
+            "I will have been in training for a year",
+            "I'll have been in training for a year",
+            "I will have been in training as an accountant for a year"
+          ]
+        },
+        {
+          "id": "e2",
+          "prompt": "The council have been thinking for some time of redeveloping the city centre. **under consideration**\nThe redevelopment of the city centre ___ .",
+          "acceptedAnswers": [
+            "has been under consideration for some time",
+            "has been under consideration"
+          ]
+        },
+        {
+          "id": "e3",
+          "prompt": "They've been having discussions on the issue for over two weeks. **in progress**\nDiscussions on the issue ___ .",
+          "acceptedAnswers": [
+            "have been in progress for over two weeks",
+            "have been in progress for more than two weeks"
+          ]
+        },
+        {
+          "id": "e4",
+          "prompt": "This weekend, the local Art Society will be displaying their latest works at the library. **on display**\nThe local Art Society's latest works ___ .",
+          "acceptedAnswers": [
+            "will be on display at the library this weekend",
+            "will be on display this weekend"
+          ]
+        },
+        {
+          "id": "e5",
+          "prompt": "George seems to have been putting his website together for a long time. **under construction**\nGeorge's website ___ .",
+          "acceptedAnswers": [
+            "has been under construction for a long time",
+            "seems to have been under construction for a long time"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f",
+      "type": "rewrite",
+      "title": "F · Causative dialogue",
+      "instruction": "If the word or phrase in bold is correct, write a tick (✓). If it is incorrect, rewrite it correctly.",
+      "items": [
+        {
+          "id": "f1",
+          "prompt": "Alison: Oh, what a nightmare! We had to **have it repaired** twice!",
+          "acceptedAnswers": ["✓", "tick", "correct", "have it repaired"]
+        },
+        {
+          "id": "f2",
+          "prompt": "Alison: Well, we got **delivered it** to our house on Monday morning.",
+          "acceptedAnswers": ["it delivered", "got it delivered"]
+        },
+        {
+          "id": "f3",
+          "prompt": "Hannah: We decided to have it **check** straight away, because it had come all the way from America.",
+          "acceptedAnswers": ["checked"]
+        },
+        {
+          "id": "f4",
+          "prompt": "Alison: Oh, I didn't know you'd had them **do that**.",
+          "acceptedAnswers": ["✓", "tick", "correct", "do that"]
+        },
+        {
+          "id": "f5",
+          "prompt": "Alison: Yeah. Anyway, we had my dad **to have a look** at it. And he found that the engine wasn't running properly.",
+          "acceptedAnswers": ["have a look", "look"]
+        },
+        {
+          "id": "f6",
+          "prompt": "Hannah: Did you have the company **to come** to fix it?",
+          "acceptedAnswers": ["come"]
+        },
+        {
+          "id": "f7",
+          "prompt": "Alison: Well, not at first. I bet we got my brother **to work** on it.",
+          "acceptedAnswers": ["✓", "tick", "correct", "to work"]
+        },
+        {
+          "id": "f8",
+          "prompt": "Alison: Oh, he's very good. I bet he soon had **running it** smoothly.",
+          "acceptedAnswers": ["it running"]
+        },
+        {
+          "id": "f9",
+          "prompt": "Alison: Yes, but we still had to get the company **come** out in the end, because the fuel pump stopped working.",
+          "acceptedAnswers": ["to come"]
+        },
+        {
+          "id": "f10",
+          "prompt": "Hannah: Terrible! You should get them **to give** you some compensation.",
+          "acceptedAnswers": ["✓", "tick", "correct", "to give"]
+        }
+      ]
+    },
+    {
+      "id": "g",
+      "type": "gap-fill",
+      "title": "G · Causative with a noun",
+      "instruction": "Complete each sentence using the noun in bold and an appropriate causative form of the verb in bold.",
+      "items": [
+        {
+          "id": "g1",
+          "prompt": "If you don't understand, ___ it to you again after the lesson. (**your teacher / explain**)",
+          "acceptedAnswers": [
+            "have your teacher explain",
+            "get your teacher to explain",
+            "I'll have your teacher explain",
+            "I'll get your teacher to explain"
+          ]
+        },
+        {
+          "id": "g2",
+          "prompt": "I was a bit depressed, but watching my kitten play with a ball of wool soon ___ much better. (**me / feel**)",
+          "acceptedAnswers": ["had me feeling", "got me feeling"]
+        },
+        {
+          "id": "g3",
+          "prompt": "Don't bother redecorating yourself — ___ it. (**a professional / do**)",
+          "acceptedAnswers": [
+            "have a professional do",
+            "get a professional to do",
+            "have it done by a professional"
+          ]
+        },
+        {
+          "id": "g4",
+          "prompt": "___ was so annoying because it meant I had to take the tube to work. (**our car / steal**)",
+          "acceptedAnswers": [
+            "Having our car stolen",
+            "Getting our car stolen"
+          ]
+        },
+        {
+          "id": "g5",
+          "prompt": "You won't learn as much if you ___ you with your homework all the time. (**your parents / help**)",
+          "acceptedAnswers": [
+            "have your parents help",
+            "get your parents to help"
+          ]
+        },
+        {
+          "id": "g6",
+          "prompt": "The concert started quietly, but the band soon ___ to their hit songs. (**us all / dance**)",
+          "acceptedAnswers": ["had us all dancing", "got us all dancing"]
+        },
+        {
+          "id": "g7",
+          "prompt": "Tell Gordon yourself! Don't try ___ your dirty work for you! (**me / do**)",
+          "acceptedAnswers": ["to get me to do", "to have me do"]
+        },
+        {
+          "id": "g8",
+          "prompt": "Have you thought about ___ as short as mine? (**your hair / cut**)",
+          "acceptedAnswers": ["having your hair cut", "getting your hair cut"]
+        },
+        {
+          "id": "g9",
+          "prompt": "I ___ me how to juggle with five balls, but I still couldn't do it. (**Karen / show**)",
+          "acceptedAnswers": [
+            "had Karen show",
+            "got Karen to show"
+          ]
+        },
+        {
+          "id": "g10",
+          "prompt": "Have you heard about the problems caused by students ___ by companies on the Internet? (**their essays / write**)",
+          "acceptedAnswers": [
+            "having their essays written",
+            "getting their essays written"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "h",
+      "type": "rewrite",
+      "title": "H · Similar meaning",
+      "instruction": "Complete the second sentence so that it has a similar meaning to the first, using the word given. Do not change the word given. You must use between three and eight words, including the word given.",
+      "items": [
+        {
+          "id": "h1",
+          "prompt": "They made me wait for over 20 minutes on the phone! **kept**\nI ___ for over 20 minutes on the phone!",
+          "acceptedAnswers": ["was kept waiting"]
+        },
+        {
+          "id": "h2",
+          "prompt": "Although people consider Ashley to be a star, she is always friendly towards everyone. **considered**\nDespite ___ , Ashley's always friendly towards everyone.",
+          "acceptedAnswers": ["being considered a star", "being considered to be a star"]
+        },
+        {
+          "id": "h3",
+          "prompt": "We have had reports that the Prime Minister is making a surprise visit to Syria. **be**\nThe Prime Minister ___ a surprise visit to Syria.",
+          "acceptedAnswers": [
+            "is reported to be making",
+            "is reported to be paying"
+          ]
+        },
+        {
+          "id": "h4",
+          "prompt": "The manager provided the staff with extra training. **by**\nThe ___ the manager.",
+          "acceptedAnswers": [
+            "staff were provided with extra training by",
+            "staff were given extra training by"
+          ]
+        },
+        {
+          "id": "h5",
+          "prompt": "I think someone needs to explain this computer program to me. **explaining**\nI think I need ___ me.",
+          "acceptedAnswers": ["this computer program explaining to"]
+        },
+        {
+          "id": "h6",
+          "prompt": "They have been building the new stadium for much longer than they originally estimated. **under**\nThe new stadium ___ for much longer than they originally estimated.",
+          "acceptedAnswers": ["has been under construction"]
+        },
+        {
+          "id": "h7",
+          "prompt": "Do you know why they made Craig stay behind after the lesson? **to**\nDo you know why ___ behind after the lesson?",
+          "acceptedAnswers": ["Craig was made to stay"]
+        },
+        {
+          "id": "h8",
+          "prompt": "Call Lionel and ask him to send the reports up to my office. **have**\nCall Lionel and ___ the reports up to my office.",
+          "acceptedAnswers": ["have him send"]
+        }
+      ]
+    },
+    {
+      "id": "i",
+      "type": "multiple-choice",
+      "title": "I · Choose the correct answer",
+      "instruction": "Select the option that completes each sentence.",
+      "items": [
+        {
+          "id": "i1",
+          "prompt": "When Nadine arrived, she soon ___ at all her jokes.",
+          "options": ["had everyone laughed", "had laughing everyone", "had everyone laughing", "had laughed everyone"],
+          "acceptedAnswers": ["had everyone laughing"]
+        },
+        {
+          "id": "i2",
+          "prompt": "The government must ___ strong measures against crime.",
+          "options": ["be seen be taking", "see to be taking", "seen to take", "be seen to be taking"],
+          "acceptedAnswers": ["be seen to be taking"]
+        },
+        {
+          "id": "i3",
+          "prompt": "Mrs Davies asked me to tell you that she would like ___ by Friday at the latest.",
+          "options": ["the orders sent", "sending the orders", "that you send", "the orders"],
+          "acceptedAnswers": ["the orders sent"]
+        },
+        {
+          "id": "i4",
+          "prompt": "Joining a gym ___ , but I didn't really fancy the idea.",
+          "options": ["was suggested me", "to me was suggested", "was suggested to me", "was suggesting me"],
+          "acceptedAnswers": ["was suggested to me"]
+        },
+        {
+          "id": "i5",
+          "prompt": "There ___ between 4,000 and 6,000 languages in the world, depending on how you count them.",
+          "options": ["say to be", "are said that", "are said to be", "said being"],
+          "acceptedAnswers": ["are said to be"]
+        },
+        {
+          "id": "i6",
+          "prompt": "I spoke to Victor last night and he says he ___ while he was on holiday.",
+          "options": ["had stolen his phone", "got stolen his phone", "was got his phone stolen", "had his phone stolen"],
+          "acceptedAnswers": ["had his phone stolen"]
+        },
+        {
+          "id": "i7",
+          "prompt": "Why didn't you ___ you when you moved house?",
+          "options": ["have Aaron help", "have got Aaron help", "have Aaron helped", "get Aaron help"],
+          "acceptedAnswers": ["have Aaron help"]
+        },
+        {
+          "id": "i8",
+          "prompt": "Profits ___ slightly next year, although we don't predict any job losses.",
+          "options": ["expect to fall", "are expecting to fall", "are expected falling", "are expected to fall"],
+          "acceptedAnswers": ["are expected to fall"]
+        },
+        {
+          "id": "i9",
+          "prompt": "It's hard to believe that this film ___ completely by computer.",
+          "options": ["has generated", "has been generating", "has been generated", "was generated"],
+          "acceptedAnswers": ["has been generated"]
+        },
+        {
+          "id": "i10",
+          "prompt": "As soon as Dad ___ , we can leave.",
+          "options": ["has the car starting", "has got the car started", "got started the car", "was got starting the car"],
+          "acceptedAnswers": ["has got the car started"]
+        }
+      ]
+    },
+    {
+      "id": "j",
+      "type": "gap-fill",
+      "title": "J · Cloze: The scramjet",
+      "instruction": "Write one word in each gap.",
+      "items": [
+        {
+          "id": "j1",
+          "prompt": "Imagine ___ transported around the globe in a matter of hours, rather than the 24 hours which are currently required to get from London to Sydney.",
+          "acceptedAnswers": ["being"]
+        },
+        {
+          "id": "j2",
+          "prompt": "Such is the promise of the scramjet, a highly experimental type of engine which has been ___ development over the past couple of decades.",
+          "acceptedAnswers": ["in", "under"]
+        },
+        {
+          "id": "j3",
+          "prompt": "In a conventional jet engine, air ___ sucked into the engine at speeds below the speed of sound, where it is mixed with fuel, ignited, and the exhaust gases provide thrust.",
+          "acceptedAnswers": ["is"]
+        },
+        {
+          "id": "j4",
+          "prompt": "In a scramjet, which has to ___ taken to supersonic speeds by conventional means before it will operate, the air enters at supersonic speeds.",
+          "acceptedAnswers": ["be"]
+        },
+        {
+          "id": "j5",
+          "prompt": "It has ___ estimated that a scramjet might be capable of travelling at 12–24 times the speed of sound.",
+          "acceptedAnswers": ["been"]
+        },
+        {
+          "id": "j6",
+          "prompt": "However, the technology ___ been found to be extremely difficult to control.",
+          "acceptedAnswers": ["has"]
+        },
+        {
+          "id": "j7",
+          "prompt": "Although scientists ___ had scramjets perform short flights, commercial aircraft are still a long way in the future.",
+          "acceptedAnswers": ["have"]
+        },
+        {
+          "id": "j8",
+          "prompt": "Indeed, they may never ___ successfully developed.",
+          "acceptedAnswers": ["be"]
+        }
+      ]
+    }
+  ]
+}

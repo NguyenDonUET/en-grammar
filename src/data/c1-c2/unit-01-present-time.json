@@ -1,0 +1,1649 @@
+{
+  "id": "unit-01-present-time",
+  "level": "c1-c2",
+  "unitNumber": 1,
+  "title": "Present time",
+  "subtitle": "Present simple and continuous, emphatic do, present perfect simple and continuous, stative verbs",
+  "theory": [
+    {
+      "id": "present-simple",
+      "title": "Present simple",
+      "icon": "BookOpen",
+      "blocks": [
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "General truths",
+              "example": "The hippocampus **stores** spatial memory."
+            },
+            {
+              "use": "Current habits",
+              "example": "I **don't always take** the first offer that comes in."
+            },
+            {
+              "use": "Permanent situations and states",
+              "example": "Leila **lectures** at the Institute of Cognitive Science."
+            },
+            {
+              "use": "Jokes and informal stories",
+              "example": "So a consultant **walks** into a ward and **says** \u2026"
+            },
+            {
+              "use": "Live sports commentary",
+              "example": "Fernandes **slips** it through to Rashford. It's a goal!"
+            },
+            {
+              "use": "Newspaper headlines",
+              "example": "MINISTER **RESIGNS** OVER LEAKED MEMO"
+            },
+            {
+              "use": "Reviews and summaries",
+              "example": "The novel **ends** with us still unsure who was telling the truth."
+            },
+            {
+              "use": "Instructions and directions",
+              "example": "You **turn** left at the roundabout and the archive **is** opposite."
+            },
+            {
+              "use": "Proverbs and sayings",
+              "example": "Pride **comes** before a fall."
+            },
+            {
+              "use": "The future (fixed events)",
+              "example": "Enrolment **closes** on 30 September."
+            },
+            {
+              "use": "The future in time clauses",
+              "example": "I'll be far more confident once I **submit** the thesis."
+            }
+          ]
+        },
+        {
+          "type": "word-list",
+          "intro": "Words and phrases often used with the present simple",
+          "words": [
+            "always",
+            "usually",
+            "generally",
+            "often",
+            "sometimes",
+            "rarely",
+            "seldom",
+            "never",
+            "whenever",
+            "nowadays",
+            "these days",
+            "from time to time",
+            "every now and then",
+            "most/much of the time",
+            "it's / that's the last time"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "emphatic-present-simple",
+      "title": "Emphatic present simple",
+      "icon": "Sparkles",
+      "blocks": [
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "To emphasise contrast",
+              "example": "He doesn't specialise in statistics, but he **does know** how to read a dataset."
+            },
+            {
+              "use": "To emphasise strong feeling",
+              "example": "I **do enjoy** a well-argued seminar."
+            }
+          ]
+        },
+        {
+          "type": "prose",
+          "text": "Use **do / does** + infinitive in an affirmative present simple clause. Stress **do/does** when you speak."
+        }
+      ]
+    },
+    {
+      "id": "present-continuous",
+      "title": "Present continuous",
+      "icon": "Table2",
+      "blocks": [
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "Actions happening now",
+              "example": "The postgraduates **are compiling** the survey results right now."
+            },
+            {
+              "use": "Actions happening around now",
+              "example": "Which paper **are** you **reading** at the moment?"
+            },
+            {
+              "use": "Temporary situations and series of actions",
+              "example": "We **aren't sitting** any papers while the markers are on strike."
+            },
+            {
+              "use": "Changing and developing situations",
+              "example": "Fewer students **are choosing** three-year residential degrees."
+            },
+            {
+              "use": "Annoying or amusing habits (usually with always)",
+              "example": "Theo **is always turning up** with yet another half-baked theory."
+            },
+            {
+              "use": "Background information in jokes and stories",
+              "example": "A woman goes into a clinic. She's **carrying** a goldfish bowl \u2026"
+            },
+            {
+              "use": "The future (arrangements)",
+              "example": "**Are** you **defending** your proposal on Thursday?"
+            },
+            {
+              "use": "The future in time clauses",
+              "example": "I'll be less tense once I'm **waiting** for the results rather than sitting the paper."
+            }
+          ]
+        },
+        {
+          "type": "word-list",
+          "intro": "Words and phrases often used with the present continuous",
+          "words": [
+            "now",
+            "right now",
+            "for now",
+            "currently",
+            "at the moment",
+            "for the time being",
+            "at present",
+            "today",
+            "this week/etc.",
+            "it's / that's the last time"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "present-perfect-simple",
+      "title": "Present perfect simple",
+      "icon": "CheckCircle2",
+      "blocks": [
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "Situations and states that started in the past and are still true",
+              "example": "I've **been** a fellow of the college for six years."
+            },
+            {
+              "use": "A series of actions continuing up to now",
+              "example": "She's **completed** two internships and a field placement so far."
+            },
+            {
+              "use": "Completed actions at an unspecified past time",
+              "example": "**Have** you ever **read** anything by Chimamanda Ngozi Adichie?"
+            },
+            {
+              "use": "Completed actions where the present result matters",
+              "example": "She's **been awarded** a research grant by the Wellcome Trust."
+            },
+            {
+              "use": "Actions completed recently",
+              "example": "I've just **collected** my viva results."
+            },
+            {
+              "use": "The future in time clauses",
+              "example": "Call me when you've **proofread** the appendix."
+            }
+          ]
+        },
+        {
+          "type": "word-list",
+          "intro": "Words and phrases often used with the present perfect simple",
+          "words": [
+            "since",
+            "for",
+            "it's the first/second/etc. time",
+            "before",
+            "already",
+            "yet",
+            "ever",
+            "just",
+            "still",
+            "recently",
+            "up to now",
+            "(up) until now",
+            "so far"
+          ]
+        },
+        {
+          "type": "hints",
+          "intro": "US vs UK grammar",
+          "items": [
+            "American English often uses the **past simple** where British English prefers the **present perfect simple**: US **Did you send the abstract yet?** \u00b7 UK **Have you sent the abstract yet?**",
+            "In informal American English, **gotten** is used as the past participle of **get** when it means 'obtain', 'become' or 'move'. British English uses **got**: US **I haven't gotten the proofs yet.** \u00b7 UK **I haven't got the proofs yet.** (= I haven't received them.)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "present-perfect-continuous",
+      "title": "Present perfect continuous",
+      "icon": "PencilLine",
+      "blocks": [
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "Actions or situations continuing up to the present (or just before it)",
+              "example": "We've all **been debating** what to get the visiting professor and we still can't agree."
+            },
+            {
+              "use": "The future in time clauses",
+              "example": "I won't sit the practical until I've **been attending** labs for at least a term."
+            }
+          ]
+        },
+        {
+          "type": "watch-out",
+          "text": "Use the **present perfect simple** to specify a particular number of times or things. Use the **present perfect continuous** to emphasise duration.",
+          "note": "I've **written** two chapters this month. \u00b7 I've **worked** here for five years. (no emphasis) \u00b7 I've **been working** here for five years. (emphasises the duration)"
+        },
+        {
+          "type": "word-list",
+          "intro": "Words and phrases often used with the present perfect continuous",
+          "words": [
+            "since",
+            "for",
+            "just",
+            "all day/week/etc."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "stative-non-stative",
+      "title": "Stative and non-stative uses of verbs",
+      "icon": "Lightbulb",
+      "blocks": [
+        {
+          "type": "prose",
+          "text": "When certain verbs are used to describe **states**, they are generally used in simple tenses rather than continuous tenses."
+        },
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "Communication",
+              "example": "**agree, deny, disagree**"
+            },
+            {
+              "use": "Thinking",
+              "example": "**believe, consider, doubt, expect, imagine, know, mean, realise, remember, suppose, suspect, think, understand**"
+            },
+            {
+              "use": "Existence",
+              "example": "**be, exist**"
+            },
+            {
+              "use": "Emotions",
+              "example": "**adore, appeal, appreciate, desire, despise, detest, dislike, envy, fear, feel, forgive, hate, like, love, need, pity, prefer, satisfy, trust, want, wish**"
+            },
+            {
+              "use": "Perception",
+              "example": "**appear, hear, look, notice, recognise, resemble, see, seem, smell, sound, taste**"
+            },
+            {
+              "use": "Possession and relationships between things",
+              "example": "**belong, concern, consist, contain, cost, depend, equal, fit, have, include, involve, lack, measure, owe, own, possess, suit, weigh**"
+            },
+            {
+              "use": "Other",
+              "example": "**deserve, matter**"
+            }
+          ]
+        },
+        {
+          "type": "watch-out",
+          "text": "Many of these verbs can also be used in continuous tenses when they describe **actions** rather than states. It is important to know how to use a computer. (state: **think** = believe) \u00b7 I'm **thinking about** going on a computer course. (action: **think** = consider)",
+          "note": "Verbs that often switch like this include **appear, be, consider, depend, feel, have, include, look, mean, mind, see, smell, taste, think, weigh**."
+        }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "a",
+      "type": "gap-fill",
+      "title": "A \u00b7 Present simple or present continuous",
+      "instruction": "Write the verb in brackets in the correct form. If a sentence has two verbs, write both forms separated by / . Use contractions where they sound natural.",
+      "items": [
+        {
+          "id": "a1",
+          "prompt": "My brother ___ a doctorate in Oslo, so I don't see him very often, unfortunately. (do)",
+          "acceptedAnswers": [
+            "is doing",
+            "'s doing"
+          ]
+        },
+        {
+          "id": "a2",
+          "prompt": "Darren ___ home until about nine. (not usually / get)",
+          "acceptedAnswers": [
+            "doesn't usually get",
+            "does not usually get"
+          ]
+        },
+        {
+          "id": "a3",
+          "prompt": "I'm sorry to hear that your parents ___. (get divorced)",
+          "acceptedAnswers": [
+            "are getting divorced",
+            "'re getting divorced"
+          ]
+        },
+        {
+          "id": "a4",
+          "prompt": "You ___ to the end of the street and turn right. (go)",
+          "acceptedAnswers": [
+            "go"
+          ]
+        },
+        {
+          "id": "a5",
+          "prompt": "Why ___ ice float?",
+          "acceptedAnswers": [
+            "does"
+          ]
+        },
+        {
+          "id": "a6",
+          "prompt": "It's lovely now the evenings ___ longer, isn't it? (get)",
+          "acceptedAnswers": [
+            "are getting"
+          ]
+        },
+        {
+          "id": "a7",
+          "prompt": "My dad ___ meat at all \u2014 he's a vegetarian. (not / eat)",
+          "acceptedAnswers": [
+            "doesn't eat",
+            "does not eat"
+          ]
+        },
+        {
+          "id": "a8",
+          "prompt": "Actually, we ___ to The National at the moment \u2014 this is their second album. (listen)",
+          "acceptedAnswers": [
+            "are listening",
+            "'re listening"
+          ]
+        },
+        {
+          "id": "a9",
+          "prompt": "A man ___ into a bar. Ouch! Not a good idea. (walk)",
+          "acceptedAnswers": [
+            "walks"
+          ]
+        },
+        {
+          "id": "a10",
+          "prompt": "___ me from your mobile? The line's terrible. (phone)",
+          "acceptedAnswers": [
+            "Are you phoning"
+          ]
+        },
+        {
+          "id": "a11",
+          "prompt": "___ you often order things online?",
+          "acceptedAnswers": [
+            "Do"
+          ]
+        },
+        {
+          "id": "a12",
+          "prompt": "There's an Englishman, an Irishman and a Scot. They ___ across the desert when one of them spots a camel in the distance. (walk)",
+          "acceptedAnswers": [
+            "are walking",
+            "'re walking"
+          ]
+        },
+        {
+          "id": "a13",
+          "prompt": "Beckham ___ control of the ball \u2026 it's Beckham \u2026 and he scores! (have)",
+          "acceptedAnswers": [
+            "has"
+          ]
+        },
+        {
+          "id": "a14",
+          "prompt": "WOMAN ___ \u00a32 MILLION LOTTERY WIN TO CHARITY (give)",
+          "acceptedAnswers": [
+            "GIVES",
+            "gives"
+          ]
+        },
+        {
+          "id": "a15",
+          "prompt": "My dad ___ jokes! They're usually rubbish, though. (always / tell)",
+          "acceptedAnswers": [
+            "is always telling",
+            "'s always telling"
+          ]
+        },
+        {
+          "id": "a16",
+          "prompt": "'Phil ___ ties, does he?' 'Actually, he wears a tie to work most days.' (not / wear)",
+          "acceptedAnswers": [
+            "doesn't wear",
+            "does not wear"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b",
+      "type": "gap-fill",
+      "title": "B \u00b7 Time words and phrases",
+      "instruction": "Write one word in each gap.",
+      "items": [
+        {
+          "id": "b1",
+          "prompt": "Why do you ___ leave the light on when you go out of the room?",
+          "acceptedAnswers": [
+            "always",
+            "usually",
+            "generally",
+            "still"
+          ]
+        },
+        {
+          "id": "b2",
+          "prompt": "Fifteen teachers are teaching here full-time at ___.",
+          "acceptedAnswers": [
+            "present"
+          ]
+        },
+        {
+          "id": "b3",
+          "prompt": "My sister's revising for her GCSEs at the ___.",
+          "acceptedAnswers": [
+            "moment"
+          ]
+        },
+        {
+          "id": "b4",
+          "prompt": "I'm quite happy living at home for the time ___, but I guess I'll have to get my own place eventually.",
+          "acceptedAnswers": [
+            "being"
+          ]
+        },
+        {
+          "id": "b5",
+          "prompt": "It's true that Ralph calls us quite ___ , but most students only call their parents when they need something, don't they?",
+          "acceptedAnswers": [
+            "often",
+            "regularly",
+            "frequently"
+          ]
+        },
+        {
+          "id": "b6",
+          "prompt": "We go to the cinema ___ now and then, but only if there's something good on.",
+          "acceptedAnswers": [
+            "every"
+          ]
+        },
+        {
+          "id": "b7",
+          "prompt": "I'm alone in my study bedroom reading ___ of the time.",
+          "acceptedAnswers": [
+            "most",
+            "much",
+            "all"
+          ]
+        },
+        {
+          "id": "b8",
+          "prompt": "Tim ___ goes out to play until he's done all his homework. I just don't allow it!",
+          "acceptedAnswers": [
+            "never"
+          ]
+        },
+        {
+          "id": "b9",
+          "prompt": "I see Lucinda from ___ to time, but not on a regular basis.",
+          "acceptedAnswers": [
+            "time"
+          ]
+        },
+        {
+          "id": "b10",
+          "prompt": "I'm sitting in the garden ___ now talking to you on my mobile.",
+          "acceptedAnswers": [
+            "right"
+          ]
+        },
+        {
+          "id": "b11",
+          "prompt": "That's the last ___ we're inviting Dave to one of our parties!",
+          "acceptedAnswers": [
+            "time"
+          ]
+        },
+        {
+          "id": "b12",
+          "prompt": "Do young people these ___ have more free time than they did in the past?",
+          "acceptedAnswers": [
+            "days"
+          ]
+        },
+        {
+          "id": "b13",
+          "prompt": "My mum fills up with petrol ___ she goes to the supermarket.",
+          "acceptedAnswers": [
+            "whenever",
+            "every time",
+            "before"
+          ]
+        },
+        {
+          "id": "b14",
+          "prompt": "I'm staying in ___ now, but I might go out a bit later on.",
+          "acceptedAnswers": [
+            "for"
+          ]
+        },
+        {
+          "id": "b15",
+          "prompt": "___ is the last time I ever order from that pizzeria. It was disgusting!",
+          "acceptedAnswers": [
+            "This",
+            "That",
+            "It"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c",
+      "type": "gap-fill",
+      "title": "C \u00b7 Email: present simple or continuous",
+      "instruction": "Write a verb from the box in the correct form. Use contractions where possible. You can use the verbs more than once.",
+      "wordBank": [
+        "contact",
+        "do",
+        "drive",
+        "focus",
+        "go",
+        "happen",
+        "have",
+        "like",
+        "look",
+        "need",
+        "say",
+        "sound",
+        "take",
+        "think",
+        "try",
+        "work"
+      ],
+      "items": [
+        {
+          "id": "c1",
+          "prompt": "Sandy: Hey, George! How's things? What ___ at the moment?",
+          "acceptedAnswers": [
+            "are you doing",
+            "are you up to"
+          ]
+        },
+        {
+          "id": "c2",
+          "prompt": "George: Hi, Sandy! Fine! I ___ some research for that history project.",
+          "acceptedAnswers": [
+            "I'm just doing",
+            "I am just doing",
+            "I'm doing",
+            "am just doing"
+          ]
+        },
+        {
+          "id": "c3",
+          "prompt": "Sandy: How ___ ?",
+          "acceptedAnswers": [
+            "is it going",
+            "'s it going"
+          ]
+        },
+        {
+          "id": "c4",
+          "prompt": "George: Yeah, it ___ well, thanks.",
+          "acceptedAnswers": [
+            "'s going",
+            "is going"
+          ]
+        },
+        {
+          "id": "c5",
+          "prompt": "The website ___ really good at the moment.",
+          "acceptedAnswers": [
+            "looks",
+            "is looking"
+          ]
+        },
+        {
+          "id": "c6",
+          "prompt": "Sandy: Listen, the reason I ___ you is that my mum drives past the library every morning.",
+          "acceptedAnswers": [
+            "am contacting",
+            "'m contacting"
+          ]
+        },
+        {
+          "id": "c7",
+          "prompt": "My mum ___ past the library every morning on the way to work.",
+          "acceptedAnswers": [
+            "drives"
+          ]
+        },
+        {
+          "id": "c8",
+          "prompt": "And she ___ she can give you a lift tomorrow morning, if you like.",
+          "acceptedAnswers": [
+            "says"
+          ]
+        },
+        {
+          "id": "c9",
+          "prompt": "George: That's really kind, but I ___ it takes long to walk there from here.",
+          "acceptedAnswers": [
+            "don't think",
+            "do not think"
+          ]
+        },
+        {
+          "id": "c10",
+          "prompt": "So she ___ to worry.",
+          "acceptedAnswers": [
+            "doesn't need",
+            "does not need"
+          ]
+        },
+        {
+          "id": "c11",
+          "prompt": "Sandy: What ___ with your project?",
+          "acceptedAnswers": [
+            "is she doing",
+            "'s she doing"
+          ]
+        },
+        {
+          "id": "c12",
+          "prompt": "___ a title yet?",
+          "acceptedAnswers": [
+            "Have you got",
+            "Do you have",
+            "Have you got yourself"
+          ]
+        },
+        {
+          "id": "c13",
+          "prompt": "George: No! I ___ a topic yet!",
+          "acceptedAnswers": [
+            "haven't even got",
+            "haven't even gotten",
+            "don't even have"
+          ]
+        },
+        {
+          "id": "c14",
+          "prompt": "I really ___ on it at the moment, though.",
+          "acceptedAnswers": [
+            "am focusing",
+            "'m focusing"
+          ]
+        },
+        {
+          "id": "c15",
+          "prompt": "I ___ to finish my physics project first.",
+          "acceptedAnswers": [
+            "am trying",
+            "'m trying"
+          ]
+        },
+        {
+          "id": "c16",
+          "prompt": "Sandy: Why ___ something on the Second World War? That's interesting.",
+          "acceptedAnswers": [
+            "don't you do",
+            "don't you try"
+          ]
+        },
+        {
+          "id": "c17",
+          "prompt": "George: No, I ___ wars! I'd rather do something that focuses more on social history.",
+          "acceptedAnswers": [
+            "don't like",
+            "do not like"
+          ]
+        },
+        {
+          "id": "c18",
+          "prompt": "I'd rather do something that ___ more on social history.",
+          "acceptedAnswers": [
+            "focuses",
+            "looks"
+          ]
+        },
+        {
+          "id": "c19",
+          "prompt": "George: That ___ good.",
+          "acceptedAnswers": [
+            "sounds"
+          ]
+        },
+        {
+          "id": "c20",
+          "prompt": "Sandy: ___ so? Okay. Maybe I'll do that, then.",
+          "acceptedAnswers": [
+            "Do you think"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d",
+      "type": "multiple-choice",
+      "title": "D \u00b7 Circle the correct phrase",
+      "instruction": "Select the form that fits. If both forms are possible, choose the option that says both.",
+      "items": [
+        {
+          "id": "d1",
+          "prompt": "Could you explain what 'antidisestablishmentarianism' ___ , please?",
+          "options": [
+            "means",
+            "is meaning",
+            "both: means / is meaning"
+          ],
+          "acceptedAnswers": [
+            "means"
+          ]
+        },
+        {
+          "id": "d2",
+          "prompt": "Each song only ___ 50 cents at the moment because they're on special offer.",
+          "options": [
+            "costs",
+            "is only costing",
+            "both: costs / is only costing"
+          ],
+          "acceptedAnswers": [
+            "both: costs / is only costing"
+          ]
+        },
+        {
+          "id": "d3",
+          "prompt": "___ which of the books we've studied this term you do your essay on.",
+          "options": [
+            "It doesn't matter",
+            "It isn't mattering",
+            "both: It doesn't matter / It isn't mattering"
+          ],
+          "acceptedAnswers": [
+            "It doesn't matter"
+          ]
+        },
+        {
+          "id": "d4",
+          "prompt": "It's only a quick call as I ___ from my mobile.",
+          "options": [
+            "ring",
+            "I'm ringing",
+            "both: ring / I'm ringing"
+          ],
+          "acceptedAnswers": [
+            "I'm ringing"
+          ]
+        },
+        {
+          "id": "d5",
+          "prompt": "I think I ___ that woman over there. Wasn't she on that quiz show last night?",
+          "options": [
+            "recognise",
+            "I'm recognising",
+            "both: recognise / I'm recognising"
+          ],
+          "acceptedAnswers": [
+            "recognise"
+          ]
+        },
+        {
+          "id": "d6",
+          "prompt": "Excuse me, does the nut cake contain / is the nut cake containing walnuts? I'm allergic to them.",
+          "options": [
+            "does the nut cake contain",
+            "is the nut cake containing",
+            "both: contain / is containing"
+          ],
+          "acceptedAnswers": [
+            "does the nut cake contain"
+          ]
+        },
+        {
+          "id": "d7",
+          "prompt": "I ___ that capital punishment deters people from committing murder.",
+          "options": [
+            "really don't agree",
+            "I'm really not agreeing",
+            "both: don't agree / am not agreeing"
+          ],
+          "acceptedAnswers": [
+            "really don't agree"
+          ]
+        },
+        {
+          "id": "d8",
+          "prompt": "Why don't you play / aren't you playing football, Mark? I thought you had a match this afternoon.",
+          "options": [
+            "don't you play",
+            "aren't you playing",
+            "both: don't you play / aren't you playing"
+          ],
+          "acceptedAnswers": [
+            "aren't you playing"
+          ]
+        },
+        {
+          "id": "d9",
+          "prompt": "Stay out of this, Simon, it ___ you at all.",
+          "options": [
+            "doesn't concern",
+            "isn't concerning",
+            "both: doesn't concern / isn't concerning"
+          ],
+          "acceptedAnswers": [
+            "doesn't concern"
+          ]
+        },
+        {
+          "id": "d10",
+          "prompt": "You really resemble / are resembling your father when you frown like that.",
+          "options": [
+            "resemble",
+            "are resembling",
+            "both: resemble / are resembling"
+          ],
+          "acceptedAnswers": [
+            "resemble"
+          ]
+        },
+        {
+          "id": "d11",
+          "prompt": "If ___ TV, turn it off!",
+          "options": [
+            "you're not watching",
+            "you don't watch",
+            "both: you're not watching / you don't watch"
+          ],
+          "acceptedAnswers": [
+            "you're not watching"
+          ]
+        },
+        {
+          "id": "d12",
+          "prompt": "The number you have dialled ___ . Please try again.",
+          "options": [
+            "does not exist",
+            "is not existing",
+            "both: does not exist / is not existing"
+          ],
+          "acceptedAnswers": [
+            "does not exist"
+          ]
+        },
+        {
+          "id": "d13",
+          "prompt": "I want everyone to do exercise H, and that ___ you too, Anne!",
+          "options": [
+            "includes",
+            "is including",
+            "both: includes / is including"
+          ],
+          "acceptedAnswers": [
+            "includes"
+          ]
+        },
+        {
+          "id": "d14",
+          "prompt": "___ the living room repainted so it's probably best if we go into the kitchen.",
+          "options": [
+            "We're having",
+            "We have",
+            "both: We're having / We have"
+          ],
+          "acceptedAnswers": [
+            "We're having"
+          ]
+        },
+        {
+          "id": "d15",
+          "prompt": "Right now, my job ___ a huge amount of foreign travel.",
+          "options": [
+            "involves",
+            "is involving",
+            "both: involves / is involving"
+          ],
+          "acceptedAnswers": [
+            "both: involves / is involving"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e",
+      "type": "gap-fill",
+      "title": "E \u00b7 Stative or dynamic?",
+      "instruction": "Write a verb from the box in the correct form, present simple or present continuous. Each pair of sentences uses the same verb with two different meanings.",
+      "wordBank": [
+        "appear",
+        "be",
+        "consider",
+        "depend",
+        "feel",
+        "have",
+        "look",
+        "see",
+        "smell",
+        "think"
+      ],
+      "items": [
+        {
+          "id": "e1",
+          "prompt": "I ___ for a book on fly fishing. Do you have any in stock? (look)",
+          "acceptedAnswers": [
+            "am looking",
+            "'m looking"
+          ]
+        },
+        {
+          "id": "e2",
+          "prompt": "Stan ___ like he's in a bad mood this morning. (look)",
+          "acceptedAnswers": [
+            "looks"
+          ]
+        },
+        {
+          "id": "e3",
+          "prompt": "How do you ___ about inviting Jackie on Saturday? (feel)",
+          "acceptedAnswers": [
+            "feel"
+          ]
+        },
+        {
+          "id": "e4",
+          "prompt": "Britney ___ very well, so I've told her she can go home. (feel)",
+          "acceptedAnswers": [
+            "isn't feeling",
+            "is not feeling",
+            "doesn't feel"
+          ]
+        },
+        {
+          "id": "e5",
+          "prompt": "Jan and I ___ buying a new flat. (consider)",
+          "acceptedAnswers": [
+            "are considering",
+            "'re considering"
+          ]
+        },
+        {
+          "id": "e6",
+          "prompt": "Why do you ___ Ray Davis a better songwriter than Paul McCartney? (consider)",
+          "acceptedAnswers": [
+            "consider"
+          ]
+        },
+        {
+          "id": "e7",
+          "prompt": "We ___ a barbecue right now, so can I call you back this evening? (have)",
+          "acceptedAnswers": [
+            "are having",
+            "'re having"
+          ]
+        },
+        {
+          "id": "e8",
+          "prompt": "___ the Deacons have a swimming pool? (have)",
+          "acceptedAnswers": [
+            "Do"
+          ]
+        },
+        {
+          "id": "e9",
+          "prompt": "The idea of going to the Greek islands really ___ to me. (appeal)",
+          "acceptedAnswers": [
+            "appeals"
+          ]
+        },
+        {
+          "id": "e10",
+          "prompt": "Police ___ for witnesses to the attack. (appeal)",
+          "acceptedAnswers": [
+            "are appealing"
+          ]
+        },
+        {
+          "id": "e11",
+          "prompt": "This chicken ___ very fresh. I think I'll throw it away. (smell)",
+          "acceptedAnswers": [
+            "doesn't smell",
+            "does not smell"
+          ]
+        },
+        {
+          "id": "e12",
+          "prompt": "Why ___ that chicken, Mum? (smell)",
+          "acceptedAnswers": [
+            "are you smelling"
+          ]
+        },
+        {
+          "id": "e13",
+          "prompt": "I ___ on you, James. Don't let me down! (depend)",
+          "acceptedAnswers": [
+            "am depending",
+            "'m depending"
+          ]
+        },
+        {
+          "id": "e14",
+          "prompt": "Whether we get there by six ___ on the traffic. (depend)",
+          "acceptedAnswers": [
+            "depends"
+          ]
+        },
+        {
+          "id": "e15",
+          "prompt": "Julian ___ a bit busy at the moment, actually. (be)",
+          "acceptedAnswers": [
+            "is",
+            "'s"
+          ]
+        },
+        {
+          "id": "e16",
+          "prompt": "Guys, you ___ too noisy! Can't you keep it down? (be)",
+          "acceptedAnswers": [
+            "are being"
+          ]
+        },
+        {
+          "id": "e17",
+          "prompt": "___ Bob would like a CD for his birthday? (think)",
+          "acceptedAnswers": [
+            "Do you think"
+          ]
+        },
+        {
+          "id": "e18",
+          "prompt": "Oliver said he ___ about moving out of the city. (think)",
+          "acceptedAnswers": [
+            "is thinking",
+            "was thinking",
+            "'s thinking"
+          ]
+        },
+        {
+          "id": "e19",
+          "prompt": "I hear that Doug ___ quite a lot of Katy these days. Is that true? (see)",
+          "acceptedAnswers": [
+            "is seeing",
+            "'s seeing"
+          ]
+        },
+        {
+          "id": "e20",
+          "prompt": "I ___ Manchester United lost again. (see)",
+          "acceptedAnswers": [
+            "see"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f",
+      "type": "rewrite",
+      "title": "F \u00b7 Correct the bold words",
+      "instruction": "Each of the words or phrases in bold is incorrect. Rewrite them correctly.",
+      "items": [
+        {
+          "id": "f1",
+          "prompt": "Tammy **been** able to swim since she was one year old.",
+          "acceptedAnswers": [
+            "has been",
+            "'s been"
+          ]
+        },
+        {
+          "id": "f2",
+          "prompt": "How many articles has Greg **wrote** for Newsweek?",
+          "acceptedAnswers": [
+            "written"
+          ]
+        },
+        {
+          "id": "f3",
+          "prompt": "Tina and Phil still **not managed** to sell their flat.",
+          "acceptedAnswers": [
+            "haven't managed",
+            "have not managed",
+            "still haven't managed"
+          ]
+        },
+        {
+          "id": "f4",
+          "prompt": "**I'm never been** to China \u2014 what's it like?",
+          "acceptedAnswers": [
+            "I've never been",
+            "I have never been"
+          ]
+        },
+        {
+          "id": "f5",
+          "prompt": "Have you heard? Carol's **breaking** her leg again.",
+          "acceptedAnswers": [
+            "broken"
+          ]
+        },
+        {
+          "id": "f6",
+          "prompt": "You're lucky you caught me \u2014 I've just **came** through the front door.",
+          "acceptedAnswers": [
+            "come"
+          ]
+        },
+        {
+          "id": "f7",
+          "prompt": "Why you **haven't tell** Sue yet that you're thinking of dropping out of the course?",
+          "acceptedAnswers": [
+            "haven't you told",
+            "have you not told"
+          ]
+        },
+        {
+          "id": "f8",
+          "prompt": "Our family is **living** in this village for over two hundred years and we're not leaving now!",
+          "acceptedAnswers": [
+            "has been living",
+            "has lived",
+            "have been living",
+            "have lived"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g",
+      "type": "multiple-choice",
+      "title": "G \u00b7 Present perfect simple or continuous",
+      "instruction": "Select the form that fits. If both forms are possible, choose the option that says both.",
+      "items": [
+        {
+          "id": "g1",
+          "prompt": "They've ___ over six bags with rubbish from the beach already.",
+          "options": [
+            "filled",
+            "been filling",
+            "both: filled / been filling"
+          ],
+          "acceptedAnswers": [
+            "both: filled / been filling"
+          ]
+        },
+        {
+          "id": "g2",
+          "prompt": "Have you ___ that story in the papers about the elephant that escaped from the zoo? Apparently, they've just ___ it.",
+          "options": [
+            "followed / caught",
+            "been following / been catching",
+            "followed / been catching",
+            "been following / caught"
+          ],
+          "acceptedAnswers": [
+            "been following / caught"
+          ]
+        },
+        {
+          "id": "g3",
+          "prompt": "We've ___ the Tower of London, Buckingham Palace and Oxford Street, and we've only been in London for three hours!",
+          "options": [
+            "seen",
+            "been seeing",
+            "both: seen / been seeing"
+          ],
+          "acceptedAnswers": [
+            "seen"
+          ]
+        },
+        {
+          "id": "g4",
+          "prompt": "It's the first time I've ___ The Editors play live.",
+          "options": [
+            "heard",
+            "been hearing",
+            "both: heard / been hearing"
+          ],
+          "acceptedAnswers": [
+            "heard"
+          ]
+        },
+        {
+          "id": "g5",
+          "prompt": "Jake and I have ___ about where to go on holiday for weeks but we just can't decide.",
+          "options": [
+            "thought",
+            "been thinking",
+            "both: thought / been thinking"
+          ],
+          "acceptedAnswers": [
+            "been thinking"
+          ]
+        },
+        {
+          "id": "g6",
+          "prompt": "You can't want to go to the toilet already \u2014 we've only ___ for about ten minutes so far!",
+          "options": [
+            "driven",
+            "been driving",
+            "both: driven / been driving"
+          ],
+          "acceptedAnswers": [
+            "been driving"
+          ]
+        },
+        {
+          "id": "g7",
+          "prompt": "I've ___ up all day and my feet are killing me!",
+          "options": [
+            "stood",
+            "been standing",
+            "both: stood / been standing"
+          ],
+          "acceptedAnswers": [
+            "been standing"
+          ]
+        },
+        {
+          "id": "g8",
+          "prompt": "Has Jan ___ for the company since it started?",
+          "options": [
+            "worked",
+            "been working",
+            "both: worked / been working"
+          ],
+          "acceptedAnswers": [
+            "both: worked / been working"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "h",
+      "type": "gap-fill",
+      "title": "H \u00b7 Present perfect simple or continuous",
+      "instruction": "Write the verb in brackets in the correct form. Use contractions where possible.",
+      "items": [
+        {
+          "id": "h1",
+          "prompt": "___ over 18 press releases this morning so far. (I / send off)",
+          "acceptedAnswers": [
+            "I've sent off",
+            "I have sent off"
+          ]
+        },
+        {
+          "id": "h2",
+          "prompt": "Is it the first time ___ squid? (you / ever / eat)",
+          "acceptedAnswers": [
+            "you've ever eaten",
+            "you have ever eaten"
+          ]
+        },
+        {
+          "id": "h3",
+          "prompt": "___ for you for the past two hours. Where have you been? (we / wait)",
+          "acceptedAnswers": [
+            "We've been waiting",
+            "We have been waiting"
+          ]
+        },
+        {
+          "id": "h4",
+          "prompt": "___ an e-mail from Ruth? (you / just / receive)",
+          "acceptedAnswers": [
+            "Have you just received"
+          ]
+        },
+        {
+          "id": "h5",
+          "prompt": "I'm afraid we ___ any milk. (not / get)",
+          "acceptedAnswers": [
+            "haven't got",
+            "haven't gotten",
+            "have not got"
+          ]
+        },
+        {
+          "id": "h6",
+          "prompt": "We ___ a delivery for the past four hours. (expect)",
+          "acceptedAnswers": [
+            "have been expecting",
+            "'ve been expecting"
+          ]
+        },
+        {
+          "id": "h7",
+          "prompt": "They ___ yet. (not / show up)",
+          "acceptedAnswers": [
+            "haven't shown up",
+            "have not shown up"
+          ]
+        },
+        {
+          "id": "h8",
+          "prompt": "I ___ a list of people to invite to the wedding. (draw up)",
+          "acceptedAnswers": [
+            "I've drawn up",
+            "I have drawn up",
+            "'ve drawn up"
+          ]
+        },
+        {
+          "id": "h9",
+          "prompt": "I ___ very far so far. (not / get)",
+          "acceptedAnswers": [
+            "haven't got",
+            "haven't gotten",
+            "haven't got very far"
+          ]
+        },
+        {
+          "id": "h10",
+          "prompt": "___ any thoughts about it? (you / have)",
+          "acceptedAnswers": [
+            "Have you had"
+          ]
+        },
+        {
+          "id": "h11",
+          "prompt": "Oh, Clair, my mum ___ to ask you for a while. Would you like to come with us to Wimbledon? (mean)",
+          "acceptedAnswers": [
+            "has been meaning",
+            "'s been meaning"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "i",
+      "type": "gap-fill",
+      "title": "I \u00b7 already, yet, since, \u2026",
+      "instruction": "Write a word from the box in each gap. You can use each word more than once.",
+      "wordBank": [
+        "already",
+        "before",
+        "ever",
+        "for",
+        "just",
+        "recently",
+        "since",
+        "so",
+        "still",
+        "until",
+        "yet"
+      ],
+      "items": [
+        {
+          "id": "i1",
+          "prompt": "I've ___ realised what's different! You've changed your hair.",
+          "acceptedAnswers": [
+            "just",
+            "already",
+            "only just"
+          ]
+        },
+        {
+          "id": "i2",
+          "prompt": "My grandmother's been quite ill ___ , so she's coming to stay with us for a week or two.",
+          "acceptedAnswers": [
+            "recently",
+            "lately"
+          ]
+        },
+        {
+          "id": "i3",
+          "prompt": "We've had broadband at home ___ about 2005.",
+          "acceptedAnswers": [
+            "since"
+          ]
+        },
+        {
+          "id": "i4",
+          "prompt": "Have you really finished your homework ___ ? Okay, you can watch TV, then.",
+          "acceptedAnswers": [
+            "already"
+          ]
+        },
+        {
+          "id": "i5",
+          "prompt": "We've won every match we've played ___ far this season.",
+          "acceptedAnswers": [
+            "so"
+          ]
+        },
+        {
+          "id": "i6",
+          "prompt": "I've always lived in a big house ___ now, so it's taking some time to get used to being in a small flat.",
+          "acceptedAnswers": [
+            "until"
+          ]
+        },
+        {
+          "id": "i7",
+          "prompt": "We can't cancel the party now \u2014 I've ___ invited everyone!",
+          "acceptedAnswers": [
+            "already"
+          ]
+        },
+        {
+          "id": "i8",
+          "prompt": "How long has Sue gone abroad ___ ?",
+          "acceptedAnswers": [
+            "for"
+          ]
+        },
+        {
+          "id": "i9",
+          "prompt": "Don't get Matthew that game; I'm pretty sure he's got it ___.",
+          "acceptedAnswers": [
+            "already"
+          ]
+        },
+        {
+          "id": "i10",
+          "prompt": "Have you ___ thought of going into business on your own?",
+          "acceptedAnswers": [
+            "ever"
+          ]
+        },
+        {
+          "id": "i11",
+          "prompt": "We haven't started ___ so you can join in if you like.",
+          "acceptedAnswers": [
+            "yet"
+          ]
+        },
+        {
+          "id": "i12",
+          "prompt": "We've never been to New York ___ , so we're both really looking forward to it.",
+          "acceptedAnswers": [
+            "before"
+          ]
+        },
+        {
+          "id": "i13",
+          "prompt": "Have they been living in the neighbourhood ___ you moved in?",
+          "acceptedAnswers": [
+            "since"
+          ]
+        },
+        {
+          "id": "i14",
+          "prompt": "I ___ haven't found my sunglasses.",
+          "acceptedAnswers": [
+            "still"
+          ]
+        },
+        {
+          "id": "i15",
+          "prompt": "I've been looking for a website like this ___ ages!",
+          "acceptedAnswers": [
+            "for"
+          ]
+        },
+        {
+          "id": "i16",
+          "prompt": "It's strange you should ring now. We've ___ been talking about you.",
+          "acceptedAnswers": [
+            "just"
+          ]
+        },
+        {
+          "id": "i17",
+          "prompt": "Michael, haven't you done your homework ___ ? I think it's time you started, isn't it?",
+          "acceptedAnswers": [
+            "yet"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "j",
+      "type": "gap-fill",
+      "title": "J \u00b7 Cloze: Humans and other life forms",
+      "instruction": "Write one word in each gap.",
+      "items": [
+        {
+          "id": "j1",
+          "prompt": "Humans ___ much in common with other life forms on Earth.",
+          "acceptedAnswers": [
+            "have"
+          ]
+        },
+        {
+          "id": "j2",
+          "prompt": "___ the very first life forms appeared, all living things have been desperately struggling to survive.",
+          "acceptedAnswers": [
+            "Since"
+          ]
+        },
+        {
+          "id": "j3",
+          "prompt": "All living things have ___ desperately struggling to survive the harsh and changing conditions of our planet.",
+          "acceptedAnswers": [
+            "been"
+          ]
+        },
+        {
+          "id": "j4",
+          "prompt": "This has ___ adapting to new situations and, in many cases, has led to either evolution or extinction.",
+          "acceptedAnswers": [
+            "meant",
+            "involved"
+          ]
+        },
+        {
+          "id": "j5",
+          "prompt": "In many cases, this has ___ to either evolution or extinction.",
+          "acceptedAnswers": [
+            "led"
+          ]
+        },
+        {
+          "id": "j6",
+          "prompt": "We are ___ alone in making use of the world around us.",
+          "acceptedAnswers": [
+            "not"
+          ]
+        },
+        {
+          "id": "j7",
+          "prompt": "Where we ___ differ from other life forms, however, is in our ability to record, and learn from, our collective history.",
+          "acceptedAnswers": [
+            "do"
+          ]
+        },
+        {
+          "id": "j8",
+          "prompt": "Where we do differ from other life forms, however, ___ in our ability to record our collective history.",
+          "acceptedAnswers": [
+            "is"
+          ]
+        },
+        {
+          "id": "j9",
+          "prompt": "In this, it ___ that we are unique.",
+          "acceptedAnswers": [
+            "seems",
+            "appears"
+          ]
+        },
+        {
+          "id": "j10",
+          "prompt": "In this, it seems that we ___ unique.",
+          "acceptedAnswers": [
+            "are"
+          ]
+        },
+        {
+          "id": "j11",
+          "prompt": "___ is still much mankind does not know about the earliest humans, of course.",
+          "acceptedAnswers": [
+            "There"
+          ]
+        },
+        {
+          "id": "j12",
+          "prompt": "There is still much mankind ___ not know about the earliest humans.",
+          "acceptedAnswers": [
+            "does"
+          ]
+        },
+        {
+          "id": "j13",
+          "prompt": "We are increasingly ___ a species with detailed knowledge about our past.",
+          "acceptedAnswers": [
+            "becoming"
+          ]
+        },
+        {
+          "id": "j14",
+          "prompt": "The more we learn, the better ___ our chances of survival in the future.",
+          "acceptedAnswers": [
+            "are"
+          ]
+        },
+        {
+          "id": "j15",
+          "prompt": "We are also the only species on Earth which ___ managed to create the means to destroy the planet we live on.",
+          "acceptedAnswers": [
+            "has"
+          ]
+        }
+      ]
+    }
+  ]
+}

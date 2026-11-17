@@ -1,0 +1,1474 @@
+{
+  "id": "unit-05-future-time",
+  "level": "c1-c2",
+  "unitNumber": 5,
+  "title": "Future time",
+  "subtitle": "will, be going to, present tenses for the future, future perfect and continuous, time clauses, future in the past",
+  "theory": [
+    {
+      "id": "expressing-the-future",
+      "title": "Ways of talking about the future",
+      "icon": "BookOpen",
+      "blocks": [
+        {
+          "type": "prose",
+          "text": "Often the same future event can be described in different ways: The shop **closes** at 3 pm tomorrow. \u00b7 The shop **will close** at 3 pm tomorrow. \u00b7 The shop **is closing** at 3 pm tomorrow. \u00b7 The shop **is going to close** at 3 pm tomorrow."
+        },
+        {
+          "type": "hints",
+          "intro": "Which form you choose depends on a number of things:",
+          "items": [
+            "**Function** \u2014 for example, do you want to express a request, a promise or an offer?",
+            "**How you see the future event/situation** \u2014 for example, if you see a future event as a fixed event that cannot be changed, the present simple may be appropriate.",
+            "**Level of formality** \u2014 **will** is usually more formal than **be going to**."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "will",
+      "title": "will",
+      "icon": "Sparkles",
+      "blocks": [
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "Predictions",
+              "example": "It looks as if Jake **will lose** his job."
+            },
+            {
+              "use": "Future facts",
+              "example": "The factory **will open** in July."
+            },
+            {
+              "use": "Decisions made at the moment of speaking",
+              "example": "I know! I'll **ask** for a pay rise tomorrow."
+            },
+            {
+              "use": "Offers",
+              "example": "I'll **help** you with the advertising campaign."
+            },
+            {
+              "use": "Promises",
+              "example": "I promise you you **won't lose** your job."
+            },
+            {
+              "use": "Requests",
+              "example": "**Will** you **give** a presentation on the sales figures?"
+            },
+            {
+              "use": "Refusals (won't)",
+              "example": "No, I **won't give** a presentation on the sales figures."
+            }
+          ]
+        },
+        {
+          "type": "watch-out",
+          "text": "For offers and suggestions in the question form, with **I** and **we**, we use **shall**, not **will**.",
+          "note": "**Shall** I help you with the advertising campaign? (offer) \u00b7 **Shall** we discuss this in the morning? (suggestion)"
+        },
+        {
+          "type": "hints",
+          "intro": "Requests, refusals and politeness",
+          "items": [
+            "For requests, we can also use **would**, **could** or **can**. **Would** and **could** are more polite than **will** and **can**: **Would/Could/Can** you give a presentation on the sales figures?",
+            "For refusals, we can also use **couldn't** or **can't**. **Couldn't** is more polite than **won't** and **can't**: No, I **couldn't/can't give** a presentation on the sales figures."
+          ]
+        },
+        {
+          "type": "hints",
+          "intro": "US vs UK grammar",
+          "items": [
+            "In British English, **shall** is sometimes used with **I** and **we** in place of **will**: I **shall** be in touch again soon. \u00b7 I'll be in touch again soon."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "be-going-to",
+      "title": "be going to",
+      "icon": "Table2",
+      "blocks": [
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "Predictions based on present evidence",
+              "example": "Look at that wall. It looks as if it's **going to** fall down."
+            },
+            {
+              "use": "Intentions",
+              "example": "I'm **going to** get my degree, then get a well-paid job."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "present-continuous-future",
+      "title": "Present continuous for the future",
+      "icon": "PencilLine",
+      "blocks": [
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "Arrangements",
+              "example": "I'm **meeting** Fiona on Friday to discuss the advertising campaign."
+            },
+            {
+              "use": "Intentions",
+              "example": "I'm **asking** for a pay rise tomorrow."
+            }
+          ]
+        },
+        {
+          "type": "watch-out",
+          "text": "Both **be going to** and present continuous can be used for intentions. However, present continuous is **not** usually used for intentions in the distant future.",
+          "note": "I'm **going to work** for a really successful company one day. (not **I'm working for a huge multinational one day.**)"
+        }
+      ]
+    },
+    {
+      "id": "present-simple-future",
+      "title": "Present simple for the future",
+      "icon": "CheckCircle2",
+      "blocks": [
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "Fixed future events (e.g. timetables and schedules)",
+              "example": "The shop **closes** at 3 pm next Saturday."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "future-perfect-continuous",
+      "title": "Future perfect and future continuous",
+      "icon": "ListChecks",
+      "blocks": [
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "Future perfect simple \u00b7 completed situations before a certain time",
+              "example": "It looks as if Jake **will have lost** his job by the end of the week."
+            },
+            {
+              "use": "Future perfect simple \u00b7 continuing situations up to a certain time",
+              "example": "This time next month, I'll **have worked** at the company for exactly 25 years."
+            },
+            {
+              "use": "Future perfect continuous \u00b7 continuing situations up to a certain time (emphasises duration)",
+              "example": "This time next month, I'll **have been working** at the company for exactly 25 years."
+            },
+            {
+              "use": "Future continuous \u00b7 situations in progress at a certain time in the future",
+              "example": "This time next week I'll **be travelling** round Russia on business."
+            },
+            {
+              "use": "Future continuous \u00b7 situations which will happen in the future in the normal course of events",
+              "example": "The company Chairperson **will be arriving** on Thursday."
+            },
+            {
+              "use": "Future continuous \u00b7 habits or repeated actions at a point in the future",
+              "example": "I think that, in the future, more and more people **will be commuting** to work by plane."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "time-clauses",
+      "title": "Time clauses",
+      "icon": "AlertTriangle",
+      "blocks": [
+        {
+          "type": "prose",
+          "text": "After many time words and phrases, such as **when**, **while**, **once**, **as soon as**, etc., we do **not** use **will** or **be going to**. We use a present tense."
+        },
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "present simple",
+              "example": "I'll give you a pay rise when you **start** working harder!"
+            },
+            {
+              "use": "present continuous",
+              "example": "I'll give you a pay rise once you're **bringing** in three new customers a week."
+            },
+            {
+              "use": "present perfect simple",
+              "example": "I'll give you a pay rise as soon as you've **proved** you're a hard worker."
+            },
+            {
+              "use": "present perfect continuous",
+              "example": "I won't give you a pay rise until you've **been working** here for three years."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "other-future",
+      "title": "Other ways to express the future",
+      "icon": "Lightbulb",
+      "blocks": [
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "be (just) about to \u00b7 for the (very) near future",
+              "example": "I'm just **about to** ask for my pay rise."
+            },
+            {
+              "use": "be (just) on the point/verge of \u00b7 for the (very) near future",
+              "example": "I'm just **on the point/verge of** asking for my pay rise."
+            },
+            {
+              "use": "be due to \u00b7 for formal arrangements",
+              "example": "I'm **due to** meet my boss at eleven o'clock."
+            },
+            {
+              "use": "be to do \u00b7 for obligations",
+              "example": "You're **to get** those reports written before Friday!"
+            },
+            {
+              "use": "be to \u00b7 for formal announcements",
+              "example": "The factory **is to open** in July."
+            },
+            {
+              "use": "other modals \u00b7 for certainty, possibility, etc.",
+              "example": "I **might** ask for a pay rise tomorrow."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "future-in-the-past",
+      "title": "Future in the past",
+      "icon": "BookOpen",
+      "blocks": [
+        {
+          "type": "prose",
+          "text": "When we look back at what was the future once, we usually make the future verb forms past. **Will** becomes **would**, **is going to** becomes **was going to**, etc. Tenses such as present simple also change, by going back one tense."
+        },
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "will \u2192 would",
+              "example": "Then: I think the factory **will open** in September. Now: I thought the factory **would open** in September."
+            },
+            {
+              "use": "present simple \u2192 past simple",
+              "example": "Then: I'm in a rush because the train **leaves** at 4. Now: I was in a rush because the train **left** at 4."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "a",
+      "type": "multiple-choice",
+      "title": "A \u00b7 going to or present continuous",
+      "instruction": "Select the form that fits. If both forms are possible, choose the option that says both.",
+      "items": [
+        {
+          "id": "a1",
+          "prompt": "Sonia looks like she's ___ asleep any minute!",
+          "acceptedAnswers": [
+            "both: falling / going to fall"
+          ],
+          "options": [
+            "falling",
+            "going to fall",
+            "both: falling / going to fall"
+          ]
+        },
+        {
+          "id": "a2",
+          "prompt": "When I leave school, I'm ___ a journalist.",
+          "acceptedAnswers": [
+            "going to be"
+          ],
+          "options": [
+            "being",
+            "going to be",
+            "both: being / going to be"
+          ]
+        },
+        {
+          "id": "a3",
+          "prompt": "When Jake's got his degree, he's ___ drama school for a year.",
+          "acceptedAnswers": [
+            "both: going / going to go"
+          ],
+          "options": [
+            "going",
+            "going to go",
+            "both: going / going to go"
+          ]
+        },
+        {
+          "id": "a4",
+          "prompt": "Watch out or you're ___ into trouble!",
+          "acceptedAnswers": [
+            "going to get"
+          ],
+          "options": [
+            "getting",
+            "going to get",
+            "both: getting / going to get"
+          ]
+        },
+        {
+          "id": "a5",
+          "prompt": "When are they ___ that they have to improve their customer service?",
+          "acceptedAnswers": [
+            "going to realise"
+          ],
+          "options": [
+            "realising",
+            "going to realise",
+            "both: realising / going to realise"
+          ]
+        },
+        {
+          "id": "a6",
+          "prompt": "When are you ___ a branch in Littlehampton?",
+          "acceptedAnswers": [
+            "both: opening / going to open"
+          ],
+          "options": [
+            "opening",
+            "going to open",
+            "both: opening / going to open"
+          ]
+        },
+        {
+          "id": "a7",
+          "prompt": "It sounds like we're not ___ a sales conference this year.",
+          "acceptedAnswers": [
+            "both: having / going to have"
+          ],
+          "options": [
+            "having",
+            "going to have",
+            "both: having / going to have"
+          ]
+        },
+        {
+          "id": "a8",
+          "prompt": "I think house prices are ___ for about six months.",
+          "acceptedAnswers": [
+            "going to fall"
+          ],
+          "options": [
+            "falling",
+            "going to fall",
+            "both: falling / going to fall"
+          ]
+        },
+        {
+          "id": "a9",
+          "prompt": "Why is Tony ___ for that position? He's not qualified at all.",
+          "acceptedAnswers": [
+            "both: applying / going to apply"
+          ],
+          "options": [
+            "applying",
+            "going to apply",
+            "both: applying / going to apply"
+          ]
+        },
+        {
+          "id": "a10",
+          "prompt": "We're ___ this in detail at the next meeting.",
+          "acceptedAnswers": [
+            "both: discussing / going to discuss"
+          ],
+          "options": [
+            "discussing",
+            "going to discuss",
+            "both: discussing / going to discuss"
+          ]
+        },
+        {
+          "id": "a11",
+          "prompt": "I'm pretty sure that building's ___ knocked down next week.",
+          "acceptedAnswers": [
+            "both: being / going to be"
+          ],
+          "options": [
+            "being",
+            "going to be",
+            "both: being / going to be"
+          ]
+        },
+        {
+          "id": "a12",
+          "prompt": "There's no doubt the events of the last few days are ___ written about by future historians.",
+          "acceptedAnswers": [
+            "going to be"
+          ],
+          "options": [
+            "being",
+            "going to be",
+            "both: being / going to be"
+          ]
+        },
+        {
+          "id": "a13",
+          "prompt": "You're not ___ in your resignation tomorrow, are you?",
+          "acceptedAnswers": [
+            "both: handing / going to hand"
+          ],
+          "options": [
+            "handing",
+            "going to hand",
+            "both: handing / going to hand"
+          ]
+        },
+        {
+          "id": "a14",
+          "prompt": "Fiona and Jerry aren't ___ arrogant when they release their CD, are they?",
+          "acceptedAnswers": [
+            "going to become"
+          ],
+          "options": [
+            "becoming",
+            "going to become",
+            "both: becoming / going to become"
+          ]
+        },
+        {
+          "id": "a15",
+          "prompt": "The airline industry's ___ to have to cut costs in the near future.",
+          "acceptedAnswers": [
+            "going to have"
+          ],
+          "options": [
+            "having",
+            "going to have",
+            "both: having / going to have"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b",
+      "type": "multiple-choice",
+      "title": "B \u00b7 will, going to or present tenses",
+      "instruction": "Select the form that fits. If both forms are possible, choose the option that says both.",
+      "items": [
+        {
+          "id": "b1",
+          "prompt": "I can't come to the beach this weekend, I'm afraid, as ___ my grandparents.",
+          "acceptedAnswers": [
+            "we're visiting"
+          ],
+          "options": [
+            "we'll visit",
+            "we're visiting",
+            "both: we'll visit / we're visiting"
+          ]
+        },
+        {
+          "id": "b2",
+          "prompt": "The Prime Minister ___ all of your questions in due course.",
+          "acceptedAnswers": [
+            "will answer"
+          ],
+          "options": [
+            "will answer",
+            "is answering",
+            "both: will answer / is answering"
+          ]
+        },
+        {
+          "id": "b3",
+          "prompt": "What time ___ ?",
+          "acceptedAnswers": [
+            "both: does your plane arrive / is your plane arriving"
+          ],
+          "options": [
+            "does your plane arrive",
+            "is your plane arriving",
+            "both: does your plane arrive / is your plane arriving"
+          ]
+        },
+        {
+          "id": "b4",
+          "prompt": "I'll look / I'm looking after the neighbours' kids tomorrow evening so I can't come bowling.",
+          "acceptedAnswers": [
+            "I'm looking"
+          ],
+          "options": [
+            "I'll look",
+            "I'm looking",
+            "both: I'll look / I'm looking"
+          ]
+        },
+        {
+          "id": "b5",
+          "prompt": "___ we move on to the next item on the agenda now?",
+          "acceptedAnswers": [
+            "Shall"
+          ],
+          "options": [
+            "Shall",
+            "Will",
+            "both: Shall / Will"
+          ]
+        },
+        {
+          "id": "b6",
+          "prompt": "'I don't feel well at all.' 'Are you going to / Will you be sick?'",
+          "acceptedAnswers": [
+            "both: Are you going to / Will you be"
+          ],
+          "options": [
+            "Are you going to",
+            "Will you be",
+            "both: Are you going to / Will you be"
+          ]
+        },
+        {
+          "id": "b7",
+          "prompt": "The last bus ___ at midnight.",
+          "acceptedAnswers": [
+            "both: leaves / is leaving"
+          ],
+          "options": [
+            "leaves",
+            "is leaving",
+            "both: leaves / is leaving"
+          ]
+        },
+        {
+          "id": "b8",
+          "prompt": "Karen, ___ I give you a hand with that report?",
+          "acceptedAnswers": [
+            "shall"
+          ],
+          "options": [
+            "shall",
+            "will",
+            "both: shall / will"
+          ]
+        },
+        {
+          "id": "b9",
+          "prompt": "I'm afraid ___ time to finish all this work today.",
+          "acceptedAnswers": [
+            "I won't have"
+          ],
+          "options": [
+            "I'm not having",
+            "I won't have",
+            "both: I'm not having / I won't have"
+          ]
+        },
+        {
+          "id": "b10",
+          "prompt": "When ___ to get round to having new business cards printed?",
+          "acceptedAnswers": [
+            "is she going"
+          ],
+          "options": [
+            "does she",
+            "is she going",
+            "both: does she / is she going"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c",
+      "type": "gap-fill",
+      "title": "C \u00b7 will, going to, present simple or present continuous",
+      "instruction": "Write a short phrase using will, be going to, present simple or present continuous. If more than one form is correct, any accepted form will mark as right.",
+      "items": [
+        {
+          "id": "c1",
+          "prompt": "___ into the office on Saturday morning if you like, Pete. (I / come)",
+          "acceptedAnswers": [
+            "I'll come",
+            "I will come",
+            "I'm coming",
+            "I can come"
+          ]
+        },
+        {
+          "id": "c2",
+          "prompt": "Carol, ___ Harry how to use the photocopier, please? (you / show)",
+          "acceptedAnswers": [
+            "will you show",
+            "would you show",
+            "could you show"
+          ]
+        },
+        {
+          "id": "c3",
+          "prompt": "From the look of things, it ___ later today. (snow)",
+          "acceptedAnswers": [
+            "'s going to snow",
+            "is going to snow",
+            "will snow"
+          ]
+        },
+        {
+          "id": "c4",
+          "prompt": "Hurry up! We ___ the ferry! (miss)",
+          "acceptedAnswers": [
+            "'re going to miss",
+            "are going to miss",
+            "'ll miss"
+          ]
+        },
+        {
+          "id": "c5",
+          "prompt": "The winner ___ on 14th January. (announce)",
+          "acceptedAnswers": [
+            "will be announced",
+            "is announced",
+            "is being announced"
+          ]
+        },
+        {
+          "id": "c6",
+          "prompt": "I can't come in to work this morning because I ___ to the doctor's. (go)",
+          "acceptedAnswers": [
+            "'m going",
+            "am going",
+            "'m going to go"
+          ]
+        },
+        {
+          "id": "c7",
+          "prompt": "Don't worry! They ___ anyone for at least six months. (not / sack)",
+          "acceptedAnswers": [
+            "won't sack",
+            "aren't going to sack",
+            "will not sack"
+          ]
+        },
+        {
+          "id": "c8",
+          "prompt": "Jenny ___ a job easily when she graduates? (find)",
+          "acceptedAnswers": [
+            "Will Jenny find",
+            "Is Jenny going to find"
+          ]
+        },
+        {
+          "id": "c9",
+          "prompt": "No, I'm afraid I ___ at the meeting tomorrow. (be)",
+          "acceptedAnswers": [
+            "won't be",
+            "will not be",
+            "'m not going to be"
+          ]
+        },
+        {
+          "id": "c10",
+          "prompt": "The new version ___ in the spring. (launch)",
+          "acceptedAnswers": [
+            "is launched",
+            "will be launched",
+            "is being launched",
+            "is going to be launched"
+          ]
+        },
+        {
+          "id": "c11",
+          "prompt": "___ a pizza, shall I? (I / order)",
+          "acceptedAnswers": [
+            "I'll order",
+            "Shall I order"
+          ]
+        },
+        {
+          "id": "c12",
+          "prompt": "It looks like some people ___ redundant quite soon. (make)",
+          "acceptedAnswers": [
+            "are going to be made",
+            "will be made"
+          ]
+        },
+        {
+          "id": "c13",
+          "prompt": "What time ___ on Saturday? (the train / leave)",
+          "acceptedAnswers": [
+            "does the train leave",
+            "is the train leaving"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d",
+      "type": "rewrite",
+      "title": "D \u00b7 Future perfect",
+      "instruction": "If the phrase in bold is correct, write a tick (\u2713). If it is incorrect, write the correct form on the line so that the sentence is in the future perfect.",
+      "items": [
+        {
+          "id": "d1",
+          "prompt": "I think we'll **have sold out** of these by the end of the day.",
+          "acceptedAnswers": [
+            "\u2713",
+            "tick",
+            "correct",
+            "have sold out"
+          ]
+        },
+        {
+          "id": "d2",
+          "prompt": "On Tuesday, Toby **will have been being** with the company for exactly 35 years.",
+          "acceptedAnswers": [
+            "will have been"
+          ]
+        },
+        {
+          "id": "d3",
+          "prompt": "We'll **have been becoming** the market leader by the end of the summer.",
+          "acceptedAnswers": [
+            "have become",
+            "will have become"
+          ]
+        },
+        {
+          "id": "d4",
+          "prompt": "At the end of the summer, I'll **have taking** the same train to work every morning for 15 years.",
+          "acceptedAnswers": [
+            "have been taking",
+            "have taken"
+          ]
+        },
+        {
+          "id": "d5",
+          "prompt": "When we meet tomorrow afternoon, **will you already have** a chance to look at the sales figures?",
+          "acceptedAnswers": [
+            "will you already have had"
+          ]
+        },
+        {
+          "id": "d6",
+          "prompt": "You'll **have driven** for hours without a break when we get there, so you'll need a rest before we go out.",
+          "acceptedAnswers": [
+            "have been driving"
+          ]
+        },
+        {
+          "id": "d7",
+          "prompt": "A Managing Director **will have appointed** by the end of the month.",
+          "acceptedAnswers": [
+            "will have been appointed"
+          ]
+        },
+        {
+          "id": "d8",
+          "prompt": "Sandra **won't have been finished** the reports by then, but she should at least have started.",
+          "acceptedAnswers": [
+            "won't have finished",
+            "will not have finished"
+          ]
+        },
+        {
+          "id": "d9",
+          "prompt": "Ron's going to be very surprised when he hears the news. He definitely **will have been expecting** it.",
+          "acceptedAnswers": [
+            "won't have been expecting",
+            "will not have been expecting"
+          ]
+        },
+        {
+          "id": "d10",
+          "prompt": "**Will you have managed** to put something down in writing by the end of the day?",
+          "acceptedAnswers": [
+            "\u2713",
+            "tick",
+            "correct",
+            "Will you have managed"
+          ]
+        },
+        {
+          "id": "d11",
+          "prompt": "Why **will they have been waiting** for hours? I thought you'd told them we were going to leave later.",
+          "acceptedAnswers": [
+            "\u2713",
+            "tick",
+            "correct",
+            "will they have been waiting"
+          ]
+        },
+        {
+          "id": "d12",
+          "prompt": "It sounds like the invitations **won't all have delivering** by next Friday.",
+          "acceptedAnswers": [
+            "won't all have been delivered",
+            "will not all have been delivered"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e",
+      "type": "gap-fill",
+      "title": "E \u00b7 Future perfect simple or continuous",
+      "instruction": "Write the verb in brackets in the correct form. If more than one form is correct, any accepted form will mark as right.",
+      "items": [
+        {
+          "id": "e1",
+          "prompt": "By the end of today, Ed ___ for over 17 jobs! (apply)",
+          "acceptedAnswers": [
+            "will have applied",
+            "'ll have applied"
+          ]
+        },
+        {
+          "id": "e2",
+          "prompt": "This time next year, I ___ my own business. (hopefully / run)",
+          "acceptedAnswers": [
+            "will hopefully be running",
+            "'ll hopefully be running",
+            "hope I'll be running"
+          ]
+        },
+        {
+          "id": "e3",
+          "prompt": "In three days' time, we ___ here for exactly two years. (live)",
+          "acceptedAnswers": [
+            "will have been living",
+            "will have lived",
+            "'ll have been living"
+          ]
+        },
+        {
+          "id": "e4",
+          "prompt": "Gemma ___ by the time we get there? (already / arrive)",
+          "acceptedAnswers": [
+            "Will Gemma already have arrived",
+            "Will Gemma have already arrived"
+          ]
+        },
+        {
+          "id": "e5",
+          "prompt": "You ___ all day, will you? (not / travel)",
+          "acceptedAnswers": [
+            "won't have been travelling",
+            "won't be travelling"
+          ]
+        },
+        {
+          "id": "e6",
+          "prompt": "We ___ for you at reception when you arrive. (wait)",
+          "acceptedAnswers": [
+            "will be waiting",
+            "'ll be waiting"
+          ]
+        },
+        {
+          "id": "e7",
+          "prompt": "At the end of this sponsored jumpathon, 1,000 people ___ up and down on the spot non-stop for 48 hours! (jump)",
+          "acceptedAnswers": [
+            "will have been jumping",
+            "'ll have been jumping"
+          ]
+        },
+        {
+          "id": "e8",
+          "prompt": "The boys ___ autographs all morning, so they'll need a couple of hours' break before the recording session. (sign)",
+          "acceptedAnswers": [
+            "will have been signing",
+            "'ll have been signing"
+          ]
+        },
+        {
+          "id": "e9",
+          "prompt": "How many people ___ for the position tomorrow? (you / interview)",
+          "acceptedAnswers": [
+            "will you be interviewing",
+            "are you interviewing",
+            "will you interview"
+          ]
+        },
+        {
+          "id": "e10",
+          "prompt": "Terry ___ the e-mail as he's only just got here so we'd better discuss that first. (not / see)",
+          "acceptedAnswers": [
+            "won't have seen",
+            "will not have seen"
+          ]
+        },
+        {
+          "id": "e11",
+          "prompt": "What ___ this time next week? (you / do)",
+          "acceptedAnswers": [
+            "will you be doing"
+          ]
+        },
+        {
+          "id": "e12",
+          "prompt": "We ___ Ken and Tricia when we go to the States as they'll be away at the time, unfortunately. (not / see)",
+          "acceptedAnswers": [
+            "won't see",
+            "won't be seeing",
+            "will not see"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f",
+      "type": "rewrite",
+      "title": "F \u00b7 Time clauses",
+      "instruction": "Complete each second sentence so that it has a similar meaning to the first sentence.",
+      "items": [
+        {
+          "id": "f1",
+          "prompt": "The bell will ring and then you can all go home.\nYou can all go home when ___ .",
+          "acceptedAnswers": [
+            "the bell rings",
+            "the bell has rung"
+          ]
+        },
+        {
+          "id": "f2",
+          "prompt": "Ahmed will ask the questions and I'll take notes.\nI'll take notes while ___ .",
+          "acceptedAnswers": [
+            "Ahmed is asking the questions",
+            "Ahmed asks the questions"
+          ]
+        },
+        {
+          "id": "f3",
+          "prompt": "You're a trainee for three months and then you become a junior employee.\nYou become a junior employee once ___ .",
+          "acceptedAnswers": [
+            "you have been a trainee for three months",
+            "you've been a trainee for three months"
+          ]
+        },
+        {
+          "id": "f4",
+          "prompt": "Miss Jones will be interviewing the candidates and Mr Dawkins will be recording the interviews.\nMiss Jones will be interviewing the candidates while ___ .",
+          "acceptedAnswers": [
+            "Mr Dawkins is recording the interviews",
+            "Mr Dawkins records the interviews"
+          ]
+        },
+        {
+          "id": "f5",
+          "prompt": "The sales figures will come in and then we'll assess the situation again.\nWe'll assess the situation again as ___ .",
+          "acceptedAnswers": [
+            "soon as the sales figures come in",
+            "soon as the sales figures have come in"
+          ]
+        },
+        {
+          "id": "f6",
+          "prompt": "Work for us for over a year and we'll consider promoting you.\nWe'll only consider promoting you once ___ .",
+          "acceptedAnswers": [
+            "you have worked for us for over a year",
+            "you've worked for us for over a year"
+          ]
+        },
+        {
+          "id": "f7",
+          "prompt": "They'll start selling in much larger quantities and then they'll make a profit.\nThey won't make a profit until ___ .",
+          "acceptedAnswers": [
+            "they start selling in much larger quantities",
+            "they've started selling in much larger quantities"
+          ]
+        },
+        {
+          "id": "f8",
+          "prompt": "The publishing company will offer me a contract and then I'll know for sure that they're going to publish the book.\nI'll know for sure that the book is going to be published when ___ .",
+          "acceptedAnswers": [
+            "they offer me a contract",
+            "they've offered me a contract",
+            "I am offered a contract"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g",
+      "type": "gap-fill",
+      "title": "G \u00b7 Information for job applicants",
+      "instruction": "Write a verb from the box in the correct form in each gap.",
+      "items": [
+        {
+          "id": "g1",
+          "prompt": "When you ___ at the main gates, hand over the attached introduction letter to the security guard. (arrive)",
+          "acceptedAnswers": [
+            "arrive"
+          ]
+        },
+        {
+          "id": "g2",
+          "prompt": "You ___ where to park, and how to get to reception. (be / tell)",
+          "acceptedAnswers": [
+            "will be told",
+            "'ll be told"
+          ]
+        },
+        {
+          "id": "g3",
+          "prompt": "As soon as you ___ your name to the receptionist, you will be taken to Meeting Room 7.",
+          "acceptedAnswers": [
+            "give",
+            "have given"
+          ]
+        },
+        {
+          "id": "g4",
+          "prompt": "You ___ to Meeting Room 7. (take)",
+          "acceptedAnswers": [
+            "will be taken",
+            "'ll be taken"
+          ]
+        },
+        {
+          "id": "g5",
+          "prompt": "While you ___ in Meeting Room 7, please fill in one of the Personal Information forms which will be in the room. (wait)",
+          "acceptedAnswers": [
+            "are waiting",
+            "wait"
+          ]
+        },
+        {
+          "id": "g6",
+          "prompt": "When you ___ for interview, please bring this form with you. (call)",
+          "acceptedAnswers": [
+            "are called"
+          ]
+        },
+        {
+          "id": "g7",
+          "prompt": "Your interview ___ for approximately 45 minutes. (last)",
+          "acceptedAnswers": [
+            "will last",
+            "lasts"
+          ]
+        },
+        {
+          "id": "g8",
+          "prompt": "Please note that all interviews ___ . This is to help us with the selection process. (record)",
+          "acceptedAnswers": [
+            "are recorded",
+            "will be recorded"
+          ]
+        },
+        {
+          "id": "g9",
+          "prompt": "Once the selection process ___ over, all recordings will be destroyed.",
+          "acceptedAnswers": [
+            "is"
+          ]
+        },
+        {
+          "id": "g10",
+          "prompt": "All recordings ___ . (destroy)",
+          "acceptedAnswers": [
+            "will be destroyed"
+          ]
+        },
+        {
+          "id": "g11",
+          "prompt": "You ___ as soon as a shortlist of candidates has been drawn up.",
+          "acceptedAnswers": [
+            "will be notified",
+            "'ll be notified"
+          ]
+        },
+        {
+          "id": "g12",
+          "prompt": "A shortlist of candidates ___ . (draw up)",
+          "acceptedAnswers": [
+            "has been drawn up",
+            "is drawn up"
+          ]
+        }
+      ],
+      "wordBank": [
+        "arrive",
+        "be",
+        "call",
+        "destroy",
+        "draw up",
+        "give",
+        "last",
+        "notify",
+        "record",
+        "show",
+        "take",
+        "wait"
+      ]
+    },
+    {
+      "id": "h",
+      "type": "rewrite",
+      "title": "H \u00b7 Similar meaning",
+      "instruction": "Complete the second sentence so that it has a similar meaning to the first sentence, using the word given. Do not change the word given. You must use between three and eight words, including the word given.",
+      "items": [
+        {
+          "id": "h1",
+          "prompt": "Shona will find out if she has been promoted very soon. **just**\nShona ___ find out if she has been promoted.",
+          "acceptedAnswers": [
+            "is just about to",
+            "'s just about to"
+          ]
+        },
+        {
+          "id": "h2",
+          "prompt": "They will decide very soon whether to close the Paris office. **point**\nThey ___ whether to close the Paris office.",
+          "acceptedAnswers": [
+            "are on the point of deciding",
+            "'re on the point of deciding"
+          ]
+        },
+        {
+          "id": "h3",
+          "prompt": "The plan is that I will give a presentation to the board on Friday morning. **due**\nI ___ a presentation to the board on Friday morning.",
+          "acceptedAnswers": [
+            "am due to give",
+            "'m due to give"
+          ]
+        },
+        {
+          "id": "h4",
+          "prompt": "Are you going home in a minute? **about**\nAre you ___ home?",
+          "acceptedAnswers": [
+            "about to go"
+          ]
+        },
+        {
+          "id": "h5",
+          "prompt": "Actually, there won't be a general election for a while. **verge**\nActually, we ___ a general election.",
+          "acceptedAnswers": [
+            "are not on the verge of",
+            "aren't on the verge of"
+          ]
+        },
+        {
+          "id": "h6",
+          "prompt": "What time do the inspectors arrive tomorrow? **due**\nWhat time ___ tomorrow?",
+          "acceptedAnswers": [
+            "are the inspectors due to arrive",
+            "are the inspectors due"
+          ]
+        },
+        {
+          "id": "h7",
+          "prompt": "Keep this a secret. **to**\nYou are ___ anyone about this.",
+          "acceptedAnswers": [
+            "not to tell",
+            "not to say anything to"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "i",
+      "type": "gap-fill",
+      "title": "I \u00b7 Future in the past",
+      "instruction": "Write one word in each gap.",
+      "items": [
+        {
+          "id": "i1",
+          "prompt": "The company ___ going to expand, but the economic downturn has put a stop to that.",
+          "acceptedAnswers": [
+            "was"
+          ]
+        },
+        {
+          "id": "i2",
+          "prompt": "No one had any idea that Dave ___ resign the next day.",
+          "acceptedAnswers": [
+            "would"
+          ]
+        },
+        {
+          "id": "i3",
+          "prompt": "We were all standing around in front of the TV, knowing that the Minister ___ to make a statement on the emergency in the next few minutes.",
+          "acceptedAnswers": [
+            "was"
+          ]
+        },
+        {
+          "id": "i4",
+          "prompt": "Ann ___ to find the documents soon, or her boss would find out she'd mislaid them.",
+          "acceptedAnswers": [
+            "had"
+          ]
+        },
+        {
+          "id": "i5",
+          "prompt": "___ you going to apply for the post before you heard it had already been filled?",
+          "acceptedAnswers": [
+            "Were"
+          ]
+        },
+        {
+          "id": "i6",
+          "prompt": "___ Bill going on a business trip the next day anyway, or did he have to pack at the last minute?",
+          "acceptedAnswers": [
+            "Was"
+          ]
+        },
+        {
+          "id": "i7",
+          "prompt": "You're lucky you caught me. I ___ just on the point of leaving.",
+          "acceptedAnswers": [
+            "was"
+          ]
+        },
+        {
+          "id": "i8",
+          "prompt": "We ___ due to arrive at six, so I left a message saying we would be there at nine.",
+          "acceptedAnswers": [
+            "were"
+          ]
+        },
+        {
+          "id": "i9",
+          "prompt": "I think they ___ about to fire me when I quit!",
+          "acceptedAnswers": [
+            "were"
+          ]
+        },
+        {
+          "id": "i10",
+          "prompt": "Thompson understood the cryptic message. He was ___ get to Berlin on the first flight.",
+          "acceptedAnswers": [
+            "to"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "j",
+      "type": "gap-fill",
+      "title": "J \u00b7 Cloze: The office of the future",
+      "instruction": "Write one word in each gap.",
+      "items": [
+        {
+          "id": "j1",
+          "prompt": "What ___ the office of 2030 be like?",
+          "acceptedAnswers": [
+            "will"
+          ]
+        },
+        {
+          "id": "j2",
+          "prompt": "By then, it's highly likely that most of the western world will ___ been connected to a WiFi network.",
+          "acceptedAnswers": [
+            "have"
+          ]
+        },
+        {
+          "id": "j3",
+          "prompt": "___ that happens, the physical restriction of phone lines will disappear.",
+          "acceptedAnswers": [
+            "Once",
+            "When",
+            "As"
+          ]
+        },
+        {
+          "id": "j4",
+          "prompt": "As that happens, the physical restriction of phone lines will ___ .",
+          "acceptedAnswers": [
+            "disappear"
+          ]
+        },
+        {
+          "id": "j5",
+          "prompt": "Some people will ___ have to commute to the office each day.",
+          "acceptedAnswers": [
+            "still"
+          ]
+        },
+        {
+          "id": "j6",
+          "prompt": "Some people will still have to commute to the office each day, but for many others their office will ___ wherever they are.",
+          "acceptedAnswers": [
+            "be"
+          ]
+        },
+        {
+          "id": "j7",
+          "prompt": "More and more people will ___ from home several days a week.",
+          "acceptedAnswers": [
+            "work"
+          ]
+        },
+        {
+          "id": "j8",
+          "prompt": "It's no exaggeration to say that many businessmen and women will ___ sending e-mails while they are lying on a beach.",
+          "acceptedAnswers": [
+            "be"
+          ]
+        },
+        {
+          "id": "j9",
+          "prompt": "They will be ___ e-mails and doing business with clients while they are lying on a beach.",
+          "acceptedAnswers": [
+            "sending"
+          ]
+        },
+        {
+          "id": "j10",
+          "prompt": "They will be sending e-mails and ___ business with clients while they are lying on a beach.",
+          "acceptedAnswers": [
+            "doing"
+          ]
+        },
+        {
+          "id": "j11",
+          "prompt": "In terms of technology, mobile phones and laptops will have ___ even more lightweight and portable than they are now.",
+          "acceptedAnswers": [
+            "become",
+            "got"
+          ]
+        },
+        {
+          "id": "j12",
+          "prompt": "Many new pieces of communication technology will have ___ introduced to make our working lives easier.",
+          "acceptedAnswers": [
+            "been"
+          ]
+        },
+        {
+          "id": "j13",
+          "prompt": "Indeed, by 2030, it's quite possible that your mobile, camera, laptop and MP3 player will have been combined into one very small, but extremely powerful, business communications unit. By then, 2020 ___ seem like ancient history.",
+          "acceptedAnswers": [
+            "will"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "k",
+      "type": "multiple-choice",
+      "title": "K \u00b7 Choose the correct answer",
+      "instruction": "Select the option that completes each sentence.",
+      "items": [
+        {
+          "id": "k1",
+          "prompt": "We are pleased to announce that Keith Danish ___ replace Susan Williams as Operations Manager from 24th September.",
+          "acceptedAnswers": [
+            "is to"
+          ],
+          "options": [
+            "does",
+            "is about to",
+            "is to",
+            "is due"
+          ]
+        },
+        {
+          "id": "k2",
+          "prompt": "I ___ Penny for her advice, but I'm not so sure that's such a good idea now.",
+          "acceptedAnswers": [
+            "was going to ask"
+          ],
+          "options": [
+            "am going to ask",
+            "was going to ask",
+            "am asking",
+            "will ask"
+          ]
+        },
+        {
+          "id": "k3",
+          "prompt": "Once ___ broadband, you won't want to go back to a dial-up connection.",
+          "acceptedAnswers": [
+            "you've used"
+          ],
+          "options": [
+            "you'll be using",
+            "you'll have used",
+            "you've been used",
+            "you've used"
+          ]
+        },
+        {
+          "id": "k4",
+          "prompt": "___ find out more about the costs before we make a final decision?",
+          "acceptedAnswers": [
+            "Shall I"
+          ],
+          "options": [
+            "Do I",
+            "Will I",
+            "Shall I",
+            "Am I due"
+          ]
+        },
+        {
+          "id": "k5",
+          "prompt": "___ to the Finance Manager or the Accounts Manager?",
+          "acceptedAnswers": [
+            "Will you be reporting"
+          ],
+          "options": [
+            "Will you be reporting",
+            "Will you have been reporting",
+            "Shall you be reporting",
+            "Are you on the verge of reporting"
+          ]
+        },
+        {
+          "id": "k6",
+          "prompt": "This time tomorrow, Barry will ___ across the Pacific for exactly three months.",
+          "acceptedAnswers": [
+            "have been rowing"
+          ],
+          "options": [
+            "be rowing",
+            "have rowed",
+            "row",
+            "have been rowing"
+          ]
+        },
+        {
+          "id": "k7",
+          "prompt": "When ___ treating me with some respect at work?",
+          "acceptedAnswers": [
+            "are they going to start"
+          ],
+          "options": [
+            "will they have started",
+            "are they going to start",
+            "are they starting",
+            "will they be starting"
+          ]
+        },
+        {
+          "id": "k8",
+          "prompt": "Were you really just on the point ___ ?",
+          "acceptedAnswers": [
+            "of resigning"
+          ],
+          "options": [
+            "of resigning",
+            "to resign",
+            "with resignation",
+            "of having resigned"
+          ]
+        }
+      ]
+    }
+  ]
+}

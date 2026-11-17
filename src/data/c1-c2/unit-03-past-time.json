@@ -1,0 +1,1270 @@
+{
+  "id": "unit-03-past-time",
+  "level": "c1-c2",
+  "unitNumber": 3,
+  "title": "Past time",
+  "subtitle": "Past simple and continuous, past perfect, would, used to, be used to and get used to",
+  "theory": [
+    {
+      "id": "past-simple",
+      "title": "Past simple",
+      "icon": "BookOpen",
+      "blocks": [
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "Single completed actions",
+              "example": "Sony and Philips **unveiled** the compact disc in 1982."
+            },
+            {
+              "use": "Repeated or habitual actions in the past",
+              "example": "We **moved** house a lot when I was a child."
+            },
+            {
+              "use": "General truths about the past",
+              "example": "Early mechanical clocks **were** usually unreliable."
+            },
+            {
+              "use": "Permanent situations and states in the past",
+              "example": "**Did** the Minoans **have** more sophisticated plumbing than later civilisations?"
+            },
+            {
+              "use": "The main events in a story",
+              "example": "Frank **switched** on the set and **sat** down on the sofa."
+            },
+            {
+              "use": "The present in conditional sentences",
+              "example": "If we **didn't have** computing, what would the world be like?"
+            },
+            {
+              "use": "The present after wish, it's time, would rather, etc.",
+              "example": "I'd rather Michael **didn't waste** so many evenings on video games."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "emphatic-past-simple",
+      "title": "Emphatic past simple",
+      "icon": "Sparkles",
+      "blocks": [
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "To emphasise contrast in the past",
+              "example": "Perhaps our grandparents didn't have e-mail, but they **did have** the telephone and telegrams."
+            },
+            {
+              "use": "To emphasise strong feeling in the past",
+              "example": "I **did enjoy** our visit to the Science Museum last summer."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "past-simple-vs-present-perfect",
+      "title": "Past simple vs present perfect simple",
+      "icon": "Lightbulb",
+      "blocks": [
+        {
+          "type": "prose",
+          "text": "In general, the **past simple** is used to refer to periods of time or moments which are **finished**. The **present perfect** is used to refer to periods of time which **continue up to the present**."
+        },
+        {
+          "type": "correct-incorrect",
+          "correct": "The nineteenth century **saw** many technological advances, such as the camera and the electric light bulb.",
+          "incorrect": "The nineteenth century **has seen** many technological advances, such as the camera and the electric light bulb."
+        },
+        {
+          "type": "correct-incorrect",
+          "correct": "There **have been** many technological advances in recent years, the most important being the spread of the Internet.",
+          "incorrect": "There **were** many technological advances in recent years, the most important being the spread of the Internet."
+        },
+        {
+          "type": "hints",
+          "intro": "The past simple is used to refer to events at a specific time in the past. The present perfect is used when the specific time something happened isn't important or relevant, or when the present result of a past event is important.",
+          "items": [
+            "I **sent** my first e-mail six months ago.",
+            "**Have** you ever **sent** an e-mail before?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "past-continuous",
+      "title": "Past continuous",
+      "icon": "Table2",
+      "blocks": [
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "Actions in progress at a particular moment in the past",
+              "example": "**Were** you **chatting** to Matt online at midnight last night?"
+            },
+            {
+              "use": "Actions in progress around a particular moment in the past",
+              "example": "At the turn of the twentieth century, many discoveries **were being made** in physics and other sciences."
+            },
+            {
+              "use": "Temporary situations and series of actions in the past",
+              "example": "At the time, I **was working** for a large software company in California."
+            },
+            {
+              "use": "Changing and developing situations in the past",
+              "example": "I **was getting** frustrated with my internet provider so I decided to change."
+            },
+            {
+              "use": "Annoying or amusing past habits (usually with always)",
+              "example": "When she was young, Tina **was always taking** things apart to see how they worked."
+            },
+            {
+              "use": "Background information in a story",
+              "example": "It **was raining** outside and people **were making** their way home after work."
+            },
+            {
+              "use": "Actions in progress over a period of time",
+              "example": "**Were** you **writing** e-mails all yesterday morning?"
+            },
+            {
+              "use": "Two actions in progress at the same time",
+              "example": "While I **was playing** a computer game, my brother **was doing** his homework."
+            },
+            {
+              "use": "The present and the future after wish, it's time, would rather, etc.",
+              "example": "I wish we **were going** to the computer fair next weekend."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "past-continuous-contrasts",
+      "title": "Past continuous vs other tenses",
+      "icon": "AlertTriangle",
+      "blocks": [
+        {
+          "type": "hints",
+          "intro": "Past continuous vs past simple",
+          "items": [
+            "We often use the past continuous to describe **background** events in progress and the past simple for the **main** events: We **were talking** about MP3s when Andrea **mentioned** her new music website.",
+            "We normally use the past simple to describe **regular or repeated** actions in the past, not the past continuous: When I was a child, I **visited** my grandmother every week."
+          ]
+        },
+        {
+          "type": "hints",
+          "intro": "Past continuous vs present perfect continuous",
+          "items": [
+            "In general, the past continuous is used to refer to actions in progress during periods of time or at moments which are **finished**. The present perfect continuous is used to refer to actions in progress during periods of time which **continue up to the present**.",
+            "We **were working** on my computer for four hours yesterday.",
+            "We **have been working** on my computer for four hours so far."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "past-perfect-simple",
+      "title": "Past perfect simple",
+      "icon": "CheckCircle2",
+      "blocks": [
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "Situations and states before the past",
+              "example": "**Had** you **had** your computer long before it broke down?"
+            },
+            {
+              "use": "Completed actions before a moment in the past",
+              "example": "When talking films appeared, the cinema **had already become** a popular form of entertainment."
+            },
+            {
+              "use": "A series of actions continuing up to a moment in the past",
+              "example": "When Dimitra called, I **had managed** to fix her computer."
+            },
+            {
+              "use": "Completed actions where the important thing is the result at a moment in the past",
+              "example": "By the time of his death, Thomas Edison **had invented** a number of things that changed everyday life."
+            }
+          ]
+        },
+        {
+          "type": "prose",
+          "text": "I beat Jason at International Captain because I'd **played** it a lot with my brother. The past perfect often makes the **earlier** of two past events clear."
+        }
+      ]
+    },
+    {
+      "id": "past-perfect-continuous",
+      "title": "Past perfect continuous",
+      "icon": "PencilLine",
+      "blocks": [
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "Actions and situations continuing up to a moment in the past (or just before a moment in the past)",
+              "example": "She'd **been writing** computer games for over ten years before she finally had a hit."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "would-used-to",
+      "title": "would and used to",
+      "icon": "ListChecks",
+      "blocks": [
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "would \u00b7 past habits, particularly for the distant past",
+              "example": "The ancient Greeks **would** rely on the power of slaves, rather than machines."
+            },
+            {
+              "use": "used to \u00b7 past habits and states, particularly for the distant past",
+              "example": "It **used to** seem strange to be able to communicate over long distances."
+            }
+          ]
+        },
+        {
+          "type": "watch-out",
+          "text": "**Would** can also be used with a continuous infinitive when we are referring to a habit involving actions in progress.",
+          "note": "Whenever I went to James's house, he would usually **be playing** on his computer. **Would** is not usually used to refer to past **states**."
+        },
+        {
+          "type": "watch-out",
+          "text": "Remember that **used to** is not the same as **be used to**. **Be used to** refers to a situation that is now familiar or no longer strange.",
+          "note": "At first, people found it strange sending messages by mobile, but now everyone's **used to** it."
+        },
+        {
+          "type": "watch-out",
+          "text": "We use **get used to** to refer to the process of becoming familiar with a situation.",
+          "note": "It's surprising how quickly people in the nineteenth century **got used to** travelling by train."
+        }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "a",
+      "type": "multiple-choice",
+      "title": "A \u00b7 Past simple or present perfect",
+      "instruction": "Select the form that fits each sentence.",
+      "items": [
+        {
+          "id": "a1",
+          "prompt": "Rick should know about the meeting because I ___ him about it yesterday.",
+          "options": [
+            "told",
+            "have told"
+          ],
+          "acceptedAnswers": [
+            "told"
+          ]
+        },
+        {
+          "id": "a2",
+          "prompt": "___ last July while you were both backpacking around Europe?",
+          "options": [
+            "Did you meet",
+            "Have you met"
+          ],
+          "acceptedAnswers": [
+            "Did you meet"
+          ]
+        },
+        {
+          "id": "a3",
+          "prompt": "I'm resigning because the pressure at work has ___ too much for me.",
+          "options": [
+            "become",
+            "became"
+          ],
+          "acceptedAnswers": [
+            "become"
+          ]
+        },
+        {
+          "id": "a4",
+          "prompt": "A month ago, I ___ a letter from Neil, but I haven't replied.",
+          "options": [
+            "got",
+            "have got"
+          ],
+          "acceptedAnswers": [
+            "got"
+          ]
+        },
+        {
+          "id": "a5",
+          "prompt": "Julie ___ anxious to speak to you since she heard about your accident.",
+          "options": [
+            "was",
+            "has been"
+          ],
+          "acceptedAnswers": [
+            "has been"
+          ]
+        },
+        {
+          "id": "a6",
+          "prompt": "I ___ no idea you were such a good chess player.",
+          "options": [
+            "had",
+            "have had"
+          ],
+          "acceptedAnswers": [
+            "had"
+          ]
+        },
+        {
+          "id": "a7",
+          "prompt": "If you ___, put your hand up and I'll collect your exam paper.",
+          "options": [
+            "finished",
+            "have finished"
+          ],
+          "acceptedAnswers": [
+            "have finished"
+          ]
+        },
+        {
+          "id": "a8",
+          "prompt": "There ___ a number of different reasons for our divorce.",
+          "options": [
+            "were",
+            "have been"
+          ],
+          "acceptedAnswers": [
+            "were"
+          ]
+        },
+        {
+          "id": "a9",
+          "prompt": "It was my birthday last week and my grandad ___ me a new laptop.",
+          "options": [
+            "gave",
+            "has given"
+          ],
+          "acceptedAnswers": [
+            "gave"
+          ]
+        },
+        {
+          "id": "a10",
+          "prompt": "I don't know who's responsible because I ___ here long.",
+          "options": [
+            "didn't work",
+            "haven't worked"
+          ],
+          "acceptedAnswers": [
+            "haven't worked"
+          ]
+        },
+        {
+          "id": "a11",
+          "prompt": "My brother and I were never ___ to chew gum when we were young.",
+          "options": [
+            "allowed",
+            "haven't been allowed"
+          ],
+          "acceptedAnswers": [
+            "allowed"
+          ]
+        },
+        {
+          "id": "a12",
+          "prompt": "My parents ___ me to a private school until I was 12.",
+          "options": [
+            "sent",
+            "have sent"
+          ],
+          "acceptedAnswers": [
+            "sent"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b",
+      "type": "gap-fill",
+      "title": "B \u00b7 Past simple or past continuous",
+      "instruction": "Write the verb in brackets in the correct form. You may have to use the passive.",
+      "items": [
+        {
+          "id": "b1",
+          "prompt": "When the explosion happened, hundreds of people ___ through the airport. (pass)",
+          "acceptedAnswers": [
+            "were passing"
+          ]
+        },
+        {
+          "id": "b2",
+          "prompt": "When I heard the phone ring, I ___ writing to answer it. (stop)",
+          "acceptedAnswers": [
+            "stopped"
+          ]
+        },
+        {
+          "id": "b3",
+          "prompt": "Amy ___ , so she didn't see me walking past. (read)",
+          "acceptedAnswers": [
+            "was reading"
+          ]
+        },
+        {
+          "id": "b4",
+          "prompt": "I ___ piano lessons every week from the age of six onwards. (have)",
+          "acceptedAnswers": [
+            "had"
+          ]
+        },
+        {
+          "id": "b5",
+          "prompt": "We decided to leave the beach because it ___ dark and we wanted to get home while there was still some light. (get)",
+          "acceptedAnswers": [
+            "was getting"
+          ]
+        },
+        {
+          "id": "b6",
+          "prompt": "Jessica already ___ of leaving university before she failed her first-year exams? (think)",
+          "acceptedAnswers": [
+            "was thinking"
+          ]
+        },
+        {
+          "id": "b7",
+          "prompt": "Since the hotel had a pool, ___ every day? (you / swim)",
+          "acceptedAnswers": [
+            "did you swim"
+          ]
+        },
+        {
+          "id": "b8",
+          "prompt": "The Industrial Revolution ___ many people from the country to the city. (attract)",
+          "acceptedAnswers": [
+            "attracted"
+          ]
+        },
+        {
+          "id": "b9",
+          "prompt": "The Hubble Space Telescope ___ into orbit around the Earth in 1990. (put)",
+          "acceptedAnswers": [
+            "was put"
+          ]
+        },
+        {
+          "id": "b10",
+          "prompt": "Sorry I couldn't come on Friday, but I ___ on my project. (work)",
+          "acceptedAnswers": [
+            "was working"
+          ]
+        },
+        {
+          "id": "b11",
+          "prompt": "By the time we ___ , the party was almost over. (arrive)",
+          "acceptedAnswers": [
+            "arrived"
+          ]
+        },
+        {
+          "id": "b12",
+          "prompt": "The national park ___ to protect local wildlife. (create)",
+          "acceptedAnswers": [
+            "was created"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c",
+      "type": "gap-fill",
+      "title": "C \u00b7 High-tech trouble",
+      "instruction": "Write a verb from the box in the correct form in each gap.",
+      "wordBank": [
+        "appear",
+        "check",
+        "complete",
+        "disappear",
+        "get",
+        "go",
+        "kidnap",
+        "look",
+        "make",
+        "mean",
+        "open",
+        "press",
+        "race",
+        "rain",
+        "remind",
+        "see",
+        "start",
+        "take",
+        "travel",
+        "wait",
+        "wear",
+        "work"
+      ],
+      "items": [
+        {
+          "id": "c1",
+          "prompt": "It all ___ as I made my way home from work.",
+          "acceptedAnswers": [
+            "started"
+          ]
+        },
+        {
+          "id": "c2",
+          "prompt": "We ___ on a top-secret computer program, and I was pretty nervous about finishing on time.",
+          "acceptedAnswers": [
+            "were working"
+          ]
+        },
+        {
+          "id": "c3",
+          "prompt": "So it was good to get away from the office. It ___ , and it seemed like everyone was heading home at the same time.",
+          "acceptedAnswers": [
+            "was raining"
+          ]
+        },
+        {
+          "id": "c4",
+          "prompt": "I ___ down into the underground station and waited for the train.",
+          "acceptedAnswers": [
+            "went",
+            "raced"
+          ]
+        },
+        {
+          "id": "c5",
+          "prompt": "I ___ for the train when I saw her at the end of the platform.",
+          "acceptedAnswers": [
+            "was waiting",
+            "waited"
+          ]
+        },
+        {
+          "id": "c6",
+          "prompt": "When I ___ her at the end of the platform, she was wearing a red leather jacket.",
+          "acceptedAnswers": [
+            "saw"
+          ]
+        },
+        {
+          "id": "c7",
+          "prompt": "She ___ a red leather jacket that reminded me of something I'd seen in a film.",
+          "acceptedAnswers": [
+            "was wearing",
+            "wore"
+          ]
+        },
+        {
+          "id": "c8",
+          "prompt": "It ___ me of something I'd seen in a film, although I couldn't remember when.",
+          "acceptedAnswers": [
+            "reminded"
+          ]
+        },
+        {
+          "id": "c9",
+          "prompt": "As I watched, she ___ her handbag and took out what looked like a hand-held computer.",
+          "acceptedAnswers": [
+            "opened"
+          ]
+        },
+        {
+          "id": "c10",
+          "prompt": "She took out what ___ like a hand-held computer.",
+          "acceptedAnswers": [
+            "looked"
+          ]
+        },
+        {
+          "id": "c11",
+          "prompt": "She ___ something on the screen, then looked in my direction.",
+          "acceptedAnswers": [
+            "checked"
+          ]
+        },
+        {
+          "id": "c12",
+          "prompt": "Suddenly, my mobile phone ___ a sound that meant I had a text message.",
+          "acceptedAnswers": [
+            "made"
+          ]
+        },
+        {
+          "id": "c13",
+          "prompt": "Frowning, I ___ a key and the message appeared.",
+          "acceptedAnswers": [
+            "pressed"
+          ]
+        },
+        {
+          "id": "c14",
+          "prompt": "The message ___ : 'We have your daughter. We know you completed the program.'",
+          "acceptedAnswers": [
+            "appeared"
+          ]
+        },
+        {
+          "id": "c15",
+          "prompt": "We know you ___ the program. Follow the woman in red.",
+          "acceptedAnswers": [
+            "completed"
+          ]
+        },
+        {
+          "id": "c16",
+          "prompt": "I looked up just as she ___ around the corner.",
+          "acceptedAnswers": [
+            "disappeared"
+          ]
+        },
+        {
+          "id": "c17",
+          "prompt": "I ___ after her.",
+          "acceptedAnswers": [
+            "raced",
+            "went"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d",
+      "type": "rewrite",
+      "title": "D \u00b7 Find the wrong tense",
+      "instruction": "One verb in each sentence is in the wrong tense. Rewrite the incorrect verb phrase correctly.",
+      "items": [
+        {
+          "id": "d1",
+          "prompt": "I've been having a lot of problems with my computer recently and so I got a technician to come and have a look at it, but she **has told** me that it was because I wasn't using it properly.",
+          "acceptedAnswers": [
+            "told",
+            "has told me \u2192 told me"
+          ]
+        },
+        {
+          "id": "d2",
+          "prompt": "It was a few days since I heard from Roger, but he left Russia last Monday and he **is planning** to arrive in China yesterday, so I called his mum to see if she had heard anything.",
+          "acceptedAnswers": [
+            "was planning",
+            "had been planning"
+          ]
+        },
+        {
+          "id": "d3",
+          "prompt": "Patricia and I were having a really good discussion when Jason suddenly appeared and decided that he wanted to join in, even though he **knows** absolutely nothing about what we were talking about.",
+          "acceptedAnswers": [
+            "knew",
+            "had known"
+          ]
+        },
+        {
+          "id": "d4",
+          "prompt": "I had never been visiting a working prison before, so when the opportunity came up I was really eager to have a look around and I certainly wasn't disappointed, although we weren't actually allowed to see the area where the prisoners live.",
+          "acceptedAnswers": [
+            "visited",
+            "had never visited"
+          ]
+        },
+        {
+          "id": "d5",
+          "prompt": "Charlie didn't know what Callum had said to Imogen, but he could see immediately that she **is crying** and he was putting his arm around her to comfort her, which made her feel a little better.",
+          "acceptedAnswers": [
+            "had been crying",
+            "was crying"
+          ]
+        },
+        {
+          "id": "d6",
+          "prompt": "Although there was no reason to doubt what Alex said, I **am ringing** Rick to check and he told me that Alex had been right and the concert really had been cancelled because the lead singer had come down with flu.",
+          "acceptedAnswers": [
+            "rang",
+            "was ringing"
+          ]
+        },
+        {
+          "id": "d7",
+          "prompt": "The year before, I had given Lisa a CD for her birthday, but this particular year I wanted to surprise her, so I went into town and I was looking round the shops when suddenly I **had seen** an old-fashioned hat, and it was her size, so I immediately bought it.",
+          "acceptedAnswers": [
+            "saw"
+          ]
+        },
+        {
+          "id": "d8",
+          "prompt": "Olivia was cycling to school, as she usually **is doing** on those days when her father was working and wasn't able to drive her, when she was passing an old woman, who was waiting for the lights to change so that she could cross the road.",
+          "acceptedAnswers": [
+            "did",
+            "used to do"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e",
+      "type": "gap-fill",
+      "title": "E \u00b7 Past continuous or present perfect continuous",
+      "instruction": "Write the verb in brackets in the correct form.",
+      "items": [
+        {
+          "id": "e1",
+          "prompt": "'Why are you out of breath?' 'Because I ___ for the last hour.' (exercise)",
+          "acceptedAnswers": [
+            "have been exercising",
+            "'ve been exercising"
+          ]
+        },
+        {
+          "id": "e2",
+          "prompt": "'Your light was on when I walked past last night.' 'Yes, I ___ online to my cousin in Australia.' (chat)",
+          "acceptedAnswers": [
+            "was chatting"
+          ]
+        },
+        {
+          "id": "e3",
+          "prompt": "'You've really improved on the flute.' 'Well, I hope so because I ___ a lot lately.' (practise)",
+          "acceptedAnswers": [
+            "have been practising",
+            "'ve been practising"
+          ]
+        },
+        {
+          "id": "e4",
+          "prompt": "'You're not jealous of my other friends, are you?' 'No, but you ___ quite a lot of them recently.' (see)",
+          "acceptedAnswers": [
+            "have been seeing",
+            "'ve been seeing"
+          ]
+        },
+        {
+          "id": "e5",
+          "prompt": "'I didn't wake you up, did I?' 'No, I ___ .' (sleep)",
+          "acceptedAnswers": [
+            "was sleeping"
+          ]
+        },
+        {
+          "id": "e6",
+          "prompt": "'Did you quit your job in the end?' 'I ___ of doing so for a long time, but then I decided not to.' (think)",
+          "acceptedAnswers": [
+            "had been thinking",
+            "was thinking"
+          ]
+        },
+        {
+          "id": "e7",
+          "prompt": "'Why is your street such a mess?' 'Oh, the council ___ up the roads, but they should finish this weekend.' (dig)",
+          "acceptedAnswers": [
+            "have been digging",
+            "'ve been digging"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f",
+      "type": "gap-fill",
+      "title": "F \u00b7 Past simple and past perfect",
+      "instruction": "Write one verb in the past simple and the other in the past perfect. Complete the remaining verb in each sentence.",
+      "items": [
+        {
+          "id": "f1",
+          "prompt": "The ambulance had left by the time the reporters ___ to the scene. (get)",
+          "acceptedAnswers": [
+            "got"
+          ]
+        },
+        {
+          "id": "f2",
+          "prompt": "Before I met Dr Christian, I ___ a number of different specialists. (see)",
+          "acceptedAnswers": [
+            "had seen"
+          ]
+        },
+        {
+          "id": "f3",
+          "prompt": "It was only the second time I ___ in a helicopter. (ever / be)",
+          "acceptedAnswers": [
+            "had ever been"
+          ]
+        },
+        {
+          "id": "f4",
+          "prompt": "Up to the moment when Mr O'Donnell said 'You're fired', I ___ no idea why he wanted to see me. (have)",
+          "acceptedAnswers": [
+            "had had"
+          ]
+        },
+        {
+          "id": "f5",
+          "prompt": "When Tonya had finished eating, she ___ the waiter to bring the bill. (ask)",
+          "acceptedAnswers": [
+            "asked"
+          ]
+        },
+        {
+          "id": "f6",
+          "prompt": "Luckily, I ___ the end of my essay when the teacher told us all to put our pens down. (just / reach)",
+          "acceptedAnswers": [
+            "had just reached"
+          ]
+        },
+        {
+          "id": "f7",
+          "prompt": "We ___ everything we had to do by five, so we decided to go out for a coffee. (do)",
+          "acceptedAnswers": [
+            "had done"
+          ]
+        },
+        {
+          "id": "f8",
+          "prompt": "We didn't want Mrs Thomas's young son to touch my ornaments because I ___ them. (just / clean)",
+          "acceptedAnswers": [
+            "had just cleaned"
+          ]
+        },
+        {
+          "id": "f9",
+          "prompt": "My mum was annoyed with me because I ___ to get milk when I was at the shop. (forget)",
+          "acceptedAnswers": [
+            "had forgotten"
+          ]
+        },
+        {
+          "id": "f10",
+          "prompt": "I got Janine a book for her birthday, but she ___ it before. (read)",
+          "acceptedAnswers": [
+            "had read"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g",
+      "type": "rewrite",
+      "title": "G \u00b7 The mobile phone",
+      "instruction": "Each sentence comes from a short history of the mobile phone. If the bold verb is wrong, rewrite it correctly. If it is already correct, write a tick (\u2713).",
+      "items": [
+        {
+          "id": "g1",
+          "prompt": "People **have been dreaming** of having a personal means of communication for a long time.",
+          "acceptedAnswers": [
+            "\u2713",
+            "tick",
+            "correct",
+            "have been dreaming"
+          ]
+        },
+        {
+          "id": "g2",
+          "prompt": "In the late 1960s, the idea **had seemed** so far in the future that it was included in Star Trek.",
+          "acceptedAnswers": [
+            "seemed"
+          ]
+        },
+        {
+          "id": "g3",
+          "prompt": "The idea was so far in the future that it **was included** in the science fiction series Star Trek.",
+          "acceptedAnswers": [
+            "\u2713",
+            "tick",
+            "correct",
+            "was included"
+          ]
+        },
+        {
+          "id": "g4",
+          "prompt": "Since the 1980s, however, mobiles **had become** a part of everyday life.",
+          "acceptedAnswers": [
+            "have become"
+          ]
+        },
+        {
+          "id": "g5",
+          "prompt": "Although they **were initially seen** as a status symbol for successful business people, mobile use has spread.",
+          "acceptedAnswers": [
+            "\u2713",
+            "tick",
+            "correct",
+            "were initially seen"
+          ]
+        },
+        {
+          "id": "g6",
+          "prompt": "Mobile use **had spread** to include practically everyone in the developed world.",
+          "acceptedAnswers": [
+            "has spread"
+          ]
+        },
+        {
+          "id": "g7",
+          "prompt": "The impact on social life **had been** enormous.",
+          "acceptedAnswers": [
+            "has been"
+          ]
+        },
+        {
+          "id": "g8",
+          "prompt": "Before this, children **had arranged** to meet friends who had missed each other because of a slight misunderstanding.",
+          "acceptedAnswers": [
+            "\u2713",
+            "tick",
+            "correct",
+            "had arranged"
+          ]
+        },
+        {
+          "id": "g9",
+          "prompt": "Friends **had missed** each other because of a slight misunderstanding.",
+          "acceptedAnswers": [
+            "\u2713",
+            "tick",
+            "correct",
+            "had missed"
+          ]
+        },
+        {
+          "id": "g10",
+          "prompt": "As mobiles **have been becoming** more popular, so they have become more powerful.",
+          "acceptedAnswers": [
+            "have become"
+          ]
+        },
+        {
+          "id": "g11",
+          "prompt": "So they **will have become** more powerful.",
+          "acceptedAnswers": [
+            "have become"
+          ]
+        },
+        {
+          "id": "g12",
+          "prompt": "The large, unreliable mobile phone of the 1980s **has evolved** into the small, stylish camera phone of today.",
+          "acceptedAnswers": [
+            "\u2713",
+            "tick",
+            "correct",
+            "has evolved"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "h",
+      "type": "rewrite",
+      "title": "H \u00b7 Similar meaning",
+      "instruction": "Complete the second sentence so that it has a similar meaning to the first, using the word given. Do not change the word given. You must use between three and eight words, including the word given.",
+      "items": [
+        {
+          "id": "h1",
+          "prompt": "I started working at eight and I was still working at six in the evening, when you called. **been**\nWhen you called, ___ ten hours.",
+          "acceptedAnswers": [
+            "I had been working for",
+            "I'd been working for"
+          ]
+        },
+        {
+          "id": "h2",
+          "prompt": "We often went to the seaside with our grandparents as children. **would**\nOur grandparents ___ to the seaside as children.",
+          "acceptedAnswers": [
+            "would often take us",
+            "would take us"
+          ]
+        },
+        {
+          "id": "h3",
+          "prompt": "It's about seven years now since Laura started to learn Russian. **learning**\nLaura ___ seven years.",
+          "acceptedAnswers": [
+            "has been learning Russian for",
+            "'s been learning Russian for"
+          ]
+        },
+        {
+          "id": "h4",
+          "prompt": "Being with the older children soon stopped being frightening when I went to secondary school. **used**\nSecondary school was frightening, but I ___ with the older children.",
+          "acceptedAnswers": [
+            "soon got used to being"
+          ]
+        },
+        {
+          "id": "h5",
+          "prompt": "Every night for the past week I have had the same dream. **having**\nI ___ for a week now.",
+          "acceptedAnswers": [
+            "have been having the same dream",
+            "'ve been having the same dream"
+          ]
+        },
+        {
+          "id": "h6",
+          "prompt": "I always disliked karate lessons but now I'm starting to enjoy them. **used**\nI ___ karate lessons, but now I'm starting to.",
+          "acceptedAnswers": [
+            "didn't use to enjoy",
+            "did not use to enjoy",
+            "never used to enjoy"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "i",
+      "type": "gap-fill",
+      "title": "I \u00b7 Cloze: The pencil",
+      "instruction": "Write one word in each gap.",
+      "items": [
+        {
+          "id": "i1",
+          "prompt": "Because the pencil ___ become such a fundamental part of our lives, it's difficult to remember that people have not been using them forever.",
+          "acceptedAnswers": [
+            "has"
+          ]
+        },
+        {
+          "id": "i1b",
+          "prompt": "It's difficult to remember that people ___ not been using pencils forever.",
+          "acceptedAnswers": [
+            "have"
+          ]
+        },
+        {
+          "id": "i2",
+          "prompt": "Like other products of human ingenuity, pencils had to ___ invented.",
+          "acceptedAnswers": [
+            "be"
+          ]
+        },
+        {
+          "id": "i3",
+          "prompt": "Before the first half of the sixteenth century, people ___ to use pens to write and brushes to paint with.",
+          "acceptedAnswers": [
+            "used",
+            "had"
+          ]
+        },
+        {
+          "id": "i4",
+          "prompt": "It ___ also possible to use a metal stick to make faint marks on paper.",
+          "acceptedAnswers": [
+            "was"
+          ]
+        },
+        {
+          "id": "i5",
+          "prompt": "However, up to that point no one ___ found an easy way to make marks that could be erased.",
+          "acceptedAnswers": [
+            "had"
+          ]
+        },
+        {
+          "id": "i6",
+          "prompt": "Then, some time before 1565, a large deposit of the chemical, graphite, ___ found near Borrowdale in Cumbria, England.",
+          "acceptedAnswers": [
+            "was"
+          ]
+        },
+        {
+          "id": "i7",
+          "prompt": "The locals ___ use this graphite (a kind of soft black rock) to mark sheep.",
+          "acceptedAnswers": [
+            "would",
+            "did"
+          ]
+        },
+        {
+          "id": "i8",
+          "prompt": "Soon, tales of this unusual soft substance ___ spread to artists around the world, who were eager to use it to produce works of art.",
+          "acceptedAnswers": [
+            "had"
+          ]
+        },
+        {
+          "id": "i9",
+          "prompt": "Graphite is soft and dirty, and in order to write or draw with it, it ___ to have to be covered in something, such as sheepskin or string.",
+          "acceptedAnswers": [
+            "used"
+          ]
+        },
+        {
+          "id": "i10",
+          "prompt": "People had ___ trying to improve the pencil for some time before manufacturers in Italy came up with the idea of enclosing the graphite in a wooden case.",
+          "acceptedAnswers": [
+            "been"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "j",
+      "type": "multiple-choice",
+      "title": "J \u00b7 Choose the correct answer",
+      "instruction": "Select the option that completes each sentence.",
+      "items": [
+        {
+          "id": "j1",
+          "prompt": "How long ___ before Val finally turned up?",
+          "options": [
+            "have you been waiting",
+            "are you waiting",
+            "had you waited",
+            "had you been waiting"
+          ],
+          "acceptedAnswers": [
+            "had you been waiting"
+          ]
+        },
+        {
+          "id": "j2",
+          "prompt": "You ___ be so good at backgammon, did you?",
+          "options": [
+            "never used to",
+            "wouldn't",
+            "aren't",
+            "didn't use to"
+          ],
+          "acceptedAnswers": [
+            "didn't use to"
+          ]
+        },
+        {
+          "id": "j3",
+          "prompt": "Could you tell me, sir, what you ___ in the park at three in the morning?",
+          "options": [
+            "have done",
+            "have been doing",
+            "were doing",
+            "had done"
+          ],
+          "acceptedAnswers": [
+            "were doing"
+          ]
+        },
+        {
+          "id": "j4",
+          "prompt": "I was angry when you saw me because I ___ with my sister.",
+          "options": [
+            "have been arguing",
+            "argued",
+            "had been arguing",
+            "would argue"
+          ],
+          "acceptedAnswers": [
+            "had been arguing"
+          ]
+        },
+        {
+          "id": "j5",
+          "prompt": "The Black Pirate ___ over a million copies already this year.",
+          "options": [
+            "had sold",
+            "has sold",
+            "had been selling",
+            "was selling"
+          ],
+          "acceptedAnswers": [
+            "has sold"
+          ]
+        },
+        {
+          "id": "j6",
+          "prompt": "Don't throw the paper away because I ___ it yet.",
+          "options": [
+            "haven't read",
+            "hadn't read",
+            "haven't been reading",
+            "hadn't been reading"
+          ],
+          "acceptedAnswers": [
+            "haven't read"
+          ]
+        },
+        {
+          "id": "j7",
+          "prompt": "By the time we arrived, the film ___.",
+          "options": [
+            "has already started",
+            "would already start",
+            "already started",
+            "had already started"
+          ],
+          "acceptedAnswers": [
+            "had already started"
+          ]
+        },
+        {
+          "id": "j8",
+          "prompt": "We had to walk home in the end because Jimmy ___ his car keys.",
+          "options": [
+            "has been losing",
+            "had lost",
+            "was losing",
+            "had been losing"
+          ],
+          "acceptedAnswers": [
+            "had lost"
+          ]
+        },
+        {
+          "id": "j9",
+          "prompt": "It took Edward a long time to ___ living in Canada.",
+          "options": [
+            "be used to",
+            "used to",
+            "get used to",
+            "be used"
+          ],
+          "acceptedAnswers": [
+            "get used to"
+          ]
+        },
+        {
+          "id": "j10",
+          "prompt": "I'd love to have lived in the old days, when people ___ to market by horse and carriage.",
+          "options": [
+            "have been travelling",
+            "would travel",
+            "got used to travelling",
+            "had been travelling"
+          ],
+          "acceptedAnswers": [
+            "would travel"
+          ]
+        },
+        {
+          "id": "j11",
+          "prompt": "I much preferred it when we ___ to Wales every summer on holiday.",
+          "options": [
+            "used to go",
+            "were used to going",
+            "had gone",
+            "had been going"
+          ],
+          "acceptedAnswers": [
+            "used to go"
+          ]
+        },
+        {
+          "id": "j12",
+          "prompt": "Your teacher called me today and said that you ___ with another boy in the playground again.",
+          "options": [
+            "had been fighting",
+            "used to fight",
+            "have fought",
+            "would fight"
+          ],
+          "acceptedAnswers": [
+            "had been fighting"
+          ]
+        }
+      ]
+    }
+  ]
+}
