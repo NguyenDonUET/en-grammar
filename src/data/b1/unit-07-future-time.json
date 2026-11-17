@@ -1,0 +1,506 @@
+{
+  "id": "unit-07-future-time",
+  "level": "b1",
+  "unitNumber": 7,
+  "title": "Future time",
+  "subtitle": "Present continuous, will, be going to, and present simple",
+  "theory": [
+    {
+      "id": "present-continuous-future",
+      "title": "Present continuous",
+      "icon": "BookOpen",
+      "blocks": [
+        {
+          "type": "prose",
+          "text": "For the form of the present continuous, see Unit 1."
+        },
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "Arrangements",
+              "example": "We're **driving** to Berlin this weekend."
+            }
+          ]
+        },
+        {
+          "type": "watch-out",
+          "text": "Things we want to do in the future but have not arranged are called **intentions**. We do not use the present continuous for intentions. We use **be going to** instead."
+        },
+        {
+          "type": "correct-incorrect",
+          "correct": "I'm **going to become** an explorer when I grow up.",
+          "incorrect": "I'm **becoming** an explorer when I grow up."
+        },
+        {
+          "type": "watch-out",
+          "text": "We do not use the present continuous for predictions. We use **will** or **be going to** instead.",
+          "note": "Do you think you'll **enjoy** your trip to Berlin next week? (not you're enjoying)"
+        }
+      ]
+    },
+    {
+      "id": "will",
+      "title": "will",
+      "icon": "Sparkles",
+      "blocks": [
+        {
+          "type": "prose",
+          "text": "**will** + bare infinitive"
+        },
+        {
+          "type": "form-table",
+          "rows": [
+            {
+              "person": "I / you / he / she / it / we / they",
+              "statement": "I/you/he/she/it/we/they **will ('ll) go** …",
+              "negative": "I/you/he/she/it/we/they **will not (won't) go** …",
+              "question": "**Will** I/you/he/she/it/we/they **go** …?"
+            }
+          ]
+        },
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "Facts about the future",
+              "example": "The new airport **will be** the biggest in Europe."
+            },
+            {
+              "use": "Predictions",
+              "example": "You'll **have** a great time in the Bahamas."
+            },
+            {
+              "use": "Offers and requests",
+              "example": "We'll **help** you get ready for your holiday."
+            },
+            {
+              "use": "Decisions made now",
+              "example": "I know! I'll **go** to China this summer."
+            }
+          ]
+        },
+        {
+          "type": "watch-out",
+          "text": "With offers which are questions, we use **Shall** with **I** and **we**.",
+          "note": "Shall I drive you to the airport?"
+        },
+        {
+          "type": "correct-incorrect",
+          "correct": "We're **visiting** my grandma this weekend. (arrangement)",
+          "incorrect": "We'll **visit** my grandma this weekend. (not for a fixed arrangement)"
+        }
+      ]
+    },
+    {
+      "id": "be-going-to",
+      "title": "be going to",
+      "icon": "Lightbulb",
+      "blocks": [
+        {
+          "type": "prose",
+          "text": "**be going to** + bare infinitive"
+        },
+        {
+          "type": "form-table",
+          "rows": [
+            {
+              "person": "I",
+              "statement": "I **am ('m) going to travel** …",
+              "negative": "I **am ('m) not going to travel** …",
+              "question": "**Am** I **going to travel** …?"
+            },
+            {
+              "person": "he / she / it",
+              "statement": "He/she/it **is ('s) going to travel** …",
+              "negative": "He/she/it **is not (isn't / 's not) going to travel** …",
+              "question": "**Is** he/she/it **going to travel** …?"
+            },
+            {
+              "person": "you / we / they",
+              "statement": "You/we/they **are ('re) going to travel** …",
+              "negative": "You/we/they **are not (aren't / 're not) going to travel** …",
+              "question": "**Are** you/we/they **going to travel** …?"
+            }
+          ]
+        },
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "Intentions",
+              "example": "I'm **going to become** an explorer when I grow up."
+            },
+            {
+              "use": "Predictions (often with evidence we can see)",
+              "example": "It's **going to rain**, so take an umbrella."
+            },
+            {
+              "use": "Facts about the future",
+              "example": "The new airport **is going to be** the biggest in Europe."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "present-simple-future",
+      "title": "Present simple",
+      "icon": "Table2",
+      "blocks": [
+        {
+          "type": "prose",
+          "text": "For the form of the present simple, see Unit 1."
+        },
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "Timetables",
+              "example": "My plane **leaves** at six."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "a",
+      "type": "guided-sentence",
+      "title": "A · Shelley's diary",
+      "instruction": "Use the prompts to write sentences about Shelley's arrangements. Use the present continuous.",
+      "items": [
+        {
+          "id": "a1",
+          "prompt": "On Monday / she / meet / Alison / at the café",
+          "acceptedAnswers": [
+            "On Monday, she is meeting Alison at the café.",
+            "On Monday, she is meeting Alison at the café",
+            "On Monday she's meeting Alison at the café.",
+            "On Monday she's meeting Alison at the café",
+            "On Monday, she's meeting Alison at the café.",
+            "On Monday, she's meeting Alison at the café"
+          ]
+        },
+        {
+          "id": "a2",
+          "prompt": "On Tuesday / she / go shopping / with Mum",
+          "acceptedAnswers": [
+            "On Tuesday, she is going shopping with Mum.",
+            "On Tuesday, she is going shopping with Mum",
+            "On Tuesday she's going shopping with Mum.",
+            "On Tuesday she's going shopping with Mum",
+            "On Tuesday, she's going shopping with Mum.",
+            "On Tuesday, she's going shopping with Mum"
+          ]
+        },
+        {
+          "id": "a3",
+          "prompt": "On Wednesday / she / catch / the train / to Brighton",
+          "acceptedAnswers": [
+            "On Wednesday, she is catching the train to Brighton.",
+            "On Wednesday, she is catching the train to Brighton",
+            "On Wednesday she's catching the train to Brighton.",
+            "On Wednesday she's catching the train to Brighton",
+            "On Wednesday, she's catching the train to Brighton.",
+            "On Wednesday, she's catching the train to Brighton"
+          ]
+        },
+        {
+          "id": "a4",
+          "prompt": "On Thursday / she / spend / the day / with Charlie / in Brighton",
+          "acceptedAnswers": [
+            "On Thursday, she is spending the day with Charlie in Brighton.",
+            "On Thursday, she is spending the day with Charlie in Brighton",
+            "On Thursday she's spending the day with Charlie in Brighton.",
+            "On Thursday she's spending the day with Charlie in Brighton",
+            "On Thursday, she's spending the day with Charlie in Brighton.",
+            "On Thursday, she's spending the day with Charlie in Brighton"
+          ]
+        },
+        {
+          "id": "a5",
+          "prompt": "On Friday / she / catch / the train / home / at 10 am",
+          "acceptedAnswers": [
+            "On Friday, she is catching the train home at 10 am.",
+            "On Friday, she is catching the train home at 10 am",
+            "On Friday she's catching the train home at 10 am.",
+            "On Friday she's catching the train home at 10 am",
+            "On Friday, she's catching the train home at 10 am.",
+            "On Friday, she's catching the train home at 10 am",
+            "On Friday, she is catching the train home at 10am.",
+            "On Friday she's catching the train home at 10am."
+          ]
+        },
+        {
+          "id": "a6",
+          "prompt": "On Saturday / she / work / in Dad's shop / all morning",
+          "acceptedAnswers": [
+            "On Saturday, she is working in Dad's shop all morning.",
+            "On Saturday, she is working in Dad's shop all morning",
+            "On Saturday she's working in Dad's shop all morning.",
+            "On Saturday she's working in Dad's shop all morning",
+            "On Saturday, she's working in Dad's shop all morning.",
+            "On Saturday, she's working in Dad's shop all morning"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b",
+      "type": "gap-fill",
+      "title": "B · will and shall",
+      "instruction": "Complete using will or shall and a verb from the box. You may need a negative form.",
+      "wordBank": ["be", "come", "find", "have", "lend", "live", "take", "visit"],
+      "items": [
+        {
+          "id": "b1",
+          "prompt": "This year, more than a million tourists ___ our local area. (visit)",
+          "acceptedAnswers": ["will visit"]
+        },
+        {
+          "id": "b2",
+          "prompt": "I'm sure we ___ your bag soon. Where did you last see it? (find)",
+          "acceptedAnswers": ["will find", "'ll find"]
+        },
+        {
+          "id": "b3",
+          "prompt": "___ me some money until Saturday? (you / lend)",
+          "acceptedAnswers": ["Will you lend"]
+        },
+        {
+          "id": "b4",
+          "prompt": "Everything on the menu looks delicious! Erm … I ___ Chicken Kiev, please. (have)",
+          "acceptedAnswers": ["will have", "'ll have"]
+        },
+        {
+          "id": "b5",
+          "prompt": "I ___ you to the bus station, if you like. (take)",
+          "acceptedAnswers": ["will take", "'ll take"]
+        },
+        {
+          "id": "b6",
+          "prompt": "One day, people ___ on Mars in special buildings. (live)",
+          "acceptedAnswers": ["will live"]
+        },
+        {
+          "id": "b7",
+          "prompt": "No, there ___ any problems with delivering your new furniture next week. (not / be)",
+          "acceptedAnswers": ["won't be", "will not be"]
+        },
+        {
+          "id": "b8",
+          "prompt": "___ at six to help you get things ready for dinner? (we / come)",
+          "acceptedAnswers": ["Shall we come"],
+          "explanation": "Offers with we often use Shall."
+        }
+      ]
+    },
+    {
+      "id": "c",
+      "type": "gap-fill",
+      "title": "C · be going to",
+      "instruction": "Complete using the correct form of be going to and the verbs in brackets. You may need a negative form.",
+      "items": [
+        {
+          "id": "c1",
+          "prompt": "When I grow up, I ___ guitar in a rock group! (play)",
+          "acceptedAnswers": [
+            "am going to play",
+            "'m going to play"
+          ]
+        },
+        {
+          "id": "c2",
+          "prompt": "Rick and Mark ___ going to the gym twice a week. (start)",
+          "acceptedAnswers": ["are going to start"]
+        },
+        {
+          "id": "c3",
+          "prompt": "___ her mum about what happened? (Lauren / tell)",
+          "acceptedAnswers": ["Is Lauren going to tell"]
+        },
+        {
+          "id": "c4",
+          "prompt": "I ___ on the Internet for information about snowboarding. (look)",
+          "acceptedAnswers": [
+            "am going to look",
+            "'m going to look"
+          ]
+        },
+        {
+          "id": "c5",
+          "prompt": "No, Nadine ___ everyone from class — just her close friends. (not / invite)",
+          "acceptedAnswers": [
+            "isn't going to invite",
+            "is not going to invite",
+            "'s not going to invite"
+          ]
+        },
+        {
+          "id": "c6",
+          "prompt": "___ ready on time or not? (Harry / be)",
+          "acceptedAnswers": ["Is Harry going to be"]
+        },
+        {
+          "id": "c7",
+          "prompt": "Careful! You ___ something with that ball! Go outside! (break)",
+          "acceptedAnswers": [
+            "are going to break",
+            "'re going to break"
+          ]
+        },
+        {
+          "id": "c8",
+          "prompt": "I ___ for half an hour. Call me at six o'clock. (lie down)",
+          "acceptedAnswers": [
+            "am going to lie down",
+            "'m going to lie down"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d",
+      "type": "gap-fill",
+      "title": "D · Holiday timetable",
+      "instruction": "Complete using the correct present simple form of a verb from the box.",
+      "wordBank": ["arrive", "come", "leave", "take"],
+      "items": [
+        {
+          "id": "d1",
+          "prompt": "I'm so excited about my holiday! My plane ___ the airport here at nine o'clock. (leave)",
+          "acceptedAnswers": ["leaves"]
+        },
+        {
+          "id": "d2",
+          "prompt": "and we ___ in Paris two hours later. (arrive)",
+          "acceptedAnswers": ["arrive"]
+        },
+        {
+          "id": "d3",
+          "prompt": "We then ___ the train from the airport to the city. (take)",
+          "acceptedAnswers": ["take"]
+        },
+        {
+          "id": "d4",
+          "prompt": "We'll have a great week, and then we ___ back on the 17th. (come)",
+          "acceptedAnswers": ["come"]
+        }
+      ]
+    },
+    {
+      "id": "e",
+      "type": "multiple-choice",
+      "title": "E · Circle the correct phrase",
+      "instruction": "Select the form that completes each sentence.",
+      "items": [
+        {
+          "id": "e1",
+          "prompt": "Oscar says he ___ the washing-up after dinner.",
+          "options": ["is doing", "will do"],
+          "acceptedAnswers": ["will do"]
+        },
+        {
+          "id": "e2",
+          "prompt": "I'm a bit scared because I ___ the dentist this afternoon.",
+          "options": ["am seeing", "will see"],
+          "acceptedAnswers": ["am seeing"]
+        },
+        {
+          "id": "e3",
+          "prompt": "What ___ this evening?",
+          "options": ["are you going to do", "do you do"],
+          "acceptedAnswers": ["are you going to do"]
+        },
+        {
+          "id": "e4",
+          "prompt": "___ Rupert I'm sorry about yesterday?",
+          "options": ["Shall you tell", "Will you tell"],
+          "acceptedAnswers": ["Will you tell"]
+        },
+        {
+          "id": "e5",
+          "prompt": "My dad ___ a beard, but my mum doesn't like the idea.",
+          "options": ["will grow", "is going to grow"],
+          "acceptedAnswers": ["is going to grow"]
+        },
+        {
+          "id": "e6",
+          "prompt": "I have to revise tonight because we ___ an exam tomorrow.",
+          "options": ["are having", "will have"],
+          "acceptedAnswers": ["are having"]
+        },
+        {
+          "id": "e7",
+          "prompt": "I ___ this day for the rest of my life!",
+          "options": ["am remembering", "will remember"],
+          "acceptedAnswers": ["will remember"]
+        },
+        {
+          "id": "e8",
+          "prompt": "___ to Australia next Christmas?",
+          "options": ["Do you go", "Are you going"],
+          "acceptedAnswers": ["Are you going"]
+        },
+        {
+          "id": "e9",
+          "prompt": "I'm sure you ___ your driving test. Don't worry.",
+          "options": ["are passing", "will pass"],
+          "acceptedAnswers": ["will pass"]
+        },
+        {
+          "id": "e10",
+          "prompt": "If you want me to, I ___ to the manager about it.",
+          "options": ["will complain", "am going to complain"],
+          "acceptedAnswers": ["will complain"]
+        }
+      ]
+    },
+    {
+      "id": "f",
+      "type": "multiple-choice",
+      "title": "F · Choose the correct answer",
+      "instruction": "Select the best reply or continuation.",
+      "items": [
+        {
+          "id": "f1",
+          "prompt": "'Have you made plans for the summer?' 'Yes, ___ to Spain.'",
+          "options": ["We'll go", "We're going", "We go"],
+          "acceptedAnswers": ["We're going"]
+        },
+        {
+          "id": "f2",
+          "prompt": "'We're moving house tomorrow.' 'Really? ___ you with the furniture.'",
+          "options": ["I help", "I'm helping", "I'll help"],
+          "acceptedAnswers": ["I'll help"]
+        },
+        {
+          "id": "f3",
+          "prompt": "'Do you need this paintbrush?' 'Ah, yes. ___ it to me, please?'",
+          "options": ["Do you pass", "Will you pass", "Are you passing"],
+          "acceptedAnswers": ["Will you pass"]
+        },
+        {
+          "id": "f4",
+          "prompt": "'What do you want to be when you grow up, Stevie?' '___ a scientist. That's what I want to do, anyway.'",
+          "options": ["I be", "I'm going to be", "I'm being"],
+          "acceptedAnswers": ["I'm going to be"]
+        },
+        {
+          "id": "f5",
+          "prompt": "'John is a better player than Martin, isn't he?' 'Oh, yes. ___ the match tomorrow, I expect.'",
+          "options": ["He'll win", "He wins", "He's winning"],
+          "acceptedAnswers": ["He'll win"]
+        },
+        {
+          "id": "f6",
+          "prompt": "'The weather has been terrible, hasn't it?' 'Yes, I think ___ again later.'",
+          "options": ["it's going to rain", "it's raining", "it rains"],
+          "acceptedAnswers": ["it's going to rain"]
+        }
+      ]
+    }
+  ]
+}

@@ -40,17 +40,50 @@ function TheoryBlockView({ block }: { block: TheoryBlock }) {
           <RichText text={block.text} />
         </p>
       )
-    case 'form-table':
+    case 'form-table': {
+      const statementLabel = block.statementLabel ?? 'Statement'
+      const negativeLabel = block.negativeLabel ?? 'Negative'
+      const questionLabel = block.questionLabel ?? 'Question'
       return (
         <FormulaBox>
-          <table className="w-full min-w-[36rem] border-collapse text-sm">
+          <div className="space-y-3 p-3 sm:hidden">
+            {block.rows.map((row) => (
+              <div
+                key={row.person}
+                className="space-y-2 rounded-lg bg-background/40 p-3 text-sm"
+              >
+                <p className="text-xs font-semibold uppercase tracking-wide opacity-80">
+                  {row.person}
+                </p>
+                <p>
+                  <span className="mr-2 text-xs font-semibold uppercase tracking-wide opacity-70">
+                    {statementLabel}
+                  </span>
+                  <RichText text={row.statement} />
+                </p>
+                <p>
+                  <span className="mr-2 text-xs font-semibold uppercase tracking-wide opacity-70">
+                    {negativeLabel}
+                  </span>
+                  <RichText text={row.negative} />
+                </p>
+                <p>
+                  <span className="mr-2 text-xs font-semibold uppercase tracking-wide opacity-70">
+                    {questionLabel}
+                  </span>
+                  <RichText text={row.question} />
+                </p>
+              </div>
+            ))}
+          </div>
+          <table className="hidden w-full min-w-[36rem] border-collapse text-sm sm:table">
             <caption className="sr-only">Form table</caption>
             <thead>
               <tr className="text-left text-xs font-semibold uppercase tracking-wide opacity-80">
                 <th className="px-4 py-3">Form</th>
-                <th className="px-4 py-3">{block.statementLabel ?? 'Statement'}</th>
-                <th className="px-4 py-3">{block.negativeLabel ?? 'Negative'}</th>
-                <th className="px-4 py-3">{block.questionLabel ?? 'Question'}</th>
+                <th className="px-4 py-3">{statementLabel}</th>
+                <th className="px-4 py-3">{negativeLabel}</th>
+                <th className="px-4 py-3">{questionLabel}</th>
               </tr>
             </thead>
             <tbody>
@@ -72,10 +105,11 @@ function TheoryBlockView({ block }: { block: TheoryBlock }) {
           </table>
         </FormulaBox>
       )
+    }
     case 'use-examples':
       return (
         <div className="overflow-hidden rounded-xl border bg-card">
-          <div className="grid gap-2 border-b bg-muted/50 px-4 py-2 text-xs font-semibold uppercase tracking-wide text-muted-foreground sm:grid-cols-[minmax(0,12rem)_1fr] sm:gap-6">
+          <div className="grid gap-2 border-b bg-muted/50 px-4 py-2 text-xs font-semibold uppercase tracking-wide text-muted-foreground sm:grid-cols-[minmax(10rem,16rem)_1fr] sm:gap-6">
             <span>Use</span>
             <span>Example</span>
           </div>

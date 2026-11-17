@@ -1,0 +1,519 @@
+{
+  "id": "unit-08-prepositions",
+  "level": "b1",
+  "unitNumber": 8,
+  "title": "Prepositions of time and place",
+  "subtitle": "in, on and at for months, days, clock times, cities and exact spots",
+  "theory": [
+    {
+      "id": "in",
+      "title": "in",
+      "icon": "BookOpen",
+      "blocks": [
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "Time · months",
+              "example": "Paris is wonderful **in** April."
+            },
+            {
+              "use": "Time · years",
+              "example": "I first went to Russia **in** 2005."
+            },
+            {
+              "use": "Time · seasons",
+              "example": "We often go skiing **in** winter."
+            },
+            {
+              "use": "Time · parts of the day",
+              "example": "My train leaves **in** the afternoon."
+            },
+            {
+              "use": "Place · towns and cities",
+              "example": "There's a famous castle **in** Edinburgh."
+            },
+            {
+              "use": "Place · countries and continents",
+              "example": "My brother is **in** Mexico."
+            },
+            {
+              "use": "Place · areas and regions",
+              "example": "What's life like **in** the desert?"
+            },
+            {
+              "use": "Place · inside an object",
+              "example": "Your passport is **in** the drawer."
+            },
+            {
+              "use": "Place · inside a room",
+              "example": "I've left the tickets **in** the living room!"
+            },
+            {
+              "use": "Place · inside a building",
+              "example": "Sharon has been **in** the travel agent's for an hour!"
+            }
+          ]
+        },
+        {
+          "type": "hints",
+          "intro": "We also use **in** in these phrases:",
+          "items": [
+            "{pill:in a minute} / {pill:in an hour}",
+            "{pill:in front of}",
+            "{pill:in the middle (of)}",
+            "{pill:in the future}"
+          ]
+        },
+        {
+          "type": "watch-out",
+          "text": "With verbs of motion (come, go, move, run, walk, etc.), we usually use **to** instead of **in**, **on** or **at**.",
+          "note": "Was it hot when you **went to** Japan?"
+        }
+      ]
+    },
+    {
+      "id": "on",
+      "title": "on",
+      "icon": "Sparkles",
+      "blocks": [
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "Time · days",
+              "example": "I got a new car **on** Saturday."
+            },
+            {
+              "use": "Time · dates",
+              "example": "My birthday is **on** 19th March."
+            },
+            {
+              "use": "Place · islands",
+              "example": "Last year, we stayed **on** Mykonos."
+            },
+            {
+              "use": "Place · pages",
+              "example": "There are some useful Italian phrases **on** page 97."
+            },
+            {
+              "use": "Place · on top of an object",
+              "example": "Did you put your car keys **on** the kitchen table?"
+            },
+            {
+              "use": "Place · on a surface",
+              "example": "There's a timetable **on** the wall."
+            }
+          ]
+        },
+        {
+          "type": "hints",
+          "intro": "We also use **on** in these phrases:",
+          "items": [
+            "{pill:on the beach}",
+            "{pill:on the left} / {pill:on the right}",
+            "{pill:on my birthday}"
+          ]
+        },
+        {
+          "type": "watch-out",
+          "text": "We say **in** the morning/afternoon/evening, but **on** Monday morning / Wednesday evening, etc."
+        },
+        {
+          "type": "correct-incorrect",
+          "correct": "We're flying to Washington **in the morning** / **on Tuesday morning**.",
+          "incorrect": "We're flying to Washington **on the morning**."
+        },
+        {
+          "type": "watch-out",
+          "text": "We don't use a preposition with **tomorrow**, **yesterday**, **tomorrow morning**, **yesterday evening**, etc.",
+          "note": "We're flying to Washington **tomorrow afternoon**."
+        }
+      ]
+    },
+    {
+      "id": "at",
+      "title": "at",
+      "icon": "Lightbulb",
+      "blocks": [
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "Time · clock times",
+              "example": "There's a bus **at** ten past three."
+            },
+            {
+              "use": "Time · holiday periods",
+              "example": "What are you doing **at** Christmas?"
+            },
+            {
+              "use": "Place · exact places",
+              "example": "What's it like **at** the North Pole?"
+            },
+            {
+              "use": "Place · addresses",
+              "example": "My cousin lives **at** 132 London Road."
+            },
+            {
+              "use": "Place · buildings, when we are talking about the activities that happen there",
+              "example": "I think John is **at** the cinema, watching Titanic."
+            },
+            {
+              "use": "Place · activities",
+              "example": "Rania isn't here. She's **at** a party."
+            }
+          ]
+        },
+        {
+          "type": "hints",
+          "intro": "We also use **at** in these phrases:",
+          "items": [
+            "{pill:at the moment}",
+            "{pill:at night}",
+            "{pill:at the top} / {pill:at the bottom}",
+            "{pill:at the door} / {pill:at the window}"
+          ]
+        },
+        {
+          "type": "watch-out",
+          "text": "Compare how we use **in** and **at** for places. We use **in** for larger areas that are all around us when we are there. We use **at** for smaller places and points on a journey."
+        },
+        {
+          "type": "correct-incorrect",
+          "correct": "We're spending our next holiday **in** the countryside.",
+          "incorrect": "Let's meet **in** the train station."
+        },
+        {
+          "type": "prose",
+          "text": "Let's meet **at** the train station. (a point we arrive at)"
+        }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "a",
+      "type": "gap-fill",
+      "title": "A · Correct the preposition",
+      "instruction": "Write the correct preposition. If the preposition in brackets is already correct, write it again.",
+      "items": [
+        {
+          "id": "a1",
+          "prompt": "We first visited China ___ 2006. (on)",
+          "acceptedAnswers": ["in"]
+        },
+        {
+          "id": "a2",
+          "prompt": "My birthday is ___ the second of July. (at)",
+          "acceptedAnswers": ["on"]
+        },
+        {
+          "id": "a3",
+          "prompt": "Let's meet ___ five o'clock, shall we? (on)",
+          "acceptedAnswers": ["at"]
+        },
+        {
+          "id": "a4",
+          "prompt": "School starts again ___ September. (in)",
+          "acceptedAnswers": ["in"]
+        },
+        {
+          "id": "a5",
+          "prompt": "There's a party at Emily's ___ Saturday. (at)",
+          "acceptedAnswers": ["on"]
+        },
+        {
+          "id": "a6",
+          "prompt": "What do you want to do ___ the morning? (on)",
+          "acceptedAnswers": ["in"]
+        },
+        {
+          "id": "a7",
+          "prompt": "Let's go and see Grandma ___ Easter. (on)",
+          "acceptedAnswers": ["at"]
+        },
+        {
+          "id": "a8",
+          "prompt": "Where do you usually go ___ Christmas Day? (in)",
+          "acceptedAnswers": ["on"]
+        }
+      ]
+    },
+    {
+      "id": "b",
+      "type": "gap-fill",
+      "title": "B · on, in or at",
+      "instruction": "Complete using on, in or at.",
+      "wordBank": ["on", "in", "at"],
+      "items": [
+        {
+          "id": "b1",
+          "prompt": "There are lots of people ___ the restaurant.",
+          "acceptedAnswers": ["in"]
+        },
+        {
+          "id": "b2",
+          "prompt": "The people who live ___ number 44 are away on holiday.",
+          "acceptedAnswers": ["at"]
+        },
+        {
+          "id": "b3",
+          "prompt": "You should go to the Louvre when you're ___ Paris.",
+          "acceptedAnswers": ["in"]
+        },
+        {
+          "id": "b4",
+          "prompt": "Gorillas live ___ forests in Africa and eat fruit.",
+          "acceptedAnswers": ["in"]
+        },
+        {
+          "id": "b5",
+          "prompt": "What does that sign ___ the wall say?",
+          "acceptedAnswers": ["on"]
+        },
+        {
+          "id": "b6",
+          "prompt": "What did Ethan say ___ his letter?",
+          "acceptedAnswers": ["in"]
+        },
+        {
+          "id": "b7",
+          "prompt": "Have you heard of the strange statues ___ Easter Island?",
+          "acceptedAnswers": ["on"]
+        },
+        {
+          "id": "b8",
+          "prompt": "Do you really want to spend the whole day ___ the beach?",
+          "acceptedAnswers": ["on"]
+        }
+      ]
+    },
+    {
+      "id": "c",
+      "type": "gap-fill",
+      "title": "C · Picture captions",
+      "instruction": "Complete each caption with in, on or at.",
+      "items": [
+        {
+          "id": "c1",
+          "prompt": "This photo was taken ___ winter.",
+          "acceptedAnswers": ["in"]
+        },
+        {
+          "id": "c2",
+          "prompt": "We're ___ a concert.",
+          "acceptedAnswers": ["at"]
+        },
+        {
+          "id": "c3",
+          "prompt": "She's ___ the sea.",
+          "acceptedAnswers": ["in"]
+        },
+        {
+          "id": "c4",
+          "prompt": "It's ___ page 62.",
+          "acceptedAnswers": ["on"]
+        },
+        {
+          "id": "c5",
+          "prompt": "It's ___ the middle.",
+          "acceptedAnswers": ["in"]
+        },
+        {
+          "id": "c6",
+          "prompt": "He's ___ an island.",
+          "acceptedAnswers": ["on"]
+        },
+        {
+          "id": "c7",
+          "prompt": "It's ___ the mountain.",
+          "acceptedAnswers": ["on"]
+        },
+        {
+          "id": "c8",
+          "prompt": "They're ___ a wedding.",
+          "acceptedAnswers": ["at"]
+        }
+      ]
+    },
+    {
+      "id": "d",
+      "type": "gap-fill",
+      "title": "D · at, in, on, to",
+      "instruction": "Complete using a word from the box.",
+      "wordBank": ["at", "in", "on", "to"],
+      "items": [
+        {
+          "id": "d1",
+          "prompt": "My aunt and uncle have decided to move ___ New Zealand.",
+          "acceptedAnswers": ["to"]
+        },
+        {
+          "id": "d2",
+          "prompt": "Do you want to go ___ the theatre tomorrow?",
+          "acceptedAnswers": ["to"]
+        },
+        {
+          "id": "d3",
+          "prompt": "We stayed ___ a great hotel in Dubai.",
+          "acceptedAnswers": ["in"]
+        },
+        {
+          "id": "d4",
+          "prompt": "Wait ___ the end of the street and I'll come and meet you.",
+          "acceptedAnswers": ["at"]
+        },
+        {
+          "id": "d5",
+          "prompt": "You can come ___ my house for dinner, if you like.",
+          "acceptedAnswers": ["to"]
+        },
+        {
+          "id": "d6",
+          "prompt": "Connor was walking ___ the corner shop when he realised he'd lost his wallet.",
+          "acceptedAnswers": ["to"]
+        },
+        {
+          "id": "d7",
+          "prompt": "We drove all night and finally arrived ___ Lisbon at eight o'clock.",
+          "acceptedAnswers": ["in"]
+        },
+        {
+          "id": "d8",
+          "prompt": "Did you leave your book ___ the teacher's desk, so she can see it?",
+          "acceptedAnswers": ["on"]
+        },
+        {
+          "id": "d9",
+          "prompt": "Look at those sheep ___ that field over there.",
+          "acceptedAnswers": ["in"]
+        },
+        {
+          "id": "d10",
+          "prompt": "It takes about six hours to fly ___ Asia from here.",
+          "acceptedAnswers": ["to"]
+        }
+      ]
+    },
+    {
+      "id": "e",
+      "type": "multiple-choice",
+      "title": "E · Circle the correct word",
+      "instruction": "Select the preposition that completes each sentence.",
+      "items": [
+        {
+          "id": "e1",
+          "prompt": "I'm meeting Andy ___ the cinema in an hour.",
+          "options": ["at", "on"],
+          "acceptedAnswers": ["at"]
+        },
+        {
+          "id": "e2",
+          "prompt": "Have you seen the new building ___ the school?",
+          "options": ["at", "in front of"],
+          "acceptedAnswers": ["in front of"]
+        },
+        {
+          "id": "e3",
+          "prompt": "My new job starts ___ the first day of August.",
+          "options": ["in", "on"],
+          "acceptedAnswers": ["on"]
+        },
+        {
+          "id": "e4",
+          "prompt": "We're going to Martin's to see their new baby ___ Wednesday evening.",
+          "options": ["in", "on"],
+          "acceptedAnswers": ["on"]
+        },
+        {
+          "id": "e5",
+          "prompt": "See if there are any tomatoes ___ the fridge, will you?",
+          "options": ["at", "in"],
+          "acceptedAnswers": ["in"]
+        },
+        {
+          "id": "e6",
+          "prompt": "We'll all have computers connected to our brains ___ the future.",
+          "options": ["at", "in"],
+          "acceptedAnswers": ["in"]
+        },
+        {
+          "id": "e7",
+          "prompt": "I don't feel like playing chess ___ the moment.",
+          "options": ["at", "on"],
+          "acceptedAnswers": ["at"]
+        },
+        {
+          "id": "e8",
+          "prompt": "I think there's someone ___ the door. I'll go and check.",
+          "options": ["at", "in"],
+          "acceptedAnswers": ["at"]
+        }
+      ]
+    },
+    {
+      "id": "f",
+      "type": "gap-fill",
+      "title": "F · Jetlag",
+      "instruction": "Write one word in each gap.",
+      "items": [
+        {
+          "id": "f1",
+          "prompt": "When you travel ___ the other side of the world, jetlag is a real problem.",
+          "acceptedAnswers": ["to"]
+        },
+        {
+          "id": "f2",
+          "prompt": "You find yourself awake ___ the middle of the night and you feel like going to bed",
+          "acceptedAnswers": ["in"]
+        },
+        {
+          "id": "f3",
+          "prompt": "___ the morning, just when everyone around you is getting up.",
+          "acceptedAnswers": ["in"]
+        },
+        {
+          "id": "f4",
+          "prompt": "Jetlag happens when you go ___ a country where the time is very different.",
+          "acceptedAnswers": ["to"]
+        },
+        {
+          "id": "f5",
+          "prompt": "For example, you might leave London ___ midday and fly",
+          "acceptedAnswers": ["at"]
+        },
+        {
+          "id": "f6",
+          "prompt": "___ 3 pm. But Los Angeles",
+          "acceptedAnswers": ["at"]
+        },
+        {
+          "id": "f7",
+          "prompt": "The flight takes about eleven hours, so when you arrive ___ Los Angeles airport,",
+          "acceptedAnswers": ["at"]
+        },
+        {
+          "id": "f8",
+          "prompt": "your body thinks you're there ___ 11 pm. But Los Angeles is",
+          "acceptedAnswers": ["at"]
+        },
+        {
+          "id": "f9",
+          "prompt": "eight hours behind London, so you actually get there ___ 3 pm local time. So,",
+          "acceptedAnswers": ["at"]
+        },
+        {
+          "id": "f10",
+          "prompt": "___ midnight Los Angeles time, your body (which still thinks it's",
+          "acceptedAnswers": ["at"]
+        },
+        {
+          "id": "f11",
+          "prompt": "___ London) says it's 8 am. It takes a few days for your body clock to change.",
+          "acceptedAnswers": ["in"]
+        }
+      ]
+    }
+  ]
+}

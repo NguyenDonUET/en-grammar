@@ -1,0 +1,495 @@
+{
+  "id": "unit-02-past-tenses",
+  "level": "b1",
+  "unitNumber": 2,
+  "title": "Past simple, past continuous, used to",
+  "subtitle": "Finished actions, actions in progress, and distant past habits",
+  "theory": [
+    {
+      "id": "past-simple",
+      "title": "Past simple",
+      "icon": "BookOpen",
+      "blocks": [
+        {
+          "type": "form-table",
+          "rows": [
+            {
+              "person": "I / you / he / she / it / we / they",
+              "statement": "I/you/he/she/it/we/they **played** …",
+              "negative": "I/you/he/she/it/we/they **did not (didn't) play** …",
+              "question": "**Did** I/you/he/she/it/we/they **play** …?"
+            }
+          ]
+        },
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "Completed actions",
+              "example": "I **watched** the new space documentary last night."
+            },
+            {
+              "use": "Repeated actions in the past",
+              "example": "We **visited** the science museum four times last month."
+            },
+            {
+              "use": "General truths about the past",
+              "example": "Fifty years ago, people **didn't spend** as much time on screens as they do today."
+            },
+            {
+              "use": "Main events in a story",
+              "example": "Noah **opened** the window and **looked** down at the street."
+            }
+          ]
+        },
+        {
+          "type": "hints",
+          "intro": "The past simple often appears with these time words and phrases:",
+          "items": [
+            "{pill:yesterday}",
+            "{pill:last week} / {pill:last summer} / {pill:last year}",
+            "{pill:in January} / {pill:in 2001}",
+            "{pill:an hour ago} / {pill:a week ago} / {pill:a year ago}"
+          ]
+        },
+        {
+          "type": "watch-out",
+          "text": "Some verbs have irregular past simple forms.",
+          "note": "See the irregular verb list in your notes."
+        }
+      ]
+    },
+    {
+      "id": "past-continuous",
+      "title": "Past continuous",
+      "icon": "Sparkles",
+      "blocks": [
+        {
+          "type": "form-table",
+          "rows": [
+            {
+              "person": "I / he / she / it",
+              "statement": "I/he/she/it **was playing** …",
+              "negative": "I/he/she/it **was not (wasn't) playing** …",
+              "question": "**Was** I/he/she/it **playing** …?"
+            },
+            {
+              "person": "you / we / they",
+              "statement": "You/we/they **were playing** …",
+              "negative": "You/we/they **were not (weren't) playing** …",
+              "question": "**Were** you/we/they **playing** …?"
+            }
+          ]
+        },
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "Actions happening at a moment in the past",
+              "example": "At nine o'clock last night, I **was watching** a quiz show."
+            },
+            {
+              "use": "Two actions in progress at the same time",
+              "example": "I **was reading** a magazine while you **were cooking** dinner."
+            },
+            {
+              "use": "Background information in a story",
+              "example": "It **was raining**, so Maya decided to stay at home."
+            }
+          ]
+        },
+        {
+          "type": "hints",
+          "intro": "The past continuous often appears with these words and phrases:",
+          "items": [
+            "{pill:at that moment}",
+            "{pill:at one} / {pill:at two} / {pill:at six o'clock}",
+            "{pill:while}"
+          ]
+        },
+        {
+          "type": "watch-out",
+          "text": "When one action in the past happens in the middle of another, we use the past simple and the past continuous together."
+        },
+        {
+          "type": "correct-incorrect",
+          "correct": "The phone **rang** while I **was watching** a DVD.",
+          "incorrect": "Last year, I **was going** to the cinema every weekend."
+        },
+        {
+          "type": "prose",
+          "text": "We do not use the past continuous for regular or repeated actions in the past. Use the past simple (or **used to**) instead."
+        }
+      ]
+    },
+    {
+      "id": "used-to",
+      "title": "used to",
+      "icon": "Lightbulb",
+      "blocks": [
+        {
+          "type": "prose",
+          "text": "**used to** + bare infinitive"
+        },
+        {
+          "type": "form-table",
+          "rows": [
+            {
+              "person": "I / you / he / she / it / we / they",
+              "statement": "I/you/he/she/it/we/they **used to** …",
+              "negative": "I/you/he/she/it/we/they **never used to** … / **didn't use to** …",
+              "question": "**Did** I/you/he/she/it/we/they **use to** …?"
+            }
+          ]
+        },
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "Distant past habits and states",
+              "example": "When I was four, I **used to eat** ice cream every day."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "a",
+      "type": "gap-fill",
+      "title": "A · Complete the sentences",
+      "instruction": "Complete using the correct past simple form of a verb from the box. You may need a negative form.",
+      "wordBank": ["come", "give", "go", "have", "know", "make", "send", "take"],
+      "items": [
+        {
+          "id": "a1",
+          "prompt": "I got to the post office just before it closed and ___ the parcel. (send)",
+          "acceptedAnswers": ["sent"]
+        },
+        {
+          "id": "a2",
+          "prompt": "We invited Priya to the picnic, but she ___ . (not / come)",
+          "acceptedAnswers": ["didn't come", "did not come"]
+        },
+        {
+          "id": "a3",
+          "prompt": "Leo lost his job because he ___ too many mistakes. (make)",
+          "acceptedAnswers": ["made"]
+        },
+        {
+          "id": "a4",
+          "prompt": "Everyone ___ that it was Mina's idea, but nobody said anything. (know)",
+          "acceptedAnswers": ["knew"]
+        },
+        {
+          "id": "a5",
+          "prompt": "Tara ___ the keys from the kitchen table and ran out of the door. (take)",
+          "acceptedAnswers": ["took"]
+        },
+        {
+          "id": "a6",
+          "prompt": "I was bored, so Dad ___ me some money to go shopping. (give)",
+          "acceptedAnswers": ["gave"]
+        },
+        {
+          "id": "a7",
+          "prompt": "Do you remember the time we ___ to Portugal on holiday? (go)",
+          "acceptedAnswers": ["went"]
+        },
+        {
+          "id": "a8",
+          "prompt": "It started raining, but luckily I ___ an umbrella in my bag. (have)",
+          "acceptedAnswers": ["had"]
+        }
+      ]
+    },
+    {
+      "id": "b",
+      "type": "guided-sentence",
+      "title": "B · Write a sentence",
+      "instruction": "Use the prompts to write a full sentence in the past simple.",
+      "items": [
+        {
+          "id": "b1",
+          "prompt": "I / see / that film / last week",
+          "acceptedAnswers": [
+            "I saw that film last week.",
+            "I saw that film last week"
+          ]
+        },
+        {
+          "id": "b2",
+          "prompt": "I / play / football / yesterday",
+          "acceptedAnswers": [
+            "I played football yesterday.",
+            "I played football yesterday"
+          ]
+        },
+        {
+          "id": "b3",
+          "prompt": "I / go / to Paris / two years ago",
+          "acceptedAnswers": [
+            "I went to Paris two years ago.",
+            "I went to Paris two years ago"
+          ]
+        },
+        {
+          "id": "b4",
+          "prompt": "I / finish / my homework / last night",
+          "acceptedAnswers": [
+            "I finished my homework last night.",
+            "I finished my homework last night"
+          ]
+        },
+        {
+          "id": "b5",
+          "prompt": "I / get / a games console / in June",
+          "acceptedAnswers": [
+            "I got a games console in June.",
+            "I got a games console in June"
+          ]
+        },
+        {
+          "id": "b6",
+          "prompt": "I / break / Mum's favourite vase / a week ago",
+          "acceptedAnswers": [
+            "I broke Mum's favourite vase a week ago.",
+            "I broke Mum's favourite vase a week ago",
+            "I broke Mom's favourite vase a week ago.",
+            "I broke Mom's favourite vase a week ago"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c",
+      "type": "gap-fill",
+      "title": "C · Past continuous",
+      "instruction": "Complete using the correct past continuous form of the verbs in brackets.",
+      "items": [
+        {
+          "id": "c1",
+          "prompt": "Ted ___ his guitar at half past seven. (play)",
+          "acceptedAnswers": ["was playing"]
+        },
+        {
+          "id": "c2",
+          "prompt": "At midnight, I ___ , but Jane was still awake. (sleep)",
+          "acceptedAnswers": ["was sleeping"]
+        },
+        {
+          "id": "c3",
+          "prompt": "Luke ___ outside the bank when two robbers suddenly ran past him. (stand)",
+          "acceptedAnswers": ["was standing"]
+        },
+        {
+          "id": "c4",
+          "prompt": "I know Doug ___ late at the office because I saw him when I left. (work)",
+          "acceptedAnswers": ["was working"]
+        },
+        {
+          "id": "c5",
+          "prompt": "___ a shower when the earthquake happened? (you / have)",
+          "acceptedAnswers": ["Were you having", "were you having"]
+        },
+        {
+          "id": "c6",
+          "prompt": "Penny ___ to catch the bus when she slipped and fell. (run)",
+          "acceptedAnswers": ["was running"]
+        },
+        {
+          "id": "c7",
+          "prompt": "When you saw Eugene, ___ home? (he / go)",
+          "acceptedAnswers": ["was he going", "Was he going"]
+        },
+        {
+          "id": "c8",
+          "prompt": "At midnight? Erm … we ___ a DVD, I think. (watch)",
+          "acceptedAnswers": ["were watching"]
+        }
+      ]
+    },
+    {
+      "id": "d",
+      "type": "multiple-choice",
+      "title": "D · Choose the correct option",
+      "instruction": "Select the form that completes each sentence.",
+      "items": [
+        {
+          "id": "d1",
+          "prompt": "When we were in Canada, we ___ skiing almost every day.",
+          "options": ["went", "were going"],
+          "acceptedAnswers": ["went"]
+        },
+        {
+          "id": "d2",
+          "prompt": "About four years ago, I ___ to become a chef.",
+          "options": ["decided", "was deciding"],
+          "acceptedAnswers": ["decided"]
+        },
+        {
+          "id": "d3",
+          "prompt": "Georgia ___ a shower when someone knocked at the door.",
+          "options": ["had", "was having"],
+          "acceptedAnswers": ["was having"]
+        },
+        {
+          "id": "d4",
+          "prompt": "Holly and I ran from the house to the taxi because it ___ heavily.",
+          "options": ["rained", "was raining"],
+          "acceptedAnswers": ["was raining"]
+        },
+        {
+          "id": "d5",
+          "prompt": "Two men ___ outside, so I went to see what was happening.",
+          "options": ["argued", "were arguing"],
+          "acceptedAnswers": ["were arguing"]
+        },
+        {
+          "id": "d6",
+          "prompt": "Daniel ___ you at one o'clock yesterday, but you were here with me.",
+          "options": ["called", "was calling"],
+          "acceptedAnswers": ["called"]
+        },
+        {
+          "id": "d7",
+          "prompt": "We ___ breakfast when a letter came through the letter box.",
+          "options": ["ate", "were eating"],
+          "acceptedAnswers": ["were eating"]
+        },
+        {
+          "id": "d8",
+          "prompt": "As I walked past the window, I saw that Paula ___ a cake.",
+          "options": ["made", "was making"],
+          "acceptedAnswers": ["was making"]
+        },
+        {
+          "id": "d9",
+          "prompt": "I ___ about my favourite band when the alarm clock went off.",
+          "options": ["dreamt", "was dreaming"],
+          "acceptedAnswers": ["was dreaming"]
+        },
+        {
+          "id": "d10",
+          "prompt": "While I ___ the trumpet late last night, a neighbour came to complain.",
+          "options": ["practised", "was practising"],
+          "acceptedAnswers": ["was practising"]
+        }
+      ]
+    },
+    {
+      "id": "e",
+      "type": "gap-fill",
+      "title": "E · Amber's big match",
+      "instruction": "Complete using the correct past simple or past continuous form of a verb from the box.",
+      "wordBank": [
+        "answer",
+        "be",
+        "continue",
+        "get",
+        "go",
+        "have",
+        "open",
+        "practise",
+        "put",
+        "ring",
+        "say",
+        "shine",
+        "sing",
+        "wake"
+      ],
+      "items": [
+        {
+          "id": "e1",
+          "prompt": "One morning, Amber ___ early. (wake)",
+          "acceptedAnswers": ["woke"]
+        },
+        {
+          "id": "e2",
+          "prompt": "The sun ___ and the birds were singing. (shine)",
+          "acceptedAnswers": ["was shining"]
+        },
+        {
+          "id": "e3",
+          "prompt": "Amber ___ very excited because it was the day of the big tennis match. (be)",
+          "acceptedAnswers": ["was"]
+        },
+        {
+          "id": "e4",
+          "prompt": "Amber ___ downstairs and into the kitchen. (go)",
+          "acceptedAnswers": ["went"]
+        },
+        {
+          "id": "e5",
+          "prompt": "Her father ___ breakfast. (have)",
+          "acceptedAnswers": ["was having"]
+        },
+        {
+          "id": "e6",
+          "prompt": "'Morning, Amber. Today's the day!' he ___ . (say)",
+          "acceptedAnswers": ["said"]
+        },
+        {
+          "id": "e7",
+          "prompt": "Amber ___ some toast into the toaster. (put)",
+          "acceptedAnswers": ["put"]
+        },
+        {
+          "id": "e8",
+          "prompt": "Just as she ___ the fridge, the phone rang. (open)",
+          "acceptedAnswers": ["was opening"]
+        },
+        {
+          "id": "e9",
+          "prompt": "Her father ___ it. (answer)",
+          "acceptedAnswers": ["answered"]
+        },
+        {
+          "id": "e10",
+          "prompt": "The other player ___ an accident the day before. (have)",
+          "acceptedAnswers": ["had"],
+          "explanation": "A completed event before that morning uses the past simple."
+        }
+      ]
+    },
+    {
+      "id": "f",
+      "type": "gap-fill",
+      "title": "F · used to",
+      "instruction": "Complete using the correct form of used to. You may need a negative form.",
+      "items": [
+        {
+          "id": "f1",
+          "prompt": "When I was younger, I ___ eat pizza almost every day!",
+          "acceptedAnswers": ["used to"]
+        },
+        {
+          "id": "f2",
+          "prompt": "___ a supermarket on the corner? (Did there / use to be)",
+          "acceptedAnswers": ["Did there use to be"]
+        },
+        {
+          "id": "f3",
+          "prompt": "Bradley is a teacher, but he ___ want to be a train driver.",
+          "acceptedAnswers": ["used to"]
+        },
+        {
+          "id": "f4",
+          "prompt": "I ___ like eating cabbage, but now I love it!",
+          "acceptedAnswers": ["didn't use to", "did not use to", "never used to"]
+        },
+        {
+          "id": "f5",
+          "prompt": "___ blond hair when he was a little boy? (Did Rick / use to have)",
+          "acceptedAnswers": ["Did Rick use to have"]
+        },
+        {
+          "id": "f6",
+          "prompt": "I know Lily ___ cook much, but now I think she makes dinner every day.",
+          "acceptedAnswers": ["didn't use to", "did not use to", "never used to"]
+        }
+      ]
+    }
+  ]
+}

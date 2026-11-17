@@ -1,0 +1,482 @@
+{
+  "id": "unit-04-present-perfect",
+  "level": "b1",
+  "unitNumber": 4,
+  "title": "Present perfect simple, present perfect continuous",
+  "subtitle": "Results now, unfinished time, and actions that continue up to now",
+  "theory": [
+    {
+      "id": "present-perfect-simple",
+      "title": "Present perfect simple",
+      "icon": "BookOpen",
+      "blocks": [
+        {
+          "type": "prose",
+          "text": "**have/has** + past participle"
+        },
+        {
+          "type": "form-table",
+          "rows": [
+            {
+              "person": "I / you / we / they",
+              "statement": "I/you/we/they **have ('ve) learnt** …",
+              "negative": "I/you/we/they **have not (haven't) learnt** …",
+              "question": "**Have** I/you/we/they **learnt** …?"
+            },
+            {
+              "person": "he / she / it",
+              "statement": "He/she/it **has ('s) learnt** …",
+              "negative": "He/she/it **has not (hasn't) learnt** …",
+              "question": "**Has** he/she/it **learnt** …?"
+            }
+          ]
+        },
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "Situations that started in the past and are still true",
+              "example": "Mrs Jenkins **has been** the head teacher for three years."
+            },
+            {
+              "use": "Completed actions at a time in the past which is not mentioned",
+              "example": "I've **already read** that book."
+            },
+            {
+              "use": "Completed actions where the important thing is the result now",
+              "example": "They've **all done** their homework."
+            }
+          ]
+        },
+        {
+          "type": "hints",
+          "intro": "The present perfect simple is often used with these words and phrases:",
+          "items": [
+            "{pill:for} — She's taught German here **for** five years.",
+            "{pill:since} — Mr Gray has taught French here **since** 2006.",
+            "{pill:just} — We've **just** done this exercise.",
+            "{pill:already} — We've **already** done this exercise.",
+            "{pill:yet} — We haven't checked the answers **yet**.",
+            "{pill:ever} — Have you **ever** had guitar lessons?",
+            "{pill:never} — I've **never** understood why they give us so much homework!",
+            "{pill:it's the first time} — It's the **first time** we've watched a video in class."
+          ]
+        },
+        {
+          "type": "watch-out",
+          "text": "We don't use the present perfect simple when we want to say **when** something happened in the past. We use the past simple."
+        },
+        {
+          "type": "correct-incorrect",
+          "correct": "I **did** my homework last night.",
+          "incorrect": "I **have done** my homework last night."
+        },
+        {
+          "type": "watch-out",
+          "text": "We don't use the past simple when we want to show that something happened **before now** or is **still important now**. We use the present perfect simple.",
+          "note": "I've **finished**! Can I go home now?"
+        }
+      ]
+    },
+    {
+      "id": "present-perfect-continuous",
+      "title": "Present perfect continuous",
+      "icon": "Sparkles",
+      "blocks": [
+        {
+          "type": "prose",
+          "text": "**have/has** + **been** + **-ing**"
+        },
+        {
+          "type": "form-table",
+          "rows": [
+            {
+              "person": "I / you / we / they",
+              "statement": "I/you/we/they **have ('ve) been studying** …",
+              "negative": "I/you/we/they **have not (haven't) been studying** …",
+              "question": "**Have** I/you/we/they **been studying** …?"
+            },
+            {
+              "person": "he / she / it",
+              "statement": "He/she/it **has ('s) been studying** …",
+              "negative": "He/she/it **has not (hasn't) been studying** …",
+              "question": "**Has** he/she/it **been studying** …?"
+            }
+          ]
+        },
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "Actions continuing up to now or just before now",
+              "example": "We've **been doing** grammar exercises for over an hour. Can we have a break now?"
+            }
+          ]
+        },
+        {
+          "type": "hints",
+          "intro": "The present perfect continuous is often used with these words and phrases:",
+          "items": [
+            "{pill:for} — I've been learning English **for** over three years.",
+            "{pill:since} — He's been learning Chinese **since** 2004.",
+            "{pill:just} — I've **just** been reading the school newspaper."
+          ]
+        },
+        {
+          "type": "watch-out",
+          "text": "The present perfect simple often emphasises the **result** of an action.",
+          "note": "She's **written** an article for the school newspaper. (= She's finished it.)"
+        },
+        {
+          "type": "watch-out",
+          "text": "The present perfect continuous often emphasises the **action** and the time spent on it, rather than the result.",
+          "note": "She's **been writing** an article for the school newspaper. (= She's started, but she hasn't finished it yet.)"
+        }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "a",
+      "type": "gap-fill",
+      "title": "A · Present perfect simple",
+      "instruction": "Complete using the correct present perfect simple form of the verbs in brackets.",
+      "items": [
+        {
+          "id": "a1",
+          "prompt": "I ___ this film already. (see)",
+          "acceptedAnswers": ["have seen", "'ve seen"]
+        },
+        {
+          "id": "a2",
+          "prompt": "John and Julie ___ their car for about a year. (have)",
+          "acceptedAnswers": ["have had"]
+        },
+        {
+          "id": "a3",
+          "prompt": "She ___ her driving test yet. (not / take)",
+          "acceptedAnswers": ["hasn't taken", "has not taken"]
+        },
+        {
+          "id": "a4",
+          "prompt": "Sue ___ a tour guide since she left university. (be)",
+          "acceptedAnswers": ["has been"]
+        },
+        {
+          "id": "a5",
+          "prompt": "___ into town on your new bike yet? (you / ride)",
+          "acceptedAnswers": [
+            "Have you ridden",
+            "have you ridden"
+          ]
+        },
+        {
+          "id": "a6",
+          "prompt": "This new computer ___ my life a lot easier. (make)",
+          "acceptedAnswers": ["has made"]
+        },
+        {
+          "id": "a7",
+          "prompt": "We ___ what to get Mark for his birthday yet. (not / decide)",
+          "acceptedAnswers": ["haven't decided", "have not decided"]
+        },
+        {
+          "id": "a8",
+          "prompt": "___ a famous person? (Paul / ever / meet)",
+          "acceptedAnswers": [
+            "Has Paul ever met",
+            "has Paul ever met"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b",
+      "type": "multiple-choice",
+      "title": "B · Choose the correct answer",
+      "instruction": "Select the option that completes each sentence.",
+      "items": [
+        {
+          "id": "b1",
+          "prompt": "___ never played this game before.",
+          "options": ["I've", "I"],
+          "acceptedAnswers": ["I've"]
+        },
+        {
+          "id": "b2",
+          "prompt": "Adam ___ his room last night.",
+          "options": ["has tidied", "tidied"],
+          "acceptedAnswers": ["tidied"]
+        },
+        {
+          "id": "b3",
+          "prompt": "___ here since 2005?",
+          "options": ["Have you lived", "Did you live"],
+          "acceptedAnswers": ["Have you lived"]
+        },
+        {
+          "id": "b4",
+          "prompt": "Carol and I ___ to the cinema three nights ago.",
+          "options": ["have been", "went"],
+          "acceptedAnswers": ["went"]
+        },
+        {
+          "id": "b5",
+          "prompt": "It's the first time ___ our flat, isn't it?",
+          "options": ["you've visited", "you visited"],
+          "acceptedAnswers": ["you've visited"]
+        },
+        {
+          "id": "b6",
+          "prompt": "They ___ the baby a name yet.",
+          "options": ["haven't given", "didn't give"],
+          "acceptedAnswers": ["haven't given"]
+        },
+        {
+          "id": "b7",
+          "prompt": "___ to New York when you went to the States last summer?",
+          "options": ["Have you been", "Did you go"],
+          "acceptedAnswers": ["Did you go"]
+        },
+        {
+          "id": "b8",
+          "prompt": "___ an email before?",
+          "options": ["Have you ever sent", "Did you ever send"],
+          "acceptedAnswers": ["Have you ever sent"]
+        }
+      ]
+    },
+    {
+      "id": "c",
+      "type": "guided-sentence",
+      "title": "C · Classroom picture",
+      "instruction": "Use the prompts to write a sentence in the present perfect simple.",
+      "items": [
+        {
+          "id": "c1",
+          "prompt": "the lesson / not / start / yet",
+          "acceptedAnswers": [
+            "The lesson hasn't started yet.",
+            "The lesson hasn't started yet",
+            "The lesson has not started yet.",
+            "The lesson has not started yet"
+          ]
+        },
+        {
+          "id": "c2",
+          "prompt": "the teacher / already / write / on the board",
+          "acceptedAnswers": [
+            "The teacher has already written on the board.",
+            "The teacher has already written on the board",
+            "The teacher's already written on the board.",
+            "The teacher's already written on the board"
+          ]
+        },
+        {
+          "id": "c3",
+          "prompt": "Joe and Tim / just / come / into the classroom",
+          "acceptedAnswers": [
+            "Joe and Tim have just come into the classroom.",
+            "Joe and Tim have just come into the classroom",
+            "Joe and Tim have just come into the classroom."
+          ]
+        },
+        {
+          "id": "c4",
+          "prompt": "Tony / not / finish / getting / his books ready",
+          "acceptedAnswers": [
+            "Tony hasn't finished getting his books ready.",
+            "Tony hasn't finished getting his books ready",
+            "Tony has not finished getting his books ready.",
+            "Tony has not finished getting his books ready"
+          ]
+        },
+        {
+          "id": "c5",
+          "prompt": "Christine / already / open / her book",
+          "acceptedAnswers": [
+            "Christine has already opened her book.",
+            "Christine has already opened her book",
+            "Christine's already opened her book.",
+            "Christine's already opened her book"
+          ]
+        },
+        {
+          "id": "c6",
+          "prompt": "Dave / drop / his pen / on the floor",
+          "acceptedAnswers": [
+            "Dave has dropped his pen on the floor.",
+            "Dave has dropped his pen on the floor",
+            "Dave's dropped his pen on the floor.",
+            "Dave's dropped his pen on the floor"
+          ]
+        },
+        {
+          "id": "c7",
+          "prompt": "he / not / pick it up / yet",
+          "acceptedAnswers": [
+            "He hasn't picked it up yet.",
+            "He hasn't picked it up yet",
+            "He has not picked it up yet.",
+            "He has not picked it up yet"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d",
+      "type": "gap-fill",
+      "title": "D · Conversation",
+      "instruction": "Complete using the correct present perfect continuous form of the verbs in brackets. Use short forms where possible.",
+      "items": [
+        {
+          "id": "d1",
+          "prompt": "Mandy: Hi Matt. How are you? What ___ recently? (you / do)",
+          "acceptedAnswers": ["have you been doing", "Have you been doing"]
+        },
+        {
+          "id": "d2",
+          "prompt": "Matt: Oh, hi Mandy! Well, ___ for my exams. (I / study)",
+          "acceptedAnswers": ["I've been studying", "I have been studying"]
+        },
+        {
+          "id": "d3",
+          "prompt": "Mandy: That sounds boring! ___ hard? (you / work)",
+          "acceptedAnswers": ["Have you been working", "have you been working"]
+        },
+        {
+          "id": "d4",
+          "prompt": "Matt: Very! Basically, ___ at my desk in my bedroom for the past three weeks. (I / just / sit)",
+          "acceptedAnswers": ["I've just been sitting", "I have just been sitting"]
+        },
+        {
+          "id": "d5",
+          "prompt": "I ___ out at all. (I / not / go)",
+          "acceptedAnswers": ["haven't been going", "have not been going"]
+        },
+        {
+          "id": "d6",
+          "prompt": "___ with Michael, my best friend, some of the time, though. (I / work)",
+          "acceptedAnswers": ["I've been working", "I have been working"]
+        },
+        {
+          "id": "d7",
+          "prompt": "Mandy: Well, my mum and I ___ my bedroom for the last few days. (paint)",
+          "acceptedAnswers": ["have been painting", "'ve been painting"]
+        },
+        {
+          "id": "d8",
+          "prompt": "And ___ our summer holiday. (we / also / plan)",
+          "acceptedAnswers": [
+            "we've also been planning",
+            "we have also been planning"
+          ]
+        },
+        {
+          "id": "d9",
+          "prompt": "___ at different places to see which we like best. (We / look)",
+          "acceptedAnswers": ["We've been looking", "We have been looking"]
+        },
+        {
+          "id": "d10",
+          "prompt": "Matt: ___ of having a party when I finish my exams. (I / think)",
+          "acceptedAnswers": ["I've been thinking", "I have been thinking"]
+        }
+      ]
+    },
+    {
+      "id": "e",
+      "type": "multiple-choice",
+      "title": "E · Simple or continuous?",
+      "instruction": "Circle the form that fits each sentence.",
+      "items": [
+        {
+          "id": "e1",
+          "prompt": "I think I've ___ that song before.",
+          "options": ["heard", "been hearing"],
+          "acceptedAnswers": ["heard"]
+        },
+        {
+          "id": "e2",
+          "prompt": "They haven't ___ yet, but they should be here soon.",
+          "options": ["arrived", "been arriving"],
+          "acceptedAnswers": ["arrived"]
+        },
+        {
+          "id": "e3",
+          "prompt": "You've ___ that email for over an hour. How long is it going to take you?",
+          "options": ["written", "been writing"],
+          "acceptedAnswers": ["been writing"]
+        },
+        {
+          "id": "e4",
+          "prompt": "Have you ___ on the phone since eight o'clock?",
+          "options": ["talked", "been talking"],
+          "acceptedAnswers": ["been talking"]
+        },
+        {
+          "id": "e5",
+          "prompt": "Jo has already ___ Shirley to dinner.",
+          "options": ["invited", "been inviting"],
+          "acceptedAnswers": ["invited"]
+        },
+        {
+          "id": "e6",
+          "prompt": "I've ___ an interview with a film star, but I haven't finished it yet.",
+          "options": ["read", "been reading"],
+          "acceptedAnswers": ["been reading"]
+        },
+        {
+          "id": "e7",
+          "prompt": "Have the boys ___ computer games since this morning?",
+          "options": ["played", "been playing"],
+          "acceptedAnswers": ["been playing"]
+        }
+      ]
+    },
+    {
+      "id": "f",
+      "type": "gap-fill",
+      "title": "F · Time words",
+      "instruction": "Complete using a word from the box.",
+      "wordBank": ["already", "ever", "for", "just", "never", "since", "yet"],
+      "items": [
+        {
+          "id": "f1",
+          "prompt": "I haven't listened to their new CD ___ . Is it any good?",
+          "acceptedAnswers": ["yet"]
+        },
+        {
+          "id": "f2",
+          "prompt": "We've been waiting for you ___ over an hour. Where have you been?",
+          "acceptedAnswers": ["for"]
+        },
+        {
+          "id": "f3",
+          "prompt": "Have you ___ been to the UK before?",
+          "acceptedAnswers": ["ever"]
+        },
+        {
+          "id": "f4",
+          "prompt": "I'm afraid we've ___ made plans for this weekend, so we won't be free.",
+          "acceptedAnswers": ["already"]
+        },
+        {
+          "id": "f5",
+          "prompt": "Pedro has been having English lessons ___ he was five years old.",
+          "acceptedAnswers": ["since"]
+        },
+        {
+          "id": "f6",
+          "prompt": "It's strange that you mention the film Crash. I've ___ been reading about it in the paper.",
+          "acceptedAnswers": ["just"]
+        },
+        {
+          "id": "f7",
+          "prompt": "I've ___ heard of a 'sudoku'. What is it?",
+          "acceptedAnswers": ["never"]
+        }
+      ]
+    }
+  ]
+}

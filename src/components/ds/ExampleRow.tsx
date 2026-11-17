@@ -11,7 +11,7 @@ export function ExampleRow({ use, example, className }: ExampleRowProps) {
   return (
     <div
       className={cn(
-        'grid gap-2 rounded-lg bg-example/50 px-4 py-3 sm:grid-cols-[minmax(0,12rem)_1fr] sm:items-start sm:gap-6',
+        'grid gap-2 rounded-lg bg-example/50 px-4 py-3 sm:grid-cols-[minmax(10rem,16rem)_1fr] sm:items-start sm:gap-6',
         className,
       )}
     >

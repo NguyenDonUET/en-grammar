@@ -1,0 +1,443 @@
+{
+  "id": "unit-05-past-perfect",
+  "level": "b1",
+  "unitNumber": 5,
+  "title": "Past perfect simple, past perfect continuous",
+  "subtitle": "Actions finished or continuing before another moment in the past",
+  "theory": [
+    {
+      "id": "past-perfect-simple",
+      "title": "Past perfect simple",
+      "icon": "BookOpen",
+      "blocks": [
+        {
+          "type": "prose",
+          "text": "**had** + past participle"
+        },
+        {
+          "type": "form-table",
+          "rows": [
+            {
+              "person": "I / you / he / she / it / we / they",
+              "statement": "I/you/he/she/it/we/they **had ('d) written** …",
+              "negative": "I/you/he/she/it/we/they **had not (hadn't) written** …",
+              "question": "**Had** I/you/he/she/it/we/they **written** …?"
+            }
+          ]
+        },
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "Actions and states before a moment in the past",
+              "example": "I'd **finished** my homework a few minutes before the lesson started."
+            },
+            {
+              "use": "Finished actions and states where the important thing is the result at a moment in the past",
+              "example": "We were happy because we'd **all done** our homework."
+            }
+          ]
+        },
+        {
+          "type": "hints",
+          "intro": "The past perfect simple is often used with these words and phrases:",
+          "items": [
+            "{pill:by} — I'd finished my homework **by** eight o'clock.",
+            "{pill:by the time} — **By the time** I got to class, the lesson had started.",
+            "{pill:before} — The teacher had checked the answers **before** the lesson.",
+            "{pill:after} — I left **after** I'd finished the test.",
+            "{pill:just} — Simon had **just** finished the test when the bell rang.",
+            "{pill:when} — I left **when** I'd finished the test."
+          ]
+        },
+        {
+          "type": "watch-out",
+          "text": "Whether we use the past simple or the past perfect simple can change the meaning of a sentence.",
+          "note": "The lesson **started** when I arrived. (= I arrived and then the lesson started.) · The lesson **had started** when I arrived. (= The lesson started and then I arrived.)"
+        }
+      ]
+    },
+    {
+      "id": "past-perfect-continuous",
+      "title": "Past perfect continuous",
+      "icon": "Sparkles",
+      "blocks": [
+        {
+          "type": "prose",
+          "text": "**had** + **been** + **-ing**"
+        },
+        {
+          "type": "form-table",
+          "rows": [
+            {
+              "person": "I / you / he / she / it / we / they",
+              "statement": "I/you/he/she/it/we/they **had ('d) been writing** …",
+              "negative": "I/you/he/she/it/we/they **had not (hadn't) been writing** …",
+              "question": "**Had** I/you/he/she/it/we/they **been writing** …?"
+            }
+          ]
+        },
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "Actions continuing up to, or stopping just before, a moment in the past",
+              "example": "We'd **been doing** grammar exercises for over an hour, so we were really bored!"
+            }
+          ]
+        },
+        {
+          "type": "hints",
+          "intro": "The past perfect continuous is often used with these words and phrases:",
+          "items": [
+            "{pill:for} — Tony had been studying **for** hours, so he had a headache.",
+            "{pill:since} — She'd been hoping to win the competition **since** the summer.",
+            "{pill:before} — We'd been talking about the Internet **before** the lesson started.",
+            "{pill:all day} / {pill:all night} — I'd been studying **all day**."
+          ]
+        },
+        {
+          "type": "watch-out",
+          "text": "The past perfect simple often emphasises the **result** of an action.",
+          "note": "She'd **written** an article for the school newspaper. (= She'd finished it.)"
+        },
+        {
+          "type": "watch-out",
+          "text": "The past perfect continuous often emphasises the **action** and the time spent on it, rather than the result.",
+          "note": "She'd **been writing** an article for the newspaper. (= She'd started, but she hadn't finished it.)"
+        }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "a",
+      "type": "gap-fill",
+      "title": "A · Past perfect simple",
+      "instruction": "Complete using the correct past perfect simple form of the verbs in brackets.",
+      "items": [
+        {
+          "id": "a1",
+          "prompt": "By the time I arrived, everyone ___ ! (leave)",
+          "acceptedAnswers": ["had left", "'d left"]
+        },
+        {
+          "id": "a2",
+          "prompt": "Steve ___ the film, so he didn't come with us to the cinema. (already / see)",
+          "acceptedAnswers": [
+            "had already seen",
+            "'d already seen"
+          ]
+        },
+        {
+          "id": "a3",
+          "prompt": "Tina ___ doing the housework by seven o'clock, so she called Andrea to tell her she would be late. (not / finish)",
+          "acceptedAnswers": ["hadn't finished", "had not finished"]
+        },
+        {
+          "id": "a4",
+          "prompt": "___ to Billy when I rang? (you / just / speak)",
+          "acceptedAnswers": [
+            "Had you just spoken",
+            "had you just spoken"
+          ]
+        },
+        {
+          "id": "a5",
+          "prompt": "The car broke down just after we ___ . (set off)",
+          "acceptedAnswers": ["had set off", "'d set off"]
+        },
+        {
+          "id": "a6",
+          "prompt": "I didn't eat anything at the party because I ___ at home. (already / eat)",
+          "acceptedAnswers": [
+            "had already eaten",
+            "'d already eaten"
+          ]
+        },
+        {
+          "id": "a7",
+          "prompt": "___ about the accident before you saw it on TV? (you / hear)",
+          "acceptedAnswers": [
+            "Had you heard",
+            "had you heard"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b",
+      "type": "multiple-choice",
+      "title": "B · Same meaning?",
+      "instruction": "Choose the sentence (A or B) which means the same as the first sentence.",
+      "items": [
+        {
+          "id": "b1",
+          "prompt": "We'd had dinner when Wendy arrived.",
+          "options": [
+            "Wendy arrived and then we had dinner.",
+            "We had dinner and then Wendy arrived."
+          ],
+          "acceptedAnswers": ["We had dinner and then Wendy arrived."]
+        },
+        {
+          "id": "b2",
+          "prompt": "I read the book after I'd seen the film.",
+          "options": [
+            "I saw the film and then I read the book.",
+            "I read the book and then I saw the film."
+          ],
+          "acceptedAnswers": ["I saw the film and then I read the book."]
+        },
+        {
+          "id": "b3",
+          "prompt": "By the time Dad came home, I'd gone to bed.",
+          "options": [
+            "I went to bed before Dad came home.",
+            "I went to bed after Dad came home."
+          ],
+          "acceptedAnswers": ["I went to bed before Dad came home."]
+        },
+        {
+          "id": "b4",
+          "prompt": "She didn't go to bed until her mum had come home.",
+          "options": [
+            "She went to bed and then her mum came home.",
+            "Her mum came home and then she went to bed."
+          ],
+          "acceptedAnswers": ["Her mum came home and then she went to bed."]
+        },
+        {
+          "id": "b5",
+          "prompt": "Mr Banks hadn't arrived at the office by the time I got there.",
+          "options": [
+            "I arrived before Mr Banks.",
+            "Mr Banks arrived before me."
+          ],
+          "acceptedAnswers": ["I arrived before Mr Banks."]
+        },
+        {
+          "id": "b6",
+          "prompt": "They'd bought the plane tickets before they heard about the cheaper flight.",
+          "options": [
+            "They bought the plane tickets and later they heard about the cheaper flight.",
+            "They heard about the cheaper flight and then they bought the plane tickets."
+          ],
+          "acceptedAnswers": [
+            "They bought the plane tickets and later they heard about the cheaper flight."
+          ]
+        },
+        {
+          "id": "b7",
+          "prompt": "The girls had tidied the house when the visitors arrived.",
+          "options": [
+            "The visitors arrived and later the girls tidied the house.",
+            "The girls tidied the house and then the visitors arrived."
+          ],
+          "acceptedAnswers": [
+            "The girls tidied the house and then the visitors arrived."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c",
+      "type": "guided-sentence",
+      "title": "C · Write a sentence",
+      "instruction": "Write sentences using the prompts. One of the verbs must be in the past perfect simple.",
+      "items": [
+        {
+          "id": "c1",
+          "prompt": "we / just / hear / the news / when / you / ring",
+          "acceptedAnswers": [
+            "We'd just heard the news when you rang.",
+            "We'd just heard the news when you rang",
+            "We had just heard the news when you rang.",
+            "We had just heard the news when you rang"
+          ]
+        },
+        {
+          "id": "c2",
+          "prompt": "I / already / think of / that / before / you / suggest / it",
+          "acceptedAnswers": [
+            "I'd already thought of that before you suggested it.",
+            "I'd already thought of that before you suggested it",
+            "I had already thought of that before you suggested it.",
+            "I had already thought of that before you suggested it"
+          ]
+        },
+        {
+          "id": "c3",
+          "prompt": "when / I / turn on / the TV / the programme / already / start",
+          "acceptedAnswers": [
+            "When I turned on the TV, the programme had already started.",
+            "When I turned on the TV, the programme had already started",
+            "When I turned on the TV the programme had already started.",
+            "When I turned on the TV the programme had already started"
+          ]
+        },
+        {
+          "id": "c4",
+          "prompt": "she / be / hungry / because / she / not / eat / anything / all day",
+          "acceptedAnswers": [
+            "She was hungry because she hadn't eaten anything all day.",
+            "She was hungry because she hadn't eaten anything all day",
+            "She was hungry because she had not eaten anything all day.",
+            "She was hungry because she had not eaten anything all day"
+          ]
+        },
+        {
+          "id": "c5",
+          "prompt": "by the time / I / leave / school / I / decide / to become / a musician",
+          "acceptedAnswers": [
+            "By the time I left school, I had decided to become a musician.",
+            "By the time I left school, I had decided to become a musician",
+            "By the time I left school I'd decided to become a musician.",
+            "By the time I left school I'd decided to become a musician",
+            "By the time I left school, I'd decided to become a musician.",
+            "By the time I left school, I'd decided to become a musician"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d",
+      "type": "gap-fill",
+      "title": "D · Picture stories",
+      "instruction": "Complete the sentences using the past perfect continuous.",
+      "items": [
+        {
+          "id": "d1",
+          "prompt": "She was tired because she ___ . (run)",
+          "acceptedAnswers": ["had been running", "'d been running"]
+        },
+        {
+          "id": "d2",
+          "prompt": "They were hot because they ___ . (dance)",
+          "acceptedAnswers": ["had been dancing", "'d been dancing"]
+        },
+        {
+          "id": "d3",
+          "prompt": "The garden was flooded because it ___ all night. (rain)",
+          "acceptedAnswers": [
+            "had been raining",
+            "'d been raining"
+          ]
+        },
+        {
+          "id": "d4",
+          "prompt": "Did they crash because they ___ too fast? (drive)",
+          "acceptedAnswers": ["had been driving", "'d been driving"]
+        },
+        {
+          "id": "d5",
+          "prompt": "When I arrived, they ___ for over half an hour. (wait)",
+          "acceptedAnswers": ["had been waiting", "'d been waiting"]
+        },
+        {
+          "id": "d6",
+          "prompt": "When I got there, they ___ long. (not / wait)",
+          "acceptedAnswers": [
+            "hadn't been waiting",
+            "had not been waiting"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e",
+      "type": "multiple-choice",
+      "title": "E · Choose the correct answer",
+      "instruction": "Select the form that completes each sentence.",
+      "items": [
+        {
+          "id": "e1",
+          "prompt": "I'd only ___ the washing-up for a few minutes when Clare came home, so she offered to finish it.",
+          "options": ["done", "been doing"],
+          "acceptedAnswers": ["been doing"]
+        },
+        {
+          "id": "e2",
+          "prompt": "Had you already ___ James his birthday present when we gave him ours?",
+          "options": ["given", "been giving"],
+          "acceptedAnswers": ["given"]
+        },
+        {
+          "id": "e3",
+          "prompt": "Gail hadn't ___ me that she would help me, so I wasn't angry when she didn't.",
+          "options": ["told", "been telling"],
+          "acceptedAnswers": ["told"]
+        },
+        {
+          "id": "e4",
+          "prompt": "Mum had ___ her cup of tea for several minutes before she realised it had salt in it!",
+          "options": ["drunk", "been drinking"],
+          "acceptedAnswers": ["been drinking"]
+        },
+        {
+          "id": "e5",
+          "prompt": "We'd ___ ready all day when they called to say the party had been cancelled.",
+          "options": ["got", "been getting"],
+          "acceptedAnswers": ["been getting"]
+        },
+        {
+          "id": "e6",
+          "prompt": "It was a fantastic experience because I'd never ___ in a plane before.",
+          "options": ["flown", "been flying"],
+          "acceptedAnswers": ["flown"]
+        }
+      ]
+    },
+    {
+      "id": "f",
+      "type": "error-correction",
+      "title": "F · Exam-results diary",
+      "instruction": "Tap the verb that is wrong, then write the correct form.",
+      "paragraph": "This morning my exam results finally {click:had came}. I'd been expecting them for the last week. I knew I'd {click:been done} quite well, but I was still nervous as I {click:had opened} the envelope. Before I'd had a chance to look at them, my sister ran up and pulled them out of my hand! She {click:had read} them out one by one. 'English A, maths A, biology A, French A …' This was the news I'd been waiting for. I'd got As in every subject — even geography, which I {click:hadn't been making} sure about! When Mum and Dad heard the news, they immediately started shouting with joy. By the time I'd had breakfast, Mum had already called Grandma and Grandpa and {click:had yet told} the neighbours!",
+      "items": [
+        {
+          "id": "f1",
+          "prompt": "Completed event this morning",
+          "targetSpan": "had came",
+          "acceptedAnswers": ["came"],
+          "explanation": "A finished event at a stated time uses the past simple, not past perfect. Also come → came, not came after had."
+        },
+        {
+          "id": "f2",
+          "prompt": "Result, not a process",
+          "targetSpan": "been done",
+          "acceptedAnswers": ["done"],
+          "explanation": "I'd done quite well = result. Extra been is wrong."
+        },
+        {
+          "id": "f3",
+          "prompt": "Main story event",
+          "targetSpan": "had opened",
+          "acceptedAnswers": ["opened"],
+          "explanation": "The nervous moment of opening the envelope is a past simple event in the story."
+        },
+        {
+          "id": "f4",
+          "prompt": "Sequence of events",
+          "targetSpan": "had read",
+          "acceptedAnswers": ["read"],
+          "explanation": "She read them out after taking them — next event, not earlier background."
+        },
+        {
+          "id": "f5",
+          "prompt": "State, not an activity",
+          "targetSpan": "hadn't been making",
+          "acceptedAnswers": ["hadn't been", "had not been"],
+          "explanation": "Use a state: I hadn't been sure about it. Extra making is wrong."
+        },
+        {
+          "id": "f6",
+          "prompt": "Extra time word",
+          "targetSpan": "had yet told",
+          "acceptedAnswers": ["had told", "'d told"],
+          "explanation": "yet does not belong here. Use past perfect without yet: had told."
+        }
+      ]
+    }
+  ]
+}
