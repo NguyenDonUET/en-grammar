@@ -44,6 +44,7 @@ function TheoryBlockView({ block }: { block: TheoryBlock }) {
       return (
         <FormulaBox>
           <table className="w-full min-w-[36rem] border-collapse text-sm">
+            <caption className="sr-only">Form table</caption>
             <thead>
               <tr className="text-left text-xs font-semibold uppercase tracking-wide opacity-80">
                 <th className="px-4 py-3">Form</th>

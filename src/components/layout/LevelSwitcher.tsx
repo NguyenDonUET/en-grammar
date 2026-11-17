@@ -18,7 +18,7 @@ export function LevelSwitcher() {
             aria-current={isCurrent ? 'page' : undefined}
             className={cn(
               'relative flex flex-1 flex-col items-center justify-center rounded-full px-4 py-1.5 text-center transition-colors sm:flex-none',
-              'focus-visible:ring-2 focus-visible:ring-ring focus-visible:outline-none',
+              'focus-visible:ring-[3px] focus-visible:ring-ring/50 focus-visible:outline-none',
               isCurrent
                 ? 'bg-primary text-primary-foreground shadow-sm'
                 : 'text-muted-foreground hover:bg-accent hover:text-accent-foreground',

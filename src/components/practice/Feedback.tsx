@@ -20,7 +20,11 @@ export function Feedback({
 
   if (correct) {
     return (
-      <p className="flex items-center gap-1.5 text-sm font-medium text-success-foreground">
+      <p
+        role="status"
+        aria-live="polite"
+        className="flex items-center gap-1.5 text-sm font-medium text-success-foreground"
+      >
         <CheckCircle2 className="size-4 shrink-0" aria-hidden />
         Correct
       </p>
@@ -30,7 +34,11 @@ export function Feedback({
   const expectedLabel = expected[0]
 
   return (
-    <div className="space-y-1 text-sm text-incorrect-foreground">
+    <div
+      role="status"
+      aria-live="polite"
+      className="space-y-1 text-sm text-incorrect-foreground"
+    >
       <p className="flex items-start gap-1.5 font-medium">
         <XCircle className="mt-0.5 size-4 shrink-0" aria-hidden />
         <span>

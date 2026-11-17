@@ -41,6 +41,8 @@ export function ErrorCorrectionParagraph({ unitId, group }: GroupProps) {
           <button
             key={`c-${span}-${index}`}
             type="button"
+            aria-pressed={isSelected}
+            aria-label={`Select verb “${span}”`}
             className={cn(
               'rounded-sm px-0.5 font-medium underline decoration-dotted underline-offset-4',
               'hover:bg-highlight hover:text-highlight-foreground',

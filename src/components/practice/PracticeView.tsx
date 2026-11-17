@@ -1,4 +1,4 @@
-import { useRef } from 'react'
+import { useEffect, useRef } from 'react'
 import { RotateCcw } from 'lucide-react'
 import { Keyword, ScoreBar, SectionHeading } from '@/components/ds'
 import { ErrorCorrectionItem, ErrorCorrectionParagraph } from '@/components/practice/ErrorCorrection'
@@ -8,6 +8,8 @@ import { MultipleChoice } from '@/components/practice/MultipleChoice'
 import { Rewrite } from '@/components/practice/Rewrite'
 import { Button } from '@/components/ui/button'
 import { flattenItems, scoreUnit } from '@/lib/answers'
+import { exerciseGroupElementId } from '@/lib/exercise-groups'
+import { cn } from '@/lib/utils'
 import { useGrammarStore } from '@/store/useGrammarStore'
 import type { ExerciseGroup, ExerciseType, GrammarUnit } from '@/types/grammar'
 
@@ -23,15 +25,32 @@ const GROUP_ICON: Record<ExerciseType, string> = {
   'error-correction': 'AlertTriangle',
 }
 
+function scrollToGroup(groupId: string) {
+  document
+    .getElementById(exerciseGroupElementId(groupId))
+    ?.scrollIntoView({ block: 'start' })
+}
+
 export function PracticeView({ unit }: PracticeViewProps) {
   const answers = useGrammarStore((s) => s.answersByUnitId[unit.id])
   const checkItems = useGrammarStore((s) => s.checkItems)
   const resetUnitAnswers = useGrammarStore((s) => s.resetUnitAnswers)
   const setAnswer = useGrammarStore((s) => s.setAnswer)
+  const activeGroupId = useGrammarStore((s) => s.activeExerciseGroupByUnit[unit.id])
+  const setActiveExerciseGroup = useGrammarStore((s) => s.setActiveExerciseGroup)
   const focusedItemId = useRef<string | null>(null)
+  const restoredForUnit = useRef<string | null>(null)
 
   const { correct, total } = scoreUnit(unit.exercises, answers)
   const itemIds = flattenItems(unit.exercises).map((item) => item.id)
+  const currentGroupId = activeGroupId ?? unit.exercises[0]?.id
+
+  useEffect(() => {
+    if (!activeGroupId) return
+    if (restoredForUnit.current === unit.id) return
+    restoredForUnit.current = unit.id
+    scrollToGroup(activeGroupId)
+  }, [activeGroupId, unit.id])
 
   return (
     <div className="space-y-8">
@@ -52,11 +71,36 @@ export function PracticeView({ unit }: PracticeViewProps) {
         </div>
       </div>
 
+      {unit.exercises.length > 1 ? (
+        <nav aria-label="Exercise groups" className="flex flex-wrap gap-2">
+          {unit.exercises.map((group) => {
+            const isCurrent = group.id === currentGroupId
+            return (
+              <Button
+                key={group.id}
+                type="button"
+                size="sm"
+                variant={isCurrent ? 'default' : 'outline'}
+                aria-current={isCurrent ? 'true' : undefined}
+                onClick={() => {
+                  setActiveExerciseGroup(unit.id, group.id)
+                  scrollToGroup(group.id)
+                }}
+              >
+                {group.title}
+              </Button>
+            )
+          })}
+        </nav>
+      ) : null}
+
       {unit.exercises.map((group) => (
         <ExerciseGroupView
           key={group.id}
           unitId={unit.id}
           group={group}
+          isCurrent={group.id === currentGroupId}
+          onActivateGroup={() => setActiveExerciseGroup(unit.id, group.id)}
           onFocusItem={(itemId) => {
             focusedItemId.current = itemId
           }}
@@ -76,22 +120,44 @@ export function PracticeView({ unit }: PracticeViewProps) {
 interface GroupViewProps {
   unitId: string
   group: ExerciseGroup
+  isCurrent: boolean
+  onActivateGroup: () => void
   onFocusItem: (itemId: string) => void
   onWordBank: (word: string) => void
 }
 
-function ExerciseGroupView({ unitId, group, onFocusItem, onWordBank }: GroupViewProps) {
+function ExerciseGroupView({
+  unitId,
+  group,
+  isCurrent,
+  onActivateGroup,
+  onFocusItem,
+  onWordBank,
+}: GroupViewProps) {
   return (
-    <section className="space-y-4">
+    <section
+      id={exerciseGroupElementId(group.id)}
+      className={cn(
+        'scroll-mt-28 space-y-4 rounded-xl',
+        isCurrent && 'ring-offset-background',
+      )}
+      onFocusCapture={onActivateGroup}
+    >
       <SectionHeading title={group.title} icon={GROUP_ICON[group.type]} />
       <p className="max-w-3xl text-sm leading-relaxed text-muted-foreground">
         {group.instruction}
       </p>
 
       {group.wordBank && group.wordBank.length > 0 ? (
-        <div className="flex flex-wrap gap-2">
+        <div className="flex flex-wrap gap-2" role="group" aria-label="Word bank">
           {group.wordBank.map((word) => (
-            <button key={word} type="button" onClick={() => onWordBank(word)}>
+            <button
+              key={word}
+              type="button"
+              aria-label={`Insert ${word} into the focused gap`}
+              className="rounded-md focus-visible:ring-[3px] focus-visible:ring-ring/50 focus-visible:outline-none"
+              onClick={() => onWordBank(word)}
+            >
               <Keyword>{word}</Keyword>
             </button>
           ))}

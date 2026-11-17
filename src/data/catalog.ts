@@ -7,6 +7,7 @@ export const LEVELS: { id: LevelId; label: string; description: string }[] = [
   { id: 'c1-c2', label: 'C1 & C2', description: 'Advanced' },
 ]
 
+// Register each new JSON file here. Schema: src/data/README.md
 const units: GrammarUnit[] = [unit01PresentTenses as GrammarUnit]
 
 export function getUnitsByLevel(level: LevelId): UnitSummary[] {

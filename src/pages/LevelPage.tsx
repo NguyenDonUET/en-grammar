@@ -26,8 +26,8 @@ export function LevelPage() {
         </p>
         <h1 className="text-3xl font-semibold tracking-tight">Grammar units</h1>
         <p className="max-w-2xl text-muted-foreground">
-          Choose a concept, review the theory, then practise. More units appear here when
-          you add their JSON files.
+          Units for {meta.label} only. Completion is saved in this browser as you check
+          answers.
         </p>
       </div>
 
@@ -35,7 +35,7 @@ export function LevelPage() {
         <EmptyState
           icon={BookMarked}
           title={`No ${meta.label} units yet`}
-          description="Send the next Destination unit images and they will be converted into JSON for this level."
+          description="Send the next unit images to add content."
         />
       ) : (
         <div className="grid gap-4 sm:grid-cols-2">

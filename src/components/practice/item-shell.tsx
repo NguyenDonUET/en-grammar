@@ -31,7 +31,13 @@ export function ItemShell({
         <span className="text-xs font-semibold tracking-wide text-muted-foreground uppercase">
           {index}
         </span>
-        <Button type="button" size="sm" variant="outline" onClick={onCheck}>
+        <Button
+          type="button"
+          size="sm"
+          variant="outline"
+          aria-label={`Check item ${index}`}
+          onClick={onCheck}
+        >
           Check
         </Button>
       </div>
