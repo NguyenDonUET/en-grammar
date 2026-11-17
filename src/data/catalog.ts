@@ -38,6 +38,9 @@ import unit15PassiveCausativeB2 from '@/data/b2/unit-15-passive-causative.json' 
 import unit17IngInfinitiveB2 from '@/data/b2/unit-17-ing-infinitive.json' with { type: 'json' }
 import unit19QuestionsB2 from '@/data/b2/unit-19-questions.json' with { type: 'json' }
 import unit21ReportedSpeechB2 from '@/data/b2/unit-21-reported-speech.json' with { type: 'json' }
+import unit23RelativeClausesParticiplesB2 from '@/data/b2/unit-23-relative-clauses-participles.json' with { type: 'json' }
+import unit25UnrealPastWishesContrastB2 from '@/data/b2/unit-25-unreal-past-wishes-contrast.json' with { type: 'json' }
+import unit27InversionsPossessivesB2 from '@/data/b2/unit-27-inversions-possessives.json' with { type: 'json' }
 
 export const LEVELS: { id: LevelId; label: string; description: string }[] = [
   { id: 'b1', label: 'B1', description: 'Intermediate' },
@@ -86,6 +89,9 @@ const units: GrammarUnit[] = [
   unit17IngInfinitiveB2 as GrammarUnit,
   unit19QuestionsB2 as GrammarUnit,
   unit21ReportedSpeechB2 as GrammarUnit,
+  unit23RelativeClausesParticiplesB2 as GrammarUnit,
+  unit25UnrealPastWishesContrastB2 as GrammarUnit,
+  unit27InversionsPossessivesB2 as GrammarUnit,
 ]
 
 export function getUnitsByLevel(level: LevelId): UnitSummary[] {

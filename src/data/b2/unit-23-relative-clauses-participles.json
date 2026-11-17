@@ -1,0 +1,1027 @@
+{
+  "id": "unit-23-relative-clauses-participles",
+  "level": "b2",
+  "unitNumber": 23,
+  "title": "Relative clauses / participles",
+  "subtitle": "Defining and non-defining clauses, relative pronouns, and participle clauses",
+  "theory": [
+    {
+      "id": "relative-clauses",
+      "title": "Relative clauses",
+      "icon": "BookOpen",
+      "blocks": [
+        {
+          "type": "prose",
+          "text": "Relative clauses give us extra information about something or someone, or identify which particular thing or person we are talking about. They are often introduced by the following words."
+        },
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "which (for things and animals)",
+              "example": "Did you see the documentary **which** was on TV last night?"
+            },
+            {
+              "use": "who (for people, and animals when we want to give them a personality)",
+              "example": "Nina Cole, **who** is appearing in concert in Leeds this week, is rehearsing with me in the studio."
+            },
+            {
+              "use": "when (for times)",
+              "example": "Do you remember the summer **when** we met?"
+            },
+            {
+              "use": "where (for places)",
+              "example": "This is the village **where** they filmed the opening scenes."
+            },
+            {
+              "use": "why (for reasons)",
+              "example": "That's the reason **why** the album became so popular."
+            },
+            {
+              "use": "whom (for people as the object of the relative clause)",
+              "example": "Is that the woman **whom** we saw at the gallery yesterday?"
+            },
+            {
+              "use": "whose (for possession)",
+              "example": "My first guest is Clara Voss, **whose** career began in the late nineties."
+            }
+          ]
+        },
+        {
+          "type": "watch-out",
+          "text": "When the relative pronoun (**who**, **which**, etc.) is the subject of the relative clause, you do not need another subject."
+        },
+        {
+          "type": "correct-incorrect",
+          "correct": "I admire Lena Ortiz, **who** always works hard on her films.",
+          "incorrect": "I admire Lena Ortiz, **who she** always works hard on her films."
+        },
+        {
+          "type": "watch-out",
+          "text": "**Whom** is quite formal. It is natural in informal English to use **who** instead of **whom**, even when it is the object of the relative clause. After a preposition, however, we always use **whom**. Informally, we usually put the preposition at the end of the clause and use **who**."
+        },
+        {
+          "type": "correct-incorrect",
+          "correct": "Is that the actor **who** we saw at the cinema yesterday?",
+          "incorrect": "Is that the actor **whom he** we saw at the cinema yesterday?"
+        },
+        {
+          "type": "hints",
+          "intro": "Formal **whom** after a preposition vs informal **who** with the preposition at the end:",
+          "items": [
+            "Buster Keaton was a comic genius **to whom** later performers owe a great deal.",
+            "Buster Keaton was a comic genius **who** later performers owe a great deal **to**."
+          ]
+        },
+        {
+          "type": "watch-out",
+          "text": "**Where** can be replaced by a preposition + **which**. Less formally, we put the preposition at the end of the clause. The same pattern works with **when** / **in which**."
+        },
+        {
+          "type": "hints",
+          "items": [
+            "The studio **where / in which** I first acted is somewhere around here.",
+            "We can do the same thing with **when**.",
+            "Do you know the year **when / in which** the first western was made?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "non-defining",
+      "title": "Non-defining relative clauses",
+      "icon": "Sparkles",
+      "blocks": [
+        {
+          "type": "prose",
+          "text": "Non-defining relative clauses simply give us more information about something or someone. The sentence makes complete sense without the relative clause."
+        },
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "To give extra information about something or someone",
+              "example": "Ray Watson, **who** starred in Night Train, is considering making a film based on the life of Einstein."
+            }
+          ]
+        },
+        {
+          "type": "watch-out",
+          "text": "Non-defining relative clauses are separated from the rest of the sentence by commas."
+        },
+        {
+          "type": "correct-incorrect",
+          "correct": "Megamonsters, **which** was filmed in New York, is a very disappointing film.",
+          "incorrect": "Megamonsters which was filmed in New York is a very disappointing film."
+        },
+        {
+          "type": "watch-out",
+          "text": "We cannot leave out the word which introduces the relative clause and we cannot use the word **that** instead."
+        },
+        {
+          "type": "correct-incorrect",
+          "correct": "Megamonsters, **which** was filmed in New York, is a very disappointing film.",
+          "incorrect": "Megamonsters, **that** was filmed in New York, is a very disappointing film."
+        },
+        {
+          "type": "watch-out",
+          "text": "**Which** can refer back to the whole of the sentence, not just to one noun."
+        },
+        {
+          "type": "hints",
+          "items": [
+            "We finally got tickets for the concert, **which** was very lucky. (Getting the tickets was lucky — not the concert itself.)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "defining",
+      "title": "Defining relative clauses",
+      "icon": "Lightbulb",
+      "blocks": [
+        {
+          "type": "prose",
+          "text": "Defining relative clauses tell us which one of a group of things or people we are talking about. The sentence doesn't usually make complete sense without the relative clause."
+        },
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "To tell us which one of a group of things or people we are talking about",
+              "example": "The book **which** I've read was the best of all. The one **who** is wearing a blue shirt is Justin Timberlake, isn't it?"
+            }
+          ]
+        },
+        {
+          "type": "watch-out",
+          "text": "Defining relative clauses are not separated from the rest of the sentence by commas."
+        },
+        {
+          "type": "correct-incorrect",
+          "correct": "This is the DVD **which** I told you about the other day.",
+          "incorrect": "This is the DVD, **which** I told you about the other day."
+        },
+        {
+          "type": "watch-out",
+          "text": "We can also use **that** to introduce the relative clause."
+        },
+        {
+          "type": "hints",
+          "items": ["This is the DVD **that** I told you about the other day."]
+        },
+        {
+          "type": "watch-out",
+          "text": "We can often leave out the word which introduces the relative clause when it is the object of the clause."
+        },
+        {
+          "type": "hints",
+          "items": ["This is the DVD I told you about the other day."]
+        },
+        {
+          "type": "watch-out",
+          "text": "Notice that we do not need a preposition when we use **where** or **when**."
+        },
+        {
+          "type": "correct-incorrect",
+          "correct": "The theatre **where** I first acted is somewhere around here.",
+          "incorrect": "The theatre **where** I first acted **in** is somewhere around here."
+        },
+        {
+          "type": "correct-incorrect",
+          "correct": "Do you know the year **when** the first western was made?",
+          "incorrect": "Do you know the year **when** the first western was made **in**?"
+        }
+      ]
+    },
+    {
+      "id": "participles",
+      "title": "Participles",
+      "icon": "Table2",
+      "blocks": [
+        {
+          "type": "prose",
+          "text": "Present participles end in **-ing**. Past participles usually end in **-ed**, although there are many irregular verbs. Perfect participles are formed using **having** + past participle."
+        },
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "To follow prepositions and conjunctions (present and perfect participles)",
+              "example": "**By appearing** in that cigarette advert, he damaged his acting career. **After playing / having played** video games all morning, I was really tired."
+            },
+            {
+              "use": "To explain the reason for something (present and perfect participles)",
+              "example": "**Being** quite good-looking, Ralph decided to make a career as a model. **Having seen** the film before, I knew what was going to happen."
+            },
+            {
+              "use": "To talk about actions happening at the same time (present participles)",
+              "example": "**Waiting** for the show to begin, I felt really nervous."
+            },
+            {
+              "use": "To replace some relative clauses (present and past participles)",
+              "example": "Imagine being the person **directing** a big budget film! (= Imagine being the person **who is directing** a big budget film!) The person **chosen** for the part will be contacted by phone. (= The person **who is chosen** for the part will be contacted by phone.)"
+            },
+            {
+              "use": "To talk about past actions happening in sequence (perfect participles)",
+              "example": "**Having finished** my homework, I decided to go to the cinema."
+            },
+            {
+              "use": "As an alternative passive form (past participles)",
+              "example": "**Made** to wait, the actor began to get very annoyed."
+            }
+          ]
+        },
+        {
+          "type": "watch-out",
+          "text": "You have to be careful that the participle and the rest of the sentence both refer to the same subject."
+        },
+        {
+          "type": "correct-incorrect",
+          "correct": "**Watching** TV, **I** saw a news report about Hollywood.",
+          "incorrect": "**Watching** TV, a news report came on about Hollywood."
+        }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "a",
+      "type": "multiple-choice",
+      "title": "A · Circle the correct word",
+      "instruction": "Choose the correct relative pronoun.",
+      "items": [
+        {
+          "id": "a1",
+          "prompt": "The minister, ___ was appointed last week, made no comment on the situation.",
+          "options": ["which", "who"],
+          "acceptedAnswers": ["who"]
+        },
+        {
+          "id": "a2",
+          "prompt": "Isn't that the junction ___ the accident happened last night?",
+          "options": ["which", "where"],
+          "acceptedAnswers": ["where"]
+        },
+        {
+          "id": "a3",
+          "prompt": "The blue whale, ___ weighs about 150 tonnes, is the largest animal on Earth.",
+          "options": ["which", "who"],
+          "acceptedAnswers": ["which"]
+        },
+        {
+          "id": "a4",
+          "prompt": "There are several reasons ___ I don't want to see that play tonight.",
+          "options": ["which", "why"],
+          "acceptedAnswers": ["why"]
+        },
+        {
+          "id": "a5",
+          "prompt": "This is the studio ___ I record most of my podcasts.",
+          "options": ["which", "where"],
+          "acceptedAnswers": ["where"]
+        },
+        {
+          "id": "a6",
+          "prompt": "The new student in our class, ___ name is Alexandra, seems really nice.",
+          "options": ["who's", "whose"],
+          "acceptedAnswers": ["whose"]
+        },
+        {
+          "id": "a7",
+          "prompt": "The Titanic, ___ people said was unsinkable, sank on her maiden voyage.",
+          "options": ["which", "that"],
+          "acceptedAnswers": ["which"],
+          "explanation": "Non-defining clauses take **which**, not **that**, and need commas."
+        },
+        {
+          "id": "a8",
+          "prompt": "All the people to ___ the e-mail was sent replied.",
+          "options": ["who", "whom"],
+          "acceptedAnswers": ["whom"]
+        },
+        {
+          "id": "a9",
+          "prompt": "April 1st, ___ we play tricks on people, is known as April Fools' Day.",
+          "options": ["which", "when"],
+          "acceptedAnswers": ["when"]
+        },
+        {
+          "id": "a10",
+          "prompt": "Harry Hill, ___ new series starts next week, is one of my favourite comedians.",
+          "options": ["who", "whose"],
+          "acceptedAnswers": ["whose"]
+        },
+        {
+          "id": "a11",
+          "prompt": "A very popular breed of dog is the German Shepherd, ___ is often used as a guard dog.",
+          "options": ["which", "who"],
+          "acceptedAnswers": ["which"]
+        },
+        {
+          "id": "a12",
+          "prompt": "Blackpool Tower, ___ was modelled on the Eiffel Tower, is a very well-known landmark.",
+          "options": ["which", "that"],
+          "acceptedAnswers": ["which"]
+        }
+      ]
+    },
+    {
+      "id": "b",
+      "type": "rewrite",
+      "title": "B · Correct the relative pronoun",
+      "instruction": "If the word in bold is already correct, write it again. If it is incorrect, write the correct relative pronoun or phrase.",
+      "items": [
+        {
+          "id": "b1",
+          "prompt": "November 5th was the day **which** Guy Fawkes tried to blow up Parliament.",
+          "acceptedAnswers": ["when", "on which"]
+        },
+        {
+          "id": "b2",
+          "prompt": "There were none of my favourite biscuits left when I had a cup of tea, **that** was really annoying.",
+          "acceptedAnswers": ["which"]
+        },
+        {
+          "id": "b3",
+          "prompt": "I've just got a new webcam **that** takes really clear pictures.",
+          "acceptedAnswers": ["that", "which"]
+        },
+        {
+          "id": "b4",
+          "prompt": "The Godfather was made by Francis Ford Coppola, **who's** daughter is also a film director.",
+          "acceptedAnswers": ["whose"]
+        },
+        {
+          "id": "b5",
+          "prompt": "Can you think of any reason **which** Cathy might be angry with me?",
+          "acceptedAnswers": ["why", "that"]
+        },
+        {
+          "id": "b6",
+          "prompt": "Here's a photo of the hotel **where we stayed in** when we were in Beijing.",
+          "acceptedAnswers": ["where we stayed", "where"],
+          "explanation": "Do not add a preposition after **where**."
+        },
+        {
+          "id": "b7",
+          "prompt": "How do you think the first man **whom** walked on the moon felt?",
+          "acceptedAnswers": ["who"]
+        },
+        {
+          "id": "b8",
+          "prompt": "This is the first occasion **on which** the leaders of these two countries have met.",
+          "acceptedAnswers": ["on which"]
+        },
+        {
+          "id": "b9",
+          "prompt": "He is a person for **who** very few people feel much sympathy.",
+          "acceptedAnswers": ["whom"]
+        },
+        {
+          "id": "b10",
+          "prompt": "The moment **which** the hero suddenly appears from behind a tree is the best moment in the whole film.",
+          "acceptedAnswers": ["when"]
+        },
+        {
+          "id": "b11",
+          "prompt": "I met a man **which** had a dog with only three legs.",
+          "acceptedAnswers": ["who", "that"]
+        },
+        {
+          "id": "b12",
+          "prompt": "My new school, **who** I moved to about a month ago, seems like quite a friendly place.",
+          "acceptedAnswers": ["which", "where"]
+        }
+      ]
+    },
+    {
+      "id": "c",
+      "type": "rewrite",
+      "title": "C · Rewrite as one sentence",
+      "instruction": "Rewrite as one sentence using a relative clause.",
+      "items": [
+        {
+          "id": "c1",
+          "prompt": "My friend, Simon, plays the guitar. He has just released a CD.",
+          "acceptedAnswers": [
+            "My friend, Simon, who has just released a CD, plays the guitar.",
+            "My friend Simon, who has just released a CD, plays the guitar.",
+            "My friend, Simon, who plays the guitar, has just released a CD."
+          ]
+        },
+        {
+          "id": "c2",
+          "prompt": "Prince Charles is heir to the throne of England. His wife was Princess Diana.",
+          "acceptedAnswers": [
+            "Prince Charles, whose wife was Princess Diana, is heir to the throne of England.",
+            "Prince Charles, who is heir to the throne of England, was married to Princess Diana."
+          ]
+        },
+        {
+          "id": "c3",
+          "prompt": "Microsoft has a lot of power in the world of computers. That annoys some people.",
+          "acceptedAnswers": [
+            "Microsoft has a lot of power in the world of computers, which annoys some people.",
+            "Microsoft, which has a lot of power in the world of computers, annoys some people."
+          ]
+        },
+        {
+          "id": "c4",
+          "prompt": "The euro replaced a number of national currencies. It was introduced in January 2002.",
+          "acceptedAnswers": [
+            "The euro, which was introduced in January 2002, replaced a number of national currencies.",
+            "The euro, which replaced a number of national currencies, was introduced in January 2002."
+          ]
+        },
+        {
+          "id": "c5",
+          "prompt": "Friends ran for ten years. It is one of my favourite series.",
+          "acceptedAnswers": [
+            "Friends, which ran for ten years, is one of my favourite series.",
+            "Friends, which is one of my favourite series, ran for ten years."
+          ]
+        },
+        {
+          "id": "c6",
+          "prompt": "Venus is a very hot place. It is much closer to the Sun than the Earth is.",
+          "acceptedAnswers": [
+            "Venus, which is much closer to the Sun than the Earth is, is a very hot place.",
+            "Venus, which is a very hot place, is much closer to the Sun than the Earth is."
+          ]
+        },
+        {
+          "id": "c7",
+          "prompt": "Cricket is popular in many countries around the world. It is played between two teams of eleven.",
+          "acceptedAnswers": [
+            "Cricket, which is played between two teams of eleven, is popular in many countries around the world.",
+            "Cricket, which is popular in many countries around the world, is played between two teams of eleven."
+          ]
+        },
+        {
+          "id": "c8",
+          "prompt": "Parts of Buckingham Palace are open to the public. It is where the queen lives.",
+          "acceptedAnswers": [
+            "Parts of Buckingham Palace, where the queen lives, are open to the public.",
+            "Buckingham Palace, which is where the queen lives, has parts that are open to the public.",
+            "Parts of Buckingham Palace, which is where the queen lives, are open to the public."
+          ]
+        },
+        {
+          "id": "c9",
+          "prompt": "The greyhound is the fastest dog. It can reach speeds of over 65 kilometres an hour.",
+          "acceptedAnswers": [
+            "The greyhound, which can reach speeds of over 65 kilometres an hour, is the fastest dog.",
+            "The greyhound, which is the fastest dog, can reach speeds of over 65 kilometres an hour."
+          ]
+        },
+        {
+          "id": "c10",
+          "prompt": "1984 was written by George Orwell. His real name was Eric Blair.",
+          "acceptedAnswers": [
+            "1984 was written by George Orwell, whose real name was Eric Blair.",
+            "1984, which was written by George Orwell, whose real name was Eric Blair, is a famous novel."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d",
+      "type": "gap-fill",
+      "title": "D · Find me a show that works",
+      "instruction": "Write one word in each gap. Do not write **that** and do not leave any gaps blank.",
+      "items": [
+        {
+          "id": "d1",
+          "prompt": "I'm sure there was a reason (1) ___ I became a TV reviewer.",
+          "acceptedAnswers": ["why"]
+        },
+        {
+          "id": "d2",
+          "prompt": "Maybe it was my love of classic shows (2) ___ kept me entertained as a child.",
+          "acceptedAnswers": ["which"]
+        },
+        {
+          "id": "d3",
+          "prompt": "Or maybe it was the presenters (3) ___ seemed to promise an exciting world of glamour and showbiz.",
+          "acceptedAnswers": ["who"]
+        },
+        {
+          "id": "d4",
+          "prompt": "To be honest, I've watched so many shows lately (4) ___ have bored me to tears that I've forgotten.",
+          "acceptedAnswers": ["which"]
+        },
+        {
+          "id": "d5",
+          "prompt": "Take Kid Swap, for example, the new show (5) ___ Channel 7 hopes will revive their viewing figures.",
+          "acceptedAnswers": ["which"]
+        },
+        {
+          "id": "d6",
+          "prompt": "The show takes kids (6) ___ parents have had enough and swaps them with kids from other families for two weeks.",
+          "acceptedAnswers": ["whose"]
+        },
+        {
+          "id": "d7",
+          "prompt": "The problem with this show is that I'm just not sure at (7) ___ it's aimed — parents or teenagers.",
+          "acceptedAnswers": ["whom"]
+        },
+        {
+          "id": "d8",
+          "prompt": "Parents (8) ___ watch this show will find it childish,",
+          "acceptedAnswers": ["who"]
+        },
+        {
+          "id": "d9",
+          "prompt": "particularly at the moment (9) ___ one of the teenagers does nothing but complain.",
+          "acceptedAnswers": ["when"]
+        },
+        {
+          "id": "d10",
+          "prompt": "Teenage viewers (10) ___ watch more than the first five minutes will soon get bored of the parents,",
+          "acceptedAnswers": ["who"]
+        },
+        {
+          "id": "d11",
+          "prompt": "(11) ___ blame anybody but themselves for the situation.",
+          "acceptedAnswers": ["who"]
+        },
+        {
+          "id": "d12",
+          "prompt": "This is definitely one idea (12) ___ should be put exactly where it belongs — in the bin!",
+          "acceptedAnswers": ["which"]
+        }
+      ]
+    },
+    {
+      "id": "e",
+      "type": "multiple-choice",
+      "title": "E · Could you use that?",
+      "instruction": "Look at the gaps in Exercise D. Could the gap also be completed with **that**?",
+      "items": [
+        {
+          "id": "e1",
+          "prompt": "Gap 1 (reason ___ I became…)",
+          "options": ["that is possible", "that is not possible"],
+          "acceptedAnswers": ["that is possible"]
+        },
+        {
+          "id": "e2",
+          "prompt": "Gap 2 (shows ___ kept me entertained…)",
+          "options": ["that is possible", "that is not possible"],
+          "acceptedAnswers": ["that is possible"]
+        },
+        {
+          "id": "e3",
+          "prompt": "Gap 3 (presenters ___ seemed to promise…)",
+          "options": ["that is possible", "that is not possible"],
+          "acceptedAnswers": ["that is possible"]
+        },
+        {
+          "id": "e4",
+          "prompt": "Gap 4 (shows ___ have bored me…)",
+          "options": ["that is possible", "that is not possible"],
+          "acceptedAnswers": ["that is possible"]
+        },
+        {
+          "id": "e5",
+          "prompt": "Gap 5 (the new show ___ Channel 7 hopes…)",
+          "options": ["that is possible", "that is not possible"],
+          "acceptedAnswers": ["that is possible"]
+        },
+        {
+          "id": "e6",
+          "prompt": "Gap 6 (kids ___ parents have had enough…)",
+          "options": ["that is possible", "that is not possible"],
+          "acceptedAnswers": ["that is not possible"],
+          "explanation": "**Whose** cannot be replaced by **that**."
+        },
+        {
+          "id": "e7",
+          "prompt": "Gap 7 (not sure at ___ it's aimed…)",
+          "options": ["that is possible", "that is not possible"],
+          "acceptedAnswers": ["that is not possible"],
+          "explanation": "After a preposition we need **whom**, not **that**."
+        },
+        {
+          "id": "e8",
+          "prompt": "Gap 8 (Parents ___ watch this show…)",
+          "options": ["that is possible", "that is not possible"],
+          "acceptedAnswers": ["that is possible"]
+        },
+        {
+          "id": "e9",
+          "prompt": "Gap 9 (the moment ___ one of the teenagers…)",
+          "options": ["that is possible", "that is not possible"],
+          "acceptedAnswers": ["that is possible"]
+        },
+        {
+          "id": "e10",
+          "prompt": "Gap 10 (Teenage viewers ___ watch more than…)",
+          "options": ["that is possible", "that is not possible"],
+          "acceptedAnswers": ["that is possible"]
+        },
+        {
+          "id": "e11",
+          "prompt": "Gap 11 (the parents, ___ blame anybody…)",
+          "options": ["that is possible", "that is not possible"],
+          "acceptedAnswers": ["that is not possible"],
+          "explanation": "This is a non-defining clause (after a comma), so **that** is not possible."
+        },
+        {
+          "id": "e12",
+          "prompt": "Gap 12 (one idea ___ should be put…)",
+          "options": ["that is possible", "that is not possible"],
+          "acceptedAnswers": ["that is possible"]
+        }
+      ]
+    },
+    {
+      "id": "f",
+      "type": "multiple-choice",
+      "title": "F · Choose the correct answer",
+      "instruction": "Choose the correct option to complete each conversation.",
+      "items": [
+        {
+          "id": "f1",
+          "prompt": "'Who's that over there?' 'Oh, it's our new teacher, ___ just started work today.'",
+          "options": ["that", "who he", "which he", "who"],
+          "acceptedAnswers": ["who"]
+        },
+        {
+          "id": "f2",
+          "prompt": "'Which CD did you get Marcus in the end?' 'I got him the one ___ said he really wanted to hear.'",
+          "options": ["that", "who he", "which", "which he"],
+          "acceptedAnswers": ["that"]
+        },
+        {
+          "id": "f3",
+          "prompt": "'Who did you send a Valentine's card to?' 'I'm not telling you, but it was someone ___ name begins with B!'",
+          "options": ["which", "who her", "whose", "whose her"],
+          "acceptedAnswers": ["whose"]
+        },
+        {
+          "id": "f4",
+          "prompt": "'Have you seen Jason Green's latest film?' 'Is that the one in ___ joins the FBI?'",
+          "options": ["which he", "that he", "whom he", "which"],
+          "acceptedAnswers": ["which he"]
+        },
+        {
+          "id": "f5",
+          "prompt": "'Why do you like Tania so much?' 'Well, she's one of the few people to ___ I can really talk.'",
+          "options": ["which", "whom", "that", "who"],
+          "acceptedAnswers": ["whom"]
+        },
+        {
+          "id": "f6",
+          "prompt": "'Why don't we go to Lionel's for dinner tonight?' 'Is that the new restaurant ___ has just opened on the other side of town?'",
+          "options": ["which", "that it", "where", "which it"],
+          "acceptedAnswers": ["which"]
+        },
+        {
+          "id": "f7",
+          "prompt": "'Could you lend me some money?' 'I'd like you to give me one good reason ___ I should.'",
+          "options": ["that", "why", "which", "who"],
+          "acceptedAnswers": ["why"]
+        },
+        {
+          "id": "f8",
+          "prompt": "'What do you want to do this summer?' 'I think we should go somewhere ___ has plenty of sun and sand.'",
+          "options": ["who", "where", "when", "that"],
+          "acceptedAnswers": ["that"]
+        }
+      ]
+    },
+    {
+      "id": "g",
+      "type": "multiple-choice",
+      "title": "G · Can the relative pronoun be left out?",
+      "instruction": "In defining relative clauses, we can often omit the relative pronoun when it is the object. Decide whether the relative pronoun in bold can be left out.",
+      "items": [
+        {
+          "id": "g1",
+          "prompt": "The number of options **that** are available to us is increasing all the time.",
+          "options": ["can be left out", "cannot be left out"],
+          "acceptedAnswers": ["cannot be left out"],
+          "explanation": "**That** is the subject of **are available**."
+        },
+        {
+          "id": "g2",
+          "prompt": "…with **which** to fill our leisure time…",
+          "options": ["can be left out", "cannot be left out"],
+          "acceptedAnswers": ["cannot be left out"],
+          "explanation": "After a preposition the pronoun cannot be omitted."
+        },
+        {
+          "id": "g3",
+          "prompt": "Previous generations, **who** lived before the electronic age, had musical instruments and card games.",
+          "options": ["can be left out", "cannot be left out"],
+          "acceptedAnswers": ["cannot be left out"],
+          "explanation": "Non-defining clauses never omit the pronoun, and **who** is the subject."
+        },
+        {
+          "id": "g4",
+          "prompt": "…card games **that** they played to pass the time…",
+          "options": ["can be left out", "cannot be left out"],
+          "acceptedAnswers": ["can be left out"]
+        },
+        {
+          "id": "g5",
+          "prompt": "…parents **whose** teenagers spend a lot of time on these activities…",
+          "options": ["can be left out", "cannot be left out"],
+          "acceptedAnswers": ["cannot be left out"]
+        },
+        {
+          "id": "g6",
+          "prompt": "…the effect **which** it is having on them…",
+          "options": ["can be left out", "cannot be left out"],
+          "acceptedAnswers": ["can be left out"]
+        },
+        {
+          "id": "g7",
+          "prompt": "…**which** is becoming more important as life becomes more stressful.",
+          "options": ["can be left out", "cannot be left out"],
+          "acceptedAnswers": ["cannot be left out"]
+        },
+        {
+          "id": "g8",
+          "prompt": "The television programmes **which** we watch…",
+          "options": ["can be left out", "cannot be left out"],
+          "acceptedAnswers": ["can be left out"]
+        },
+        {
+          "id": "g9",
+          "prompt": "…the computer games **that** we play all entertain us…",
+          "options": ["can be left out", "cannot be left out"],
+          "acceptedAnswers": ["can be left out"]
+        },
+        {
+          "id": "g10",
+          "prompt": "…people to **whom** they seem a complete waste of time…",
+          "options": ["can be left out", "cannot be left out"],
+          "acceptedAnswers": ["cannot be left out"]
+        },
+        {
+          "id": "g11",
+          "prompt": "Entertainment is something **which** we all need…",
+          "options": ["can be left out", "cannot be left out"],
+          "acceptedAnswers": ["can be left out"]
+        },
+        {
+          "id": "g12",
+          "prompt": "…as long as we're willing to pay, there will always be someone **who** is willing to provide it.",
+          "options": ["can be left out", "cannot be left out"],
+          "acceptedAnswers": ["cannot be left out"]
+        }
+      ]
+    },
+    {
+      "id": "h",
+      "type": "multiple-choice",
+      "title": "H · Circle the correct participle",
+      "instruction": "Choose the correct word or phrase.",
+      "items": [
+        {
+          "id": "h1",
+          "prompt": "Before ___ Harriet, I never knew what real love was.",
+          "options": ["meeting", "met"],
+          "acceptedAnswers": ["meeting"]
+        },
+        {
+          "id": "h2",
+          "prompt": "I'm sure that after ___ your exam, you'll feel a lot better.",
+          "options": ["passing", "passed"],
+          "acceptedAnswers": ["passing"]
+        },
+        {
+          "id": "h3",
+          "prompt": "Having ___ the letter, Peter printed it out.",
+          "options": ["finishing", "finished"],
+          "acceptedAnswers": ["finished"]
+        },
+        {
+          "id": "h4",
+          "prompt": "___ through the window, I saw a strange man at the door.",
+          "options": ["Looking", "Looked"],
+          "acceptedAnswers": ["Looking"]
+        },
+        {
+          "id": "h5",
+          "prompt": "I cooked dinner and, ___ that, I sat down to watch TV.",
+          "options": ["doing", "having done"],
+          "acceptedAnswers": ["having done"]
+        },
+        {
+          "id": "h6",
+          "prompt": "___ a noise outside, Janice went to investigate.",
+          "options": ["Hearing", "Heard"],
+          "acceptedAnswers": ["Hearing"]
+        },
+        {
+          "id": "h7",
+          "prompt": "___ my notes, I couldn't revise properly for the test.",
+          "options": ["Having lost", "Losing"],
+          "acceptedAnswers": ["Having lost"]
+        },
+        {
+          "id": "h8",
+          "prompt": "___ quite intelligent, Matt hopes to get into a good university.",
+          "options": ["Having been", "Being"],
+          "acceptedAnswers": ["Being"]
+        },
+        {
+          "id": "h9",
+          "prompt": "___ the start of the film, I decided not to bother watching the rest of it.",
+          "options": ["Having missed", "Missing"],
+          "acceptedAnswers": ["Having missed"]
+        },
+        {
+          "id": "h10",
+          "prompt": "After ___ her bed, Cherie had a shower.",
+          "options": ["making", "made"],
+          "acceptedAnswers": ["making"]
+        }
+      ]
+    },
+    {
+      "id": "i",
+      "type": "rewrite",
+      "title": "I · Keep the meaning",
+      "instruction": "Complete each sentence so that the meaning remains the same.",
+      "items": [
+        {
+          "id": "i1",
+          "prompt": "I suddenly remembered where I'd left my keys when I was waiting for the bus.\n**Waiting**",
+          "acceptedAnswers": [
+            "Waiting for the bus, I suddenly remembered where I'd left my keys.",
+            "Waiting for the bus, I suddenly remembered where I had left my keys."
+          ]
+        },
+        {
+          "id": "i2",
+          "prompt": "I slipped because I was trying to run in the rain.\n**Trying**",
+          "acceptedAnswers": [
+            "Trying to run in the rain, I slipped.",
+            "Trying to run in the rain, I slipped over."
+          ]
+        },
+        {
+          "id": "i3",
+          "prompt": "I felt quite sorry for Tim when I saw him cry.\n**Seeing**",
+          "acceptedAnswers": [
+            "Seeing him cry, I felt quite sorry for Tim.",
+            "Seeing Tim cry, I felt quite sorry for him."
+          ]
+        },
+        {
+          "id": "i4",
+          "prompt": "John was depressed because he knew he was going to fail the exam.\n**Knowing**",
+          "acceptedAnswers": [
+            "Knowing he was going to fail the exam, John was depressed.",
+            "Knowing that he was going to fail the exam, John was depressed."
+          ]
+        },
+        {
+          "id": "i5",
+          "prompt": "The reason I'm quite good at basketball is that I'm quite tall.\n**Being**",
+          "acceptedAnswers": [
+            "Being quite tall, I'm quite good at basketball.",
+            "Being quite tall is the reason I'm quite good at basketball.",
+            "Being quite tall, I am quite good at basketball."
+          ]
+        },
+        {
+          "id": "i6",
+          "prompt": "Georgia didn't know any Japanese so she used a phrase book when she was there.\n**Not**",
+          "acceptedAnswers": [
+            "Not knowing any Japanese, Georgia used a phrase book when she was there.",
+            "Not knowing any Japanese, she used a phrase book when she was there."
+          ]
+        },
+        {
+          "id": "i7",
+          "prompt": "Ed can afford three holidays abroad each year because he has a lot of money.\n**Having**",
+          "acceptedAnswers": [
+            "Having a lot of money, Ed can afford three holidays abroad each year.",
+            "Having a lot of money, he can afford three holidays abroad each year."
+          ]
+        },
+        {
+          "id": "i8",
+          "prompt": "Maria began to worry when she realised she was lost.\n**Realising**",
+          "acceptedAnswers": [
+            "Realising she was lost, Maria began to worry.",
+            "Realising that she was lost, Maria began to worry."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "j",
+      "type": "rewrite",
+      "title": "J · Same subject?",
+      "instruction": "If the sentence is already correct, write it again. If it is incorrect, rewrite it so that the participle and the main clause have the same subject.",
+      "items": [
+        {
+          "id": "j1",
+          "prompt": "Looking through the window, a plane was passing overhead.",
+          "acceptedAnswers": [
+            "Looking through the window, I saw a plane passing overhead.",
+            "Looking through the window, I saw a plane that was passing overhead."
+          ]
+        },
+        {
+          "id": "j2",
+          "prompt": "Realising that it was late, I ran all the way home.",
+          "acceptedAnswers": ["Realising that it was late, I ran all the way home."]
+        },
+        {
+          "id": "j3",
+          "prompt": "Having examined me, I was given a prescription by the doctor.",
+          "acceptedAnswers": [
+            "Having examined me, the doctor gave me a prescription.",
+            "Having been examined, I was given a prescription by the doctor."
+          ]
+        },
+        {
+          "id": "j4",
+          "prompt": "Turning on the television, the newsreader said there had been an explosion.",
+          "acceptedAnswers": [
+            "Turning on the television, I heard the newsreader say there had been an explosion.",
+            "Turning on the television, I heard that there had been an explosion."
+          ]
+        },
+        {
+          "id": "j5",
+          "prompt": "Dropping the shopping bags on the kitchen floor, Mrs Moorcroft sighed and sat down heavily.",
+          "acceptedAnswers": [
+            "Dropping the shopping bags on the kitchen floor, Mrs Moorcroft sighed and sat down heavily."
+          ]
+        },
+        {
+          "id": "j6",
+          "prompt": "Having practised the piano, I decided to call one of my friends.",
+          "acceptedAnswers": ["Having practised the piano, I decided to call one of my friends."]
+        }
+      ]
+    },
+    {
+      "id": "k",
+      "type": "gap-fill",
+      "title": "K · Easy Money — extra word",
+      "instruction": "If a line is correct, write **correct**. If there is an extra word in a line, write that word.",
+      "items": [
+        {
+          "id": "k1",
+          "prompt": "'Hello, viewers, and welcome to Easy Money, the game show you Extra word or **correct**: ___",
+          "acceptedAnswers": ["correct"]
+        },
+        {
+          "id": "k2",
+          "prompt": "voted the best on TV! Now, remember yesterday when our current champion, Extra word or **correct**: ___",
+          "acceptedAnswers": ["correct"]
+        },
+        {
+          "id": "k3",
+          "prompt": "Pat Barber, having been won ten thousand euros, decided to carry on? Well, Extra word or **correct**: ___",
+          "acceptedAnswers": ["been"]
+        },
+        {
+          "id": "k4",
+          "prompt": "she's here tonight and she's going for the star prize, which it is a brand new Extra word or **correct**: ___",
+          "acceptedAnswers": ["it"]
+        },
+        {
+          "id": "k5",
+          "prompt": "sports car! That's right. Having got her this far, if Pat can answer three more Extra word or **correct**: ___",
+          "acceptedAnswers": ["her"]
+        },
+        {
+          "id": "k6",
+          "prompt": "questions correctly, then she could be driving home in this car, ladies and Extra word or **correct**: ___",
+          "acceptedAnswers": ["correct"]
+        },
+        {
+          "id": "k7",
+          "prompt": "gentlemen. Having not seen the programme before, you will know just how Extra word or **correct**: ___",
+          "acceptedAnswers": ["not"]
+        },
+        {
+          "id": "k8",
+          "prompt": "difficult which it can be. I know Pat's a little nervous, but I'm sure she'll be Extra word or **correct**: ___",
+          "acceptedAnswers": ["which"]
+        },
+        {
+          "id": "k9",
+          "prompt": "fine and there's one person for whom tonight is very special and that's Pat's Extra word or **correct**: ___",
+          "acceptedAnswers": ["correct"]
+        },
+        {
+          "id": "k10",
+          "prompt": "husband, Frank, who he is sitting in the audience. So, let's play Easy Money! Extra word or **correct**: ___",
+          "acceptedAnswers": ["he"]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,814 @@
+{
+  "id": "unit-25-unreal-past-wishes-contrast",
+  "level": "b2",
+  "unitNumber": 25,
+  "title": "Unreal past, wishes / contrast",
+  "subtitle": "Past tenses for unreal situations, wish / if only, and contrast linkers",
+  "theory": [
+    {
+      "id": "unreal-past",
+      "title": "Unreal past",
+      "icon": "BookOpen",
+      "blocks": [
+        {
+          "type": "prose",
+          "text": "Past tenses do not always refer to past time. In some sentences and with some verbs or phrases we use a past tense to refer to the present or the future, or to a general situation. These include sentences that contain:"
+        },
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "a second conditional",
+              "example": "I'd buy that jacket if I **had** more cash on me."
+            },
+            {
+              "use": "suppose / what if / imagine",
+              "example": "I know it's probably not going to happen but **suppose / imagine** I **became** a famous designer! **What if** I **became** a famous designer?"
+            },
+            {
+              "use": "would rather + you / he / she / we / they",
+              "example": "I'd rather you **didn't come** with me to the fashion show tomorrow."
+            },
+            {
+              "use": "it's (high / about) time",
+              "example": "It's **(high / about) time** that hats **came** back in fashion."
+            },
+            {
+              "use": "polite questions",
+              "example": "**Did** you **want** me to send you our new catalogue when it comes out?"
+            },
+            {
+              "use": "wish / if only",
+              "example": "**If only** I **had** something to wear tonight."
+            }
+          ]
+        },
+        {
+          "type": "watch-out",
+          "text": "**Suppose**, **what if** and **imagine** can also be followed by a present tense. A present tense indicates that the situation is more likely to actually happen. A past tense indicates that the situation is less likely to actually happen."
+        },
+        {
+          "type": "correct-incorrect",
+          "correct": "**What if** you **are** accepted into art college? (more likely to happen)",
+          "incorrect": "What if you will be accepted into art college?"
+        },
+        {
+          "type": "hints",
+          "items": [
+            "**What if** you **were** accepted into art college? (less likely to happen)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "wishes",
+      "title": "Wishes",
+      "icon": "Sparkles",
+      "blocks": [
+        {
+          "type": "prose",
+          "text": "We use different structures with **wish** / **if only**, depending on exactly what we want to express."
+        },
+        {
+          "type": "form-table",
+          "statementLabel": "Structure",
+          "negativeLabel": "Example",
+          "questionLabel": "Meaning",
+          "rows": [
+            {
+              "person": "present / future / generally",
+              "statement": "wish / if only + past simple / continuous",
+              "negative": "I **wish I was studying** history of fashion instead of biology!",
+              "question": "a wish about now or generally"
+            },
+            {
+              "person": "the past",
+              "statement": "wish / if only + past perfect simple / continuous",
+              "negative": "**If only I'd known** Burton's was having a sale last week.",
+              "question": "regret about a past situation"
+            },
+            {
+              "person": "criticising others",
+              "statement": "wish / if only + would",
+              "negative": "**If only** Henry **would** get a haircut!",
+              "question": "complaint about someone else"
+            },
+            {
+              "person": "ability / permission",
+              "statement": "wish / if only + could",
+              "negative": "I **wish I could** fit into these jeans.",
+              "question": "hypothetical ability now or generally"
+            },
+            {
+              "person": "desires (formal)",
+              "statement": "wish + full infinitive",
+              "negative": "I **wish to try on** this ball gown.",
+              "question": "a formal way to say what you want"
+            }
+          ]
+        },
+        {
+          "type": "watch-out",
+          "text": "We do not formally say **If only / I wish I would…** for wishes about ourselves. Use a past tense or **could** instead."
+        },
+        {
+          "type": "correct-incorrect",
+          "correct": "**If only / I wish I had** enough money to buy these shoes.",
+          "incorrect": "If only / I wish I would have enough money to buy these shoes."
+        },
+        {
+          "type": "correct-incorrect",
+          "correct": "**If only / I wish I could** afford these shoes.",
+          "incorrect": "If only / I wish I would afford these shoes."
+        },
+        {
+          "type": "watch-out",
+          "text": "To express desires about the future, we often use **hope**, not **wish** + **will**."
+        },
+        {
+          "type": "correct-incorrect",
+          "correct": "I **hope I will** have enough money to buy these shoes next week.",
+          "incorrect": "I wish I will have enough money to buy these shoes next week."
+        }
+      ]
+    },
+    {
+      "id": "although",
+      "title": "although / though / even though",
+      "icon": "Lightbulb",
+      "blocks": [
+        {
+          "type": "prose",
+          "text": "**Although**, **though** and **even though** are used to express contrast. **Even though** is more emphatic than **although** and **though**. **Though** is more informal than **although** and **even though**."
+        },
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "Although / Though / Even though + subject + verb, subject + verb",
+              "example": "**Although / Though / Even though** I wore a hat, I got sunburn."
+            },
+            {
+              "use": "subject + verb, although / though / even though + subject + verb",
+              "example": "I got sunburn, **although / though / even though** I wore a hat."
+            }
+          ]
+        },
+        {
+          "type": "watch-out",
+          "text": "**Though** can also come at the end of a sentence.",
+          "note": "I wore a hat. I got sunburn, **though**."
+        }
+      ]
+    },
+    {
+      "id": "despite",
+      "title": "in spite of / despite",
+      "icon": "Table2",
+      "blocks": [
+        {
+          "type": "prose",
+          "text": "**In spite of** and **despite** are used to express contrast. They mean exactly the same thing and take the same grammatical structures."
+        },
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "in spite of / despite + -ing form, subject + verb",
+              "example": "**In spite of / Despite wearing** a hat, I got sunburn."
+            },
+            {
+              "use": "in spite of / despite + the fact (that) + subject + verb, subject + verb",
+              "example": "**In spite of / Despite the fact (that)** I wore a hat, I got sunburn."
+            },
+            {
+              "use": "in spite of / despite + noun, subject + verb",
+              "example": "**In spite of / Despite** my hat, I got sunburn."
+            }
+          ]
+        },
+        {
+          "type": "watch-out",
+          "text": "We can also put **in spite of / despite** in the middle of the sentence.",
+          "note": "I got sunburn **in spite of / despite** wearing a hat."
+        },
+        {
+          "type": "hints",
+          "intro": "We can also use the perfect **-ing** form to show that the action happened before the result.",
+          "items": [
+            "I got sunburn **in spite of / despite having worn** a hat."
+          ]
+        },
+        {
+          "type": "watch-out",
+          "text": "With **in spite of / despite** + **-ing** form, the subject of the main verb must also carry out the action of the **-ing** verb."
+        },
+        {
+          "type": "correct-incorrect",
+          "correct": "**Despite wearing** a hat, **I** got sunburn.",
+          "incorrect": "My sunburn was terrible in spite of / despite wearing a hat. (= My sunburn wore a hat!)"
+        }
+      ]
+    },
+    {
+      "id": "however",
+      "title": "however / nevertheless",
+      "icon": "PencilLine",
+      "blocks": [
+        {
+          "type": "prose",
+          "text": "**However** and **nevertheless** are used to express contrast. **However** is formal. **Nevertheless** is even more formal."
+        },
+        {
+          "type": "hints",
+          "items": [
+            "The fashion show was expensive to put on. **However / Nevertheless**, it did make a profit.",
+            "The fashion show was expensive to put on. It did, **however / nevertheless**, make a profit.",
+            "The fashion show was expensive to put on. It did make a profit, **however / nevertheless**."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "while-whereas",
+      "title": "while / whereas",
+      "icon": "ListChecks",
+      "blocks": [
+        {
+          "type": "prose",
+          "text": "**While** and **whereas** are used to contrast two different facts or ideas."
+        },
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "while / whereas + subject + verb, subject + verb",
+              "example": "**While / Whereas** jeans are worn by both men and women, blouses are worn only by women."
+            },
+            {
+              "use": "subject + verb, while / whereas + subject + verb",
+              "example": "Blouses are worn only by women, **while / whereas** jeans are worn by both men and women."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "a",
+      "type": "gap-fill",
+      "title": "A · Verb forms",
+      "instruction": "Complete using the correct form of the verb in brackets.",
+      "items": [
+        {
+          "id": "a1",
+          "prompt": "Don't you think it's time you ___ (tell) Andrea the truth?",
+          "acceptedAnswers": ["told"]
+        },
+        {
+          "id": "a2",
+          "prompt": "What if we ___ (rent) a villa by the sea for the summer?",
+          "acceptedAnswers": ["rented"]
+        },
+        {
+          "id": "a3",
+          "prompt": "I'd rather people ___ (send) me e-mails than phone me.",
+          "acceptedAnswers": ["sent"]
+        },
+        {
+          "id": "a4",
+          "prompt": "Suppose you ___ (be going to) open a clothes shop. What kind of clothes would you stock?",
+          "acceptedAnswers": ["were going to", "was going to"]
+        },
+        {
+          "id": "a5",
+          "prompt": "It's time to ___ (go) now.",
+          "acceptedAnswers": ["go"]
+        },
+        {
+          "id": "a6",
+          "prompt": "If you ___ (have) a time machine, which era would you want to go back to?",
+          "acceptedAnswers": ["had"]
+        },
+        {
+          "id": "a7",
+          "prompt": "Sheila would come with us if she ___ (not have to) work tomorrow.",
+          "acceptedAnswers": ["didn't have to", "did not have to"]
+        },
+        {
+          "id": "a8",
+          "prompt": "We'd rather you ___ (not lend) Brenda any more money — she's got to learn not to spend what she doesn't have.",
+          "acceptedAnswers": ["didn't lend", "did not lend"]
+        },
+        {
+          "id": "a9",
+          "prompt": "It's high time I ___ (leave).",
+          "acceptedAnswers": ["left"]
+        },
+        {
+          "id": "a10",
+          "prompt": "What if we ___ (get) married? Would that make you happy?",
+          "acceptedAnswers": ["got"]
+        }
+      ]
+    },
+    {
+      "id": "b",
+      "type": "rewrite",
+      "title": "B · Correct the words in bold",
+      "instruction": "Each of the words or phrases in bold is incorrect. Rewrite it correctly.",
+      "items": [
+        {
+          "id": "b1",
+          "prompt": "I wish I **know** how to set the timer on this video. Where are the instructions?",
+          "acceptedAnswers": ["knew"]
+        },
+        {
+          "id": "b2",
+          "prompt": "'If only I **listened** to Hilary,' said Warren sadly. 'Now it's too late.'",
+          "acceptedAnswers": ["had listened", "'d listened"]
+        },
+        {
+          "id": "b3",
+          "prompt": "I wish you **did** shut up for five minutes!",
+          "acceptedAnswers": ["would", "would shut"]
+        },
+        {
+          "id": "b4",
+          "prompt": "If only Charlie **can** get tomorrow off work.",
+          "acceptedAnswers": ["could"]
+        },
+        {
+          "id": "b5",
+          "prompt": "Do you wish you **went** with Jack to the concert tomorrow night?",
+          "acceptedAnswers": ["could go", "were going"]
+        },
+        {
+          "id": "b6",
+          "prompt": "Excuse me. I wish **speaking** with the manager of this establishment immediately.",
+          "acceptedAnswers": ["to speak", "to speak with"]
+        },
+        {
+          "id": "b7",
+          "prompt": "Albert wishes like anything that he **was driving** more slowly that night.",
+          "acceptedAnswers": ["had been driving", "had driven"]
+        },
+        {
+          "id": "b8",
+          "prompt": "I wish I **would feel** well enough to eat something.",
+          "acceptedAnswers": ["felt", "could feel"]
+        },
+        {
+          "id": "b9",
+          "prompt": "I wish I'll **get** my exam results sooner rather than later.",
+          "acceptedAnswers": ["hope I get", "hope I'll get", "hope I will get"]
+        },
+        {
+          "id": "b10",
+          "prompt": "If only you **to listen** to what your teachers tell you!",
+          "acceptedAnswers": ["would listen", "listened"]
+        }
+      ]
+    },
+    {
+      "id": "c",
+      "type": "multiple-choice",
+      "title": "C · Choose the correct answer",
+      "instruction": "Choose the correct option.",
+      "items": [
+        {
+          "id": "c1",
+          "prompt": "It's about time you ___ thinking about setting up your own business.",
+          "options": ["start", "have started", "started", "to start"],
+          "acceptedAnswers": ["started"]
+        },
+        {
+          "id": "c2",
+          "prompt": "I'd really rather you ___ the kids drop bits of pizza all over my new sofa.",
+          "options": ["don't let", "aren't letting", "won't let", "didn't let"],
+          "acceptedAnswers": ["didn't let"]
+        },
+        {
+          "id": "c3",
+          "prompt": "___ anything particular in mind or are you just browsing?",
+          "options": ["Did you have", "Are you having", "Can you have", "Had you had"],
+          "acceptedAnswers": ["Did you have"]
+        },
+        {
+          "id": "c4",
+          "prompt": "I wish Karen ___ that we're not trying to interfere in her life.",
+          "options": ["understands", "would understand", "has understood", "is going to understand"],
+          "acceptedAnswers": ["would understand"]
+        },
+        {
+          "id": "c5",
+          "prompt": "I'd have been able to say goodbye to Trish if only ___ to the airport in time.",
+          "options": ["I get", "I got", "I have got", "I had got"],
+          "acceptedAnswers": ["I had got"]
+        },
+        {
+          "id": "c6",
+          "prompt": "Don't you sometimes wish you ___ invisible?",
+          "options": ["could be", "would be", "will be", "are"],
+          "acceptedAnswers": ["could be"]
+        },
+        {
+          "id": "c7",
+          "prompt": "Suppose we ___ we could go and live on another planet. Would you want to go?",
+          "options": ["to hear", "hearing", "heard", "having heard"],
+          "acceptedAnswers": ["heard"]
+        },
+        {
+          "id": "c8",
+          "prompt": "Do you wish ___ an official complaint?",
+          "options": ["making", "to make", "you made", "you make"],
+          "acceptedAnswers": ["to make"]
+        },
+        {
+          "id": "c9",
+          "prompt": "Adrian was ___ enough money to buy a new computer for the school.",
+          "options": ["wishing to have raised", "wishing he will raise", "hoping to have raised", "hoping he will raise"],
+          "acceptedAnswers": ["hoping to have raised"]
+        },
+        {
+          "id": "c10",
+          "prompt": "Don't you wish we ___ the exam a week on Monday and not tomorrow?",
+          "options": ["take", "will take", "would take", "were taking"],
+          "acceptedAnswers": ["were taking"]
+        }
+      ]
+    },
+    {
+      "id": "d",
+      "type": "rewrite",
+      "title": "D · Keep the meaning",
+      "instruction": "Complete each sentence so that the meaning remains the same.",
+      "items": [
+        {
+          "id": "d1",
+          "prompt": "I don't like your criticising me all the time.\n**I wish**",
+          "acceptedAnswers": [
+            "I wish you wouldn't criticise me all the time.",
+            "I wish you wouldn't criticize me all the time.",
+            "I wish you didn't criticise me all the time."
+          ]
+        },
+        {
+          "id": "d2",
+          "prompt": "It's awful — Sam doesn't know how I feel about him!\n**If only**",
+          "acceptedAnswers": [
+            "If only Sam knew how I feel about him!",
+            "If only Sam knew how I felt about him!"
+          ]
+        },
+        {
+          "id": "d3",
+          "prompt": "I'd love to be with you in Switzerland right now.\n**I wish**",
+          "acceptedAnswers": [
+            "I wish I was with you in Switzerland right now.",
+            "I wish I were with you in Switzerland right now.",
+            "I wish I could be with you in Switzerland right now."
+          ]
+        },
+        {
+          "id": "d4",
+          "prompt": "Frank regrets not taking the job when he had the chance.\n**Frank wishes**",
+          "acceptedAnswers": [
+            "Frank wishes he had taken the job when he had the chance.",
+            "Frank wishes he'd taken the job when he had the chance."
+          ]
+        },
+        {
+          "id": "d5",
+          "prompt": "Wouldn't you like us to be standing in the middle of Times Square right now?\n**Don't you wish**",
+          "acceptedAnswers": [
+            "Don't you wish we were standing in the middle of Times Square right now?",
+            "Don't you wish we could be standing in the middle of Times Square right now?"
+          ]
+        },
+        {
+          "id": "d6",
+          "prompt": "It's a shame I can't play chess as well as Steve.\n**I wish**",
+          "acceptedAnswers": [
+            "I wish I could play chess as well as Steve.",
+            "I wish I played chess as well as Steve."
+          ]
+        },
+        {
+          "id": "d7",
+          "prompt": "What would you do if you had a million euros?\n**Suppose**",
+          "acceptedAnswers": [
+            "Suppose you had a million euros, what would you do?",
+            "Suppose you had a million euros. What would you do?"
+          ]
+        },
+        {
+          "id": "d8",
+          "prompt": "I don't really want you to smoke in here.\n**I'd rather**",
+          "acceptedAnswers": [
+            "I'd rather you didn't smoke in here.",
+            "I'd rather you did not smoke in here."
+          ]
+        },
+        {
+          "id": "d9",
+          "prompt": "It's time for them to go to bed.\n**It's high time**",
+          "acceptedAnswers": [
+            "It's high time they went to bed.",
+            "It's high time they went to bed"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e",
+      "type": "rewrite",
+      "title": "E · Finish the contrast sentence",
+      "instruction": "Complete each sentence so that it contrasts being a vegetarian with occasionally eating fish. Write the missing words.",
+      "items": [
+        {
+          "id": "e1",
+          "prompt": "**Although** Aesop is a vegetarian, ___",
+          "acceptedAnswers": ["he does occasionally eat fish", "he occasionally eats fish"]
+        },
+        {
+          "id": "e2",
+          "prompt": "**Despite** ___, Aesop does occasionally eat fish.",
+          "acceptedAnswers": [
+            "being a vegetarian",
+            "the fact that he is a vegetarian",
+            "the fact he's a vegetarian"
+          ]
+        },
+        {
+          "id": "e3",
+          "prompt": "**Despite the fact that Aesop is a vegetarian**, ___",
+          "acceptedAnswers": ["he does occasionally eat fish", "he occasionally eats fish"]
+        },
+        {
+          "id": "e4",
+          "prompt": "Aesop is a vegetarian, ___.",
+          "acceptedAnswers": ["although he does occasionally eat fish", "although he occasionally eats fish"]
+        },
+        {
+          "id": "e5",
+          "prompt": "**Despite his vegetarianism**, ___",
+          "acceptedAnswers": ["Aesop does occasionally eat fish", "he does occasionally eat fish"]
+        },
+        {
+          "id": "e6",
+          "prompt": "**In spite of** ___, Aesop does occasionally eat fish.",
+          "acceptedAnswers": [
+            "being a vegetarian",
+            "the fact that he is a vegetarian",
+            "his vegetarianism"
+          ]
+        },
+        {
+          "id": "e7",
+          "prompt": "**Despite having** ___ for years, Aesop does occasionally eat fish.",
+          "acceptedAnswers": ["been a vegetarian", "been vegetarian"]
+        },
+        {
+          "id": "e8",
+          "prompt": "Aesop is a vegetarian. **However**, ___",
+          "acceptedAnswers": ["he does occasionally eat fish", "he occasionally eats fish"]
+        },
+        {
+          "id": "e9",
+          "prompt": "Aesop is a vegetarian. He does occasionally eat fish, ___.",
+          "acceptedAnswers": ["however", "though"]
+        }
+      ]
+    },
+    {
+      "id": "f",
+      "type": "gap-fill",
+      "title": "F · although, despite, however or while",
+      "instruction": "Complete using **although**, **despite**, **however** or **while**.",
+      "wordBank": ["although", "despite", "however", "while"],
+      "items": [
+        {
+          "id": "f1",
+          "prompt": "___ the storm, over ten thousand people took part in the marathon.",
+          "acceptedAnswers": ["Despite"]
+        },
+        {
+          "id": "f2",
+          "prompt": "___ I wrote myself a note to remind me, I still forgot to call George tonight.",
+          "acceptedAnswers": ["Although"]
+        },
+        {
+          "id": "f3",
+          "prompt": "Most Egyptologists believe that the Sphinx is about 4,000 years old. Some geologists, ___, argue that it must be at least 14,000 years old.",
+          "acceptedAnswers": ["however"]
+        },
+        {
+          "id": "f4",
+          "prompt": "___ having taken two aspirin, I had such a bad headache that I had to go home.",
+          "acceptedAnswers": ["Despite"]
+        },
+        {
+          "id": "f5",
+          "prompt": "I've never seen a UFO. ___, that doesn't mean that I don't believe in them.",
+          "acceptedAnswers": ["However"]
+        },
+        {
+          "id": "f6",
+          "prompt": "There are still two million people unemployed ___ the fact that we're in the middle of an economic boom.",
+          "acceptedAnswers": ["despite"]
+        },
+        {
+          "id": "f7",
+          "prompt": "___ no European country carries out capital punishment, it is widely used throughout the United States.",
+          "acceptedAnswers": ["Although", "While"]
+        },
+        {
+          "id": "f8",
+          "prompt": "Technology has benefited humankind enormously. There are drawbacks with our reliance on technology, ___.",
+          "acceptedAnswers": ["however"]
+        },
+        {
+          "id": "f9",
+          "prompt": "I couldn't find my keys ___ searching for them everywhere.",
+          "acceptedAnswers": ["despite"]
+        }
+      ]
+    },
+    {
+      "id": "g",
+      "type": "rewrite",
+      "title": "G · Key word transformation",
+      "instruction": "Complete each second sentence using the word given, so that it has a similar meaning to the first sentence. Write between two and five words in each gap.",
+      "items": [
+        {
+          "id": "g1",
+          "prompt": "Although he was exhausted, Mike kept on climbing. **fact**\nIn ___ he was exhausted, Mike kept on climbing.",
+          "acceptedAnswers": ["spite of the fact that", "spite of the fact"]
+        },
+        {
+          "id": "g2",
+          "prompt": "Sally had been sure she would win the music competition. She came third, however. **been**\nDespite ___ would win the music competition, Sally came third.",
+          "acceptedAnswers": ["having been sure she", "being sure she"]
+        },
+        {
+          "id": "g3",
+          "prompt": "Doug wasn't shortlisted for the job even though he had a great CV. **spite**\nDoug wasn't shortlisted for the job ___ a great CV.",
+          "acceptedAnswers": ["in spite of having", "in spite of"]
+        },
+        {
+          "id": "g4",
+          "prompt": "Planes can still take off and land but ferries have been cancelled. **whereas**\nFerries have been cancelled, ___ able to take off and land.",
+          "acceptedAnswers": ["whereas planes are still", "whereas planes can still"]
+        },
+        {
+          "id": "g5",
+          "prompt": "Despite having got a good degree, Sandra couldn't find a well-paid job. **even**\nSandra couldn't find a well-paid job ___ a good degree.",
+          "acceptedAnswers": ["even though she'd got", "even though she had got", "even though she had"]
+        },
+        {
+          "id": "g6",
+          "prompt": "Even though he'd been robbed twice, Red still enjoyed living in the city. **having**\nRed still enjoyed living in the city ___ twice.",
+          "acceptedAnswers": ["despite having been robbed", "in spite of having been robbed"]
+        },
+        {
+          "id": "g7",
+          "prompt": "It's a great film despite the plot being a little complicated. **though**\nIt's a great film, ___ a little complicated.",
+          "acceptedAnswers": ["though the plot is", "even though the plot is"]
+        },
+        {
+          "id": "g8",
+          "prompt": "Despite looking everywhere, the kids failed to find the tennis ball. **although**\nThe kids failed to find the tennis ball ___ everywhere.",
+          "acceptedAnswers": ["although they looked", "although they had looked"]
+        },
+        {
+          "id": "g9",
+          "prompt": "Pat really enjoyed the match even though she was beaten. **of**\nIn ___ , Pat really enjoyed the match.",
+          "acceptedAnswers": ["spite of being beaten", "spite of her defeat"]
+        },
+        {
+          "id": "g10",
+          "prompt": "Despite their thorough investigation of the case, the police didn't manage to catch the culprit. **investigated**\nDespite ___ , the police didn't manage to catch the culprit.",
+          "acceptedAnswers": ["having investigated the case", "having thoroughly investigated the case"]
+        }
+      ]
+    },
+    {
+      "id": "h",
+      "type": "gap-fill",
+      "title": "H · The school dance — extra word",
+      "instruction": "If a line is correct, write **correct**. If there is an extra word in a line, write that word.",
+      "items": [
+        {
+          "id": "h1",
+          "prompt": "I went to my first school dance last Saturday night and it was a disaster! If Extra word or **correct**: ___",
+          "acceptedAnswers": ["correct"]
+        },
+        {
+          "id": "h2",
+          "prompt": "only that I'd thought about what I was going to wear a bit more carefully. Although Extra word or **correct**: ___",
+          "acceptedAnswers": ["that"]
+        },
+        {
+          "id": "h3",
+          "prompt": "being my best friend Jenny had told me it wasn't that kind of event, I'd decided Extra word or **correct**: ___",
+          "acceptedAnswers": ["being"]
+        },
+        {
+          "id": "h4",
+          "prompt": "to look really grown-up and wear a dress and high-heeled shoes. When I got Extra word or **correct**: ___",
+          "acceptedAnswers": ["correct"]
+        },
+        {
+          "id": "h5",
+          "prompt": "there, I looked totally ridiculous and some people started laughing. Despite of Extra word or **correct**: ___",
+          "acceptedAnswers": ["of"]
+        },
+        {
+          "id": "h6",
+          "prompt": "this slight setback, I thought I'd hit the dance floor. If I could have survive that, Extra word or **correct**: ___",
+          "acceptedAnswers": ["have"]
+        },
+        {
+          "id": "h7",
+          "prompt": "I could survive anything. But even though that went wrong! One of my heels Extra word or **correct**: ___",
+          "acceptedAnswers": ["though"]
+        },
+        {
+          "id": "h8",
+          "prompt": "snapped — even if though my shoes were brand new — and I had to carry them Extra word or **correct**: ___",
+          "acceptedAnswers": ["if"]
+        },
+        {
+          "id": "h9",
+          "prompt": "to the side of the room. It was very embarrassing! Still, despite the disastrous Extra word or **correct**: ___",
+          "acceptedAnswers": ["correct"]
+        },
+        {
+          "id": "h10",
+          "prompt": "start was, Craig Fielding came up to me and asked me if I wanted to go out with Extra word or **correct**: ___",
+          "acceptedAnswers": ["was"]
+        }
+      ]
+    },
+    {
+      "id": "i",
+      "type": "gap-fill",
+      "title": "I · On the Catwalk",
+      "instruction": "Write one word in each gap.",
+      "items": [
+        {
+          "id": "i1",
+          "prompt": "(1) ___ the fact that I try to be as upbeat as possible in this column, I have to say Milan has disappointed me.",
+          "acceptedAnswers": ["Despite"]
+        },
+        {
+          "id": "i2",
+          "prompt": "If only we (2) ___ possibly go back to the glory days of fashion (ie last year) when skirts were short and pink was the new black.",
+          "acceptedAnswers": ["could"]
+        },
+        {
+          "id": "i3",
+          "prompt": "Pink is still in this year, interestingly enough. (3) ___ , it's only being used in accessories such as buckles, belts, braces and beads.",
+          "acceptedAnswers": ["However"]
+        },
+        {
+          "id": "i4",
+          "prompt": "Brown — the must-have colour of the season — has never been my favourite colour, (4) ___ I have to say that Belinda Steven's all-brown paper beachwear was quite stunning.",
+          "acceptedAnswers": ["although", "though"]
+        },
+        {
+          "id": "i5",
+          "prompt": "That's in (5) ___ of its complete impracticality, of course.",
+          "acceptedAnswers": ["spite"]
+        },
+        {
+          "id": "i6",
+          "prompt": "It really is (6) ___ time that haute couture entered the real world just a tiny bit.",
+          "acceptedAnswers": ["about", "high"]
+        },
+        {
+          "id": "i7",
+          "prompt": "I know it's supposed to be more art than clothing, but suppose you actually (7) ___ the mistake of buying a Diego Fernandez baseball cap made of candle wax.",
+          "acceptedAnswers": ["made"]
+        },
+        {
+          "id": "i8",
+          "prompt": "That's one walk in the sunshine and five thousand euros is dripping down your face! Now, I'm not saying I wish I (8) ___ stayed back in dull and grey London — the after-show parties were tremendous, as always.",
+          "acceptedAnswers": ["had", "'d"]
+        },
+        {
+          "id": "i9",
+          "prompt": "But I do hope that next season I (9) ___ be able to report that the fashion world's got a grip on itself once more,",
+          "acceptedAnswers": ["will"]
+        },
+        {
+          "id": "i10",
+          "prompt": "and (10) ___ though none of us will ever be able to afford any of the items I describe in this column — at least we'll have something to dream about once more.",
+          "acceptedAnswers": ["even"]
+        }
+      ]
+    }
+  ]
+}

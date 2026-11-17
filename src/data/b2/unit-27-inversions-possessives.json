@@ -1,0 +1,863 @@
+{
+  "id": "unit-27-inversions-possessives",
+  "level": "b2",
+  "unitNumber": 27,
+  "title": "Inversions / possessives",
+  "subtitle": "Negative adverbial inversions, so / neither, and possessive forms",
+  "theory": [
+    {
+      "id": "negative-inversions",
+      "title": "Inversions with negative adverbial words and phrases",
+      "icon": "BookOpen",
+      "blocks": [
+        {
+          "type": "prose",
+          "text": "When we put some negative adverbial words and phrases at the beginning of a sentence for emphasis, the subject and the verb 'invert'. This means we use the question form of the verb, even though the sentence is not a question. Inversions are quite formal and are not usually used in conversation."
+        },
+        {
+          "type": "hints",
+          "intro": "Form: negative adverbial word/phrase + question form",
+          "items": [
+            "**No sooner had I** accepted the job than they told me I had to work weekends."
+          ]
+        },
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "Never",
+              "example": "**Never have I worked** so hard in all my life."
+            },
+            {
+              "use": "Rarely",
+              "example": "**Rarely have I worked** so hard in all my life."
+            },
+            {
+              "use": "Seldom",
+              "example": "**Seldom have I worked** so hard in all my life."
+            },
+            {
+              "use": "No sooner (… than)",
+              "example": "**No sooner had Matt started** work than he resigned."
+            },
+            {
+              "use": "Hardly (… when)",
+              "example": "**Hardly had Matt started** work when he resigned."
+            },
+            {
+              "use": "Not only (… but also / too)",
+              "example": "**Not only were you** late for work, but you had **also** forgotten the report."
+            },
+            {
+              "use": "Under no circumstances",
+              "example": "**Under no circumstances are employees allowed** to leave the building without permission."
+            },
+            {
+              "use": "At no time / point",
+              "example": "**At no time / point was I told** what the job involved."
+            },
+            {
+              "use": "Little",
+              "example": "**Little did I realise** that I would become managing director just two years later."
+            },
+            {
+              "use": "Not until",
+              "example": "**Not until the next day did I hear** that I had got the job."
+            },
+            {
+              "use": "Only",
+              "example": "**Only at the end of the interview did I think** I had a chance of getting the job."
+            }
+          ]
+        },
+        {
+          "type": "watch-out",
+          "text": "**Little** is used with verbs of thought (**realise**, **know**, **suspect**, etc.) and means 'I did not realise / etc. at all…'."
+        },
+        {
+          "type": "hints",
+          "items": [
+            "**Little did I know** how things were going to turn out. (= I did not know at all how things were going to turn out.)"
+          ]
+        },
+        {
+          "type": "watch-out",
+          "text": "With **not until** and **only**, you have to be careful about which verb to invert. Invert the verb in the **main** clause, not in the time clause."
+        },
+        {
+          "type": "correct-incorrect",
+          "correct": "**Not until I had finished** my homework **was I allowed** to go out.",
+          "incorrect": "Not until had I finished my homework I was allowed to go out."
+        },
+        {
+          "type": "correct-incorrect",
+          "correct": "**Only when I had finished** my homework **was I allowed** to go out.",
+          "incorrect": "Only when had I finished my homework I was allowed to go out."
+        }
+      ]
+    },
+    {
+      "id": "other-inversions",
+      "title": "Other inversions",
+      "icon": "Sparkles",
+      "blocks": [
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "In short answers and other similar structures using so, neither and nor",
+              "example": "'I'm a plumber.' 'Really? **So am I**!' My sister doesn't like getting ready for work, and **neither do I / nor do I**."
+            },
+            {
+              "use": "After as, so and such",
+              "example": "The manager was nervous about the director's visit, **as were the rest of the staff**. **So late was it** that there was no one in the office. **Such a hot day was it** that no one wanted to work."
+            },
+            {
+              "use": "In conditional sentences",
+              "example": "**Were our staff** better trained, we might make a larger profit. (= If our staff were better trained …) **Had I known** about the vacancy, I would have applied. (= If I had known …)"
+            }
+          ]
+        },
+        {
+          "type": "watch-out",
+          "text": "Remember that **So am/do/have I** is used to agree with a positive statement and **Neither/Nor am/do/have I** is used to agree with a negative statement."
+        },
+        {
+          "type": "correct-incorrect",
+          "correct": "'I really like my job.' '**So do I.**'",
+          "incorrect": "I really like my job. Neither do I."
+        },
+        {
+          "type": "correct-incorrect",
+          "correct": "'I really don't like my job.' '**Neither do I / Nor do I.**'",
+          "incorrect": "I really don't like my job. So do I."
+        }
+      ]
+    },
+    {
+      "id": "possessive-s",
+      "title": "Possessive 's and s'",
+      "icon": "Table2",
+      "blocks": [
+        {
+          "type": "prose",
+          "text": "We can show possession by using **'s** and **s'**."
+        },
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "'s with singular nouns, including names, and with irregular plurals which do not end in -s",
+              "example": "That's the **manager's** car, over there. We are still waiting for **Sarah's** decision about who to take on. I think that **women's** rights should be protected by law."
+            },
+            {
+              "use": "just an apostrophe with regular plural nouns ending in -s",
+              "example": "The **workers'** pay was increased by ten percent."
+            },
+            {
+              "use": "'s or s' in some time expressions",
+              "example": "After an **hour's** wait, I finally got to see the manager. I'll be at the factory in about **ten minutes'** time."
+            },
+            {
+              "use": "'s or s' with people (or groups composed of people) and animals; the/my/etc. for other things",
+              "example": "Is this **John's** briefcase? We held a meeting to discuss the **company's** finances. The vet had a close look at the **cat's** paw. The technician had a close look at the back of **my** computer. (not … at my computer's back)"
+            }
+          ]
+        },
+        {
+          "type": "watch-out",
+          "text": "With singular names ending in **-s**, some people use **'s** and some people just add an apostrophe. They are both correct, although using **'s** is more common."
+        },
+        {
+          "type": "hints",
+          "items": [
+            "The report is on **Charles's** computer in the office.",
+            "The report is on **Charles'** computer in the office."
+          ]
+        },
+        {
+          "type": "watch-out",
+          "text": "With plural names ending in **-s**, we just add an apostrophe, as with other plurals."
+        },
+        {
+          "type": "hints",
+          "items": ["The **Smiths'** business eventually closed down."]
+        },
+        {
+          "type": "watch-out",
+          "text": "With phrases, the possessive **'s** and **s'** must go at the end of the whole phrase."
+        },
+        {
+          "type": "correct-incorrect",
+          "correct": "**Tom, Dick and Harry's** office is around here somewhere.",
+          "incorrect": "Tom's, Dick's and Harry's office is around here somewhere."
+        },
+        {
+          "type": "correct-incorrect",
+          "correct": "The **President of France's** visit to England will be good for business.",
+          "incorrect": "The President's of France visit to England will be good for business."
+        }
+      ]
+    },
+    {
+      "id": "possessive-pronouns",
+      "title": "Possessive determiners and pronouns",
+      "icon": "Lightbulb",
+      "blocks": [
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "Possessive determiners (my, your, his, her, its, our, their) come before a noun and show possession",
+              "example": "I'm really excited about **my** new job. Are you looking forward to meeting **your** new boss?"
+            },
+            {
+              "use": "Possessive pronouns (mine, yours, his, hers, ours, yours, theirs) are used instead of a noun",
+              "example": "My new job is great. How about **yours**? (= …your job) Our business is doing quite well, but I hear Simon and Julie are having problems with **theirs**. (= …their business)"
+            },
+            {
+              "use": "Possessive pronouns can also be used after of to show possession",
+              "example": "She's a colleague **of mine**. (= …one of my colleagues) Are they customers **of yours**?"
+            }
+          ]
+        },
+        {
+          "type": "watch-out",
+          "text": "A common mistake to be avoided is using a possessive pronoun instead of a possessive determiner or using a possessive determiner instead of a pronoun."
+        },
+        {
+          "type": "correct-incorrect",
+          "correct": "I don't really get on so well with **my** boss.",
+          "incorrect": "I don't really get on so well with mine boss."
+        },
+        {
+          "type": "correct-incorrect",
+          "correct": "I know your job is dangerous, but did Frank and Jenny tell you about **theirs**?",
+          "incorrect": "I know your job is dangerous, but did Frank and Jenny tell you about their?"
+        },
+        {
+          "type": "watch-out",
+          "text": "Remember that there are no apostrophes in possessive pronouns."
+        },
+        {
+          "type": "correct-incorrect",
+          "correct": "I know your job is dangerous, but did Frank and Jenny tell you about **theirs**?",
+          "incorrect": "I know your job is dangerous, but did Frank and Jenny tell you about their's?"
+        },
+        {
+          "type": "watch-out",
+          "text": "Don't get confused between **its** (possessive determiner, without an apostrophe) and **it's** (contraction for **it is** or **it has**, with an apostrophe)."
+        },
+        {
+          "type": "correct-incorrect",
+          "correct": "Our company is hoping to increase **its** share of the market.",
+          "incorrect": "Our company is hoping to increase it's share of the market."
+        }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "a",
+      "type": "gap-fill",
+      "title": "A · when or than",
+      "instruction": "Write **when** or **than** in each gap.",
+      "wordBank": ["when", "than"],
+      "items": [
+        {
+          "id": "a1",
+          "prompt": "Hardly had we started ___ the fire alarm went.",
+          "acceptedAnswers": ["when"]
+        },
+        {
+          "id": "a2",
+          "prompt": "No sooner had we set off ___ my brother needed the toilet.",
+          "acceptedAnswers": ["than"]
+        },
+        {
+          "id": "a3",
+          "prompt": "No sooner were the animals caught ___ they escaped again.",
+          "acceptedAnswers": ["than"]
+        },
+        {
+          "id": "a4",
+          "prompt": "Hardly had I closed my eyes ___ I dropped off to sleep.",
+          "acceptedAnswers": ["when"]
+        },
+        {
+          "id": "a5",
+          "prompt": "No sooner do I do the washing ___ there's another pile to be done.",
+          "acceptedAnswers": ["than"]
+        },
+        {
+          "id": "a6",
+          "prompt": "Hardly were we in position ___ the bomb went off.",
+          "acceptedAnswers": ["when"]
+        }
+      ]
+    },
+    {
+      "id": "b",
+      "type": "multiple-choice",
+      "title": "B · Choose the correct answer",
+      "instruction": "Choose the correct inverted form.",
+      "items": [
+        {
+          "id": "b1",
+          "prompt": "No sooner ___ down than the phone rang.",
+          "options": ["I had sat", "do I sit", "had I sat", "was I sitting"],
+          "acceptedAnswers": ["had I sat"]
+        },
+        {
+          "id": "b2",
+          "prompt": "Never ___ a greater day in the history of mankind.",
+          "options": ["did there be", "was there", "there was", "there has been"],
+          "acceptedAnswers": ["was there"]
+        },
+        {
+          "id": "b3",
+          "prompt": "At no time ___ that he was the killer.",
+          "options": ["I didn't suspect", "was I suspect", "I had suspected", "did I suspect"],
+          "acceptedAnswers": ["did I suspect"]
+        },
+        {
+          "id": "b4",
+          "prompt": "Little ___ that I knew his secret.",
+          "options": ["did John know", "John did know", "was John know", "John knew"],
+          "acceptedAnswers": ["did John know"]
+        },
+        {
+          "id": "b5",
+          "prompt": "Not until ___ her did I realise how beautiful she was.",
+          "options": ["I saw", "did I see", "was I saw", "saw I"],
+          "acceptedAnswers": ["I saw"]
+        },
+        {
+          "id": "b6",
+          "prompt": "Not only ___ my keys, I've lost my wallet, too.",
+          "options": ["I have lost", "are I lost", "I did lose", "have I lost"],
+          "acceptedAnswers": ["have I lost"]
+        },
+        {
+          "id": "b7",
+          "prompt": "Rarely ___ about the environment enough to give up their car.",
+          "options": ["do people care", "people care", "are people care", "care people"],
+          "acceptedAnswers": ["do people care"]
+        },
+        {
+          "id": "b8",
+          "prompt": "Only when ___ may vehicles cross the train tracks.",
+          "options": [
+            "is the green light on",
+            "the green light is on",
+            "did the green light be on",
+            "on is the green light"
+          ],
+          "acceptedAnswers": ["the green light is on"]
+        },
+        {
+          "id": "b9",
+          "prompt": "Seldom ___ such a rude person!",
+          "options": ["have I met", "I have met", "did I met", "am I meeting"],
+          "acceptedAnswers": ["have I met"]
+        },
+        {
+          "id": "b10",
+          "prompt": "Only after doing his chores ___ to go to meet his friends.",
+          "options": ["Jason was allowed", "did Jason allow", "was allowed Jason", "was Jason allowed"],
+          "acceptedAnswers": ["was Jason allowed"]
+        }
+      ]
+    },
+    {
+      "id": "c",
+      "type": "rewrite",
+      "title": "C · Correct the inversion",
+      "instruction": "If the word or phrase in bold is correct, write it again. If it is incorrect, rewrite it correctly.",
+      "items": [
+        {
+          "id": "c1",
+          "prompt": "Hardly **Tom had** opened the door when the dog ran out into the street.",
+          "acceptedAnswers": ["had Tom"]
+        },
+        {
+          "id": "c2",
+          "prompt": "Only when I **read** the book did I realise why it was so special.",
+          "acceptedAnswers": ["read"]
+        },
+        {
+          "id": "c3",
+          "prompt": "Not only **you passed** the exam, but you also got an A!",
+          "acceptedAnswers": ["did you pass"]
+        },
+        {
+          "id": "c4",
+          "prompt": "Not until **do I see** Greg next week will I know whether he got the job.",
+          "acceptedAnswers": ["I see"]
+        },
+        {
+          "id": "c5",
+          "prompt": "No sooner **had we found** our seats than the film began.",
+          "acceptedAnswers": ["had we found"]
+        },
+        {
+          "id": "c6",
+          "prompt": "At no point while the race is taking place **members of the public are not allowed** onto the track.",
+          "acceptedAnswers": ["are members of the public allowed"]
+        },
+        {
+          "id": "c7",
+          "prompt": "Under no circumstances **do the equipment to be used** without supervision.",
+          "acceptedAnswers": ["is the equipment to be used"]
+        },
+        {
+          "id": "c8",
+          "prompt": "Little **I thought** that one day my best friend would become prime minister.",
+          "acceptedAnswers": ["did I think"]
+        },
+        {
+          "id": "c9",
+          "prompt": "Never **did I be** so pleased to see someone else succeed.",
+          "acceptedAnswers": ["have I been", "was I"]
+        },
+        {
+          "id": "c10",
+          "prompt": "Hardly **I had put** the baby to bed when she started crying.",
+          "acceptedAnswers": ["had I put"]
+        }
+      ]
+    },
+    {
+      "id": "d",
+      "type": "gap-fill",
+      "title": "D · Hacker!",
+      "instruction": "Complete using the correct form of the words in brackets.",
+      "items": [
+        {
+          "id": "d1",
+          "prompt": "No sooner (1) ___ (I / start) working at Taylforth Nielsen, the computer company, than I realised it was the perfect opportunity for my hobby: hacking!",
+          "acceptedAnswers": ["had I started"]
+        },
+        {
+          "id": "d2",
+          "prompt": "Don't get me wrong. At no point (2) ___ (I / have) ever stolen anything.",
+          "acceptedAnswers": ["have I"]
+        },
+        {
+          "id": "d3",
+          "prompt": "I do it for the challenge. Not only (3) ___ (I / like) proving I can do it, but sometimes",
+          "acceptedAnswers": ["do I like"]
+        },
+        {
+          "id": "d4",
+          "prompt": "(4) ___ (it / help) a company to build a better security system.",
+          "acceptedAnswers": ["it helps"]
+        },
+        {
+          "id": "d5",
+          "prompt": "Rarely (5) ___ (they / see) it like that, of course.",
+          "acceptedAnswers": ["do they see"]
+        },
+        {
+          "id": "d6",
+          "prompt": "I decided I would see if I could break into the Grand Bank system. Little (6) ___ (I / realise) what was waiting for me.",
+          "acceptedAnswers": ["did I realise"]
+        },
+        {
+          "id": "d7",
+          "prompt": "The second day of working there, hardly (7) ___ (everyone else / leave) when I started to try simple passwords.",
+          "acceptedAnswers": ["had everyone else left"]
+        },
+        {
+          "id": "d8",
+          "prompt": "Seldom (8) ___ (this / is) enough, though.",
+          "acceptedAnswers": ["is this"]
+        },
+        {
+          "id": "d9",
+          "prompt": "You usually have to work much harder than that. Not until midnight (9) ___ (I / get) access to the Grand Bank system.",
+          "acceptedAnswers": ["did I get"]
+        },
+        {
+          "id": "d10",
+          "prompt": "Hardly (10) ___ (I / have) time to look around the system when the door to my office flew open and three men rushed in.",
+          "acceptedAnswers": ["did I have", "had I had"]
+        },
+        {
+          "id": "d11",
+          "prompt": "Only when (11) ___ (they / show) me their ID did I realise that it was the police.",
+          "acceptedAnswers": ["they showed"]
+        },
+        {
+          "id": "d12",
+          "prompt": "Only when they showed me their ID (12) ___ (I / realise) that it was the police.",
+          "acceptedAnswers": ["did I realise"]
+        },
+        {
+          "id": "d13",
+          "prompt": "They had been expecting something like this and had traced my computer! Not only (13) ___ (I / be fired), but",
+          "acceptedAnswers": ["was I fired", "was I being fired"]
+        },
+        {
+          "id": "d14",
+          "prompt": "(14) ___ (they / keep) all my computer records, too. Maybe it's time to find another hobby.",
+          "acceptedAnswers": ["they kept", "did they keep"]
+        }
+      ]
+    },
+    {
+      "id": "e",
+      "type": "rewrite",
+      "title": "E · Keep the meaning",
+      "instruction": "Complete the sentences so that the meaning remains the same.",
+      "items": [
+        {
+          "id": "e1",
+          "prompt": "Photographs are not permitted under any circumstances.\n**Under**",
+          "acceptedAnswers": [
+            "Under no circumstances are photographs permitted.",
+            "Under no circumstances are photographs allowed."
+          ]
+        },
+        {
+          "id": "e2",
+          "prompt": "We've never faced such a serious problem as this.\n**Never**",
+          "acceptedAnswers": [
+            "Never have we faced such a serious problem as this.",
+            "Never have we faced such a serious problem."
+          ]
+        },
+        {
+          "id": "e3",
+          "prompt": "I only realised it was Vanessa when she removed her hat.\n**Only**",
+          "acceptedAnswers": [
+            "Only when she removed her hat did I realise it was Vanessa.",
+            "Only when she removed her hat did I realize it was Vanessa."
+          ]
+        },
+        {
+          "id": "e4",
+          "prompt": "The audience didn't laugh at any point during the show.\n**At**",
+          "acceptedAnswers": [
+            "At no point during the show did the audience laugh.",
+            "At no point did the audience laugh during the show."
+          ]
+        },
+        {
+          "id": "e5",
+          "prompt": "As soon as Patrick had finished the e-mail, he sent it.\n**No**",
+          "acceptedAnswers": [
+            "No sooner had Patrick finished the e-mail than he sent it.",
+            "No sooner had Patrick finished the email than he sent it."
+          ]
+        },
+        {
+          "id": "e6",
+          "prompt": "It wasn't clear who was going to win the match until the last few minutes.\n**Not**",
+          "acceptedAnswers": [
+            "Not until the last few minutes was it clear who was going to win the match.",
+            "Not until the last few minutes was it clear who would win the match."
+          ]
+        },
+        {
+          "id": "e7",
+          "prompt": "Dennis passed his driving test and had an accident almost immediately afterwards.\n**Hardly**",
+          "acceptedAnswers": [
+            "Hardly had Dennis passed his driving test when he had an accident.",
+            "Hardly had Dennis passed his driving test when he had an accident almost immediately afterwards."
+          ]
+        },
+        {
+          "id": "e8",
+          "prompt": "I didn't learn the result of the match until I read the evening paper.\n**Only**",
+          "acceptedAnswers": [
+            "Only when I read the evening paper did I learn the result of the match.",
+            "Only after I read the evening paper did I learn the result of the match."
+          ]
+        },
+        {
+          "id": "e9",
+          "prompt": "The president will not resign under any circumstances.\n**Under**",
+          "acceptedAnswers": [
+            "Under no circumstances will the president resign.",
+            "Under no circumstances will the president resign"
+          ]
+        },
+        {
+          "id": "e10",
+          "prompt": "The accused showed no emotion at any time during the trial.\n**At**",
+          "acceptedAnswers": [
+            "At no time during the trial did the accused show any emotion.",
+            "At no time during the trial did the accused show emotion."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f",
+      "type": "rewrite",
+      "title": "F · So / neither / nor",
+      "instruction": "Complete the responses to these statements.",
+      "items": [
+        {
+          "id": "f1",
+          "prompt": "'I wish I had more money.'\n**So**",
+          "acceptedAnswers": ["So do I.", "So do I"]
+        },
+        {
+          "id": "f2",
+          "prompt": "'We never seem to spend much time together in my family.'\n**Neither**",
+          "acceptedAnswers": ["Neither do we.", "Neither do we"]
+        },
+        {
+          "id": "f3",
+          "prompt": "'I'm not going to Jacob's party next Sunday.'\n**Nor**",
+          "acceptedAnswers": ["Nor am I.", "Nor am I"]
+        },
+        {
+          "id": "f4",
+          "prompt": "'I didn't do my homework last night.'\n**Nor**",
+          "acceptedAnswers": ["Nor did I.", "Nor did I"]
+        },
+        {
+          "id": "f5",
+          "prompt": "'I'll be on holiday this time next week.'\n**So**",
+          "acceptedAnswers": ["So will I.", "So will I"]
+        },
+        {
+          "id": "f6",
+          "prompt": "'I had no idea Chris was getting married.'\n**Neither**",
+          "acceptedAnswers": ["Neither did I.", "Neither had I.", "Neither did I"]
+        },
+        {
+          "id": "f7",
+          "prompt": "'I should really get more exercise.'\n**So**",
+          "acceptedAnswers": ["So should I.", "So should I"]
+        }
+      ]
+    },
+    {
+      "id": "g",
+      "type": "gap-fill",
+      "title": "G · One word in each gap",
+      "instruction": "Write one word in each gap.",
+      "items": [
+        {
+          "id": "g1",
+          "prompt": "Such a long way ___ it that we decided to go by train.",
+          "acceptedAnswers": ["was"]
+        },
+        {
+          "id": "g2",
+          "prompt": "So badly ___ I play chess that I almost never agree to have a game.",
+          "acceptedAnswers": ["do"]
+        },
+        {
+          "id": "g3",
+          "prompt": "Pupils are expected to behave politely, as ___ members of staff.",
+          "acceptedAnswers": ["are"]
+        },
+        {
+          "id": "g4",
+          "prompt": "So tired ___ I that I decided to lie down for a while.",
+          "acceptedAnswers": ["was"]
+        },
+        {
+          "id": "g5",
+          "prompt": "Such a threat to society ___ you that I have no choice but to send you to prison.",
+          "acceptedAnswers": ["are"]
+        },
+        {
+          "id": "g6",
+          "prompt": "So cold ___ it last winter that all our pipes froze.",
+          "acceptedAnswers": ["was"]
+        },
+        {
+          "id": "g7",
+          "prompt": "Calculators are banned from the examining room, as ___ dictionaries and handheld computers.",
+          "acceptedAnswers": ["are"]
+        },
+        {
+          "id": "g8",
+          "prompt": "I have been having very strange dreams lately, as ___ my twin sister.",
+          "acceptedAnswers": ["has"]
+        }
+      ]
+    },
+    {
+      "id": "h",
+      "type": "gap-fill",
+      "title": "H · Form possessives",
+      "instruction": "Form possessives from the nouns given.",
+      "items": [
+        {
+          "id": "h1",
+          "prompt": "(Billy): ___ opinion",
+          "acceptedAnswers": ["Billy's"]
+        },
+        {
+          "id": "h2",
+          "prompt": "(my mum): ___ cooking",
+          "acceptedAnswers": ["my mum's"]
+        },
+        {
+          "id": "h3",
+          "prompt": "(our next door neighbours): ___ cat",
+          "acceptedAnswers": ["our next door neighbours'"]
+        },
+        {
+          "id": "h4",
+          "prompt": "(George the Fifth): ___ daughter",
+          "acceptedAnswers": ["George the Fifth's"]
+        },
+        {
+          "id": "h5",
+          "prompt": "(people): ___ prejudices",
+          "acceptedAnswers": ["people's"]
+        },
+        {
+          "id": "h6",
+          "prompt": "(the Greenes): ___ holiday home",
+          "acceptedAnswers": ["the Greenes'"]
+        },
+        {
+          "id": "h7",
+          "prompt": "(women): ___ magazines",
+          "acceptedAnswers": ["women's"]
+        },
+        {
+          "id": "h8",
+          "prompt": "(the boss): ___ car",
+          "acceptedAnswers": ["the boss's", "the boss'"]
+        },
+        {
+          "id": "h9",
+          "prompt": "(Jack and Jill): ___ wedding",
+          "acceptedAnswers": ["Jack and Jill's"]
+        },
+        {
+          "id": "h10",
+          "prompt": "(students): ___ marks",
+          "acceptedAnswers": ["students'"]
+        },
+        {
+          "id": "h11",
+          "prompt": "(children): ___ shoes",
+          "acceptedAnswers": ["children's"]
+        },
+        {
+          "id": "h12",
+          "prompt": "(politicians): ___ promises",
+          "acceptedAnswers": ["politicians'"]
+        }
+      ]
+    },
+    {
+      "id": "i",
+      "type": "gap-fill",
+      "title": "I · Possessive determiners and pronouns",
+      "instruction": "Complete using the words in the box. Use each word only once.",
+      "wordBank": ["her", "hers", "it's", "its", "mine", "my", "their", "theirs"],
+      "items": [
+        {
+          "id": "i1",
+          "prompt": "Tell Michelle that it's my problem, not ___.",
+          "acceptedAnswers": ["hers"]
+        },
+        {
+          "id": "i2",
+          "prompt": "Are you sure this isn't ___, because it looks just like the one I was given for Christmas?",
+          "acceptedAnswers": ["mine"]
+        },
+        {
+          "id": "i3",
+          "prompt": "Thanks for the offer, but I think I'll use ___ own money.",
+          "acceptedAnswers": ["my"]
+        },
+        {
+          "id": "i4",
+          "prompt": "I saw a wallet on the floor next to a couple of tourists and asked them if it was ___.",
+          "acceptedAnswers": ["theirs"]
+        },
+        {
+          "id": "i5",
+          "prompt": "Remind your sister to bring ___ book to the lesson tomorrow.",
+          "acceptedAnswers": ["her"]
+        },
+        {
+          "id": "i6",
+          "prompt": "I'm not sure, but I think ___ Mark's bag, isn't it?",
+          "acceptedAnswers": ["it's"]
+        },
+        {
+          "id": "i7",
+          "prompt": "Could you make sure that your children don't leave ___ toys in my garden again, please?",
+          "acceptedAnswers": ["their"]
+        },
+        {
+          "id": "i8",
+          "prompt": "What secrets do you think the Moon might be hiding within ___ craters?",
+          "acceptedAnswers": ["its"]
+        }
+      ]
+    },
+    {
+      "id": "j",
+      "type": "gap-fill",
+      "title": "J · First day at work — extra word",
+      "instruction": "If a line is correct, write **correct**. If there is an extra word in a line, write that word.",
+      "items": [
+        {
+          "id": "j1",
+          "prompt": "Well, Trisha, that's my own first day at my new job out of the way. I wasn't Extra word or **correct**: ___",
+          "acceptedAnswers": ["own"]
+        },
+        {
+          "id": "j2",
+          "prompt": "sure what to expect, but it turned out okay. My manager was really nice, Extra word or **correct**: ___",
+          "acceptedAnswers": ["correct"]
+        },
+        {
+          "id": "j3",
+          "prompt": "much nicer than yours boss sounds from your letter. No sooner had I arrived Extra word or **correct**: ___",
+          "acceptedAnswers": ["yours"]
+        },
+        {
+          "id": "j4",
+          "prompt": "at work than did he made me a cup of tea! It was a really pleasant surprise. Extra word or **correct**: ___",
+          "acceptedAnswers": ["did"]
+        },
+        {
+          "id": "j5",
+          "prompt": "Not only did he do that, but he was also kind enough to explain to me how Extra word or **correct**: ___",
+          "acceptedAnswers": ["correct"]
+        },
+        {
+          "id": "j6",
+          "prompt": "everything worked. The office is really modern and it's comfortable. The other Extra word or **correct**: ___",
+          "acceptedAnswers": ["correct"]
+        },
+        {
+          "id": "j7",
+          "prompt": "people all have their own desks, but mine desk still hasn't been delivered, so Extra word or **correct**: ___",
+          "acceptedAnswers": ["mine"]
+        },
+        {
+          "id": "j8",
+          "prompt": "I am sharing with someone else for now. Little did I not realise when I took Extra word or **correct**: ___",
+          "acceptedAnswers": ["not"]
+        },
+        {
+          "id": "j9",
+          "prompt": "the job that I was going to enjoy it so much. I have finally found a job that I Extra word or **correct**: ___",
+          "acceptedAnswers": ["correct"]
+        },
+        {
+          "id": "j10",
+          "prompt": "am happy in, and so will you have, I'm sure. Hope tomorrow's as much fun! Extra word or **correct**: ___",
+          "acceptedAnswers": ["have"]
+        }
+      ]
+    }
+  ]
+}
