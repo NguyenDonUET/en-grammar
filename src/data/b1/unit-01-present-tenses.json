@@ -1,0 +1,459 @@
+{
+  "id": "unit-01-present-tenses",
+  "level": "b1",
+  "unitNumber": 1,
+  "title": "Present simple, present continuous, stative verbs",
+  "subtitle": "Habits, actions in progress, and verbs that describe states",
+  "theory": [
+    {
+      "id": "present-simple",
+      "title": "Present simple",
+      "icon": "BookOpen",
+      "blocks": [
+        {
+          "type": "form-table",
+          "rows": [
+            {
+              "person": "I / you / we / they",
+              "statement": "I/you/we/they **play** …",
+              "negative": "I/you/we/they **do not (don't) play** …",
+              "question": "**Do** I/you/we/they **play** …?"
+            },
+            {
+              "person": "he / she / it",
+              "statement": "He/she/it **plays** …",
+              "negative": "He/she/it **does not (doesn't) play** …",
+              "question": "**Does** he/she/it **play** …?"
+            }
+          ]
+        },
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "Present habits",
+              "example": "Lina **goes** to swimming practice every Tuesday."
+            },
+            {
+              "use": "Permanent situations",
+              "example": "**Does** Omar **work** at the science museum?"
+            },
+            {
+              "use": "States",
+              "example": "I **like** the new detective series on TV."
+            },
+            {
+              "use": "General truths",
+              "example": "A chessboard **has** 64 squares."
+            }
+          ]
+        },
+        {
+          "type": "hints",
+          "intro": "The present simple often appears with these adverbs and time phrases:",
+          "items": [
+            "adverbs: {pill:always} {pill:usually} {pill:often} {pill:sometimes} {pill:rarely} {pill:never}",
+            "phrases: {pill:every Monday} {pill:each week} {pill:once a week} {pill:three times a month}",
+            "These adverbs usually go **before** the main verb, but **after** the verb **be**.",
+            "I {pill:often} **play** football with my friends.",
+            "I **am** {pill:often} late for my piano lessons."
+          ]
+        },
+        {
+          "type": "watch-out",
+          "text": "The verbs **be** and **have** use irregular present forms.",
+          "note": "See the irregular verb list at the back of your notes."
+        }
+      ]
+    },
+    {
+      "id": "present-continuous",
+      "title": "Present continuous",
+      "icon": "Sparkles",
+      "blocks": [
+        {
+          "type": "form-table",
+          "rows": [
+            {
+              "person": "I",
+              "statement": "I **am ('m) playing** …",
+              "negative": "I **am not ('m not) playing** …",
+              "question": "**Am** I **playing** …?"
+            },
+            {
+              "person": "he / she / it",
+              "statement": "He/she/it **is ('s) playing** …",
+              "negative": "He/she/it **is not (isn't / 's not) playing** …",
+              "question": "**Is** he/she/it **playing** …?"
+            },
+            {
+              "person": "you / we / they",
+              "statement": "You/we/they **are ('re) playing** …",
+              "negative": "You/we/they **are not (aren't / 're not) playing** …",
+              "question": "**Are** you/we/they **playing** …?"
+            }
+          ]
+        },
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "Actions happening now",
+              "example": "Jan **is watching** a documentary upstairs."
+            },
+            {
+              "use": "Temporary situations",
+              "example": "She **is working** at the museum until the end of the month."
+            },
+            {
+              "use": "Annoying habits (usually with always)",
+              "example": "My brother **is always borrowing** my headphones without asking!"
+            }
+          ]
+        },
+        {
+          "type": "hints",
+          "intro": "The present continuous often appears with these words and phrases:",
+          "items": [
+            "{pill:now} {pill:right now} {pill:at the moment}",
+            "{pill:today} {pill:this week} {pill:this month}"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "stative-verbs",
+      "title": "Stative verbs",
+      "icon": "Lightbulb",
+      "blocks": [
+        {
+          "type": "prose",
+          "text": "Stative verbs do not usually describe actions. They describe states (feelings, thoughts, possession, senses). They are not normally used in continuous tenses."
+        },
+        {
+          "type": "correct-incorrect",
+          "correct": "I **like** reading books in my free time.",
+          "incorrect": "I **am liking** reading books in my free time."
+        },
+        {
+          "type": "word-list",
+          "intro": "Some common stative verbs:",
+          "words": [
+            "appear",
+            "be",
+            "believe",
+            "belong",
+            "hate",
+            "have",
+            "include",
+            "know",
+            "like",
+            "love",
+            "need",
+            "prefer",
+            "see",
+            "seem",
+            "taste",
+            "think",
+            "understand",
+            "want"
+          ]
+        },
+        {
+          "type": "watch-out",
+          "text": "Some of these verbs (such as **be**, **have** and **think**) are used in continuous tenses when they describe **actions**.",
+          "note": "**What do you think** about his new song? (opinion) · **I'm thinking** about last night's match. (mental process)"
+        }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "a",
+      "type": "guided-sentence",
+      "title": "A · Write a sentence",
+      "instruction": "Use the prompts to write a full sentence. Choose present simple or present continuous.",
+      "items": [
+        {
+          "id": "a1",
+          "prompt": "Lina / take / the train / every morning",
+          "acceptedAnswers": [
+            "Lina takes the train every morning.",
+            "Lina takes the train every morning"
+          ]
+        },
+        {
+          "id": "a2",
+          "prompt": "the children / play / in the garden / right now",
+          "acceptedAnswers": [
+            "The children are playing in the garden right now.",
+            "The children are playing in the garden right now",
+            "The children are playing in the garden at the moment."
+          ]
+        },
+        {
+          "id": "a3",
+          "prompt": "Omar / not / like / spicy food",
+          "acceptedAnswers": [
+            "Omar does not like spicy food.",
+            "Omar does not like spicy food",
+            "Omar doesn't like spicy food.",
+            "Omar doesn't like spicy food"
+          ]
+        },
+        {
+          "id": "a4",
+          "prompt": "you / wait / for the bus / at the moment?",
+          "acceptedAnswers": [
+            "Are you waiting for the bus at the moment?",
+            "Are you waiting for the bus at the moment"
+          ]
+        },
+        {
+          "id": "a5",
+          "prompt": "we / usually / have / lunch at one",
+          "acceptedAnswers": [
+            "We usually have lunch at one.",
+            "We usually have lunch at one",
+            "We usually have lunch at 1.",
+            "We usually have lunch at 1"
+          ]
+        },
+        {
+          "id": "a6",
+          "prompt": "she / always / lose / her keys! (annoying habit)",
+          "acceptedAnswers": [
+            "She's always losing her keys!",
+            "She's always losing her keys",
+            "She is always losing her keys!",
+            "She is always losing her keys."
+          ],
+          "explanation": "Use present continuous + always for an annoying repeated action."
+        }
+      ]
+    },
+    {
+      "id": "b",
+      "type": "gap-fill",
+      "title": "B · Complete the sentences",
+      "instruction": "Write the correct present simple or present continuous form in each gap.",
+      "items": [
+        {
+          "id": "b1",
+          "prompt": "Maya ___ at the library on Saturdays. (work)",
+          "acceptedAnswers": ["works"]
+        },
+        {
+          "id": "b2",
+          "prompt": "Listen! The neighbours ___ again. (argue)",
+          "acceptedAnswers": ["are arguing"]
+        },
+        {
+          "id": "b3",
+          "prompt": "I ___ this map. (not / understand)",
+          "acceptedAnswers": [
+            "don't understand",
+            "do not understand"
+          ],
+          "explanation": "Understand is stative here, so use the present simple."
+        },
+        {
+          "id": "b4",
+          "prompt": "Right now the museum ___ a free evening tour. (offer)",
+          "acceptedAnswers": ["is offering"]
+        },
+        {
+          "id": "b5",
+          "prompt": "They ___ with us until Friday. (stay)",
+          "acceptedAnswers": ["are staying"],
+          "explanation": "A temporary situation around now."
+        },
+        {
+          "id": "b6",
+          "prompt": "Water ___ at 100°C. (boil)",
+          "acceptedAnswers": ["boils"]
+        }
+      ]
+    },
+    {
+      "id": "c",
+      "type": "rewrite",
+      "title": "C · Rewrite the sentence",
+      "instruction": "Rewrite each sentence so the verb in bold uses the tense suggested in brackets.",
+      "items": [
+        {
+          "id": "c1",
+          "prompt": "This week Maya **stays** with her aunt in Leeds. (temporary)",
+          "acceptedAnswers": [
+            "This week Maya is staying with her aunt in Leeds.",
+            "This week Maya is staying with her aunt in Leeds",
+            "Maya is staying with her aunt in Leeds this week.",
+            "Maya is staying with her aunt in Leeds this week"
+          ]
+        },
+        {
+          "id": "c2",
+          "prompt": "I **think** about last night's puzzle. (mental process now)",
+          "acceptedAnswers": [
+            "I'm thinking about last night's puzzle.",
+            "I'm thinking about last night's puzzle",
+            "I am thinking about last night's puzzle.",
+            "I am thinking about last night's puzzle"
+          ]
+        },
+        {
+          "id": "c3",
+          "prompt": "They **have** lunch in the garden at the moment. (action)",
+          "acceptedAnswers": [
+            "They're having lunch in the garden at the moment.",
+            "They're having lunch in the garden at the moment",
+            "They are having lunch in the garden at the moment.",
+            "They are having lunch in the garden at the moment"
+          ]
+        },
+        {
+          "id": "c4",
+          "prompt": "She **always complains** about the noise. (annoying habit)",
+          "acceptedAnswers": [
+            "She's always complaining about the noise.",
+            "She's always complaining about the noise",
+            "She is always complaining about the noise.",
+            "She is always complaining about the noise"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d",
+      "type": "multiple-choice",
+      "title": "D · Choose the correct option",
+      "instruction": "Select the phrase that completes each sentence.",
+      "items": [
+        {
+          "id": "d1",
+          "prompt": "I ___ her from school — we were in the same class.",
+          "options": ["know", "am knowing"],
+          "acceptedAnswers": ["know"]
+        },
+        {
+          "id": "d2",
+          "prompt": "We ___ at a hotel this week while the kitchen is painted.",
+          "options": ["stay", "are staying"],
+          "acceptedAnswers": ["are staying"]
+        },
+        {
+          "id": "d3",
+          "prompt": "He ___ his mug in the sink!",
+          "options": ["always leaves", "is always leaving"],
+          "acceptedAnswers": ["is always leaving"],
+          "explanation": "Present continuous + always shows annoyance."
+        },
+        {
+          "id": "d4",
+          "prompt": "Ice ___ at 0°C.",
+          "options": ["melts", "is melting"],
+          "acceptedAnswers": ["melts"]
+        },
+        {
+          "id": "d5",
+          "prompt": "What ___ of this plan? I need your opinion.",
+          "options": ["do you think", "are you thinking"],
+          "acceptedAnswers": ["do you think"]
+        },
+        {
+          "id": "d6",
+          "prompt": "Quiet, please — I ___ to the podcast.",
+          "options": ["listen", "am listening"],
+          "acceptedAnswers": ["am listening"]
+        }
+      ]
+    },
+    {
+      "id": "e",
+      "type": "gap-fill",
+      "title": "E · Word bank",
+      "instruction": "Complete each sentence with a phrase from the word bank. You will not need every form twice.",
+      "wordBank": [
+        "tastes",
+        "is tasting",
+        "have",
+        "are having",
+        "don't believe",
+        "is looking"
+      ],
+      "items": [
+        {
+          "id": "e1",
+          "prompt": "This soup ___ delicious.",
+          "acceptedAnswers": ["tastes"]
+        },
+        {
+          "id": "e2",
+          "prompt": "The chef ___ the soup now.",
+          "acceptedAnswers": ["is tasting"]
+        },
+        {
+          "id": "e3",
+          "prompt": "We ___ a great time at the festival.",
+          "acceptedAnswers": ["are having"]
+        },
+        {
+          "id": "e4",
+          "prompt": "They ___ two cats and a rabbit.",
+          "acceptedAnswers": ["have"]
+        },
+        {
+          "id": "e5",
+          "prompt": "I ___ that story for a second.",
+          "acceptedAnswers": ["don't believe", "do not believe"]
+        },
+        {
+          "id": "e6",
+          "prompt": "She ___ at the photos on the wall.",
+          "acceptedAnswers": ["is looking"]
+        }
+      ]
+    },
+    {
+      "id": "f",
+      "type": "error-correction",
+      "title": "F · Find and correct the mistakes",
+      "instruction": "Tap the verb that is wrong, then write the correct form.",
+      "paragraph": "Every morning I {click:am getting} up at six. Right now I {click:write} this email on the train. I {click:am knowing} most of the people in my office. This week we {click:work} from a studio by the river. My colleague {click:always is interrupting} me when I try to focus.",
+      "items": [
+        {
+          "id": "f1",
+          "prompt": "Habit in the morning",
+          "targetSpan": "am getting",
+          "acceptedAnswers": ["get"],
+          "explanation": "A regular habit uses the present simple."
+        },
+        {
+          "id": "f2",
+          "prompt": "Action in progress now",
+          "targetSpan": "write",
+          "acceptedAnswers": ["am writing", "'m writing"],
+          "explanation": "Right now → present continuous."
+        },
+        {
+          "id": "f3",
+          "prompt": "Stative meaning",
+          "targetSpan": "am knowing",
+          "acceptedAnswers": ["know"]
+        },
+        {
+          "id": "f4",
+          "prompt": "Temporary situation this week",
+          "targetSpan": "work",
+          "acceptedAnswers": ["are working"]
+        },
+        {
+          "id": "f5",
+          "prompt": "Annoying habit",
+          "targetSpan": "always is interrupting",
+          "acceptedAnswers": ["is always interrupting"]
+        }
+      ]
+    }
+  ]
+}
