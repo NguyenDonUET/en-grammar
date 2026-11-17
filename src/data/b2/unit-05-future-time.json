@@ -1,0 +1,783 @@
+{
+  "id": "unit-05-future-time",
+  "level": "b2",
+  "unitNumber": 5,
+  "title": "Future time",
+  "subtitle": "Will, be going to, present tenses for the future, future perfect, time clauses, prepositions of time and place",
+  "theory": [
+    {
+      "id": "will-going-to",
+      "title": "will / won't and be going to",
+      "icon": "BookOpen",
+      "blocks": [
+        {
+          "type": "prose",
+          "text": "There is sometimes little difference in meaning between **will** and **be going to**. It is often just a matter of formality. **Will** is generally more formal than **be going to**."
+        },
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "Facts about the future",
+              "example": "The website **will** come online next week. (more formal) · The website's **going to** come online next week. (more informal)"
+            },
+            {
+              "use": "Predictions not based on present evidence",
+              "example": "In the future, everyone **will** have their own flying car. (more formal) · In the future, everyone **is going to** have their own flying car. (more informal)"
+            },
+            {
+              "use": "Decisions made at the moment of speaking",
+              "example": "I've decided! I **won't** get a new DVD player just yet. (emphasising the decision) · I've decided! I'm **not going to** get a new DVD player just yet. (emphasising the intention)"
+            }
+          ]
+        },
+        {
+          "type": "hints",
+          "intro": "Sometimes it is more appropriate to use **will** rather than **be going to**.",
+          "items": [
+            "Offers and suggestions: I'll **help** you with your physics homework, if you like.",
+            "Requests: **Will** you help me with my physics homework?",
+            "Most first conditional sentences: If we get a computer, we'll **be** able to surf the Internet."
+          ]
+        },
+        {
+          "type": "watch-out",
+          "text": "With offers and suggestions in the question form, we do not use **will** with **I** and **we**. We use **shall**.",
+          "note": "**Shall** I help you with your physics homework? (not *Will I help you …*)"
+        },
+        {
+          "type": "hints",
+          "intro": "Sometimes it is more appropriate to use **be going to** rather than **will**.",
+          "items": [
+            "Plans and intentions (which you already have when you speak): I'm **going to be** a famous doctor one day!",
+            "Predictions based on present evidence: It sounds like the plane's **going to take off** in a few minutes."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "present-tenses-future",
+      "title": "Present continuous and present simple for the future",
+      "icon": "Sparkles",
+      "blocks": [
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "Present continuous · arrangements made before the moment of speaking",
+              "example": "**Are** they **installing** the new computers next week?"
+            },
+            {
+              "use": "Present simple · timetables, arrangements and fixed events (which the speaker cannot change)",
+              "example": "The bus to the science museum **leaves** at 8 o'clock tomorrow morning."
+            },
+            {
+              "use": "Present simple · after **if** in first conditional and zero conditional sentences",
+              "example": "If technology **continues** to advance so quickly, what **will** life be like in a hundred years?"
+            },
+            {
+              "use": "Present simple · after certain time expressions",
+              "example": "We'll find out as soon as we **get** to the lab."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "future-perfect-continuous",
+      "title": "Future perfect and future continuous",
+      "icon": "Table2",
+      "blocks": [
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "Future perfect simple · **will/won't + have + past participle** · actions completed between now and a point in the future",
+              "example": "I'll **have finished** my chemistry homework by the time you come home."
+            },
+            {
+              "use": "Future continuous · **will/won't + be + -ing** · actions in progress at a point in the future",
+              "example": "This time next week, I'll **be taking** my biology exam."
+            },
+            {
+              "use": "Future continuous · habits or repeated actions in the future",
+              "example": "In the future, we'll all **be flying** around using jet-packs."
+            },
+            {
+              "use": "Future perfect continuous · **will/won't + have been + -ing** · actions in progress up to a point in the future",
+              "example": "At seven o'clock, I'll **have been doing** my chemistry homework for three hours!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "time-clauses",
+      "title": "Present tenses in time clauses",
+      "icon": "CheckCircle2",
+      "blocks": [
+        {
+          "type": "prose",
+          "text": "In time clauses, we do not use **will** or **be going to** immediately after some time words and phrases. We use a present tense (present simple, present continuous or present perfect) to talk about the future."
+        },
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "when",
+              "example": "It'll be wonderful **when** scientists **find / have found** a cure for cancer."
+            },
+            {
+              "use": "as soon as",
+              "example": "Let me know **as soon as** your new computer **arrives / has arrived**."
+            },
+            {
+              "use": "before",
+              "example": "It'll be several years **before** we **send / have sent** a manned mission to Mars."
+            },
+            {
+              "use": "after",
+              "example": "Let's go for a pizza **after** we **go / have been** to the natural history museum."
+            },
+            {
+              "use": "until / till",
+              "example": "The rocket won't be launched **until** they **do / have done** a final check."
+            },
+            {
+              "use": "while",
+              "example": "Think of me **while** you **travel / are travelling** to the Moon!"
+            },
+            {
+              "use": "once",
+              "example": "We'll stop for petrol **once** we **pass / have passed** Cambridge."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "prepositions-time-place",
+      "title": "Prepositions of time and place",
+      "icon": "Lightbulb",
+      "blocks": [
+        {
+          "type": "hints",
+          "intro": "Key prepositions of time",
+          "items": [
+            "{pill:from Monday to Friday} {pill:on Monday} {pill:on my birthday} {pill:in July} {pill:on September 20th} {pill:in 2008} {pill:in (the) summer} {pill:at three o'clock} {pill:in/for an hour} {pill:at the moment} {pill:in the morning/afternoon/evening} {pill:at night} {pill:in/on time} {pill:just in time for} {pill:in the beginning/end} {pill:at the beginning/end of} {pill:at the age of} {pill:at the weekend} {pill:next/last week}"
+          ]
+        },
+        {
+          "type": "hints",
+          "intro": "Key prepositions of place",
+          "items": [
+            "{pill:turn right at} a place {pill:sit on} {pill:go in(to)} a building {pill:wait in(side)} a building {pill:arrive in} London/Greece {pill:arrive at} the stadium {pill:in/on/at the corner (of)} {pill:come/go/walk/etc. to} a place {pill:next to/beside/by} the building {pill:at/on the front/back of} {pill:in front of/behind} the station {pill:go out of} a building {pill:go towards} the station {pill:between} the two buildings {pill:opposite} the station"
+          ]
+        },
+        {
+          "type": "hints",
+          "intro": "US vs UK grammar",
+          "items": [
+            "Speakers of American English do not always use **on** before days of the week: US *We've got a biology test Monday.* · UK *We've got a biology test on Monday.*",
+            "Speakers of American English often say **Monday through Friday**: US *I'm going to be on a field trip Monday through Friday.* · UK *I'm going to be on a field trip from Monday to Friday.*"
+          ]
+        }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "a",
+      "type": "rewrite",
+      "title": "A · Tick or correct",
+      "instruction": "If the word or phrase in bold is correct, write it again. If it is incorrect, rewrite it correctly, including all possibilities.",
+      "items": [
+        {
+          "id": "a1",
+          "prompt": "The universe **is going to** continue to expand for billions of years.",
+          "acceptedAnswers": ["is going to", "will", "is going to / will", "will / is going to"]
+        },
+        {
+          "id": "a2",
+          "prompt": "Look out! You **will** hit the car in front!",
+          "acceptedAnswers": ["are going to", "'re going to"]
+        },
+        {
+          "id": "a3",
+          "prompt": "**I'm going to** do the washing-up tonight, if you like.",
+          "acceptedAnswers": ["I'll", "I will", "I'll / I will"]
+        },
+        {
+          "id": "a4",
+          "prompt": "Do you think that, in the future, people **will live** to be hundreds of years old?",
+          "acceptedAnswers": ["will live", "are going to live", "will live / are going to live"]
+        },
+        {
+          "id": "a5",
+          "prompt": "**Will I** carry some of those bags for you, or can you manage?",
+          "acceptedAnswers": ["Shall I"]
+        },
+        {
+          "id": "a6",
+          "prompt": "I know! **I'm going to** have a barbecue on my birthday!",
+          "acceptedAnswers": ["I'll", "I will"]
+        },
+        {
+          "id": "a7",
+          "prompt": "**Are you going to** just hold this door open for me for a minute? Thanks a lot!",
+          "acceptedAnswers": ["Will you"]
+        },
+        {
+          "id": "a8",
+          "prompt": "We've decided we **will try** that new restaurant after the play tomorrow night.",
+          "acceptedAnswers": ["are going to try", "'re going to try"]
+        },
+        {
+          "id": "a9",
+          "prompt": "**We're going to** fly to Jamaica in the summer.",
+          "acceptedAnswers": ["We're going to", "We are going to"]
+        },
+        {
+          "id": "a10",
+          "prompt": "**Shall we** invite Tony and Tim round tonight?",
+          "acceptedAnswers": ["Shall we"]
+        },
+        {
+          "id": "a11",
+          "prompt": "**Are we going to** invite Tony and Tim round tonight?",
+          "acceptedAnswers": ["Are we going to"]
+        },
+        {
+          "id": "a12",
+          "prompt": "**Will you go** to Jason's party next Saturday?",
+          "acceptedAnswers": ["Are you going", "Are you going to go"]
+        }
+      ]
+    },
+    {
+      "id": "b",
+      "type": "multiple-choice",
+      "title": "B · Circle the correct phrase",
+      "instruction": "Select the form that fits. If both forms are possible, choose the option that says both.",
+      "items": [
+        {
+          "id": "b1",
+          "prompt": "___ miss the train, are we?",
+          "options": ["We aren't going to", "We're not going to", "both: We aren't / We're not going to"],
+          "acceptedAnswers": ["both: We aren't / We're not going to"]
+        },
+        {
+          "id": "b2",
+          "prompt": "I think ___ really badly in the English test tomorrow.",
+          "options": ["I'm going to do", "I'm doing", "both: I'm going to do / I'm doing"],
+          "acceptedAnswers": ["I'm going to do"]
+        },
+        {
+          "id": "b3",
+          "prompt": "Josh ___ a song in the school talent contest next week.",
+          "options": ["is going to sing", "is singing", "both: is going to sing / is singing"],
+          "acceptedAnswers": ["both: is going to sing / is singing"]
+        },
+        {
+          "id": "b4",
+          "prompt": "I'm going to ___ a big yacht if I can when I'm older.",
+          "options": ["buy", "buying"],
+          "acceptedAnswers": ["buy"]
+        },
+        {
+          "id": "b5",
+          "prompt": "Sports Day ___ held on the last day of term.",
+          "options": ["is going to be", "is being", "both: is going to be / is being"],
+          "acceptedAnswers": ["both: is going to be / is being"]
+        },
+        {
+          "id": "b6",
+          "prompt": "___ the concert on Thursday last more than two hours?",
+          "options": ["Does", "Will", "both: Does / Will"],
+          "acceptedAnswers": ["both: Does / Will"]
+        },
+        {
+          "id": "b7",
+          "prompt": "___ the music awards live tomorrow night?",
+          "options": ["Are they going to broadcast", "Will they broadcast", "both: Are they going to broadcast / Will they broadcast"],
+          "acceptedAnswers": ["both: Are they going to broadcast / Will they broadcast"]
+        },
+        {
+          "id": "b8",
+          "prompt": "___ the music awards live tomorrow night?",
+          "options": ["Do they broadcast", "Are they broadcasting", "both: Do they broadcast / Are they broadcasting"],
+          "acceptedAnswers": ["Are they broadcasting"]
+        },
+        {
+          "id": "b9",
+          "prompt": "According to the timetable, the train for Oxford ___ at 10.15.",
+          "options": ["leaves", "is leaving", "both: leaves / is leaving"],
+          "acceptedAnswers": ["both: leaves / is leaving"]
+        },
+        {
+          "id": "b10",
+          "prompt": "___ next Sunday?",
+          "options": ["Does the restaurant open", "Is the restaurant opening", "both: Does the restaurant open / Is the restaurant opening"],
+          "acceptedAnswers": ["both: Does the restaurant open / Is the restaurant opening"]
+        }
+      ]
+    },
+    {
+      "id": "c",
+      "type": "gap-fill",
+      "title": "C · Physics project",
+      "instruction": "Write a word or short phrase in each gap.",
+      "items": [
+        {
+          "id": "c1",
+          "prompt": "At the end of this month, I'll ___ working on my physics project for about six weeks, but I've still got a lot to do before I hand it in.",
+          "acceptedAnswers": ["have been"]
+        },
+        {
+          "id": "c2",
+          "prompt": "I'll ___ spending the whole day in the physics lab next Saturday doing experiments.",
+          "acceptedAnswers": ["be"]
+        },
+        {
+          "id": "c3",
+          "prompt": "In fact, I ___ playing football the weekend after either because I've got to go back to the lab then, too.",
+          "acceptedAnswers": ["won't be", "will not be", "am not"]
+        },
+        {
+          "id": "c4",
+          "prompt": "I guess I'll ___ doing lots of similar projects when I'm at university, so it's good practice.",
+          "acceptedAnswers": ["be"]
+        },
+        {
+          "id": "c5",
+          "prompt": "When I leave university in about four years, I will ___ studying physics for over thirteen years, so I should be quite good at it by then!",
+          "acceptedAnswers": ["have been"]
+        }
+      ]
+    },
+    {
+      "id": "d",
+      "type": "gap-fill",
+      "title": "D · Future perfect",
+      "instruction": "Complete using the future perfect simple or future perfect continuous of the verbs in brackets.",
+      "items": [
+        {
+          "id": "d1",
+          "prompt": "I ___ dinner by the time you get home. (cook)",
+          "acceptedAnswers": ["will have cooked", "'ll have cooked"]
+        },
+        {
+          "id": "d2",
+          "prompt": "In a few minutes, I ___ here for Craig for over two hours. Where can he be? (wait)",
+          "acceptedAnswers": ["will have been waiting", "'ll have been waiting"]
+        },
+        {
+          "id": "d3",
+          "prompt": "We'll be halfway through the sponsored swim in one hour so we ___ for forty-eight hours non-stop by then. (swim)",
+          "acceptedAnswers": ["will have been swimming", "'ll have been swimming"]
+        },
+        {
+          "id": "d4",
+          "prompt": "They ___ painting the house by the time we get back from holiday. (not / finish)",
+          "acceptedAnswers": ["won't have finished", "will not have finished"]
+        },
+        {
+          "id": "d5",
+          "prompt": "If she's still on the phone at eight o'clock, ___ to Melissa for over two hours. (Jan / talk)",
+          "acceptedAnswers": ["Jan will have been talking", "she'll have been talking", "Jan will have talked"]
+        },
+        {
+          "id": "d6",
+          "prompt": "At six o'clock this evening, we ___ for five hours but for seven hours! (not / climb)",
+          "acceptedAnswers": ["won't have been climbing", "will not have been climbing"]
+        },
+        {
+          "id": "d7",
+          "prompt": "This time next month, you ___ your driving test! (probably / pass)",
+          "acceptedAnswers": ["will probably have passed", "'ll probably have passed"]
+        },
+        {
+          "id": "d8",
+          "prompt": "___ all your homework by bedtime? (you / do)",
+          "acceptedAnswers": ["Will you have done"]
+        },
+        {
+          "id": "d9",
+          "prompt": "Tomorrow ___ on the project for ten days. (Elaine / work)",
+          "acceptedAnswers": ["Elaine will have been working", "Elaine will have worked"]
+        },
+        {
+          "id": "d10",
+          "prompt": "We ___ by the time you get home. (probably / not / leave)",
+          "acceptedAnswers": ["probably won't have left", "won't probably have left", "will probably not have left"]
+        }
+      ]
+    },
+    {
+      "id": "e",
+      "type": "rewrite",
+      "title": "E · Similar meaning",
+      "instruction": "Complete each second sentence using the word given, so that it has a similar meaning to the first. Write between two and five words.",
+      "items": [
+        {
+          "id": "e1",
+          "prompt": "We'll get home and then we'll have something to eat. **got**\nWe'll have something to eat ___ home.",
+          "acceptedAnswers": ["when we have got", "once we have got", "after we have got"]
+        },
+        {
+          "id": "e2",
+          "prompt": "I'll finish marking the exams and then I'll tell you your results. **soon**\nI'll tell you your results ___ marking the exams.",
+          "acceptedAnswers": ["as soon as I finish", "as soon as I've finished", "as soon as I have finished"]
+        },
+        {
+          "id": "e3",
+          "prompt": "You'll be travelling across the Sahara next week so remember to wear lots of sunscreen! **while**\nRemember to wear lots of sunscreen ___ across the Sahara next week!",
+          "acceptedAnswers": ["while you are travelling", "while you're travelling"]
+        },
+        {
+          "id": "e4",
+          "prompt": "They'll show Titan at the cinema and then they'll release the DVD. **before**\nThey won't release the DVD ___ at the cinema.",
+          "acceptedAnswers": ["before they show Titan", "before they've shown Titan", "before they have shown Titan"]
+        },
+        {
+          "id": "e5",
+          "prompt": "My science exam starts at ten tomorrow morning. **taking**\nAt ten past ten tomorrow ___ my science exam.",
+          "acceptedAnswers": ["I'll be taking", "I will be taking"]
+        },
+        {
+          "id": "e6",
+          "prompt": "Let's watch the space documentary before we have supper. **watched**\nLet's have supper ___ the space documentary.",
+          "acceptedAnswers": ["after we have watched", "after we've watched"]
+        },
+        {
+          "id": "e7",
+          "prompt": "I'll send out all the invitations before lunchtime. **have**\nBy lunchtime, ___ all the invitations.",
+          "acceptedAnswers": ["I will have sent", "I'll have sent"]
+        },
+        {
+          "id": "e8",
+          "prompt": "Do some revision and then I'll give you a test. **until**\nI won't give you a test ___ some revision.",
+          "acceptedAnswers": ["until you have done", "until you've done", "until you do"]
+        },
+        {
+          "id": "e9",
+          "prompt": "When you visit us, we'll have moved into our new house. **by**\nWe'll have moved into our new house ___ you visit us.",
+          "acceptedAnswers": ["by the time"]
+        },
+        {
+          "id": "e10",
+          "prompt": "We'll get some more information and then we'll make a decision. **once**\nLet's make a decision ___ got some more information.",
+          "acceptedAnswers": ["once we have", "once we've"]
+        }
+      ]
+    },
+    {
+      "id": "f",
+      "type": "rewrite",
+      "title": "F · Watkins Tours",
+      "instruction": "Read the timetable and write a question for each answer given. Example: What time does the coach leave Plymouth? — It leaves at 5.30 am.",
+      "items": [
+        {
+          "id": "f1",
+          "prompt": "He'll be driving the coach to Penzance.",
+          "acceptedAnswers": [
+            "Who will be driving the coach to Penzance?",
+            "Who'll be driving the coach to Penzance?"
+          ]
+        },
+        {
+          "id": "f2",
+          "prompt": "It'll arrive at 8.15 am.",
+          "acceptedAnswers": [
+            "What time will the coach arrive in Penzance?",
+            "When will it arrive in Penzance?",
+            "What time will it arrive?"
+          ]
+        },
+        {
+          "id": "f3",
+          "prompt": "It's going to set sail at 9.15 am.",
+          "acceptedAnswers": [
+            "What time is the ferry going to set sail?",
+            "When is the ferry going to leave?",
+            "What time is it going to set sail?"
+          ]
+        },
+        {
+          "id": "f4",
+          "prompt": "It will have been sailing for two hours.",
+          "acceptedAnswers": [
+            "How long will it have been sailing?",
+            "How long will the ferry have been sailing?"
+          ]
+        },
+        {
+          "id": "f5",
+          "prompt": "They will just have arrived in St Mary's.",
+          "acceptedAnswers": [
+            "Where will they have arrived at 12.00 noon?",
+            "Where will they just have arrived?"
+          ]
+        },
+        {
+          "id": "f6",
+          "prompt": "They'll be walking round the town.",
+          "acceptedAnswers": [
+            "What will they be doing from 12 to 1.30 pm?",
+            "What will they be doing at lunchtime?"
+          ]
+        },
+        {
+          "id": "f7",
+          "prompt": "They'll be having a picnic lunch.",
+          "acceptedAnswers": [
+            "What will they be doing from 1.30 to 2.30 pm?",
+            "When will they be having a picnic lunch?"
+          ]
+        },
+        {
+          "id": "f8",
+          "prompt": "They'll be leaving the beach at 4 pm.",
+          "acceptedAnswers": [
+            "What time will they be leaving the beach?",
+            "When will they be leaving the beach?"
+          ]
+        },
+        {
+          "id": "f9",
+          "prompt": "They'll have just finished a boat trip round the island.",
+          "acceptedAnswers": [
+            "What will they have just finished at 4 pm?",
+            "What will they have just finished?"
+          ]
+        },
+        {
+          "id": "f10",
+          "prompt": "It's leaving at 4.30 pm.",
+          "acceptedAnswers": [
+            "What time is the ferry leaving?",
+            "When is the ferry leaving?"
+          ]
+        },
+        {
+          "id": "f11",
+          "prompt": "They get back at 10.15 pm.",
+          "acceptedAnswers": [
+            "What time do they get back?",
+            "When do they get back to Plymouth?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g",
+      "type": "gap-fill",
+      "title": "G · on, in or at",
+      "instruction": "Write on, in or at in each gap.",
+      "wordBank": ["on", "in", "at"],
+      "items": [
+        {
+          "id": "g1",
+          "prompt": "I'll be 100 years old ___ the year 2095!",
+          "acceptedAnswers": ["in"]
+        },
+        {
+          "id": "g2",
+          "prompt": "Sasha's not going to have a party ___ her birthday this year.",
+          "acceptedAnswers": ["on"]
+        },
+        {
+          "id": "g3",
+          "prompt": "See you ___ August!",
+          "acceptedAnswers": ["in"]
+        },
+        {
+          "id": "g4",
+          "prompt": "See you ___ Tuesday!",
+          "acceptedAnswers": ["on"]
+        },
+        {
+          "id": "g5",
+          "prompt": "See you ___ eight o'clock!",
+          "acceptedAnswers": ["at"]
+        },
+        {
+          "id": "g6",
+          "prompt": "See you ___ the morning!",
+          "acceptedAnswers": ["in"]
+        },
+        {
+          "id": "g7",
+          "prompt": "See you ___ a couple of hours!",
+          "acceptedAnswers": ["in"]
+        },
+        {
+          "id": "g8",
+          "prompt": "It's difficult to sleep ___ night in the summer because of the heat.",
+          "acceptedAnswers": ["at"]
+        },
+        {
+          "id": "g9",
+          "prompt": "My grandfather left home ___ the age of fourteen!",
+          "acceptedAnswers": ["at"]
+        },
+        {
+          "id": "g10",
+          "prompt": "We got there just ___ time for the movie.",
+          "acceptedAnswers": ["in"]
+        },
+        {
+          "id": "g11",
+          "prompt": "He's never late, and he's never early; he always arrives right ___ time.",
+          "acceptedAnswers": ["on"]
+        },
+        {
+          "id": "g12",
+          "prompt": "My birthday's ___ April 1st.",
+          "acceptedAnswers": ["on"]
+        }
+      ]
+    },
+    {
+      "id": "h",
+      "type": "rewrite",
+      "title": "H · Correct the preposition",
+      "instruction": "Each of the words in bold is incorrect. Rewrite them correctly.",
+      "items": [
+        {
+          "id": "h1",
+          "prompt": "My Australian cousins are coming **in** Greece next month!",
+          "acceptedAnswers": ["to"]
+        },
+        {
+          "id": "h2",
+          "prompt": "Turn left **on** the post office, then go straight on.",
+          "acceptedAnswers": ["at"]
+        },
+        {
+          "id": "h3",
+          "prompt": "There weren't any chairs, so we had to sit **at** the floor.",
+          "acceptedAnswers": ["on"]
+        },
+        {
+          "id": "h4",
+          "prompt": "The TV's **on** the corner of the room.",
+          "acceptedAnswers": ["in"]
+        },
+        {
+          "id": "h5",
+          "prompt": "There's a photo of the author **at** the back cover of the book.",
+          "acceptedAnswers": ["on"]
+        },
+        {
+          "id": "h6",
+          "prompt": "We should arrive **at** Paris at six in the morning.",
+          "acceptedAnswers": ["in"]
+        },
+        {
+          "id": "h7",
+          "prompt": "Could you go out **from** the room for a moment, please?",
+          "acceptedAnswers": ["of"]
+        },
+        {
+          "id": "h8",
+          "prompt": "Walk **in** the station, but turn left a couple of blocks before you get there.",
+          "acceptedAnswers": ["towards", "to"]
+        },
+        {
+          "id": "h9",
+          "prompt": "I'll meet you **in** the corner of your street.",
+          "acceptedAnswers": ["on", "at"]
+        },
+        {
+          "id": "h10",
+          "prompt": "There should be a broom **on** the back of the cupboard, somewhere.",
+          "acceptedAnswers": ["at"]
+        },
+        {
+          "id": "h11",
+          "prompt": "They should arrive **in** the airport in about an hour.",
+          "acceptedAnswers": ["at"]
+        },
+        {
+          "id": "h12",
+          "prompt": "The CD should be next **from** the CD player.",
+          "acceptedAnswers": ["to"]
+        }
+      ]
+    },
+    {
+      "id": "i",
+      "type": "gap-fill",
+      "title": "I · Defining the Age",
+      "instruction": "Write one word in each gap.",
+      "items": [
+        {
+          "id": "i1",
+          "prompt": "Ages, eras and wars will always be defined ___ they are over, or at least well after they have started.",
+          "acceptedAnswers": ["once", "when", "after"]
+        },
+        {
+          "id": "i2",
+          "prompt": "Ages will be defined once they are over, or at least well after they ___ started.",
+          "acceptedAnswers": ["have"]
+        },
+        {
+          "id": "i3",
+          "prompt": "___ the year 1914, for example, no one said: 'Tomorrow I'm going to go and fight in the First World War.'",
+          "acceptedAnswers": ["In"]
+        },
+        {
+          "id": "i4",
+          "prompt": "No one said: 'Tomorrow I'm going ___ go and fight in the First World War.'",
+          "acceptedAnswers": ["to"]
+        },
+        {
+          "id": "i5",
+          "prompt": "Similarly, no one ever said: 'Next year ___ be the start of the Industrial Revolution.'",
+          "acceptedAnswers": ["will"]
+        },
+        {
+          "id": "i6",
+          "prompt": "___ the time we are old, we will all have experienced enormous technological advances.",
+          "acceptedAnswers": ["By"]
+        },
+        {
+          "id": "i7",
+          "prompt": "By the time we are old, we will all ___ experienced enormous technological advances.",
+          "acceptedAnswers": ["have"]
+        },
+        {
+          "id": "i8",
+          "prompt": "We might even ___ walking round with computer chips implanted in our bodies.",
+          "acceptedAnswers": ["be"]
+        },
+        {
+          "id": "i9",
+          "prompt": "Perhaps computer chip technology will have ___ replaced by even more advanced technology.",
+          "acceptedAnswers": ["been"]
+        },
+        {
+          "id": "i10",
+          "prompt": "There's talk ___ the moment that human skin itself might become an excellent electronic circuit board.",
+          "acceptedAnswers": ["at"]
+        },
+        {
+          "id": "i11",
+          "prompt": "Nobody knows what the era we will live in ___ the near future will be called by future historians.",
+          "acceptedAnswers": ["in"]
+        },
+        {
+          "id": "i12",
+          "prompt": "If we already live in the Computer Age, the present-day era ___ be referred to by future historians.",
+          "acceptedAnswers": ["will"]
+        },
+        {
+          "id": "i13",
+          "prompt": "Then who knows what era we're just ___ the beginning of right now?",
+          "acceptedAnswers": ["at"]
+        }
+      ]
+    }
+  ]
+}

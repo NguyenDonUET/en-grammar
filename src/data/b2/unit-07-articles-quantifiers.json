@@ -1,0 +1,1020 @@
+{
+  "id": "unit-07-articles-quantifiers",
+  "level": "b2",
+  "unitNumber": 7,
+  "title": "Articles, nouns and quantifiers",
+  "subtitle": "a/an, the, zero article, countable and uncountable nouns, many/much/few/little",
+  "theory": [
+    {
+      "id": "indefinite-article",
+      "title": "Indefinite article",
+      "icon": "BookOpen",
+      "blocks": [
+        {
+          "type": "prose",
+          "text": "There are two indefinite articles in English: **a** and **an**. **An** is used before vowel sounds."
+        },
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "Singular countable nouns (when we are not being specific or when we mention something for the first time)",
+              "example": "There's **a** good film on TV tonight."
+            }
+          ]
+        },
+        {
+          "type": "watch-out",
+          "text": "Whether we use **an** or **a** depends on the **sound**, not the spelling.",
+          "note": "The news is on TV in **an** hour. · Being in a film was **a unique** experience for me."
+        }
+      ]
+    },
+    {
+      "id": "definite-article",
+      "title": "Definite article",
+      "icon": "Sparkles",
+      "blocks": [
+        {
+          "type": "prose",
+          "text": "There is one definite article in English: **the**."
+        },
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "Singular countable nouns (when we are being specific)",
+              "example": "Where's **the** DVD you were talking about?"
+            },
+            {
+              "use": "Singular countable nouns (when we are talking generally)",
+              "example": "**The** radio seemed amazing to people at first."
+            },
+            {
+              "use": "Plural countable nouns (when we are being specific)",
+              "example": "I didn't believe **the** rumours about the prime minister."
+            },
+            {
+              "use": "Uncountable nouns (when we are being specific)",
+              "example": "I followed **the** advice my lawyer gave me."
+            }
+          ]
+        },
+        {
+          "type": "watch-out",
+          "text": "The way we say **the** changes depending on the sound at the start of the next word. Before a consonant sound (**the media, the USA, the programme**), we pronounce it /ðə/. Before a vowel sound (**the announcer, the actor, the editor**), we pronounce it /ði/."
+        },
+        {
+          "type": "watch-out",
+          "text": "We often use **the** when something is unique or there is only one of it.",
+          "note": "**the** sky, **the** sun, **the** moon, **the** Prince of Wales, **the** North Pole, **the** World Cup"
+        }
+      ]
+    },
+    {
+      "id": "zero-article",
+      "title": "Zero article",
+      "icon": "Lightbulb",
+      "blocks": [
+        {
+          "type": "prose",
+          "text": "We often don't use an article at all. This is sometimes called the **zero article**."
+        },
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "Plural countable nouns (when we are talking generally)",
+              "example": "Journalists often face dangerous situations."
+            },
+            {
+              "use": "Uncountable nouns (when we are talking generally)",
+              "example": "News travels fast these days."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "phrases-expressions",
+      "title": "Articles in phrases and expressions",
+      "icon": "Table2",
+      "blocks": [
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "Time",
+              "example": "definite: **in the 1990s, in (the) summer, in the morning** · zero: **in 2008, in June, on Friday, at night**"
+            },
+            {
+              "use": "People and work",
+              "example": "indefinite: **have a job, work as a …** · definite: **the queen, the principal, the president, the French** · zero: **become president, go to work, be at work, have work to do, be French**"
+            },
+            {
+              "use": "Places",
+              "example": "definite: **the Alps, the Atlantic Ocean, the River Thames, the Earth, the Arctic, the USA, the UK, the Cyclades** · zero: **Mount Everest, Paris, America, Mars/Venus/Jupiter etc., Oxford Street, Lake Superior, Crete**"
+            },
+            {
+              "use": "Entertainment and sport",
+              "example": "definite: **the media, on the radio, play the guitar, go to the cinema, watch (the) TV** · zero: **listen to music, on television, play tennis/football etc.**"
+            },
+            {
+              "use": "Organisations",
+              "example": "definite: **the army, the police, the fire brigade**"
+            },
+            {
+              "use": "Education",
+              "example": "definite: **go to the school** (as a visitor), **be in the first year** · zero: **go to school** (as a student), **be in Class 3B, maths**"
+            },
+            {
+              "use": "Travel",
+              "example": "indefinite: **take a taxi, catch a/the bus** · definite: **on the bus** · zero: **on foot, go home, go by bus**"
+            },
+            {
+              "use": "Health",
+              "example": "indefinite: **have a cold/headache/cough** · definite: **have (the) flu/measles** · zero: **have toothache**"
+            },
+            {
+              "use": "Public buildings",
+              "example": "definite: **the bank, the tax office, go to the hospital/prison** (as a visitor) · zero: **go to hospital/prison/church** (as a patient/prisoner/worshipper)"
+            }
+          ]
+        },
+        {
+          "type": "hints",
+          "intro": "US vs UK grammar",
+          "items": [
+            "Speakers of American English do not usually use **hospital** without an article: US *The ambulance took Simon to the hospital.* · UK *The ambulance took Simon to hospital.*"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "countable-uncountable",
+      "title": "Countable and uncountable nouns",
+      "icon": "CheckCircle2",
+      "blocks": [
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "Countable nouns · a/the, some, many · singular or plural verb",
+              "example": "I want to be **a journalist**. · Where is **the newspaper**? · There are **some good articles** in the paper. · How **many channels** do you get?"
+            },
+            {
+              "use": "Uncountable nouns · the, some, much · singular verb",
+              "example": "Did you hear **the news**? · **Some important news** has just come in. · How **much information** do we have about it? · Your **advice was** very useful."
+            }
+          ]
+        },
+        {
+          "type": "word-list",
+          "intro": "Common uncountable nouns:",
+          "words": [
+            "advice",
+            "coffee",
+            "furniture",
+            "glass",
+            "hair",
+            "homework",
+            "information",
+            "knowledge",
+            "luggage",
+            "money",
+            "news",
+            "paper",
+            "work"
+          ]
+        },
+        {
+          "type": "watch-out",
+          "text": "Most uncountable nouns are singular, but a few are plural. These include **clothes, scissors, jeans, spectacles, trousers, groceries**, etc. With these words, we use a plural verb.",
+          "note": "Oh, no! My new **clothes are** dirty!"
+        },
+        {
+          "type": "watch-out",
+          "text": "Some nouns are countable with one meaning and uncountable with another.",
+          "note": "Do you think you could bring me **a clean glass**? (countable) · We should make computer monitors out of recycled **glass**. (uncountable)"
+        }
+      ]
+    },
+    {
+      "id": "quantifiers",
+      "title": "Quantifiers",
+      "icon": "ListChecks",
+      "blocks": [
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "many · countable nouns, usually in negative statements and questions",
+              "example": "There aren't **many** programmes on TV that I find interesting."
+            },
+            {
+              "use": "much · uncountable nouns, usually in negative statements and questions",
+              "example": "My dad never shows **much** interest in the news."
+            },
+            {
+              "use": "a lot of / lots of · countable and uncountable nouns in positive statements",
+              "example": "That film has won **a lot of / lots of** awards. · What **a lot of** luggage you've got!"
+            },
+            {
+              "use": "a few · countable nouns, means 'some'",
+              "example": "There have been **a few** scandals in the papers recently."
+            },
+            {
+              "use": "a little · uncountable nouns, means 'some'",
+              "example": "They say that **a little** knowledge is a dangerous thing."
+            },
+            {
+              "use": "few · countable nouns, means 'not many'",
+              "example": "Richard has **few** interests outside work."
+            },
+            {
+              "use": "little · uncountable nouns, means 'not much'",
+              "example": "The police have **little** information about the robbery."
+            }
+          ]
+        },
+        {
+          "type": "watch-out",
+          "text": "The phrase **only a few** means 'not many'. The phrase **only a little** means 'not much'.",
+          "note": "There are **only a few** programmes on TV that I like watching. · There's **only a little** sugar left, so get some when you go out."
+        }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "a",
+      "type": "multiple-choice",
+      "title": "A · Circle the correct phrase",
+      "instruction": "Select the article choice that fits each sentence.",
+      "items": [
+        {
+          "id": "a1",
+          "prompt": "I love this time ___ when the sun is going down.",
+          "options": ["in evening", "in the evening"],
+          "acceptedAnswers": ["in the evening"]
+        },
+        {
+          "id": "a2",
+          "prompt": "People play ___ in South Africa, Australia and Sri Lanka.",
+          "options": ["cricket", "the cricket"],
+          "acceptedAnswers": ["cricket"]
+        },
+        {
+          "id": "a3",
+          "prompt": "It's too far to walk so I think I'll catch ___.",
+          "options": ["bus", "the bus"],
+          "acceptedAnswers": ["the bus"]
+        },
+        {
+          "id": "a4",
+          "prompt": "Jane had to go home from school because she had ___.",
+          "options": ["a headache", "the headache"],
+          "acceptedAnswers": ["a headache"]
+        },
+        {
+          "id": "a5",
+          "prompt": "The robber was sent to ___ for a total of three years.",
+          "options": ["prison", "the prison"],
+          "acceptedAnswers": ["prison"]
+        },
+        {
+          "id": "a6",
+          "prompt": "My cousin works as ___ in a café near where we live.",
+          "options": ["waiter", "a waiter"],
+          "acceptedAnswers": ["a waiter"]
+        },
+        {
+          "id": "a7",
+          "prompt": "The underground doesn't run this late so we'll have to take ___.",
+          "options": ["a taxi", "the taxi"],
+          "acceptedAnswers": ["a taxi"]
+        },
+        {
+          "id": "a8",
+          "prompt": "I like to listen to ___ in my free time.",
+          "options": ["music", "the music"],
+          "acceptedAnswers": ["music"]
+        },
+        {
+          "id": "a9",
+          "prompt": "My favourite subject at school is ___.",
+          "options": ["chemistry", "the chemistry"],
+          "acceptedAnswers": ["chemistry"]
+        },
+        {
+          "id": "a10",
+          "prompt": "Jazz music appeared in America ___.",
+          "options": ["in 1920s", "in the 1920s"],
+          "acceptedAnswers": ["in the 1920s"]
+        }
+      ]
+    },
+    {
+      "id": "b",
+      "type": "multiple-choice",
+      "title": "B · Choose the correct answer",
+      "instruction": "Select a, an, the or no word. If no word is needed, choose 'no word'.",
+      "items": [
+        {
+          "id": "b1",
+          "prompt": "Oh, I didn't tell you! We've got ___ new English teacher.",
+          "options": ["a", "an", "the", "no word"],
+          "acceptedAnswers": ["a"]
+        },
+        {
+          "id": "b2",
+          "prompt": "Here's ___ DVD you asked to borrow.",
+          "options": ["a", "an", "the", "no word"],
+          "acceptedAnswers": ["the"]
+        },
+        {
+          "id": "b3",
+          "prompt": "We're out of ___ coffee, so could you get some from the supermarket?",
+          "options": ["a", "an", "the", "no word"],
+          "acceptedAnswers": ["no word"]
+        },
+        {
+          "id": "b4",
+          "prompt": "The prize is ___ unique opportunity to travel the world!",
+          "options": ["a", "an", "the", "no word"],
+          "acceptedAnswers": ["a"]
+        },
+        {
+          "id": "b5",
+          "prompt": "It looks like ___ glass in your bedroom window is cracked.",
+          "options": ["a", "an", "the", "no word"],
+          "acceptedAnswers": ["the"]
+        },
+        {
+          "id": "b6",
+          "prompt": "It's ___ honour to be here this evening to speak to you.",
+          "options": ["a", "an", "the", "no word"],
+          "acceptedAnswers": ["an"]
+        },
+        {
+          "id": "b7",
+          "prompt": "There's ___ good chance we'll be late for the meeting.",
+          "options": ["a", "an", "the", "no word"],
+          "acceptedAnswers": ["a"]
+        },
+        {
+          "id": "b8",
+          "prompt": "Reports are coming in of a major oil spill in ___ Mediterranean.",
+          "options": ["a", "an", "the", "no word"],
+          "acceptedAnswers": ["the"]
+        },
+        {
+          "id": "b9",
+          "prompt": "I went to see the doctor because I'm finding it difficult to sleep at ___ night.",
+          "options": ["a", "an", "the", "no word"],
+          "acceptedAnswers": ["no word"]
+        },
+        {
+          "id": "b10",
+          "prompt": "Do you think that they'll ever send a manned mission to ___ Venus?",
+          "options": ["a", "an", "the", "no word"],
+          "acceptedAnswers": ["no word"]
+        }
+      ]
+    },
+    {
+      "id": "c",
+      "type": "rewrite",
+      "title": "C · Extra word",
+      "instruction": "Write the extra word in each line.",
+      "items": [
+        {
+          "id": "c1",
+          "prompt": "**The many people** who appear in the news for the first time",
+          "acceptedAnswers": ["The"]
+        },
+        {
+          "id": "c2",
+          "prompt": "find that **a sudden fame** has a negative effect on their lives.",
+          "acceptedAnswers": ["a"]
+        },
+        {
+          "id": "c3",
+          "prompt": "The national press can be an unforgiving and **the loss of**",
+          "acceptedAnswers": ["the"]
+        },
+        {
+          "id": "c4",
+          "prompt": "**the privacy** that comes with fame is an extra problem at a",
+          "acceptedAnswers": ["the"]
+        },
+        {
+          "id": "c5",
+          "prompt": "difficult time. This is especially **the case** when someone is",
+          "acceptedAnswers": ["the"]
+        },
+        {
+          "id": "c6",
+          "prompt": "in the news because of a tragedy or **the serious crime**. Just",
+          "acceptedAnswers": ["the"]
+        },
+        {
+          "id": "c7",
+          "prompt": "at the moment when you are under a most stress, you find",
+          "acceptedAnswers": ["a"]
+        },
+        {
+          "id": "c8",
+          "prompt": "microphones and the cameras in your face. The media have",
+          "acceptedAnswers": ["the"]
+        },
+        {
+          "id": "c9",
+          "prompt": "a responsibility to inform the public, but **an innocent people**",
+          "acceptedAnswers": ["an"]
+        },
+        {
+          "id": "c10",
+          "prompt": "are often hurt by **the demand** for the scandal.",
+          "acceptedAnswers": ["the"]
+        }
+      ]
+    },
+    {
+      "id": "d",
+      "type": "gap-fill",
+      "title": "D · Subject–verb agreement",
+      "instruction": "Complete using the correct form of the verb in brackets.",
+      "items": [
+        {
+          "id": "d1",
+          "prompt": "The clothes you bought me for my birthday ___ wonderful! (be)",
+          "acceptedAnswers": ["are", "were"]
+        },
+        {
+          "id": "d2",
+          "prompt": "It turned out that the information we had received ___ wrong. (be)",
+          "acceptedAnswers": ["was"]
+        },
+        {
+          "id": "d3",
+          "prompt": "My new jeans ___ in the wash and I wanted to wear them tonight. (be)",
+          "acceptedAnswers": ["are", "were"]
+        },
+        {
+          "id": "d4",
+          "prompt": "The luggage on a plane ___ up a lot of room. (take)",
+          "acceptedAnswers": ["takes"]
+        },
+        {
+          "id": "d5",
+          "prompt": "Your hair ___ really nice and shiny. (look)",
+          "acceptedAnswers": ["looks"]
+        },
+        {
+          "id": "d6",
+          "prompt": "I could tell by the look on her face that the news ___ good. (not / be)",
+          "acceptedAnswers": ["wasn't", "was not", "isn't", "is not"]
+        },
+        {
+          "id": "d7",
+          "prompt": "Oh, no! My money ___ in my other jacket! (be)",
+          "acceptedAnswers": ["is", "'s"]
+        }
+      ]
+    },
+    {
+      "id": "e",
+      "type": "error-correction",
+      "title": "E · Newsflash!",
+      "instruction": "Tap the word that is wrong, then write the correction.",
+      "paragraph": "We interrupt your usual schedule to bring you an {click:important news}. We are receiving {click:informations} about a spaceship that has landed outside the White House. The large ship seems to be made of {click:glasses}. Reports say that a short time ago aliens came out of the craft. Eye-witnesses described them as short and said their clothes {click:was} made of metal and their {click:hairs} was bright green. Strangely, one of them appeared to be wearing {click:a jean}. {click:Much people} said that they seemed to be friendly. The President of the United States is currently holding a meeting with the visitors in the hope that we can exchange {click:knowledges}. Police {click:advices} are to stay indoors and under no circumstances approach the spaceship. We will be back with {click:another news} as soon as we can. And now back to your usual programme, Gardening for Beginners.",
+      "items": [
+        {
+          "id": "e1",
+          "prompt": "news is uncountable",
+          "targetSpan": "important news",
+          "acceptedAnswers": ["important piece of news", "item of news"],
+          "explanation": "News is uncountable, so we say an important piece of news."
+        },
+        {
+          "id": "e2",
+          "prompt": "information is uncountable",
+          "targetSpan": "informations",
+          "acceptedAnswers": ["information"]
+        },
+        {
+          "id": "e3",
+          "prompt": "material, not objects",
+          "targetSpan": "glasses",
+          "acceptedAnswers": ["glass"]
+        },
+        {
+          "id": "e4",
+          "prompt": "clothes takes a plural verb",
+          "targetSpan": "was",
+          "acceptedAnswers": ["were"]
+        },
+        {
+          "id": "e5",
+          "prompt": "hair is uncountable here",
+          "targetSpan": "hairs",
+          "acceptedAnswers": ["hair"]
+        },
+        {
+          "id": "e6",
+          "prompt": "jeans is plural",
+          "targetSpan": "a jean",
+          "acceptedAnswers": ["jeans", "a pair of jeans"]
+        },
+        {
+          "id": "e7",
+          "prompt": "people is countable",
+          "targetSpan": "Much people",
+          "acceptedAnswers": ["Many people", "A lot of people"]
+        },
+        {
+          "id": "e8",
+          "prompt": "knowledge is uncountable",
+          "targetSpan": "knowledges",
+          "acceptedAnswers": ["knowledge"]
+        },
+        {
+          "id": "e9",
+          "prompt": "advice is uncountable",
+          "targetSpan": "advices",
+          "acceptedAnswers": ["advice"]
+        },
+        {
+          "id": "e10",
+          "prompt": "news is uncountable",
+          "targetSpan": "another news",
+          "acceptedAnswers": ["more news", "another piece of news"]
+        }
+      ]
+    },
+    {
+      "id": "f",
+      "type": "rewrite",
+      "title": "F · Similar meaning",
+      "instruction": "Complete each second sentence using the word given, so that it has a similar meaning to the first. Write between two and five words.",
+      "items": [
+        {
+          "id": "f1",
+          "prompt": "Not many people came to the party. **only**\nThere ___ people at the party.",
+          "acceptedAnswers": ["were only a few", "were only few"]
+        },
+        {
+          "id": "f2",
+          "prompt": "The witness described the mugger to the police. **a**\nThe witness ___ of the mugger.",
+          "acceptedAnswers": ["gave a description"]
+        },
+        {
+          "id": "f3",
+          "prompt": "There isn't much sugar left. **a**\nThere ___ sugar left.",
+          "acceptedAnswers": ["is only a little", "'s only a little"]
+        },
+        {
+          "id": "f4",
+          "prompt": "I am thinking of becoming a firefighter when I leave school. **brigade**\nI am thinking of ___ when I leave school.",
+          "acceptedAnswers": ["joining the fire brigade"]
+        },
+        {
+          "id": "f5",
+          "prompt": "We were shocked by the news and didn't know what to do. **shocking**\nThe news ___ didn't know what to do.",
+          "acceptedAnswers": ["was so shocking we", "was so shocking that we"]
+        },
+        {
+          "id": "f6",
+          "prompt": "There aren't many good films out at the moment. **only**\nThere ___ good films out at the moment.",
+          "acceptedAnswers": ["are only a few"]
+        },
+        {
+          "id": "f7",
+          "prompt": "I didn't eat much dessert because I'm on a diet. **only**\nI ___ dessert because I'm on a diet.",
+          "acceptedAnswers": ["only ate a little", "ate only a little"]
+        },
+        {
+          "id": "f8",
+          "prompt": "You have lots of hats! **lot**\nWhat ___ you have!",
+          "acceptedAnswers": ["a lot of hats"]
+        }
+      ]
+    },
+    {
+      "id": "g",
+      "type": "multiple-choice",
+      "title": "G · Match to make sentences",
+      "instruction": "Choose the ending that completes each sentence.",
+      "items": [
+        {
+          "id": "g1",
+          "prompt": "I'm quite busy so I've got",
+          "options": [
+            "a little time to talk to you now.",
+            "a few people recycle their rubbish.",
+            "a few complaints from hotel guests recently.",
+            "little money for luxuries.",
+            "few people recycle their rubbish.",
+            "very few complaints from hotel guests recently.",
+            "a little money for luxuries.",
+            "very little time to talk to you now."
+          ],
+          "acceptedAnswers": ["very little time to talk to you now."]
+        },
+        {
+          "id": "g2",
+          "prompt": "Happily, we have had",
+          "options": [
+            "a little time to talk to you now.",
+            "a few people recycle their rubbish.",
+            "a few complaints from hotel guests recently.",
+            "little money for luxuries.",
+            "few people recycle their rubbish.",
+            "very few complaints from hotel guests recently.",
+            "a little money for luxuries.",
+            "very little time to talk to you now."
+          ],
+          "acceptedAnswers": ["very few complaints from hotel guests recently."]
+        },
+        {
+          "id": "g3",
+          "prompt": "My dad just got a good job so we have",
+          "options": [
+            "a little time to talk to you now.",
+            "a few people recycle their rubbish.",
+            "a few complaints from hotel guests recently.",
+            "little money for luxuries.",
+            "few people recycle their rubbish.",
+            "very few complaints from hotel guests recently.",
+            "a little money for luxuries.",
+            "very little time to talk to you now."
+          ],
+          "acceptedAnswers": ["a little money for luxuries."]
+        },
+        {
+          "id": "g4",
+          "prompt": "Pollution is improving now that",
+          "options": [
+            "a little time to talk to you now.",
+            "a few people recycle their rubbish.",
+            "a few complaints from hotel guests recently.",
+            "little money for luxuries.",
+            "few people recycle their rubbish.",
+            "very few complaints from hotel guests recently.",
+            "a little money for luxuries.",
+            "very little time to talk to you now."
+          ],
+          "acceptedAnswers": ["a few people recycle their rubbish."]
+        },
+        {
+          "id": "g5",
+          "prompt": "My mum has lost her job so we have",
+          "options": [
+            "a little time to talk to you now.",
+            "a few people recycle their rubbish.",
+            "a few complaints from hotel guests recently.",
+            "little money for luxuries.",
+            "few people recycle their rubbish.",
+            "very few complaints from hotel guests recently.",
+            "a little money for luxuries.",
+            "very little time to talk to you now."
+          ],
+          "acceptedAnswers": ["little money for luxuries."]
+        },
+        {
+          "id": "g6",
+          "prompt": "My lesson's been cancelled so I've got",
+          "options": [
+            "a little time to talk to you now.",
+            "a few people recycle their rubbish.",
+            "a few complaints from hotel guests recently.",
+            "little money for luxuries.",
+            "few people recycle their rubbish.",
+            "very few complaints from hotel guests recently.",
+            "a little money for luxuries.",
+            "very little time to talk to you now."
+          ],
+          "acceptedAnswers": ["a little time to talk to you now."]
+        },
+        {
+          "id": "g7",
+          "prompt": "It's a shame that",
+          "options": [
+            "a little time to talk to you now.",
+            "a few people recycle their rubbish.",
+            "a few complaints from hotel guests recently.",
+            "little money for luxuries.",
+            "few people recycle their rubbish.",
+            "very few complaints from hotel guests recently.",
+            "a little money for luxuries.",
+            "very little time to talk to you now."
+          ],
+          "acceptedAnswers": ["few people recycle their rubbish."]
+        },
+        {
+          "id": "g8",
+          "prompt": "Unfortunately, we have had",
+          "options": [
+            "a little time to talk to you now.",
+            "a few people recycle their rubbish.",
+            "a few complaints from hotel guests recently.",
+            "little money for luxuries.",
+            "few people recycle their rubbish.",
+            "very few complaints from hotel guests recently.",
+            "a little money for luxuries.",
+            "very little time to talk to you now."
+          ],
+          "acceptedAnswers": ["a few complaints from hotel guests recently."]
+        }
+      ]
+    },
+    {
+      "id": "h",
+      "type": "multiple-choice",
+      "title": "H · Choose the correct answer",
+      "instruction": "Select few, a few, little or a little.",
+      "items": [
+        {
+          "id": "h1",
+          "prompt": "If you have ___ time at the end of the exam, check your answers.",
+          "options": ["few", "a few", "little", "a little"],
+          "acceptedAnswers": ["a little"]
+        },
+        {
+          "id": "h2",
+          "prompt": "Give me ___ minutes and I'll be ready.",
+          "options": ["few", "a few", "little", "a little"],
+          "acceptedAnswers": ["a few"]
+        },
+        {
+          "id": "h3",
+          "prompt": "We've only got ___ milk left so get some when you go shopping.",
+          "options": ["few", "a few", "little", "a little"],
+          "acceptedAnswers": ["a little"]
+        },
+        {
+          "id": "h4",
+          "prompt": "Just ___ practice every day and you'll soon be able to play the piano.",
+          "options": ["few", "a few", "little", "a little"],
+          "acceptedAnswers": ["a little"]
+        },
+        {
+          "id": "h5",
+          "prompt": "We were disappointed that ___ of the members came to the youth club party.",
+          "options": ["few", "a few", "little", "a little"],
+          "acceptedAnswers": ["few"]
+        },
+        {
+          "id": "h6",
+          "prompt": "Sprinkle ___ sugar on the strawberries.",
+          "options": ["few", "a few", "little", "a little"],
+          "acceptedAnswers": ["a little"]
+        },
+        {
+          "id": "h7",
+          "prompt": "I suppose now I'm 43, I have ___ hope of playing football for England.",
+          "options": ["few", "a few", "little", "a little"],
+          "acceptedAnswers": ["little"]
+        },
+        {
+          "id": "h8",
+          "prompt": "Could you help me with ___ exercises I don't understand?",
+          "options": ["few", "a few", "little", "a little"],
+          "acceptedAnswers": ["a few"]
+        },
+        {
+          "id": "h9",
+          "prompt": "There's ___ coffee left, if anyone wants some.",
+          "options": ["few", "a few", "little", "a little"],
+          "acceptedAnswers": ["a little"]
+        },
+        {
+          "id": "h10",
+          "prompt": "Becoming an astronaut is so demanding that ___ people manage it.",
+          "options": ["few", "a few", "little", "a little"],
+          "acceptedAnswers": ["few"]
+        },
+        {
+          "id": "h11",
+          "prompt": "I'll meet you in half an hour — I've got ___ e-mails to write first.",
+          "options": ["few", "a few", "little", "a little"],
+          "acceptedAnswers": ["a few"]
+        },
+        {
+          "id": "h12",
+          "prompt": "Many people feel there's ___ point in voting, even in a general election.",
+          "options": ["few", "a few", "little", "a little"],
+          "acceptedAnswers": ["little"]
+        }
+      ]
+    },
+    {
+      "id": "i",
+      "type": "gap-fill",
+      "title": "I · Articles in conversation",
+      "instruction": "Write an article in each gap where necessary. If an article is not necessary, write a dash (-).",
+      "wordBank": ["a", "an", "the", "-"],
+      "items": [
+        {
+          "id": "i1",
+          "prompt": "Sandy: Hi. Is that Ray? It's ___ Sandy.",
+          "acceptedAnswers": ["-"]
+        },
+        {
+          "id": "i2",
+          "prompt": "Ray: Oh, hi! How was ___ film?",
+          "acceptedAnswers": ["the"]
+        },
+        {
+          "id": "i3",
+          "prompt": "Sandy: Great! We took ___ taxi to the cinema.",
+          "acceptedAnswers": ["a"]
+        },
+        {
+          "id": "i4",
+          "prompt": "We took a taxi to ___ cinema.",
+          "acceptedAnswers": ["the"]
+        },
+        {
+          "id": "i5",
+          "prompt": "And ___ taxi driver got lost, so we almost missed the start.",
+          "acceptedAnswers": ["the"]
+        },
+        {
+          "id": "i6",
+          "prompt": "We almost missed ___ start. What about you?",
+          "acceptedAnswers": ["the"]
+        },
+        {
+          "id": "i7",
+          "prompt": "What did you do ___ last night?",
+          "acceptedAnswers": ["-"]
+        },
+        {
+          "id": "i8",
+          "prompt": "Ray: Oh, I just stayed at ___ home.",
+          "acceptedAnswers": ["-"]
+        },
+        {
+          "id": "i9",
+          "prompt": "I listened to ___ music for a while.",
+          "acceptedAnswers": ["-"]
+        },
+        {
+          "id": "i10",
+          "prompt": "Then I watched ___ news.",
+          "acceptedAnswers": ["the"]
+        },
+        {
+          "id": "i11",
+          "prompt": "Sandy: Oh, yes? So what's happening in ___ world?",
+          "acceptedAnswers": ["the"]
+        },
+        {
+          "id": "i12",
+          "prompt": "Ray: Well, I know you don't like ___ politics,",
+          "acceptedAnswers": ["-"]
+        },
+        {
+          "id": "i13",
+          "prompt": "but there was ___ interesting report on Asia.",
+          "acceptedAnswers": ["an"]
+        },
+        {
+          "id": "i14",
+          "prompt": "There was an interesting report on ___ Asia.",
+          "acceptedAnswers": ["-"]
+        },
+        {
+          "id": "i15",
+          "prompt": "It gave me ___ few ideas for the geography essay.",
+          "acceptedAnswers": ["a"]
+        },
+        {
+          "id": "i16",
+          "prompt": "It gave me a few ideas for ___ geography essay we were talking about.",
+          "acceptedAnswers": ["the"]
+        },
+        {
+          "id": "i17",
+          "prompt": "We were talking about it ___ other day.",
+          "acceptedAnswers": ["the"]
+        },
+        {
+          "id": "i18",
+          "prompt": "Just that ___ lead singer of your favourite band is getting married.",
+          "acceptedAnswers": ["the"]
+        },
+        {
+          "id": "i19",
+          "prompt": "He's getting married to ___ actress,",
+          "acceptedAnswers": ["an"]
+        },
+        {
+          "id": "i20",
+          "prompt": "___ one who was in that film …",
+          "acceptedAnswers": ["the"]
+        },
+        {
+          "id": "i21",
+          "prompt": "I have to check this out on ___ Internet!",
+          "acceptedAnswers": ["the"]
+        },
+        {
+          "id": "i22",
+          "prompt": "See you at ___ school tomorrow. Bye!",
+          "acceptedAnswers": ["-"]
+        }
+      ]
+    },
+    {
+      "id": "j",
+      "type": "rewrite",
+      "title": "J · Add articles",
+      "instruction": "Rewrite the sentences correctly, adding articles where necessary.",
+      "items": [
+        {
+          "id": "j1",
+          "prompt": "We went to theatre last night and saw great play, although some of acting was bit poor.",
+          "acceptedAnswers": [
+            "We went to the theatre last night and saw a great play, although some of the acting was a bit poor.",
+            "We went to the theatre last night and saw a great play, although some of the acting was a bit poor"
+          ]
+        },
+        {
+          "id": "j2",
+          "prompt": "Give me ring tomorrow before I go to work and we'll arrange to meet at office.",
+          "acceptedAnswers": [
+            "Give me a ring tomorrow before I go to work and we'll arrange to meet at the office.",
+            "Give me a ring tomorrow before I go to work and we'll arrange to meet at the office"
+          ]
+        },
+        {
+          "id": "j3",
+          "prompt": "Prime minister told reporter that government wanted to pass law banning hunting.",
+          "acceptedAnswers": [
+            "The prime minister told the reporter that the government wanted to pass a law banning hunting.",
+            "The prime minister told the reporter that the government wanted to pass a law banning hunting"
+          ]
+        },
+        {
+          "id": "j4",
+          "prompt": "I asked hotel manager where pool was and she directed me to seventh floor.",
+          "acceptedAnswers": [
+            "I asked the hotel manager where the pool was and she directed me to the seventh floor.",
+            "I asked the hotel manager where the pool was and she directed me to the seventh floor"
+          ]
+        },
+        {
+          "id": "j5",
+          "prompt": "They said on news on radio that Mount Vesuvius, volcano that destroyed Pompeii, could erupt again.",
+          "acceptedAnswers": [
+            "They said on the news on the radio that Mount Vesuvius, the volcano that destroyed Pompeii, could erupt again.",
+            "They said on the news on the radio that Mount Vesuvius, the volcano that destroyed Pompeii, could erupt again"
+          ]
+        },
+        {
+          "id": "j6",
+          "prompt": "Car has revolutionised transport and is absolutely vital to economy of most countries.",
+          "acceptedAnswers": [
+            "The car has revolutionised transport and is absolutely vital to the economy of most countries.",
+            "The car has revolutionised transport and is absolutely vital to the economy of most countries"
+          ]
+        },
+        {
+          "id": "j7",
+          "prompt": "Judge read jury's verdict aloud and then sentenced accused to five years in prison.",
+          "acceptedAnswers": [
+            "The judge read the jury's verdict aloud and then sentenced the accused to five years in prison.",
+            "The judge read the jury's verdict aloud and then sentenced the accused to five years in prison"
+          ]
+        },
+        {
+          "id": "j8",
+          "prompt": "Job in media can be quite stressful because of pressure you are under to do things on time.",
+          "acceptedAnswers": [
+            "A job in the media can be quite stressful because of the pressure you are under to do things on time.",
+            "A job in the media can be quite stressful because of the pressure you are under to do things on time"
+          ]
+        },
+        {
+          "id": "j9",
+          "prompt": "Very few people in 19th century went to school or university and most started work at very young age.",
+          "acceptedAnswers": [
+            "Very few people in the 19th century went to school or university and most started work at a very young age.",
+            "Very few people in the 19th century went to school or university and most started work at a very young age"
+          ]
+        },
+        {
+          "id": "j10",
+          "prompt": "I have little free time since I gave up karate, so I'm thinking of trying new hobby, like learning musical instrument.",
+          "acceptedAnswers": [
+            "I have little free time since I gave up karate, so I'm thinking of trying a new hobby, like learning a musical instrument.",
+            "I have little free time since I gave up karate, so I'm thinking of trying a new hobby, like learning a musical instrument"
+          ]
+        }
+      ]
+    }
+  ]
+}

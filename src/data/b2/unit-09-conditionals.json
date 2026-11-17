@@ -1,0 +1,921 @@
+{
+  "id": "unit-09-conditionals",
+  "level": "b2",
+  "unitNumber": 9,
+  "title": "Conditionals",
+  "subtitle": "Zero, first, second, third, mixed and inverted conditionals; unless, in case, as/so long as, provided that",
+  "theory": [
+    {
+      "id": "zero",
+      "title": "Zero conditional",
+      "icon": "BookOpen",
+      "blocks": [
+        {
+          "type": "prose",
+          "text": "Form: **if** + present simple, present simple"
+        },
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "General or scientific facts and definitions",
+              "example": "If you **have** faith in something, you **believe** in something you cannot prove."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "first",
+      "title": "First conditional",
+      "icon": "Sparkles",
+      "blocks": [
+        {
+          "type": "prose",
+          "text": "Form: **if** + a present tense, **will** + bare infinitive"
+        },
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "Real or likely conditions in the present or future and their results",
+              "example": "If you **have** a birthday party, you'll **get** lots of cool presents! · If you're **working** till half past six, we'll **have** dinner at about eight. · If you **have revised** properly, you **won't have** any problems in the test next week."
+            }
+          ]
+        },
+        {
+          "type": "watch-out",
+          "text": "We can also use **may, might, can, could, shall, should, ought to, have to** instead of **will**, depending on the meaning.",
+          "note": "If you **have** a birthday party, you **might get** lots of cool presents!"
+        },
+        {
+          "type": "watch-out",
+          "text": "We can also use **should** + bare infinitive instead of present simple. This suggests the situation is possible, but unlikely to happen.",
+          "note": "If you **should bump** into Alex at the concert, you'll be able to get a lift home."
+        },
+        {
+          "type": "watch-out",
+          "text": "We can also use a form of the first conditional to give instructions: **if** + a present tense, imperative.",
+          "note": "If you **decide** to have a birthday party, **tell** me!"
+        }
+      ]
+    },
+    {
+      "id": "unless-in-case",
+      "title": "unless, in case, as/so long as, provided (that)",
+      "icon": "Lightbulb",
+      "blocks": [
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "unless · 'except if' or 'if … not'",
+              "example": "I'll be there at six **unless** I get delayed. (= except if I get delayed / if I don't get delayed)"
+            },
+            {
+              "use": "in case · 'because he/she/it/etc. might'",
+              "example": "Let's take our wellies **in case** it's muddy. (= because it might be muddy)"
+            },
+            {
+              "use": "as/so long as · 'if' or 'only if'",
+              "example": "**As long as** I'm happy, my parents don't care what job I do. · **So long as** I'm happy, my parents don't care what job I do."
+            },
+            {
+              "use": "provided (that) · 'if' or 'only if'",
+              "example": "**Provided (that)** I'm happy, my parents don't care what job I do."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "second",
+      "title": "Second conditional",
+      "icon": "CheckCircle2",
+      "blocks": [
+        {
+          "type": "prose",
+          "text": "Form: **if** + past simple or past continuous, **would** + bare infinitive"
+        },
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "Impossible, unlikely or hypothetical conditions in the present or future and their results",
+              "example": "If you **had** a beard, you **would look** just like Charles Dickens! · If you **were flying** to Rio, **would** you **get** there much quicker?"
+            },
+            {
+              "use": "Advice",
+              "example": "If I **were** you, I **would think** very carefully about my future. (more formal) · If I **was** you, I'd **have** a party at the weekend! (more informal)"
+            }
+          ]
+        },
+        {
+          "type": "watch-out",
+          "text": "We can also use **might** or **could** instead of **would**, depending on the meaning. (**could** here often means **would be able to**.)",
+          "note": "If we **were** older, we **could go** on holiday on our own."
+        },
+        {
+          "type": "watch-out",
+          "text": "We can also use **could** in the **if** clause. Here, it means **was/were able to**.",
+          "note": "If I **could drive**, I'd buy a car."
+        }
+      ]
+    },
+    {
+      "id": "third",
+      "title": "Third conditional",
+      "icon": "Table2",
+      "blocks": [
+        {
+          "type": "prose",
+          "text": "Form: **if** + past perfect (simple or continuous), **would + have + past participle**"
+        },
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "Hypothetical past conditions and their results in the past",
+              "example": "If you **had worn** a fake beard, no one **would have known** who you were! · If she'd **been wearing** her new glasses, I **would have noticed** them."
+            }
+          ]
+        },
+        {
+          "type": "watch-out",
+          "text": "We can also use **might, could** or **should** instead of **would**, depending on the meaning.",
+          "note": "If I **had done** some revision, I **might / could / should have passed** the exam."
+        }
+      ]
+    },
+    {
+      "id": "mixed",
+      "title": "Mixed conditionals",
+      "icon": "PencilLine",
+      "blocks": [
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "**if** + past perfect, **would** + bare infinitive · hypothetical past condition and a present result",
+              "example": "If I **had listened** to my parents, I **wouldn't be** in so much trouble now."
+            },
+            {
+              "use": "**if** + past simple or past continuous, **would + have + past participle** · hypothetical present condition and a past result",
+              "example": "If I **had** a mobile, I **would have called** you last night."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "inverted",
+      "title": "Inverted conditionals",
+      "icon": "AlertTriangle",
+      "blocks": [
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "More formal first conditional (**Should** I/you/he/etc. … instead of **If** I/you/he/etc. **should** …)",
+              "example": "**Should** the situation worsen, the United Nations is prepared to send in a peacekeeping force."
+            },
+            {
+              "use": "More formal second conditional (**Were** I/you/he/etc. … instead of **If** I/you/he/etc. **were** …)",
+              "example": "**Were** the situation to worsen, the United Nations would be prepared to send in a peacekeeping force."
+            },
+            {
+              "use": "More formal third conditional (**Had** I/you/he/etc. … instead of **If** I/you/he/etc. **had** …)",
+              "example": "**Had** the situation worsened, the United Nations would have been prepared to send in a peacekeeping force."
+            }
+          ]
+        },
+        {
+          "type": "watch-out",
+          "text": "For all conditional sentences, when the condition comes before the result it is usually followed by a comma. When the result comes first, no comma is necessary.",
+          "note": "If I had a mobile, I would have called you last night. · I would have called you last night if I had a mobile."
+        },
+        {
+          "type": "watch-out",
+          "text": "In conditional sentences, modals (will, would, could, etc.) are sometimes followed by a continuous infinitive.",
+          "note": "We'd **still be waiting** if you hadn't turned up."
+        },
+        {
+          "type": "hints",
+          "intro": "US vs UK grammar",
+          "items": [
+            "With second and third conditionals in informal conversation, speakers of American English sometimes use **would** or **would have** in the **if** clause. This is very unusual in British English.",
+            "US: How **would** you feel if this **happened / would happen** to you?",
+            "UK: How **would** you feel if this **happened** to you?",
+            "US: I **would have** felt awful if that **had happened / would have happened** to me.",
+            "UK: I **would have** felt awful if that **had happened** to me."
+          ]
+        }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "a",
+      "type": "multiple-choice",
+      "title": "A · Yes or No",
+      "instruction": "Answer Yes or No about the meaning of each sentence.",
+      "items": [
+        {
+          "id": "a1",
+          "prompt": "If Carl doesn't come to the party, I'll be really upset. Is it possible that Carl won't come to the party?",
+          "options": ["Yes", "No"],
+          "acceptedAnswers": ["Yes"]
+        },
+        {
+          "id": "a2",
+          "prompt": "If my neighbour became prime minister, he'd give everyone a million euros. Is it possible that the neighbour will become prime minister?",
+          "options": ["Yes", "No"],
+          "acceptedAnswers": ["No"]
+        },
+        {
+          "id": "a3",
+          "prompt": "If Helen weren't here, I don't know what we'd do. Is Helen here now?",
+          "options": ["Yes", "No"],
+          "acceptedAnswers": ["Yes"]
+        },
+        {
+          "id": "a4",
+          "prompt": "If Tarek had had enough money, he'd have bought a car. Did Tarek have enough money?",
+          "options": ["Yes", "No"],
+          "acceptedAnswers": ["No"]
+        },
+        {
+          "id": "a5",
+          "prompt": "If Tarek had had enough money, he'd have bought a car. Did he buy a car?",
+          "options": ["Yes", "No"],
+          "acceptedAnswers": ["No"]
+        },
+        {
+          "id": "a6",
+          "prompt": "If Debbie hadn't gone to the UK, she wouldn't have met Will. Did Debbie go to the UK?",
+          "options": ["Yes", "No"],
+          "acceptedAnswers": ["Yes"]
+        },
+        {
+          "id": "a7",
+          "prompt": "If Debbie hadn't gone to the UK, she wouldn't have met Will. Did she meet Will?",
+          "options": ["Yes", "No"],
+          "acceptedAnswers": ["Yes"]
+        },
+        {
+          "id": "a8",
+          "prompt": "If the police had investigated the case thoroughly, they wouldn't have arrested Keren. Did the police investigate the case thoroughly?",
+          "options": ["Yes", "No"],
+          "acceptedAnswers": ["No"]
+        },
+        {
+          "id": "a9",
+          "prompt": "If the police had investigated the case thoroughly, they wouldn't have arrested Keren. Did they arrest Keren?",
+          "options": ["Yes", "No"],
+          "acceptedAnswers": ["Yes"]
+        },
+        {
+          "id": "a10",
+          "prompt": "Had she not gone to university, she might not have started her own business. Did she go to university?",
+          "options": ["Yes", "No"],
+          "acceptedAnswers": ["Yes"]
+        },
+        {
+          "id": "a11",
+          "prompt": "Had she not gone to university, she might not have started her own business. Did she start her own business?",
+          "options": ["Yes", "No"],
+          "acceptedAnswers": ["Yes"]
+        }
+      ]
+    },
+    {
+      "id": "b",
+      "type": "rewrite",
+      "title": "B · Complete the definitions",
+      "instruction": "Complete each definition with a likely result in the present simple (zero conditional). Example: If you trust someone, you believe that they won't let you down.",
+      "items": [
+        {
+          "id": "b1",
+          "prompt": "If you bully someone,",
+          "acceptedAnswers": [
+            "you make them feel frightened or unhappy.",
+            "you make them feel frightened or unhappy",
+            "you treat them unkindly.",
+            "you treat them unkindly"
+          ]
+        },
+        {
+          "id": "b2",
+          "prompt": "If you accuse someone,",
+          "acceptedAnswers": [
+            "you say they have done something wrong.",
+            "you say they have done something wrong",
+            "you say that they are guilty.",
+            "you say that they are guilty"
+          ]
+        },
+        {
+          "id": "b3",
+          "prompt": "If you are a liar,",
+          "acceptedAnswers": [
+            "you don't tell the truth.",
+            "you don't tell the truth",
+            "you tell lies.",
+            "you tell lies"
+          ]
+        },
+        {
+          "id": "b4",
+          "prompt": "If you are rich,",
+          "acceptedAnswers": [
+            "you have a lot of money.",
+            "you have a lot of money",
+            "you have lots of money.",
+            "you have lots of money"
+          ]
+        },
+        {
+          "id": "b5",
+          "prompt": "If you are lucky,",
+          "acceptedAnswers": [
+            "good things happen to you by chance.",
+            "good things happen to you by chance",
+            "you have good luck.",
+            "you have good luck"
+          ]
+        },
+        {
+          "id": "b6",
+          "prompt": "If you are lazy,",
+          "acceptedAnswers": [
+            "you don't want to work or make an effort.",
+            "you don't want to work or make an effort",
+            "you don't work hard.",
+            "you don't work hard"
+          ]
+        },
+        {
+          "id": "b7",
+          "prompt": "If you look up to someone,",
+          "acceptedAnswers": [
+            "you admire and respect them.",
+            "you admire and respect them",
+            "you respect them.",
+            "you respect them"
+          ]
+        },
+        {
+          "id": "b8",
+          "prompt": "If you look down on someone,",
+          "acceptedAnswers": [
+            "you think you are better than they are.",
+            "you think you are better than they are",
+            "you think they are inferior.",
+            "you think they are inferior"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c",
+      "type": "gap-fill",
+      "title": "C · Complete using the verbs",
+      "instruction": "Complete using the correct form of the verbs in the box.",
+      "wordBank": ["be", "call", "find", "forget", "get", "leave", "see", "take", "want", "work"],
+      "items": [
+        {
+          "id": "c1",
+          "prompt": "If she ___ at five o'clock, she'll be there by half past seven.",
+          "acceptedAnswers": ["leaves", "'s still working", "is still working", "works"]
+        },
+        {
+          "id": "c2",
+          "prompt": "We ___ you if we have any problems.",
+          "acceptedAnswers": ["'ll call", "will call"]
+        },
+        {
+          "id": "c3",
+          "prompt": "It might not be a good idea to go out tonight if you ___ an important test in the morning.",
+          "acceptedAnswers": ["have", "'ve got", "have got"]
+        },
+        {
+          "id": "c4",
+          "prompt": "If you ___ ill all day, you shouldn't come to the club tonight.",
+          "acceptedAnswers": ["'ve been", "have been"]
+        },
+        {
+          "id": "c5",
+          "prompt": "If you should ___ my wallet, call me on my mobile immediately.",
+          "acceptedAnswers": ["find"]
+        },
+        {
+          "id": "c6",
+          "prompt": "Let's get a different DVD if you ___ that one already.",
+          "acceptedAnswers": ["'ve seen", "have seen"]
+        },
+        {
+          "id": "c7",
+          "prompt": "If Sean ___ so hard lately, he'll welcome the chance to have a few days off.",
+          "acceptedAnswers": ["'s been working", "has been working", "has worked", "'s worked"]
+        },
+        {
+          "id": "c8",
+          "prompt": "If you're going into town, ___ a video for tonight while you're there!",
+          "acceptedAnswers": ["get"]
+        },
+        {
+          "id": "c9",
+          "prompt": "If you see Carol tonight, ___ to say hello from me!",
+          "acceptedAnswers": ["don't forget"]
+        },
+        {
+          "id": "c10",
+          "prompt": "Don't feel you have to come if you ___ to.",
+          "acceptedAnswers": ["don't want"]
+        }
+      ]
+    },
+    {
+      "id": "d",
+      "type": "multiple-choice",
+      "title": "D · Circle the correct phrase",
+      "instruction": "Select unless, if, in case, as/so long as or provided.",
+      "items": [
+        {
+          "id": "d1",
+          "prompt": "This time in six months I'll be at university ___ I decide to take a year off first.",
+          "options": ["unless", "if"],
+          "acceptedAnswers": ["unless"]
+        },
+        {
+          "id": "d2",
+          "prompt": "We'd better leave early tomorrow ___ there's a lot of traffic when we get to Doncaster.",
+          "options": ["unless", "in case"],
+          "acceptedAnswers": ["in case"]
+        },
+        {
+          "id": "d3",
+          "prompt": "You can watch the film ___ you promise to go straight to bed when it finishes.",
+          "options": ["as long as", "in case"],
+          "acceptedAnswers": ["as long as"]
+        },
+        {
+          "id": "d4",
+          "prompt": "Let's go to Mirabella's tonight ___ you haven't been there before.",
+          "options": ["Unless", "If"],
+          "acceptedAnswers": ["Unless"]
+        },
+        {
+          "id": "d5",
+          "prompt": "___ I've still got my health, I don't mind how poor I am!",
+          "options": ["Unless", "So long as"],
+          "acceptedAnswers": ["So long as"]
+        },
+        {
+          "id": "d6",
+          "prompt": "You'd better take a sweater with you now ___ it gets cold tonight.",
+          "options": ["if", "in case"],
+          "acceptedAnswers": ["in case"]
+        },
+        {
+          "id": "d7",
+          "prompt": "Do what you like ___ you don't make any noise.",
+          "options": ["provided", "unless"],
+          "acceptedAnswers": ["provided"]
+        },
+        {
+          "id": "d8",
+          "prompt": "I'm not going to worry ___ she hasn't called by midnight.",
+          "options": ["unless", "as long as"],
+          "acceptedAnswers": ["unless"]
+        }
+      ]
+    },
+    {
+      "id": "e",
+      "type": "rewrite",
+      "title": "E · Second conditional",
+      "instruction": "Write sentences using the second conditional. Example: I don't want to buy that CD so I'm not going to. → If I wanted to buy that CD, I would.",
+      "items": [
+        {
+          "id": "e1",
+          "prompt": "I don't live alone so I don't get lonely.",
+          "acceptedAnswers": [
+            "If I lived alone, I would get lonely.",
+            "If I lived alone, I would get lonely",
+            "If I lived alone, I'd get lonely.",
+            "If I lived alone, I'd get lonely"
+          ]
+        },
+        {
+          "id": "e2",
+          "prompt": "Don's got such a lot of homework that he's not going to play football tonight.",
+          "acceptedAnswers": [
+            "If Don didn't have so much homework, he would play football tonight.",
+            "If Don didn't have so much homework, he'd play football tonight.",
+            "If Don didn't have such a lot of homework, he would play football tonight.",
+            "If Don didn't have such a lot of homework, he'd play football tonight."
+          ]
+        },
+        {
+          "id": "e3",
+          "prompt": "I can't swim so I'm not going scuba diving with Terry.",
+          "acceptedAnswers": [
+            "If I could swim, I would go scuba diving with Terry.",
+            "If I could swim, I'd go scuba diving with Terry.",
+            "If I could swim, I would go scuba diving with Terry",
+            "If I could swim, I'd go scuba diving with Terry"
+          ]
+        },
+        {
+          "id": "e4",
+          "prompt": "We're not going to order a pizza because we don't have enough money.",
+          "acceptedAnswers": [
+            "If we had enough money, we would order a pizza.",
+            "If we had enough money, we'd order a pizza.",
+            "If we had enough money, we would order a pizza",
+            "If we had enough money, we'd order a pizza"
+          ]
+        },
+        {
+          "id": "e5",
+          "prompt": "We're not staying in the same hotel, so we can't share a room.",
+          "acceptedAnswers": [
+            "If we were staying in the same hotel, we could share a room.",
+            "If we were staying in the same hotel, we would be able to share a room.",
+            "If we were staying in the same hotel, we could share a room",
+            "If we stayed in the same hotel, we could share a room."
+          ]
+        },
+        {
+          "id": "e6",
+          "prompt": "I'm not you, but I think you should call Antony right now!",
+          "acceptedAnswers": [
+            "If I were you, I would call Antony right now!",
+            "If I were you, I'd call Antony right now!",
+            "If I was you, I would call Antony right now!",
+            "If I was you, I'd call Antony right now!"
+          ]
+        },
+        {
+          "id": "e7",
+          "prompt": "I can't come because I have to help my dad with something.",
+          "acceptedAnswers": [
+            "If I didn't have to help my dad, I would come.",
+            "If I didn't have to help my dad, I'd come.",
+            "If I didn't have to help my dad with something, I would come.",
+            "If I didn't have to help my dad with something, I'd come."
+          ]
+        },
+        {
+          "id": "e8",
+          "prompt": "I don't go to bed as late as you so I'm able to get up early in the morning.",
+          "acceptedAnswers": [
+            "If I went to bed as late as you, I wouldn't be able to get up early in the morning.",
+            "If I went to bed as late as you, I couldn't get up early in the morning.",
+            "If I went to bed as late as you, I wouldn't be able to get up early."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f",
+      "type": "rewrite",
+      "title": "F · Third conditional",
+      "instruction": "Complete the sentences using the third conditional, based on the idea of parallel universes.",
+      "items": [
+        {
+          "id": "f1",
+          "prompt": "If I'd started learning English a year earlier,",
+          "acceptedAnswers": [
+            "I would have done this book last year!",
+            "I'd have done this book last year!",
+            "I would have finished this book last year!",
+            "I'd have finished this book last year!"
+          ]
+        },
+        {
+          "id": "f2",
+          "prompt": "If a meteor hadn't struck the Earth,",
+          "acceptedAnswers": [
+            "the dinosaurs wouldn't have become extinct.",
+            "the dinosaurs would not have become extinct.",
+            "dinosaurs wouldn't have become extinct."
+          ]
+        },
+        {
+          "id": "f3",
+          "prompt": "If my best friend had won the lottery last summer,",
+          "acceptedAnswers": [
+            "we would have moved to a bigger house.",
+            "we'd have moved to a bigger house.",
+            "he would have moved to a bigger house.",
+            "she would have moved to a bigger house."
+          ]
+        },
+        {
+          "id": "f4",
+          "prompt": "If my parents",
+          "acceptedAnswers": [
+            "hadn't met, I wouldn't have been born.",
+            "hadn't met, I would not have been born.",
+            "hadn't met I wouldn't have been born."
+          ]
+        },
+        {
+          "id": "f5",
+          "prompt": "Everyone on board the Titanic",
+          "acceptedAnswers": [
+            "would have survived if there had been enough lifeboats.",
+            "would have survived if there had been enough lifeboats",
+            "would have survived if there'd been enough lifeboats."
+          ]
+        },
+        {
+          "id": "f6",
+          "prompt": "Van Gogh",
+          "acceptedAnswers": [
+            "wouldn't have died in poverty if he had been recognised as a great painter during his lifetime.",
+            "would not have died in poverty if he had been recognised as a great painter during his lifetime.",
+            "wouldn't have died in poverty if he'd been recognised as a great painter during his lifetime."
+          ]
+        },
+        {
+          "id": "f7",
+          "prompt": "Madonna",
+          "acceptedAnswers": [
+            "wouldn't have made any records if she hadn't been discovered.",
+            "would not have made any records if she hadn't been discovered.",
+            "wouldn't have made any records if she had not been discovered."
+          ]
+        },
+        {
+          "id": "f8",
+          "prompt": "If George Bush",
+          "acceptedAnswers": [
+            "hadn't become President of the USA in January 2001, history would have been different.",
+            "hadn't become President of the USA in 2001, history would have been different."
+          ]
+        },
+        {
+          "id": "f9",
+          "prompt": "If Greece",
+          "acceptedAnswers": [
+            "hadn't won the European Cup in July 2004, football history would have been different.",
+            "hadn't won the European Cup in 2004, football history would have been different."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g",
+      "type": "multiple-choice",
+      "title": "G · Choose the correct answer",
+      "instruction": "Select the form that completes each gap in the text about parallel universes.",
+      "items": [
+        {
+          "id": "g1",
+          "prompt": "If this theory about parallel universes ___ correct, it means that we're living in more than one universe at the same time.",
+          "options": ["will be", "is", "would have been", "has been"],
+          "acceptedAnswers": ["is"]
+        },
+        {
+          "id": "g2",
+          "prompt": "If this theory is correct, it ___ that we're living in more than one universe at the same time.",
+          "options": ["has meant", "meant", "had meant", "means"],
+          "acceptedAnswers": ["means"]
+        },
+        {
+          "id": "g3",
+          "prompt": "But if that ___ true — if I was doing different things in different universes — I'd know about it.",
+          "options": ["will be", "was being", "were", "has been"],
+          "acceptedAnswers": ["were"]
+        },
+        {
+          "id": "g4",
+          "prompt": "If I was doing different things in different universes — ___ about it.",
+          "options": ["I'd known", "I'll know", "I have known", "I'd know"],
+          "acceptedAnswers": ["I'd know"]
+        },
+        {
+          "id": "g5",
+          "prompt": "And if I ___ about it, how could it be me doing these things?",
+          "options": ["didn't know", "don't know", "won't know", "haven't known"],
+          "acceptedAnswers": ["didn't know"]
+        },
+        {
+          "id": "g6",
+          "prompt": "If I ___ the lottery last year in a parallel universe, and decided to sail round the world, how is that 'me'?",
+          "options": ["had won", "was winning", "have won", "win"],
+          "acceptedAnswers": ["had won"]
+        },
+        {
+          "id": "g7",
+          "prompt": "And another thing. If I do something, it ___ consequences.",
+          "options": ["won't have", "would have had", "will have", "had had"],
+          "acceptedAnswers": ["will have"]
+        },
+        {
+          "id": "g8",
+          "prompt": "For example, if I ___ study, I might not pass my exams.",
+          "options": ["won't", "haven't", "don't", "hadn't"],
+          "acceptedAnswers": ["don't"]
+        },
+        {
+          "id": "g9",
+          "prompt": "I can't start thinking about different universes where the consequences are different. If I just ___ about the universe I actually live in, then I'm sure I'll be okay!",
+          "options": ["think", "to think", "am thinking", "have thought"],
+          "acceptedAnswers": ["think"]
+        },
+        {
+          "id": "g10",
+          "prompt": "If I just think about the universe I actually live in, then I'm sure ___ okay!",
+          "options": ["I'd be", "I've been", "I'd have been", "I'll be"],
+          "acceptedAnswers": ["I'll be"]
+        }
+      ]
+    },
+    {
+      "id": "h",
+      "type": "gap-fill",
+      "title": "H · Mixed conditionals",
+      "instruction": "Complete using the correct form of the verbs in brackets.",
+      "items": [
+        {
+          "id": "h1",
+          "prompt": "If ___ your homework last night, you'd know the answer to this question! (you / do)",
+          "acceptedAnswers": ["you'd done", "you had done"]
+        },
+        {
+          "id": "h2",
+          "prompt": "We ___ by the side of the road at the moment trying to get a lift if we'd brought a spare tyre with us. (not / stand)",
+          "acceptedAnswers": ["wouldn't be standing", "would not be standing"]
+        },
+        {
+          "id": "h3",
+          "prompt": "If I ___ up so late last night, I wouldn't feel so tired this morning! (not / stay)",
+          "acceptedAnswers": ["hadn't stayed", "had not stayed"]
+        },
+        {
+          "id": "h4",
+          "prompt": "___ in terrible trouble right now if you hadn't helped me. (I / be)",
+          "acceptedAnswers": ["I'd be", "I would be"]
+        },
+        {
+          "id": "h5",
+          "prompt": "If I had a video recorder, ___ the match last night. (I / record)",
+          "acceptedAnswers": ["I'd have recorded", "I would have recorded"]
+        },
+        {
+          "id": "h6",
+          "prompt": "___ for Andy's phone number when I met him if I didn't already have a boyfriend! (I / ask)",
+          "acceptedAnswers": ["I'd have asked", "I would have asked"]
+        },
+        {
+          "id": "h7",
+          "prompt": "If Cody ___ so far away, he wouldn't have been so late to the barbecue yesterday. (not / live)",
+          "acceptedAnswers": ["didn't live", "did not live"]
+        },
+        {
+          "id": "h8",
+          "prompt": "Tracy ___ extra lessons last month if she were as good at maths as you are. (not / need)",
+          "acceptedAnswers": ["wouldn't have needed", "would not have needed"]
+        },
+        {
+          "id": "h9",
+          "prompt": "___ a job when you left school if the university hadn't offered you a place? (you / get)",
+          "acceptedAnswers": ["Would you have got", "Would you have gotten"]
+        },
+        {
+          "id": "h10",
+          "prompt": "If you ___ as much money as she does, would you have retired by now? (have)",
+          "acceptedAnswers": ["had"]
+        }
+      ]
+    },
+    {
+      "id": "i",
+      "type": "rewrite",
+      "title": "I · Inverted conditionals",
+      "instruction": "Complete the sentences so that the meaning remains the same. Start with Should, Were or Had.",
+      "items": [
+        {
+          "id": "i1",
+          "prompt": "If her condition should improve, we'll inform you immediately.\nShould",
+          "acceptedAnswers": [
+            "Should her condition improve, we'll inform you immediately.",
+            "Should her condition improve, we will inform you immediately.",
+            "Should her condition improve we'll inform you immediately."
+          ]
+        },
+        {
+          "id": "i2",
+          "prompt": "Jade will ask lots of difficult questions if she gets to interview a famous politician.\nShould",
+          "acceptedAnswers": [
+            "Should Jade get to interview a famous politician, she will ask lots of difficult questions.",
+            "Should she get to interview a famous politician, Jade will ask lots of difficult questions.",
+            "Should Jade interview a famous politician, she will ask lots of difficult questions."
+          ]
+        },
+        {
+          "id": "i3",
+          "prompt": "If you were able to go abroad for the summer, where would you go?\nWere",
+          "acceptedAnswers": [
+            "Were you able to go abroad for the summer, where would you go?",
+            "Were you able to go abroad for the summer where would you go?"
+          ]
+        },
+        {
+          "id": "i4",
+          "prompt": "If I was to become a vet, I'd find putting animals down very difficult.\nWere",
+          "acceptedAnswers": [
+            "Were I to become a vet, I'd find putting animals down very difficult.",
+            "Were I to become a vet, I would find putting animals down very difficult."
+          ]
+        },
+        {
+          "id": "i5",
+          "prompt": "The world would be much better off if all environmental pollution stopped today.\nWere",
+          "acceptedAnswers": [
+            "Were all environmental pollution to stop today, the world would be much better off.",
+            "Were all environmental pollution to stop today the world would be much better off."
+          ]
+        },
+        {
+          "id": "i6",
+          "prompt": "If the hole in the ozone layer had been discovered sooner, fewer people would have got skin cancer.\nHad",
+          "acceptedAnswers": [
+            "Had the hole in the ozone layer been discovered sooner, fewer people would have got skin cancer.",
+            "Had the hole in the ozone layer been discovered sooner fewer people would have got skin cancer."
+          ]
+        },
+        {
+          "id": "i7",
+          "prompt": "I wouldn't have become a teacher if I hadn't had such a good English teacher at school.\nHad",
+          "acceptedAnswers": [
+            "Had I not had such a good English teacher at school, I wouldn't have become a teacher.",
+            "Had I not had such a good English teacher at school I wouldn't have become a teacher."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "j",
+      "type": "rewrite",
+      "title": "J · Extra word",
+      "instruction": "If a line is correct, write a dash (-). If there is an extra word, write that word.",
+      "items": [
+        {
+          "id": "j1",
+          "prompt": "I'm an only child. People often say to me: 'Wouldn't you be a lot",
+          "acceptedAnswers": ["-"]
+        },
+        {
+          "id": "j2",
+          "prompt": "happier if you **have had** brothers or sisters?' but I don't see it like that.",
+          "acceptedAnswers": ["had"]
+        },
+        {
+          "id": "j3",
+          "prompt": "It's true that if I **had had** a brother or sister, I would have someone closer",
+          "acceptedAnswers": ["had"]
+        },
+        {
+          "id": "j4",
+          "prompt": "to my own age to talk to and play with at home, but I don't think that's",
+          "acceptedAnswers": ["-"]
+        },
+        {
+          "id": "j5",
+          "prompt": "very important **provided** for you have close friends, which I do. If my",
+          "acceptedAnswers": ["provided"]
+        },
+        {
+          "id": "j6",
+          "prompt": "parents **would** have more children, they wouldn't be able to spend so much",
+          "acceptedAnswers": ["would"]
+        },
+        {
+          "id": "j7",
+          "prompt": "time with me. And we have great fun together! **Also**, except if I had a",
+          "acceptedAnswers": ["Also"]
+        },
+        {
+          "id": "j8",
+          "prompt": "brother or sister, I'd have **it** to share a bedroom with them. That might be",
+          "acceptedAnswers": ["it"]
+        },
+        {
+          "id": "j9",
+          "prompt": "fun, but what would happen if I wanted to play my CDs and **he** or she had",
+          "acceptedAnswers": ["he"]
+        },
+        {
+          "id": "j10",
+          "prompt": "to study? No — I don't want a brother or sister, unless it **will** happens, of course. In that case, I'll think it's the best thing in the world!",
+          "acceptedAnswers": ["will"]
+        }
+      ]
+    }
+  ]
+}

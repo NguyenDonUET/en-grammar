@@ -1,0 +1,981 @@
+{
+  "id": "unit-01-present-time",
+  "level": "b2",
+  "unitNumber": 1,
+  "title": "Present time",
+  "subtitle": "Present simple, present continuous, present perfect simple, present perfect continuous, stative verbs",
+  "theory": [
+    {
+      "id": "present-simple",
+      "title": "Present simple",
+      "icon": "BookOpen",
+      "blocks": [
+        {
+          "type": "form-table",
+          "rows": [
+            {
+              "person": "I / you / we / they",
+              "statement": "I/you/we/they **travel** …",
+              "negative": "I/you/we/they **don't travel** …",
+              "question": "**Do** I/you/we/they **travel** …?"
+            },
+            {
+              "person": "he / she / it",
+              "statement": "He/she/it **travels** …",
+              "negative": "He/she/it **doesn't travel** …",
+              "question": "**Does** he/she/it **travel** …?"
+            }
+          ]
+        },
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "Current habits",
+              "example": "Noah **cycles** to college."
+            },
+            {
+              "use": "How often things happen",
+              "example": "Lara **doesn't call** us very often."
+            },
+            {
+              "use": "Permanent situations",
+              "example": "Priya **works** in a design studio."
+            },
+            {
+              "use": "States",
+              "example": "**Do** you **have** a valid visa?"
+            },
+            {
+              "use": "General truths and facts",
+              "example": "Water **boils** at 100°C."
+            }
+          ]
+        },
+        {
+          "type": "watch-out",
+          "text": "We can also use **do/does** in present simple statements for emphasis.",
+          "note": "I **do enjoy** long train journeys. · The shop isn't cheaper, but it **does stay** open later."
+        }
+      ]
+    },
+    {
+      "id": "present-continuous",
+      "title": "Present continuous",
+      "icon": "Sparkles",
+      "blocks": [
+        {
+          "type": "form-table",
+          "rows": [
+            {
+              "person": "I",
+              "statement": "I **am driving** …",
+              "negative": "I **'m not driving** …",
+              "question": "**Am** I **driving** …?"
+            },
+            {
+              "person": "you / we / they",
+              "statement": "You/we/they **are driving** …",
+              "negative": "You/we/they **aren't / 're not driving** …",
+              "question": "**Are** you/we/they **driving** …?"
+            },
+            {
+              "person": "he / she / it",
+              "statement": "He/she/it **is driving** …",
+              "negative": "He/she/it **isn't / 's not driving** …",
+              "question": "**Is** he/she/it **driving** …?"
+            }
+          ]
+        },
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "Actions happening now",
+              "example": "Maya **is walking** to the station at the moment."
+            },
+            {
+              "use": "Temporary series of actions",
+              "example": "Delivery drivers **aren't stopping** on this street because of the roadworks."
+            },
+            {
+              "use": "Temporary situations",
+              "example": "**Are** they **staying** with relatives during the festival?"
+            },
+            {
+              "use": "Changing and developing situations",
+              "example": "Remote work **is becoming** more common."
+            },
+            {
+              "use": "Annoying habits (usually with always)",
+              "example": "Dad **is always taking** my charger when I need it!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "present-perfect-simple",
+      "title": "Present perfect simple",
+      "icon": "CheckCircle2",
+      "blocks": [
+        {
+          "type": "prose",
+          "text": "**have/has** + past participle"
+        },
+        {
+          "type": "form-table",
+          "rows": [
+            {
+              "person": "I / you / we / they",
+              "statement": "I/you/we/they **have flown** …",
+              "negative": "I/you/we/they **haven't flown** …",
+              "question": "**Have** I/you/we/they **flown** …?"
+            },
+            {
+              "person": "he / she / it",
+              "statement": "He/she/it **has flown** …",
+              "negative": "He/she/it **hasn't flown** …",
+              "question": "**Has** he/she/it **flown** …?"
+            }
+          ]
+        },
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "Situations that started in the past and are still true",
+              "example": "She's **had** that scooter for over five years."
+            },
+            {
+              "use": "A series of actions continuing up to now",
+              "example": "We've **travelled** by ferry, coach and tram — all in the last twenty-four hours!"
+            },
+            {
+              "use": "Completed actions at a time in the past which is not mentioned",
+              "example": "**Have** you **ever ridden** in a cable car?"
+            },
+            {
+              "use": "Completed actions where the important thing is the present result",
+              "example": "I've **booked** the train tickets."
+            }
+          ]
+        },
+        {
+          "type": "watch-out",
+          "text": "Phrases such as **it's the first / second / etc. time** … are followed by the present perfect simple.",
+          "note": "It's the second time I've **been** on a ferry."
+        },
+        {
+          "type": "hints",
+          "intro": "US vs UK grammar",
+          "items": [
+            "American English often uses the **past simple** where British English uses the **present perfect simple**: US *I already saw that exhibition.* · UK *I've already seen that exhibition.*",
+            "American English uses **gotten** as the past participle of **get**, except when **get** means 'have' or 'possess'. British English uses **got**: US *We've already gotten him a jacket.* · UK *We've already got him a jacket.*"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "present-perfect-continuous",
+      "title": "Present perfect continuous",
+      "icon": "Table2",
+      "blocks": [
+        {
+          "type": "form-table",
+          "rows": [
+            {
+              "person": "I / you / we / they",
+              "statement": "I/you/we/they **have been travelling** …",
+              "negative": "I/you/we/they **haven't been travelling** …",
+              "question": "**Have** I/you/we/they **been travelling** …?"
+            },
+            {
+              "person": "he / she / it",
+              "statement": "He/she/it **has been travelling** …",
+              "negative": "He/she/it **hasn't been travelling** …",
+              "question": "**Has** he/she/it **been travelling** …?"
+            }
+          ]
+        },
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "Actions continuing up to the present moment",
+              "example": "We **have been driving** for hours. Can't we stop soon?"
+            },
+            {
+              "use": "Actions stopping just before the present moment",
+              "example": "I'm out of breath because I've **been running** to get here on time."
+            }
+          ]
+        },
+        {
+          "type": "watch-out",
+          "text": "The present perfect continuous is often used with {pill:all day} {pill:all week} {pill:for} {pill:since} {pill:just}."
+        },
+        {
+          "type": "watch-out",
+          "text": "The present perfect continuous is **not** normally used with **ever** and **never**.",
+          "note": "Have you **ever flown** in a glider before? (not *Have you ever been flying …*)"
+        },
+        {
+          "type": "hints",
+          "intro": "Sometimes there is little difference in meaning; sometimes there is a difference.",
+          "items": [
+            "I **have worked** at the gallery for four years. = I **have been working** at the gallery for four years.",
+            "I **have read** that guidebook about the islands. (I have finished it.)",
+            "I **have been reading** that guidebook about the islands. (I have not finished it.)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "stative-verbs",
+      "title": "Stative verbs",
+      "icon": "Lightbulb",
+      "blocks": [
+        {
+          "type": "prose",
+          "text": "Stative verbs are not normally used in continuous tenses because they do not describe actions."
+        },
+        {
+          "type": "correct-incorrect",
+          "correct": "I **see** what you mean.",
+          "incorrect": "I **am seeing** what you mean."
+        },
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "Thinking",
+              "example": "**believe, imagine, know, mean, think, understand**"
+            },
+            {
+              "use": "Existence",
+              "example": "**be, exist**"
+            },
+            {
+              "use": "Emotions",
+              "example": "**hate, like, love, need, prefer, satisfy, want**"
+            },
+            {
+              "use": "The human senses",
+              "example": "**hear, see, smell, sound, taste**"
+            },
+            {
+              "use": "Appearance",
+              "example": "**appear, look, resemble, seem**"
+            },
+            {
+              "use": "Possession and relationships",
+              "example": "**belong to, consist of, have, include, involve, own**"
+            }
+          ]
+        },
+        {
+          "type": "watch-out",
+          "text": "Some verbs (such as **be, have, imagine, look, see, smell, taste, think**) are stative with one meaning and non-stative with another.",
+          "note": "**Do you have** your boarding pass with you? (possession) · **Are you having** lunch at the moment? (action: eating)"
+        }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "a",
+      "type": "multiple-choice",
+      "title": "A · Circle the correct phrase",
+      "instruction": "Select the form that fits each sentence.",
+      "items": [
+        {
+          "id": "a1",
+          "prompt": "Nadia usually ___ to bed at around eleven o'clock.",
+          "options": ["goes", "is usually going"],
+          "acceptedAnswers": ["goes"]
+        },
+        {
+          "id": "a2",
+          "prompt": "Tom ___ on the other phone right now.",
+          "options": ["talks", "is talking"],
+          "acceptedAnswers": ["is talking"]
+        },
+        {
+          "id": "a3",
+          "prompt": "We ___ any meat at the moment as we're both on a diet.",
+          "options": ["don't eat", "aren't eating"],
+          "acceptedAnswers": ["aren't eating"]
+        },
+        {
+          "id": "a4",
+          "prompt": "___ increasingly expensive?",
+          "options": ["Does rail travel get", "Is rail travel getting"],
+          "acceptedAnswers": ["Is rail travel getting"]
+        },
+        {
+          "id": "a5",
+          "prompt": "My aunt ___ me every Sunday without fail.",
+          "options": ["calls", "is calling"],
+          "acceptedAnswers": ["calls"]
+        },
+        {
+          "id": "a6",
+          "prompt": "How much ___ for weekend work?",
+          "options": ["do tutors generally earn", "are tutors generally earning"],
+          "acceptedAnswers": ["do tutors generally earn"]
+        },
+        {
+          "id": "a7",
+          "prompt": "___ up with excuses for not finishing your project. It's so annoying!",
+          "options": ["You always come", "You're always coming"],
+          "acceptedAnswers": ["You're always coming"]
+        },
+        {
+          "id": "a8",
+          "prompt": "I ___ out much during the week, but I ___ to meet friends on Saturday night.",
+          "options": ["don't go / always try", "I'm not going / I'm always trying"],
+          "acceptedAnswers": ["don't go / always try"]
+        },
+        {
+          "id": "a9",
+          "prompt": "No, the coach ___ at Bath on Sundays.",
+          "options": ["does stop", "is stopping"],
+          "acceptedAnswers": ["does stop"]
+        },
+        {
+          "id": "a10",
+          "prompt": "My sister ___ part in climbing competitions almost every weekend.",
+          "options": ["takes", "is taking"],
+          "acceptedAnswers": ["takes"]
+        }
+      ]
+    },
+    {
+      "id": "b",
+      "type": "rewrite",
+      "title": "B · Rewrite correctly",
+      "instruction": "Rewrite each sentence, correcting the words or phrases in bold.",
+      "items": [
+        {
+          "id": "b1",
+          "prompt": "My dad **is often getting** up late on Sunday mornings.",
+          "acceptedAnswers": [
+            "My dad often gets up late on Sunday mornings.",
+            "My dad often gets up late on Sunday mornings"
+          ]
+        },
+        {
+          "id": "b2",
+          "prompt": "**Are you speaking** any other languages apart from English?",
+          "acceptedAnswers": [
+            "Do you speak any other languages apart from English?",
+            "Do you speak any other languages apart from English"
+          ]
+        },
+        {
+          "id": "b3",
+          "prompt": "I **already buy** all my birthday presents and it's only March!",
+          "acceptedAnswers": [
+            "I've already bought all my birthday presents and it's only March!",
+            "I've already bought all my birthday presents and it's only March",
+            "I have already bought all my birthday presents and it's only March!",
+            "I have already bought all my birthday presents and it's only March"
+          ]
+        },
+        {
+          "id": "b4",
+          "prompt": "It's the first time **I'm ever having** a barbecue at home.",
+          "acceptedAnswers": [
+            "It's the first time I've ever had a barbecue at home.",
+            "It's the first time I've ever had a barbecue at home",
+            "It's the first time I have ever had a barbecue at home.",
+            "It's the first time I have ever had a barbecue at home"
+          ]
+        },
+        {
+          "id": "b5",
+          "prompt": "Actually, I think Darren **does works** quite hard sometimes.",
+          "acceptedAnswers": [
+            "Actually, I think Darren does work quite hard sometimes.",
+            "Actually, I think Darren does work quite hard sometimes"
+          ]
+        },
+        {
+          "id": "b6",
+          "prompt": "Nina **is never eating** Thai food before.",
+          "acceptedAnswers": [
+            "Nina has never eaten Thai food before.",
+            "Nina has never eaten Thai food before",
+            "Nina's never eaten Thai food before.",
+            "Nina's never eaten Thai food before"
+          ]
+        },
+        {
+          "id": "b7",
+          "prompt": "Leo **already books** a table for tonight.",
+          "acceptedAnswers": [
+            "Leo has already booked a table for tonight.",
+            "Leo has already booked a table for tonight",
+            "Leo's already booked a table for tonight.",
+            "Leo's already booked a table for tonight"
+          ]
+        },
+        {
+          "id": "b8",
+          "prompt": "**Needs Melanie** any help painting her new flat?",
+          "acceptedAnswers": [
+            "Does Melanie need any help painting her new flat?",
+            "Does Melanie need any help painting her new flat"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c",
+      "type": "gap-fill",
+      "title": "C · Complete the sentences",
+      "instruction": "Write the correct form of the verb in brackets.",
+      "items": [
+        {
+          "id": "c1",
+          "prompt": "It's the first time ___ octopus! (I / ever / eat)",
+          "acceptedAnswers": ["I've ever eaten", "I have ever eaten"]
+        },
+        {
+          "id": "c2",
+          "prompt": "Sandy ___ her brother since he went to university. (not / see)",
+          "acceptedAnswers": ["hasn't seen", "has not seen"]
+        },
+        {
+          "id": "c3",
+          "prompt": "They ___ on holiday to Portugal and won't be back until the end of the month. (go)",
+          "acceptedAnswers": ["are going", "have gone"]
+        },
+        {
+          "id": "c4",
+          "prompt": "Poor Dana! She ___ that report for hours now and she still hasn't finished! (write)",
+          "acceptedAnswers": ["has been writing", "'s been writing"]
+        },
+        {
+          "id": "c5",
+          "prompt": "___ anyone famous? (you / ever / meet)",
+          "acceptedAnswers": ["Have you ever met"]
+        },
+        {
+          "id": "c6",
+          "prompt": "I ___ to get in touch with Rosa all morning but I can't find her anywhere. (try)",
+          "acceptedAnswers": ["I've been trying", "I have been trying", "'ve been trying"]
+        },
+        {
+          "id": "c7",
+          "prompt": "___ the book yet so I can't tell you what happens. (I / not finish)",
+          "acceptedAnswers": ["I haven't finished", "I have not finished"]
+        },
+        {
+          "id": "c8",
+          "prompt": "___ where you're going this summer? (you / already / decide)",
+          "acceptedAnswers": ["Have you already decided", "Have you decided already"]
+        },
+        {
+          "id": "c9",
+          "prompt": "We ___ here for the last six years. (live)",
+          "acceptedAnswers": ["have lived", "'ve lived", "have been living", "'ve been living"]
+        },
+        {
+          "id": "c10",
+          "prompt": "___ such nonsense! (I / never / hear)",
+          "acceptedAnswers": ["I've never heard", "I have never heard"]
+        }
+      ]
+    },
+    {
+      "id": "d",
+      "type": "gap-fill",
+      "title": "D · Time words",
+      "instruction": "Complete using the words in the box. Use each word once.",
+      "wordBank": ["already", "before", "ever", "for", "just", "rarely", "since", "so", "still", "yet"],
+      "items": [
+        {
+          "id": "d1",
+          "prompt": "Have you ___ dreamt of winning the lottery?",
+          "acceptedAnswers": ["ever"]
+        },
+        {
+          "id": "d2",
+          "prompt": "I haven't worked out how to set the timer on the video ___.",
+          "acceptedAnswers": ["yet"]
+        },
+        {
+          "id": "d3",
+          "prompt": "My dad's lived in the same house ___ he was born.",
+          "acceptedAnswers": ["since"]
+        },
+        {
+          "id": "d4",
+          "prompt": "The film's only been on ___ a couple of minutes.",
+          "acceptedAnswers": ["for"]
+        },
+        {
+          "id": "d5",
+          "prompt": "Bruce has knocked three men out of the competition ___ far.",
+          "acceptedAnswers": ["so"]
+        },
+        {
+          "id": "d6",
+          "prompt": "I ___ get the chance to play any exercise — I'm just too busy.",
+          "acceptedAnswers": ["rarely"]
+        },
+        {
+          "id": "d7",
+          "prompt": "He's only ___ got home.",
+          "acceptedAnswers": ["just"]
+        },
+        {
+          "id": "d8",
+          "prompt": "It's eleven o'clock and Todd ___ hasn't come home. Where could he be?",
+          "acceptedAnswers": ["still"]
+        },
+        {
+          "id": "d9",
+          "prompt": "I've never met Ruth ___. What's she like?",
+          "acceptedAnswers": ["before"]
+        },
+        {
+          "id": "d10",
+          "prompt": "Have you finished ___? That was quick!",
+          "acceptedAnswers": ["already"]
+        }
+      ]
+    },
+    {
+      "id": "e",
+      "type": "multiple-choice",
+      "title": "E · Choose the correct answer",
+      "instruction": "Select the form that completes each sentence.",
+      "items": [
+        {
+          "id": "e1",
+          "prompt": "Ian ___ a shower at the moment, so could you call back in about half an hour?",
+          "options": ["takes", "is taking", "has taken", "has been taking"],
+          "acceptedAnswers": ["is taking"]
+        },
+        {
+          "id": "e2",
+          "prompt": "___ to Bristol before?",
+          "options": ["Do you ever go", "Are you ever going", "Have you ever been", "Have you ever been going"],
+          "acceptedAnswers": ["Have you ever been"]
+        },
+        {
+          "id": "e3",
+          "prompt": "I ___ to all the local newspapers and TV stations to complain.",
+          "options": ["already write", "already writing", "have already written", "have already been writing"],
+          "acceptedAnswers": ["have already written"]
+        },
+        {
+          "id": "e4",
+          "prompt": "___ TV for the last four hours? Turn it off and get some exercise!",
+          "options": ["Do you watch", "Are you watching", "Watched you", "Have you been watching"],
+          "acceptedAnswers": ["Have you been watching"]
+        },
+        {
+          "id": "e5",
+          "prompt": "Eric, ___ hockey competitively or just for fun?",
+          "options": ["do you usually play", "are you usually playing", "have you usually played", "have you usually been playing"],
+          "acceptedAnswers": ["do you usually play"]
+        },
+        {
+          "id": "e6",
+          "prompt": "That's the first time ___ an answer right today!",
+          "options": ["I get", "I am getting", "I have got", "I have been getting"],
+          "acceptedAnswers": ["I have got"]
+        },
+        {
+          "id": "e7",
+          "prompt": "Jessica has ___ left, I'm afraid.",
+          "options": ["already", "yet", "still", "so far"],
+          "acceptedAnswers": ["already"]
+        },
+        {
+          "id": "e8",
+          "prompt": "Dan ___ in the living room while we redecorate his bedroom.",
+          "options": ["sleeps", "is sleeping", "has slept", "does sleep"],
+          "acceptedAnswers": ["is sleeping"]
+        },
+        {
+          "id": "e9",
+          "prompt": "Unfortunately, Simone ___ a day off very often.",
+          "options": ["doesn't get", "isn't getting", "hasn't got", "hasn't been getting"],
+          "acceptedAnswers": ["doesn't get"]
+        },
+        {
+          "id": "e10",
+          "prompt": "Actually, I ___ a cup of tea first thing every morning but then I switch to coffee.",
+          "options": ["do drink", "am drinking", "have drunk", "have been drinking"],
+          "acceptedAnswers": ["do drink"]
+        }
+      ]
+    },
+    {
+      "id": "f",
+      "type": "gap-fill",
+      "title": "F · Ancient aviators?",
+      "instruction": "Complete using the correct form of the words in the box.",
+      "wordBank": ["be", "disagree", "do", "include", "know", "look", "see", "seem", "understand"],
+      "items": [
+        {
+          "id": "f1",
+          "prompt": "Everyone ___ that humans have been flying for only a few hundred years.",
+          "acceptedAnswers": ["knows"]
+        },
+        {
+          "id": "f2",
+          "prompt": "But ___ it possible that ancient civilisations also had the ability and technology to fly?",
+          "acceptedAnswers": ["is"]
+        },
+        {
+          "id": "f3",
+          "prompt": "On the ground, they just ___ like straight lines.",
+          "acceptedAnswers": ["look"]
+        },
+        {
+          "id": "f4",
+          "prompt": "But when you ___ them from the air, you see exactly what they are.",
+          "acceptedAnswers": ["see"]
+        },
+        {
+          "id": "f5",
+          "prompt": "From the air, you ___ exactly what they are. They are incredible and enormous pictures.",
+          "acceptedAnswers": ["see"]
+        },
+        {
+          "id": "f6",
+          "prompt": "The pictures ___ animals, birds and symbols.",
+          "acceptedAnswers": ["include"]
+        },
+        {
+          "id": "f7",
+          "prompt": "One bizarre theory, which most mainstream scientists ___ with, is that the people who made the lines flew above them in balloons.",
+          "acceptedAnswers": ["disagree"]
+        },
+        {
+          "id": "f8",
+          "prompt": "It ___ incredible, but a few people do believe it's possible.",
+          "acceptedAnswers": ["seems"]
+        },
+        {
+          "id": "f9",
+          "prompt": "It seems incredible, but a few people ___ believe it's possible.",
+          "acceptedAnswers": ["do"]
+        }
+      ]
+    },
+    {
+      "id": "g",
+      "type": "multiple-choice",
+      "title": "G · Match to make sentences",
+      "instruction": "Choose the ending that completes each sentence.",
+      "items": [
+        {
+          "id": "g1",
+          "prompt": "I think",
+          "options": [
+            "darker hair than her sister.",
+            "I'm going to buy the new Racetrack CD.",
+            "a haircut at the moment.",
+            "for his glasses. Have you seen them?",
+            "not old enough to drive a car.",
+            "of getting Dad a CD for his birthday.",
+            "very annoying at the moment!",
+            "like he needs a holiday!"
+          ],
+          "acceptedAnswers": ["I'm going to buy the new Racetrack CD."]
+        },
+        {
+          "id": "g2",
+          "prompt": "I'm thinking",
+          "options": [
+            "darker hair than her sister.",
+            "I'm going to buy the new Racetrack CD.",
+            "a haircut at the moment.",
+            "for his glasses. Have you seen them?",
+            "not old enough to drive a car.",
+            "of getting Dad a CD for his birthday.",
+            "very annoying at the moment!",
+            "like he needs a holiday!"
+          ],
+          "acceptedAnswers": ["of getting Dad a CD for his birthday."]
+        },
+        {
+          "id": "g3",
+          "prompt": "Phil's looking",
+          "options": [
+            "darker hair than her sister.",
+            "I'm going to buy the new Racetrack CD.",
+            "a haircut at the moment.",
+            "for his glasses. Have you seen them?",
+            "not old enough to drive a car.",
+            "of getting Dad a CD for his birthday.",
+            "very annoying at the moment!",
+            "like he needs a holiday!"
+          ],
+          "acceptedAnswers": ["for his glasses. Have you seen them?"]
+        },
+        {
+          "id": "g4",
+          "prompt": "Phil looks",
+          "options": [
+            "darker hair than her sister.",
+            "I'm going to buy the new Racetrack CD.",
+            "a haircut at the moment.",
+            "for his glasses. Have you seen them?",
+            "not old enough to drive a car.",
+            "of getting Dad a CD for his birthday.",
+            "very annoying at the moment!",
+            "like he needs a holiday!"
+          ],
+          "acceptedAnswers": ["like he needs a holiday!"]
+        },
+        {
+          "id": "g5",
+          "prompt": "Claire has",
+          "options": [
+            "darker hair than her sister.",
+            "I'm going to buy the new Racetrack CD.",
+            "a haircut at the moment.",
+            "for his glasses. Have you seen them?",
+            "not old enough to drive a car.",
+            "of getting Dad a CD for his birthday.",
+            "very annoying at the moment!",
+            "like he needs a holiday!"
+          ],
+          "acceptedAnswers": ["darker hair than her sister."]
+        },
+        {
+          "id": "g6",
+          "prompt": "Claire is having",
+          "options": [
+            "darker hair than her sister.",
+            "I'm going to buy the new Racetrack CD.",
+            "a haircut at the moment.",
+            "for his glasses. Have you seen them?",
+            "not old enough to drive a car.",
+            "of getting Dad a CD for his birthday.",
+            "very annoying at the moment!",
+            "like he needs a holiday!"
+          ],
+          "acceptedAnswers": ["a haircut at the moment."]
+        },
+        {
+          "id": "g7",
+          "prompt": "Andy is",
+          "options": [
+            "darker hair than her sister.",
+            "I'm going to buy the new Racetrack CD.",
+            "a haircut at the moment.",
+            "for his glasses. Have you seen them?",
+            "not old enough to drive a car.",
+            "of getting Dad a CD for his birthday.",
+            "very annoying at the moment!",
+            "like he needs a holiday!"
+          ],
+          "acceptedAnswers": ["not old enough to drive a car."]
+        },
+        {
+          "id": "g8",
+          "prompt": "Andy is being",
+          "options": [
+            "darker hair than her sister.",
+            "I'm going to buy the new Racetrack CD.",
+            "a haircut at the moment.",
+            "for his glasses. Have you seen them?",
+            "not old enough to drive a car.",
+            "of getting Dad a CD for his birthday.",
+            "very annoying at the moment!",
+            "like he needs a holiday!"
+          ],
+          "acceptedAnswers": ["very annoying at the moment!"]
+        }
+      ]
+    },
+    {
+      "id": "h",
+      "type": "rewrite",
+      "title": "H · Extra word",
+      "instruction": "Write the extra word in each line.",
+      "items": [
+        {
+          "id": "h1",
+          "prompt": "I've **been to travelling** round Europe all summer. It's the first time I've",
+          "acceptedAnswers": ["to"]
+        },
+        {
+          "id": "h2",
+          "prompt": "ever **been going** abroad, and I've had a fantastic time! I've seen",
+          "acceptedAnswers": ["going"]
+        },
+        {
+          "id": "h3",
+          "prompt": "**loads of interesting** places and I have to also made loads of new friends.",
+          "acceptedAnswers": ["to"]
+        },
+        {
+          "id": "h4",
+          "prompt": "I've **been decided** to stay in touch with them now I'm back. One of",
+          "acceptedAnswers": ["been"]
+        },
+        {
+          "id": "h5",
+          "prompt": "them, Giselle, is French. She was **making** on holiday too. We now send",
+          "acceptedAnswers": ["making"]
+        },
+        {
+          "id": "h6",
+          "prompt": "text messages **are to each** other all the time. They're usually in English",
+          "acceptedAnswers": ["are"]
+        },
+        {
+          "id": "h7",
+          "prompt": "because my French **isn't very good**! I'm planning to have visit her in",
+          "acceptedAnswers": ["have"]
+        },
+        {
+          "id": "h8",
+          "prompt": "France next year sometime. I hope I can. I **am love** meeting people from",
+          "acceptedAnswers": ["am"]
+        },
+        {
+          "id": "h9",
+          "prompt": "other countries! I want **to have had** lots of friends from all over the world!",
+          "acceptedAnswers": ["had"]
+        },
+        {
+          "id": "h10",
+          "prompt": "Travelling certainly **broadens the mind** but it also is broadens your circle of friends!",
+          "acceptedAnswers": ["is"]
+        }
+      ]
+    },
+    {
+      "id": "i",
+      "type": "gap-fill",
+      "title": "I · Holiday blues",
+      "instruction": "Write one word in each gap.",
+      "items": [
+        {
+          "id": "i1",
+          "prompt": "'You've ___ looking at that timetable for the last ten minutes. It can't be that confusing!' said Sheila angrily.",
+          "acceptedAnswers": ["been"]
+        },
+        {
+          "id": "i2",
+          "prompt": "'I ___ wish you'd be quiet!' replied Matt.",
+          "acceptedAnswers": ["do"]
+        },
+        {
+          "id": "i3",
+          "prompt": "'I've ___ a splitting headache thanks to you!'",
+          "acceptedAnswers": ["got"]
+        },
+        {
+          "id": "i4",
+          "prompt": "'Mum! Dad! Please!' said Alison. 'You're both ___ very silly.'",
+          "acceptedAnswers": ["being"]
+        },
+        {
+          "id": "i5",
+          "prompt": "'___ is no point at all in blaming each other.'",
+          "acceptedAnswers": ["There"]
+        },
+        {
+          "id": "i6",
+          "prompt": "'You ___ quite right, darling,' said Sheila.",
+          "acceptedAnswers": ["are", "'re"]
+        },
+        {
+          "id": "i7",
+          "prompt": "'I ___ sorry,' said Sheila.",
+          "acceptedAnswers": ["am", "'m"]
+        },
+        {
+          "id": "i8",
+          "prompt": "'Well, it ___ like we've definitely missed the last train today.'",
+          "acceptedAnswers": ["looks"]
+        },
+        {
+          "id": "i9",
+          "prompt": "'It looks like we ___ definitely missed the last train today.'",
+          "acceptedAnswers": ["have", "'ve"]
+        },
+        {
+          "id": "i10",
+          "prompt": "'I ___ so,' said Sheila. 'I mean, it did leave at 18.20.'",
+          "acceptedAnswers": ["think", "guess", "suppose"]
+        },
+        {
+          "id": "i11",
+          "prompt": "'Well, one thing is ___ in doubt,' said Matt.",
+          "acceptedAnswers": ["not"]
+        },
+        {
+          "id": "i12",
+          "prompt": "'This is the worst holiday we've ___ been on,' said Matt.",
+          "acceptedAnswers": ["ever"]
+        }
+      ]
+    },
+    {
+      "id": "j",
+      "type": "rewrite",
+      "title": "J · Similar meaning",
+      "instruction": "Complete each second sentence using the word given, so that it has a similar meaning to the first. Write between two and five words in each gap.",
+      "items": [
+        {
+          "id": "j1",
+          "prompt": "What's the price of the tickets, Jimmy? **much**\nHow ___ , Jimmy?",
+          "acceptedAnswers": ["much do the tickets cost", "much are the tickets"]
+        },
+        {
+          "id": "j2",
+          "prompt": "Are these your trainers? **to**\nDo ___ you?",
+          "acceptedAnswers": ["these trainers belong to", "these belong to"]
+        },
+        {
+          "id": "j3",
+          "prompt": "Sasha's not keen on team sports at all. **like**\nSasha ___ team sports at all.",
+          "acceptedAnswers": ["doesn't like", "does not like"]
+        },
+        {
+          "id": "j4",
+          "prompt": "It's only her second time in a recording studio. **been**\nShe ___ in a recording studio once before.",
+          "acceptedAnswers": ["has only been", "'s only been", "has been"]
+        },
+        {
+          "id": "j5",
+          "prompt": "We got here three hours ago. **have**\nWe ___ three hours.",
+          "acceptedAnswers": ["have been here for", "'ve been here for"]
+        },
+        {
+          "id": "j6",
+          "prompt": "I started writing this hours ago and it's still not right. **writing**\nI ___ hours and it's still not right.",
+          "acceptedAnswers": ["have been writing this for", "'ve been writing this for", "have been writing for"]
+        },
+        {
+          "id": "j7",
+          "prompt": "This is my first experience of flying alone. **time**\nIt is the first ___ alone.",
+          "acceptedAnswers": ["time I have flown", "time I've flown"]
+        },
+        {
+          "id": "j8",
+          "prompt": "Sharon's in the bath at the moment. **a**\nSharon ___ at the moment.",
+          "acceptedAnswers": ["is having a bath", "'s having a bath"]
+        },
+        {
+          "id": "j9",
+          "prompt": "Paul enjoys surprises apart from on his birthday. **does**\nPaul ___ surprises, just not on his birthday!",
+          "acceptedAnswers": ["does enjoy", "does like"]
+        }
+      ]
+    }
+  ]
+}

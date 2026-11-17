@@ -1,0 +1,904 @@
+{
+  "id": "unit-11-comparatives",
+  "level": "b2",
+  "unitNumber": 11,
+  "title": "Comparatives and superlatives",
+  "subtitle": "Comparative and superlative adjectives and adverbs; so, such, enough, too",
+  "theory": [
+    {
+      "id": "adjectives",
+      "title": "Comparative and superlative adjectives",
+      "icon": "Table2",
+      "blocks": [
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "regular adjectives with one syllable · black",
+              "example": "comparative: **blacker** · superlative: **blackest**"
+            },
+            {
+              "use": "regular adjectives with one syllable (ending in vowel + consonant) · thin",
+              "example": "double final letter + **-er**: **thinner** · double final letter + **-est**: **thinnest**"
+            },
+            {
+              "use": "regular adjectives with two syllables (ending in -y) · funny",
+              "example": "replace **-y** with **-ier**: **funnier** · replace **-y** with **-iest**: **funniest**"
+            },
+            {
+              "use": "regular adjectives with two or more syllables · intelligent",
+              "example": "**more / less** + adj: **more intelligent** · **most / least** + adj: **most intelligent**"
+            },
+            {
+              "use": "irregular adjectives / quantifiers",
+              "example": "good → **better / best** · bad → **worse / worst** · far → **farther/further / farthest/furthest** · little → **less / least** · much/many → **more / most**"
+            },
+            {
+              "use": "Comparative · to compare things or people that are different",
+              "example": "The crime rate in this area is **higher** than in other parts of the country."
+            },
+            {
+              "use": "Superlative · to compare one member of a group with the whole group",
+              "example": "The robbery was **the biggest** in the bank's history."
+            }
+          ]
+        },
+        {
+          "type": "watch-out",
+          "text": "Regular adjectives with two syllables can often also form the comparative and superlative like adjectives with one syllable.",
+          "note": "**clever, cleverer, cleverest**"
+        },
+        {
+          "type": "hints",
+          "items": [
+            "Adjectives with one syllable that end in **-e** add **-r** and **-st**: **white, whiter, whitest**",
+            "Remember that comparative forms are often followed by **than**: Crime is a much **bigger** problem in this country **than** in many other countries.",
+            "Remember that superlative forms are often preceded by **the**: Our local police force is **the best** in the country."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "adverbs",
+      "title": "Comparative and superlative adverbs",
+      "icon": "Sparkles",
+      "blocks": [
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "regular adverbs · easily",
+              "example": "comparative: **more / less + adv** · **more easily** · superlative: **most / least + adv** · **most easily**"
+            },
+            {
+              "use": "irregular adverbs",
+              "example": "badly → **worse / worst** · early → **earlier / earliest** · far → **farther/further / farthest/furthest** · fast → **faster / fastest** · hard → **harder / hardest** · late → **later / latest** · often → **more often / most often** · near → **nearer / nearest** · soon → **sooner / soonest** · well → **better / best**"
+            },
+            {
+              "use": "Comparative adverbs",
+              "example": "Lock your door **more carefully** next time and maybe you won't get burgled!"
+            },
+            {
+              "use": "Superlative adverbs",
+              "example": "Only the criminal who ran **fastest** managed to escape from the police."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "so",
+      "title": "so",
+      "icon": "BookOpen",
+      "blocks": [
+        {
+          "type": "prose",
+          "text": "Form: **so** + adjective + **that** · **so** + adverb + **that** · **so** + many/much + noun + **that**"
+        },
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "To show the results of a situation or action",
+              "example": "The burglar was **so clever that** no one could catch him. · Jane took the money **so quickly that** no one saw her. · There was **so much money that** the robber couldn't carry it all."
+            }
+          ]
+        },
+        {
+          "type": "watch-out",
+          "text": "The word **that** is not usually necessary to introduce the second clause.",
+          "note": "The crime rate is **so high** people are very frightened."
+        },
+        {
+          "type": "watch-out",
+          "text": "The word **so** has a number of other uses. Try not to get confused between them.",
+          "note": "The crime rate is so high **that** people are very frightened. · I saw that burglar leaving the house, **so** I called the police."
+        }
+      ]
+    },
+    {
+      "id": "such",
+      "title": "such",
+      "icon": "Lightbulb",
+      "blocks": [
+        {
+          "type": "prose",
+          "text": "Form: **such** + a/an + adjective + singular noun + **that** · **such** + adjective + plural noun + **that** · **such** + a lot of + noun + **that**"
+        },
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "To show the results of a situation or action",
+              "example": "It was **such a terrible crime that** the man was sent to prison for life. · The security guard had **such good hearing that** he heard the door open immediately. · There is **such a lot of crime here that** the police can't cope."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "enough",
+      "title": "enough",
+      "icon": "CheckCircle2",
+      "blocks": [
+        {
+          "type": "prose",
+          "text": "Form: **enough** + noun (+ **for** and/or + full infinitive) · adjective + **enough** (+ **for** and/or + full infinitive) · adverb + **enough** (+ **for** and/or + full infinitive)"
+        },
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "To show the results of a situation or action where there is/isn't the right amount/number of something",
+              "example": "There aren't **enough** police officers on the streets to keep us safe. · It wasn't dark **enough** for the burglar to start working. · Did the police respond quickly **enough** to help?"
+            }
+          ]
+        },
+        {
+          "type": "correct-incorrect",
+          "correct": "It's **quite / fairly dangerous** around here so don't go out alone.",
+          "incorrect": "It's **enough dangerous** around here so don't go out alone."
+        }
+      ]
+    },
+    {
+      "id": "too",
+      "title": "too",
+      "icon": "AlertTriangle",
+      "blocks": [
+        {
+          "type": "prose",
+          "text": "Form: **too** + adjective (+ **for** and/or + full infinitive) · **too** + adverb (+ **for** and/or + full infinitive) · **too** + many/much + noun (+ **for** and/or + full infinitive)"
+        },
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "To describe something that is more than necessary and which has a negative effect",
+              "example": "The young man was **too young** to go to prison. · We arrived **too late** for the start of the trial. · We send **too many** innocent people to prison."
+            }
+          ]
+        },
+        {
+          "type": "correct-incorrect",
+          "correct": "You were **very / really / extremely lucky** not to get caught.",
+          "incorrect": "You were **too lucky** not to get caught."
+        },
+        {
+          "type": "watch-out",
+          "text": "We do not use **too** when we want to describe something we consider to be positive. Instead, we use **very, really** or **extremely**."
+        }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "a",
+      "type": "gap-fill",
+      "title": "A · Comparatives",
+      "instruction": "Complete using the comparative forms of the words in capitals.",
+      "items": [
+        {
+          "id": "a1",
+          "prompt": "Your brother is much ___ (TALL) than mine.",
+          "acceptedAnswers": ["taller"]
+        },
+        {
+          "id": "a2",
+          "prompt": "This island used to be much ___ (GREEN) before the forest fires.",
+          "acceptedAnswers": ["greener"]
+        },
+        {
+          "id": "a3",
+          "prompt": "Slow down! You're ___ (FIT) than me and I can't keep up!",
+          "acceptedAnswers": ["fitter"]
+        },
+        {
+          "id": "a4",
+          "prompt": "Veronica seems ___ (HAPPY) since she moved schools.",
+          "acceptedAnswers": ["happier"]
+        },
+        {
+          "id": "a5",
+          "prompt": "It's actually ___ (TRENDY) to wear your hair up this year.",
+          "acceptedAnswers": ["trendier", "more trendy"]
+        },
+        {
+          "id": "a6",
+          "prompt": "As the time for the performance got nearer, I got ___ (NERVOUS).",
+          "acceptedAnswers": ["more nervous"]
+        },
+        {
+          "id": "a7",
+          "prompt": "Old people are often ___ (WISE) than young people.",
+          "acceptedAnswers": ["wiser"]
+        },
+        {
+          "id": "a8",
+          "prompt": "Why don't you try and find a ___ (CHEAP) computer game and save some money?",
+          "acceptedAnswers": ["cheaper"]
+        },
+        {
+          "id": "a9",
+          "prompt": "Matt seems to have got even ___ (LAZY) than he used to be and almost never studies.",
+          "acceptedAnswers": ["lazier"]
+        },
+        {
+          "id": "a10",
+          "prompt": "If the problem gets any ___ (SERIOUS), we may need to inform the manager about it.",
+          "acceptedAnswers": ["more serious"]
+        },
+        {
+          "id": "a11",
+          "prompt": "If you work ___ (QUICKLY), you'll finish sooner and then you can go home earlier.",
+          "acceptedAnswers": ["more quickly"]
+        },
+        {
+          "id": "a12",
+          "prompt": "Ben says he's feeling much ___ (WELL) after his illness.",
+          "acceptedAnswers": ["better"]
+        },
+        {
+          "id": "a13",
+          "prompt": "I have even ___ (LITTLE) free time this year than I did last year.",
+          "acceptedAnswers": ["less"]
+        },
+        {
+          "id": "a14",
+          "prompt": "The news was much ___ (BAD) than anyone had feared.",
+          "acceptedAnswers": ["worse"]
+        },
+        {
+          "id": "a15",
+          "prompt": "You'll need to be able to run ___ (FAR) than this if you're going to do the marathon.",
+          "acceptedAnswers": ["farther", "further"]
+        }
+      ]
+    },
+    {
+      "id": "b",
+      "type": "gap-fill",
+      "title": "B · Superlatives",
+      "instruction": "Complete using the superlative forms of the words in capitals.",
+      "items": [
+        {
+          "id": "b1",
+          "prompt": "I think Mohammed Ali was the ___ (GREAT) boxer that ever lived.",
+          "acceptedAnswers": ["greatest"]
+        },
+        {
+          "id": "b2",
+          "prompt": "It was the ___ (BORING) film I had ever seen.",
+          "acceptedAnswers": ["most boring"]
+        },
+        {
+          "id": "b3",
+          "prompt": "Our teacher told us that the student with the ___ (HIGH) mark would get a prize.",
+          "acceptedAnswers": ["highest"]
+        },
+        {
+          "id": "b4",
+          "prompt": "Ginger is one of the ___ (LUCKY) cats alive — he's been hit by a car three times and has never been hurt!",
+          "acceptedAnswers": ["luckiest"]
+        },
+        {
+          "id": "b5",
+          "prompt": "Out of all the students in my music school, I practise ___ (OFTEN).",
+          "acceptedAnswers": ["most often", "the most often"]
+        },
+        {
+          "id": "b6",
+          "prompt": "The Pacific is the ___ (DEEP) ocean in the world.",
+          "acceptedAnswers": ["deepest"]
+        },
+        {
+          "id": "b7",
+          "prompt": "That's the ___ (UGLY) fish I've ever seen!",
+          "acceptedAnswers": ["ugliest"]
+        },
+        {
+          "id": "b8",
+          "prompt": "I was ill before the exam and I did ___ (BADLY) out of the whole class.",
+          "acceptedAnswers": ["worst", "the worst"]
+        },
+        {
+          "id": "b9",
+          "prompt": "The ___ (FAR) I've run in one day is about ten kilometres.",
+          "acceptedAnswers": ["farthest", "furthest"]
+        },
+        {
+          "id": "b10",
+          "prompt": "Don't you think this would be the ___ (LOVELY) spot for a picnic?",
+          "acceptedAnswers": ["loveliest", "most lovely"]
+        },
+        {
+          "id": "b11",
+          "prompt": "But that's the ___ (CRAZY) idea I've ever heard!",
+          "acceptedAnswers": ["craziest", "most crazy"]
+        },
+        {
+          "id": "b12",
+          "prompt": "I asked the assistant to show me the ___ (MODERN) phone they had.",
+          "acceptedAnswers": ["most modern"]
+        },
+        {
+          "id": "b13",
+          "prompt": "I told the manager that it was the ___ (BAD) hotel I had ever stayed in.",
+          "acceptedAnswers": ["worst"]
+        },
+        {
+          "id": "b14",
+          "prompt": "Who do you think is the ___ (LITTLE) talented actor to win an Oscar?",
+          "acceptedAnswers": ["least"]
+        },
+        {
+          "id": "b15",
+          "prompt": "Out of all the members of the choir, Jason sang ___ (WELL).",
+          "acceptedAnswers": ["best", "the best"]
+        }
+      ]
+    },
+    {
+      "id": "c",
+      "type": "multiple-choice",
+      "title": "C · Film review",
+      "instruction": "Circle the correct word in the film review.",
+      "items": [
+        {
+          "id": "c1",
+          "prompt": "Crime Does Pay, the (1) ___ comedy from director Sam Martin, has to be one of the",
+          "options": ["later", "latest"],
+          "acceptedAnswers": ["latest"]
+        },
+        {
+          "id": "c2",
+          "prompt": "little / least interesting films I have ever seen. The acting is terrible and the story is much",
+          "options": ["little", "least"],
+          "acceptedAnswers": ["least"]
+        },
+        {
+          "id": "c3",
+          "prompt": "(3) ___ than Martin's other flop, Escape.",
+          "options": ["worse", "worst"],
+          "acceptedAnswers": ["worse"]
+        },
+        {
+          "id": "c4",
+          "prompt": "Crime Does Pay was apparently (4) ___ expensive than any other film this year, but it's hard to see where the money went.",
+          "options": ["more", "most"],
+          "acceptedAnswers": ["more"]
+        },
+        {
+          "id": "c5",
+          "prompt": "The plot concerns a gang of burglars who decide to steal the (5) ___ valuable painting in the world.",
+          "options": ["more", "most"],
+          "acceptedAnswers": ["most"]
+        },
+        {
+          "id": "c6",
+          "prompt": "Fine, except these criminals are far (6) ___ amusing than they should be.",
+          "options": ["less", "least"],
+          "acceptedAnswers": ["less"]
+        },
+        {
+          "id": "c7",
+          "prompt": "There isn't a single real laugh in the whole movie. When I saw it, even (7) ___ members of the audience thought it was stupidly childish.",
+          "options": ["younger", "youngest"],
+          "acceptedAnswers": ["youngest"]
+        },
+        {
+          "id": "c8",
+          "prompt": "Dean Richards, playing Scarnose, does a slightly (8) ___ job than the others, but there isn't much in it.",
+          "options": ["better", "best"],
+          "acceptedAnswers": ["better"]
+        },
+        {
+          "id": "c9",
+          "prompt": "When will Hollywood realise that as ticket prices get (9) ___, more people are finding that the",
+          "options": ["higher", "highest"],
+          "acceptedAnswers": ["higher"]
+        },
+        {
+          "id": "c10",
+          "prompt": "(10) ___ form of entertainment is to spend an evening at home with a DVD?",
+          "options": ["well", "best"],
+          "acceptedAnswers": ["best"]
+        }
+      ]
+    },
+    {
+      "id": "d",
+      "type": "rewrite",
+      "title": "D · Similar meaning",
+      "instruction": "Complete each second sentence using the word given, so that it has a similar meaning to the first. Write between two and five words.",
+      "items": [
+        {
+          "id": "d1",
+          "prompt": "I have never read a better book than this one. **ever**\nThis is ___ read.",
+          "acceptedAnswers": ["the best book I have ever", "the best book I've ever"]
+        },
+        {
+          "id": "d2",
+          "prompt": "Nobody has ever been this far into the jungle. **the**\nThis is ___ has ever been into the jungle.",
+          "acceptedAnswers": ["the farthest anyone", "the furthest anyone"]
+        },
+        {
+          "id": "d3",
+          "prompt": "I have never worked so hard in my whole life. **ever**\nIt was the ___ in my whole life.",
+          "acceptedAnswers": ["hardest I have ever worked", "hardest I've ever worked"]
+        },
+        {
+          "id": "d4",
+          "prompt": "Liam is the tallest boy in the class. **than**\nEvery other boy in the class ___ Liam.",
+          "acceptedAnswers": ["is shorter than", "is less tall than"]
+        },
+        {
+          "id": "d5",
+          "prompt": "This is the nicest beach along this part of the coast. **than**\nThis ___ the others along this part of the coast.",
+          "acceptedAnswers": ["is nicer than", "beach is nicer than"]
+        },
+        {
+          "id": "d6",
+          "prompt": "I read that Mount Everest is the highest mountain. **no**\nI read that ___ Mount Everest.",
+          "acceptedAnswers": ["no mountain is higher than", "no mountain is as high as"]
+        },
+        {
+          "id": "d7",
+          "prompt": "Has anyone ever been this far north before? **the**\nIs ___ has ever been?",
+          "acceptedAnswers": ["this the farthest anyone", "this the furthest anyone"]
+        },
+        {
+          "id": "d8",
+          "prompt": "The painting Ed did is the ugliest one you can imagine. **than**\nYou can't imagine ___ the one Ed did.",
+          "acceptedAnswers": ["an uglier painting than", "anything uglier than"]
+        },
+        {
+          "id": "d9",
+          "prompt": "This stamp is rarer than any other in my collection. **more**\nThe other stamps in my collection ___ this one.",
+          "acceptedAnswers": ["are more common than"]
+        },
+        {
+          "id": "d10",
+          "prompt": "Nobody in the class runs as fast as Pedro. **runner**\nPedro ___ in the class.",
+          "acceptedAnswers": ["is the fastest runner", "is the best runner"]
+        }
+      ]
+    },
+    {
+      "id": "e",
+      "type": "rewrite",
+      "title": "E · so … that",
+      "instruction": "Rewrite each sentence using so … that.",
+      "items": [
+        {
+          "id": "e1",
+          "prompt": "John can see over the wall because he is tall.",
+          "acceptedAnswers": [
+            "John is so tall that he can see over the wall.",
+            "John is so tall he can see over the wall.",
+            "John is so tall that he can see over the wall",
+            "John is so tall he can see over the wall"
+          ]
+        },
+        {
+          "id": "e2",
+          "prompt": "I'm sure my sister will go to university because she is clever.",
+          "acceptedAnswers": [
+            "My sister is so clever that I'm sure she will go to university.",
+            "My sister is so clever I'm sure she will go to university.",
+            "I'm sure my sister is so clever that she will go to university."
+          ]
+        },
+        {
+          "id": "e3",
+          "prompt": "I can't stop playing this computer game because it's good.",
+          "acceptedAnswers": [
+            "This computer game is so good that I can't stop playing it.",
+            "This computer game is so good I can't stop playing it.",
+            "It's so good that I can't stop playing this computer game."
+          ]
+        },
+        {
+          "id": "e4",
+          "prompt": "Tim can't come out because he has a lot of work to do.",
+          "acceptedAnswers": [
+            "Tim has so much work to do that he can't come out.",
+            "Tim has so much work that he can't come out.",
+            "Tim has so much work to do he can't come out."
+          ]
+        },
+        {
+          "id": "e5",
+          "prompt": "It's hot, which means I can't sleep.",
+          "acceptedAnswers": [
+            "It's so hot that I can't sleep.",
+            "It's so hot I can't sleep.",
+            "It is so hot that I can't sleep."
+          ]
+        },
+        {
+          "id": "e6",
+          "prompt": "Tina arrived late, which meant she missed the train.",
+          "acceptedAnswers": [
+            "Tina arrived so late that she missed the train.",
+            "Tina arrived so late she missed the train."
+          ]
+        },
+        {
+          "id": "e7",
+          "prompt": "We don't have any money for luxuries because we have a lot of bills to pay.",
+          "acceptedAnswers": [
+            "We have so many bills to pay that we don't have any money for luxuries.",
+            "We have so many bills that we don't have any money for luxuries."
+          ]
+        },
+        {
+          "id": "e8",
+          "prompt": "It takes a day to get to Australia because it's very far away.",
+          "acceptedAnswers": [
+            "Australia is so far away that it takes a day to get there.",
+            "It's so far away that it takes a day to get to Australia."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f",
+      "type": "multiple-choice",
+      "title": "F · Match to make sentences",
+      "instruction": "Choose the ending that completes each sentence.",
+      "items": [
+        {
+          "id": "f1",
+          "prompt": "Last year, winter started so",
+          "options": [
+            "many storms that we had floods.",
+            "cold that the water in the pipes froze.",
+            "a cold winter that I had to sleep with a hat on!",
+            "suddenly that many people were taken by surprise.",
+            "much snow that I skied nearly every day.",
+            "snow that many wild animals died."
+          ],
+          "acceptedAnswers": ["suddenly that many people were taken by surprise."]
+        },
+        {
+          "id": "f2",
+          "prompt": "Last winter, there were so",
+          "options": [
+            "many storms that we had floods.",
+            "cold that the water in the pipes froze.",
+            "a cold winter that I had to sleep with a hat on!",
+            "suddenly that many people were taken by surprise.",
+            "much snow that I skied nearly every day.",
+            "snow that many wild animals died."
+          ],
+          "acceptedAnswers": ["many storms that we had floods."]
+        },
+        {
+          "id": "f3",
+          "prompt": "Last year, we had such",
+          "options": [
+            "many storms that we had floods.",
+            "cold that the water in the pipes froze.",
+            "a cold winter that I had to sleep with a hat on!",
+            "suddenly that many people were taken by surprise.",
+            "much snow that I skied nearly every day.",
+            "snow that many wild animals died."
+          ],
+          "acceptedAnswers": ["a cold winter that I had to sleep with a hat on!"]
+        },
+        {
+          "id": "f4",
+          "prompt": "Last winter, there was so",
+          "options": [
+            "many storms that we had floods.",
+            "cold that the water in the pipes froze.",
+            "a cold winter that I had to sleep with a hat on!",
+            "suddenly that many people were taken by surprise.",
+            "much snow that I skied nearly every day.",
+            "snow that many wild animals died."
+          ],
+          "acceptedAnswers": ["much snow that I skied nearly every day."]
+        },
+        {
+          "id": "f5",
+          "prompt": "Last winter, there was such a lot of",
+          "options": [
+            "many storms that we had floods.",
+            "cold that the water in the pipes froze.",
+            "a cold winter that I had to sleep with a hat on!",
+            "suddenly that many people were taken by surprise.",
+            "much snow that I skied nearly every day.",
+            "snow that many wild animals died."
+          ],
+          "acceptedAnswers": ["snow that many wild animals died."]
+        },
+        {
+          "id": "f6",
+          "prompt": "Last winter was so",
+          "options": [
+            "many storms that we had floods.",
+            "cold that the water in the pipes froze.",
+            "a cold winter that I had to sleep with a hat on!",
+            "suddenly that many people were taken by surprise.",
+            "much snow that I skied nearly every day.",
+            "snow that many wild animals died."
+          ],
+          "acceptedAnswers": ["cold that the water in the pipes froze."]
+        }
+      ]
+    },
+    {
+      "id": "g",
+      "type": "multiple-choice",
+      "title": "G · enough word order",
+      "instruction": "Circle the correct word or phrase.",
+      "items": [
+        {
+          "id": "g1",
+          "prompt": "I don't think there's ___ for everyone.",
+          "options": ["enough pizza", "pizza enough"],
+          "acceptedAnswers": ["enough pizza"]
+        },
+        {
+          "id": "g2",
+          "prompt": "I'm afraid you're not ___ to see this film.",
+          "options": ["enough old", "old enough"],
+          "acceptedAnswers": ["old enough"]
+        },
+        {
+          "id": "g3",
+          "prompt": "Luckily, we got to the box office ___ and got the tickets.",
+          "options": ["enough early", "early enough"],
+          "acceptedAnswers": ["early enough"]
+        },
+        {
+          "id": "g4",
+          "prompt": "Anne's ___ to realise she needs to work hard this year.",
+          "options": ["enough sensible", "sensible enough"],
+          "acceptedAnswers": ["sensible enough"]
+        },
+        {
+          "id": "g5",
+          "prompt": "If you don't train ___, you'll never win the race.",
+          "options": ["enough hard", "hard enough"],
+          "acceptedAnswers": ["hard enough"]
+        },
+        {
+          "id": "g6",
+          "prompt": "Have you got ___ to call Yiota on your mobile?",
+          "options": ["enough credits", "credits enough"],
+          "acceptedAnswers": ["enough credits"]
+        },
+        {
+          "id": "g7",
+          "prompt": "It should be ___ for a picnic this weekend.",
+          "options": ["enough warm", "warm enough"],
+          "acceptedAnswers": ["warm enough"]
+        },
+        {
+          "id": "g8",
+          "prompt": "I don't think I'm good enough for getting / to get into the swimming team.",
+          "options": ["for getting", "to get"],
+          "acceptedAnswers": ["to get"]
+        },
+        {
+          "id": "g9",
+          "prompt": "Are you sure you've got enough chairs for us all to sit down / we all sit down?",
+          "options": ["for us all to sit down", "we all sit down"],
+          "acceptedAnswers": ["for us all to sit down"]
+        },
+        {
+          "id": "g10",
+          "prompt": "In mountaineering, you have to be strong enough for pull / to pull yourself up with your fingers.",
+          "options": ["for pull", "to pull"],
+          "acceptedAnswers": ["to pull"]
+        }
+      ]
+    },
+    {
+      "id": "h",
+      "type": "rewrite",
+      "title": "H · Tick or correct",
+      "instruction": "If the word in bold is correct, write it again. If it is incorrect, write another word to replace it.",
+      "items": [
+        {
+          "id": "h1",
+          "prompt": "I wanted to get some new trainers but they were **too** expensive.",
+          "acceptedAnswers": ["too"]
+        },
+        {
+          "id": "h2",
+          "prompt": "Japanese is a **too** difficult language for Westerners to learn.",
+          "acceptedAnswers": ["very", "really", "extremely"]
+        },
+        {
+          "id": "h3",
+          "prompt": "Daniel's **too** good at art and he's starting art school next year.",
+          "acceptedAnswers": ["very", "really", "extremely"]
+        },
+        {
+          "id": "h4",
+          "prompt": "Don't invite **too** many people to the party or we won't have enough room.",
+          "acceptedAnswers": ["too"]
+        },
+        {
+          "id": "h5",
+          "prompt": "If you try to write your essay **too** quickly, you'll make mistakes.",
+          "acceptedAnswers": ["too"]
+        },
+        {
+          "id": "h6",
+          "prompt": "My new computer is **too** fast and can run all the latest programs.",
+          "acceptedAnswers": ["very", "really", "extremely"]
+        },
+        {
+          "id": "h7",
+          "prompt": "Joanne was fined for driving **too** fast.",
+          "acceptedAnswers": ["too"]
+        },
+        {
+          "id": "h8",
+          "prompt": "Carol couldn't climb over the wall because it was **too** high.",
+          "acceptedAnswers": ["too"]
+        },
+        {
+          "id": "h9",
+          "prompt": "Cornwall is **too** beautiful and we go there every year on holiday.",
+          "acceptedAnswers": ["very", "really", "extremely"]
+        },
+        {
+          "id": "h10",
+          "prompt": "My grandparents are **too** old to work now and have retired.",
+          "acceptedAnswers": ["too"]
+        },
+        {
+          "id": "h11",
+          "prompt": "It was **too** dark for me to see the map and I got lost.",
+          "acceptedAnswers": ["too"]
+        },
+        {
+          "id": "h12",
+          "prompt": "My best friend is **too** funny and always makes me laugh.",
+          "acceptedAnswers": ["very", "really", "extremely"]
+        }
+      ]
+    },
+    {
+      "id": "i",
+      "type": "multiple-choice",
+      "title": "I · Choose the correct answer",
+      "instruction": "Select so, such, enough or too.",
+      "items": [
+        {
+          "id": "i1",
+          "prompt": "It was ___ windy that I couldn't stand up!",
+          "options": ["so", "such", "enough", "too"],
+          "acceptedAnswers": ["so"]
+        },
+        {
+          "id": "i2",
+          "prompt": "Everyone had ___ a good time when we went bowling that we agreed to go again.",
+          "options": ["so", "such", "enough", "too"],
+          "acceptedAnswers": ["such"]
+        },
+        {
+          "id": "i3",
+          "prompt": "Emma and Karen used to be ___ good friends that I'm surprised they don't get on now.",
+          "options": ["so", "such", "enough", "too"],
+          "acceptedAnswers": ["such"]
+        },
+        {
+          "id": "i4",
+          "prompt": "I hope I've got ___ money to pay for this meal!",
+          "options": ["so", "such", "enough", "too"],
+          "acceptedAnswers": ["enough"]
+        },
+        {
+          "id": "i5",
+          "prompt": "I'm sorry, but I've got ___ much work to do to come to the beach today.",
+          "options": ["so", "such", "enough", "too"],
+          "acceptedAnswers": ["too"]
+        },
+        {
+          "id": "i6",
+          "prompt": "My mum was ___ angry that I knew I'd better disappear for a while.",
+          "options": ["so", "such", "enough", "too"],
+          "acceptedAnswers": ["so"]
+        },
+        {
+          "id": "i7",
+          "prompt": "They were ___ beautiful shoes that I decided I had to get them.",
+          "options": ["so", "such", "enough", "too"],
+          "acceptedAnswers": ["such"]
+        },
+        {
+          "id": "i8",
+          "prompt": "The earthquake was ___ powerful that the town was destroyed.",
+          "options": ["so", "such", "enough", "too"],
+          "acceptedAnswers": ["so"]
+        },
+        {
+          "id": "i9",
+          "prompt": "The shot was ___ quick for the goalkeeper and the ball hit the back of the net.",
+          "options": ["so", "such", "enough", "too"],
+          "acceptedAnswers": ["too"]
+        },
+        {
+          "id": "i10",
+          "prompt": "I had ___ a bad headache that I went to lie down for a while.",
+          "options": ["so", "such", "enough", "too"],
+          "acceptedAnswers": ["such"]
+        }
+      ]
+    },
+    {
+      "id": "j",
+      "type": "gap-fill",
+      "title": "J · Crimestoppers",
+      "instruction": "Write one word in each gap.",
+      "items": [
+        {
+          "id": "j1",
+          "prompt": "Hello, and welcome to Crimestoppers, the show that lets you, the viewer, help the police. We've had ___ a lot of letters this week that it's difficult to know where to begin.",
+          "acceptedAnswers": ["such"]
+        },
+        {
+          "id": "j2",
+          "prompt": "We'll start with the story of Mrs Pat Williams, of Cambridge. Last Friday, Pat decided to go into town with her baby daughter. It's ___ far to walk so they went to the bus stop.",
+          "acceptedAnswers": ["too"]
+        },
+        {
+          "id": "j3",
+          "prompt": "They waited ___ a long time that baby Caroline started to cry.",
+          "acceptedAnswers": ["such"]
+        },
+        {
+          "id": "j4",
+          "prompt": "Pat picked the baby up out of the pram and she was ___ busy she didn't notice the man beside her until it was too late.",
+          "acceptedAnswers": ["so"]
+        },
+        {
+          "id": "j5",
+          "prompt": "He grabbed her handbag and ran off ___ quickly for her to catch him.",
+          "acceptedAnswers": ["too"]
+        },
+        {
+          "id": "j6",
+          "prompt": "It all happened ___ fast that there was nothing anyone could do.",
+          "acceptedAnswers": ["so"]
+        },
+        {
+          "id": "j7",
+          "prompt": "Police are appealing for witnesses. Maybe you were in the area. Maybe you think that what you saw is ___ unimportant that the police won't be interested.",
+          "acceptedAnswers": ["so"]
+        },
+        {
+          "id": "j8",
+          "prompt": "Remember that no detail is ___ small to be useful to the police. Call us here at Crimestoppers now.",
+          "acceptedAnswers": ["too"]
+        }
+      ]
+    }
+  ]
+}

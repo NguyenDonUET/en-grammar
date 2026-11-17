@@ -1,0 +1,884 @@
+{
+  "id": "unit-03-past-time",
+  "level": "b2",
+  "unitNumber": 3,
+  "title": "Past time",
+  "subtitle": "Past simple, past continuous, past perfect, would, used to, be/get used to",
+  "theory": [
+    {
+      "id": "past-simple",
+      "title": "Past simple",
+      "icon": "BookOpen",
+      "blocks": [
+        {
+          "type": "form-table",
+          "rows": [
+            {
+              "person": "I / you / he / she / it / we / they",
+              "statement": "I/you/he/she/it/we/they **played** …",
+              "negative": "I/you/he/she/it/we/they **didn't play** …",
+              "question": "**Did** I/you/he/she/it/we/they **play** …?"
+            }
+          ]
+        },
+        {
+          "type": "hints",
+          "intro": "Irregular verbs do not take **-ed** in the past simple.",
+          "items": ["Learn the past simple form of irregular verbs."]
+        },
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "Single completed actions",
+              "example": "Tom and I **played** a game of chess and he **won**."
+            },
+            {
+              "use": "Habits in the past",
+              "example": "**Did** you **collect** stamps when you were younger?"
+            },
+            {
+              "use": "Permanent situations in the past",
+              "example": "A famous footballer **lived** in our house before we bought it."
+            },
+            {
+              "use": "General truths and facts about the past",
+              "example": "Crosswords **didn't become** popular until the 1930s."
+            },
+            {
+              "use": "The main events in a story",
+              "example": "The referee **blew** the whistle and Simon **passed** the ball to James, who **ran** towards the goal."
+            }
+          ]
+        },
+        {
+          "type": "watch-out",
+          "text": "We can also use **did** in past simple statements for emphasis.",
+          "note": "'Why didn't you win your match yesterday?' 'I **did win**. Who told you I didn't?' · We lost 5–0 but at least we **did get** into the final."
+        }
+      ]
+    },
+    {
+      "id": "past-continuous",
+      "title": "Past continuous",
+      "icon": "Sparkles",
+      "blocks": [
+        {
+          "type": "form-table",
+          "rows": [
+            {
+              "person": "I / he / she / it",
+              "statement": "I/he/she/it **was playing** …",
+              "negative": "I/he/she/it **wasn't playing** …",
+              "question": "**Was** I/he/she/it **playing** …?"
+            },
+            {
+              "person": "you / we / they",
+              "statement": "You/we/they **were playing** …",
+              "negative": "You/we/they **weren't playing** …",
+              "question": "**Were** you/we/they **playing** …?"
+            }
+          ]
+        },
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "Actions happening at a particular moment in the past",
+              "example": "At five o'clock, I **was reading** my new book."
+            },
+            {
+              "use": "Temporary situations in the past",
+              "example": "Greg **was living** in London at the time."
+            },
+            {
+              "use": "Annoying past habits (usually with always)",
+              "example": "When we were young, my brother **was always borrowing** my toys."
+            },
+            {
+              "use": "Actions in progress over a period of time",
+              "example": "Daniel **was playing** video games all morning yesterday."
+            },
+            {
+              "use": "Two actions in progress at the same time",
+              "example": "**Were** Ulla and her friends **playing** Monopoly while we **were playing** draughts?"
+            },
+            {
+              "use": "Background information in a story",
+              "example": "The sun **was shining** and the birds **were singing**. Lisa opened the window and looked out."
+            }
+          ]
+        },
+        {
+          "type": "watch-out",
+          "text": "When one action in the past interrupts another action in progress, we use the past simple and the past continuous together.",
+          "note": "I **was playing** on my computer when it suddenly **crashed**."
+        },
+        {
+          "type": "correct-incorrect",
+          "correct": "When we were on holiday, we **played** volleyball every day.",
+          "incorrect": "When we were on holiday, we **were playing** volleyball every day."
+        },
+        {
+          "type": "watch-out",
+          "text": "We do not usually use stative verbs in continuous tenses. See Unit 1."
+        }
+      ]
+    },
+    {
+      "id": "past-perfect-simple",
+      "title": "Past perfect simple",
+      "icon": "CheckCircle2",
+      "blocks": [
+        {
+          "type": "prose",
+          "text": "**had** + past participle"
+        },
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "Situations and states before the past",
+              "example": "We'd **lived** next to the gym for a couple of months before I decided to join."
+            },
+            {
+              "use": "Completed actions before a moment in the past",
+              "example": "I'd already **bought** the computer game when I saw it was cheaper in another shop."
+            },
+            {
+              "use": "Completed actions where the important thing is the result at a moment in the past",
+              "example": "We didn't feel like playing Scrabble because we **had just finished** a long game of Monopoly."
+            }
+          ]
+        },
+        {
+          "type": "hints",
+          "intro": "There is often little or no difference in meaning between the past perfect simple and the past simple.",
+          "items": [
+            "We'd **lived** next to the gym for a couple of months before I decided to join.",
+            "We **lived** next to the gym for a couple of months before I decided to join."
+          ]
+        },
+        {
+          "type": "watch-out",
+          "text": "After we have used the past perfect simple once, we often then use the past simple instead of continuing to use the past perfect.",
+          "note": "I **had already had** one flying lesson, which **was** great fun, and I **knew** immediately that I **wanted** to get my pilot's licence."
+        },
+        {
+          "type": "watch-out",
+          "text": "Phrases such as **it was the first / second / etc. time** … are followed by the past perfect simple.",
+          "note": "It was the second time I'd **been** on a plane."
+        }
+      ]
+    },
+    {
+      "id": "past-perfect-continuous",
+      "title": "Past perfect continuous",
+      "icon": "Table2",
+      "blocks": [
+        {
+          "type": "form-table",
+          "rows": [
+            {
+              "person": "I / you / he / she / it / we / they",
+              "statement": "I/you/he/she/it/we/they **had been playing** …",
+              "negative": "I/you/he/she/it/we/they **hadn't been playing** …",
+              "question": "**Had** I/you/he/she/it/we/they **been playing** …?"
+            }
+          ]
+        },
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "Actions continuing up to a moment in the past",
+              "example": "When you saw us, we **had been running** for six miles — and we still had a mile to go!"
+            },
+            {
+              "use": "Actions stopping just before a moment in the past",
+              "example": "Sarah looked tired because she **had been exercising** all morning."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "would",
+      "title": "would",
+      "icon": "Lightbulb",
+      "blocks": [
+        {
+          "type": "prose",
+          "text": "**would** + bare infinitive"
+        },
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "Past habits, particularly for the distant past",
+              "example": "When I was very young, my grandfather **would take** me to the park to play."
+            }
+          ]
+        },
+        {
+          "type": "watch-out",
+          "text": "We don't often use **would** in questions or negative statements with this meaning. In negative statements, we can use **would never**.",
+          "note": "We **would never play** games together as a family when I was growing up."
+        }
+      ]
+    },
+    {
+      "id": "used-to",
+      "title": "used to",
+      "icon": "PencilLine",
+      "blocks": [
+        {
+          "type": "form-table",
+          "rows": [
+            {
+              "person": "statement",
+              "statement": "I/you/he/she/it/we/they **used to train** three times a week.",
+              "negative": "I/you/he/she/it/we/they **didn't use to** / **never used to** be so good at football.",
+              "question": "**Did** I/you/he/she/it/we/they **use to play** hockey here?"
+            }
+          ]
+        },
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "Past habits and states, particularly for the distant past",
+              "example": "My mother **used to play** a lot of squash before I was born."
+            }
+          ]
+        },
+        {
+          "type": "correct-incorrect",
+          "correct": "We **used to have** a house that was right next to the park.",
+          "incorrect": "We **would have** a house that was right next to the park."
+        },
+        {
+          "type": "watch-out",
+          "text": "To talk about a past **state**, we can use **used to**, but **not would**."
+        }
+      ]
+    },
+    {
+      "id": "be-get-used-to",
+      "title": "be / get used to",
+      "icon": "AlertTriangle",
+      "blocks": [
+        {
+          "type": "prose",
+          "text": "**be/get used to** + **-ing** form / noun"
+        },
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "A situation that is familiar or no longer strange",
+              "example": "I didn't like **being** the goalkeeper at first but now I'm **used to** it."
+            }
+          ]
+        },
+        {
+          "type": "watch-out",
+          "text": "When we want to talk about the process of becoming familiar with something, we use **get used to**.",
+          "note": "I'm gradually **getting used to** being in a new team."
+        }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "a",
+      "type": "multiple-choice",
+      "title": "A · Circle the correct phrase",
+      "instruction": "Select the form that fits each sentence.",
+      "items": [
+        {
+          "id": "a1",
+          "prompt": "I ___ Maria for the first time at Ray's birthday party.",
+          "options": ["saw", "was seeing"],
+          "acceptedAnswers": ["saw"]
+        },
+        {
+          "id": "a2",
+          "prompt": "Richard ___ TV when the phone rang.",
+          "options": ["watched", "was watching"],
+          "acceptedAnswers": ["was watching"]
+        },
+        {
+          "id": "a3",
+          "prompt": "When we were on holiday, we ___ to the café almost every day.",
+          "options": ["went", "were going"],
+          "acceptedAnswers": ["went"]
+        },
+        {
+          "id": "a4",
+          "prompt": "Denise ___ the song every day until she could sing it perfectly.",
+          "options": ["practised", "was practising"],
+          "acceptedAnswers": ["practised"]
+        },
+        {
+          "id": "a5",
+          "prompt": "The phone was engaged when I called. What ___ to?",
+          "options": ["did you talk", "were you talking"],
+          "acceptedAnswers": ["were you talking"]
+        },
+        {
+          "id": "a6",
+          "prompt": "Mr Connors ___ two houses and a villa in the south of France.",
+          "options": ["owned", "was owning"],
+          "acceptedAnswers": ["owned"]
+        },
+        {
+          "id": "a7",
+          "prompt": "I ___ my homework as soon as I got home from school.",
+          "options": ["did", "was doing"],
+          "acceptedAnswers": ["did"]
+        },
+        {
+          "id": "a8",
+          "prompt": "A car came round the corner and I ___ out of the way.",
+          "options": ["jumped", "was jumping"],
+          "acceptedAnswers": ["jumped"]
+        },
+        {
+          "id": "a9",
+          "prompt": "When my dad met my mum, he ___ as a bus driver.",
+          "options": ["worked", "was working"],
+          "acceptedAnswers": ["was working"]
+        },
+        {
+          "id": "a10",
+          "prompt": "I ___ at six o'clock every morning last week!",
+          "options": ["got", "was getting"],
+          "acceptedAnswers": ["got"]
+        },
+        {
+          "id": "a11",
+          "prompt": "My cousin and I ___ on the computer when there was a power cut.",
+          "options": ["played", "were playing"],
+          "acceptedAnswers": ["were playing"]
+        },
+        {
+          "id": "a12",
+          "prompt": "No, that's not right. I ___ the test. I got a B.",
+          "options": ["did pass", "was passing"],
+          "acceptedAnswers": ["did pass"]
+        }
+      ]
+    },
+    {
+      "id": "b",
+      "type": "gap-fill",
+      "title": "B · Complete the sentences",
+      "instruction": "Write the correct form of the verb in brackets.",
+      "items": [
+        {
+          "id": "b1",
+          "prompt": "Where ___ when I saw you on the bus last night? (you / go)",
+          "acceptedAnswers": ["were you going"]
+        },
+        {
+          "id": "b2",
+          "prompt": "___ the film? (you / enjoy)",
+          "acceptedAnswers": ["Did you enjoy"]
+        },
+        {
+          "id": "b3",
+          "prompt": "When we shared a room, Zoë ___ my things. It was so annoying! (always / take)",
+          "acceptedAnswers": ["was always taking", "would always take", "always used to take"]
+        },
+        {
+          "id": "b4",
+          "prompt": "When I went to get the tickets, I realised I ___ any money. (not / have)",
+          "acceptedAnswers": ["didn't have", "did not have"]
+        },
+        {
+          "id": "b5",
+          "prompt": "When I was young, we ___ to France every year on holiday. (go)",
+          "acceptedAnswers": ["went", "used to go", "would go"]
+        },
+        {
+          "id": "b6",
+          "prompt": "Elvis ___ famous for the song Blue Suede Shoes. (become)",
+          "acceptedAnswers": ["became"]
+        },
+        {
+          "id": "b7",
+          "prompt": "When you rang last night, I ___ in the garden so I didn't hear the phone. (work)",
+          "acceptedAnswers": ["was working"]
+        },
+        {
+          "id": "b8",
+          "prompt": "I ___ from Davina last night. She says hello. (hear)",
+          "acceptedAnswers": ["heard"]
+        },
+        {
+          "id": "b9",
+          "prompt": "The old man ___ to be very tired and he slowly sat down. (appear)",
+          "acceptedAnswers": ["appeared"]
+        },
+        {
+          "id": "b10",
+          "prompt": "We ___ a surprise party for my brother last Saturday. (throw)",
+          "acceptedAnswers": ["threw"]
+        }
+      ]
+    },
+    {
+      "id": "c",
+      "type": "multiple-choice",
+      "title": "C · Circle the correct phrase",
+      "instruction": "Select past simple or past perfect for each gap in the letter.",
+      "items": [
+        {
+          "id": "c1",
+          "prompt": "Thanks for your letter. I (1) ___ for school when I saw the postman and he (2) ___ it to me. It was really funny!",
+          "options": ["just left / gave", "had just left / had given", "just left / had given", "had just left / gave"],
+          "acceptedAnswers": ["had just left / gave"]
+        },
+        {
+          "id": "c2",
+          "prompt": "I (3) ___ it during maths and it (4) ___ me laugh. I almost (5) ___ in trouble!",
+          "options": ["read / made / got", "had read / had made / had got", "read / had made / got", "had read / made / got"],
+          "acceptedAnswers": ["read / made / got"]
+        },
+        {
+          "id": "c3",
+          "prompt": "Anyway, I'm excited because I (6) ___ my first judo lesson yesterday. I (7) ___ late for the lesson because when I (8) ___ there, I suddenly realised I (9) ___ my judo suit at home!",
+          "options": [
+            "had / was / got / had left",
+            "had had / had been / had got / left",
+            "had / had been / got / left",
+            "had had / was / got / had left"
+          ],
+          "acceptedAnswers": ["had / was / got / had left"]
+        },
+        {
+          "id": "c4",
+          "prompt": "So I (10) ___ all the way home and when I (11) ___ back, the lesson (12) ___ !",
+          "options": [
+            "went / got / already began",
+            "had gone / had got / already begun",
+            "went / got / had already begun",
+            "went / had got / already began"
+          ],
+          "acceptedAnswers": ["went / got / had already begun"]
+        },
+        {
+          "id": "c5",
+          "prompt": "The instructor was really nice, though, and I (13) ___ how to do some basic throws. Can't wait till next time!",
+          "options": ["learned", "had learned"],
+          "acceptedAnswers": ["learned"]
+        },
+        {
+          "id": "c6",
+          "prompt": "What about you and your taekwondo? The last time I (14) ___ to you, you (15) ___ about giving it up. What (16) ___ ?",
+          "options": [
+            "spoke / talked / did you decide",
+            "had spoken / had talked / had you decided",
+            "spoke / had talked / did you decide",
+            "had spoken / talked / had you decided"
+          ],
+          "acceptedAnswers": ["spoke / talked / did you decide"]
+        }
+      ]
+    },
+    {
+      "id": "d",
+      "type": "gap-fill",
+      "title": "D · Past perfect simple or continuous",
+      "instruction": "Complete using the past perfect simple or past perfect continuous of the verbs in the box. You may need a negative form.",
+      "wordBank": ["eat", "stay", "wait", "know", "write", "see", "listen", "get", "have", "run"],
+      "items": [
+        {
+          "id": "d1",
+          "prompt": "By the time he died, Beethoven ___ nine symphonies.",
+          "acceptedAnswers": ["had written"]
+        },
+        {
+          "id": "d2",
+          "prompt": "We chose the Hotel Rio because we ___ there before.",
+          "acceptedAnswers": ["had stayed"]
+        },
+        {
+          "id": "d3",
+          "prompt": "We ___ for over an hour when the train finally arrived.",
+          "acceptedAnswers": ["had been waiting"]
+        },
+        {
+          "id": "d4",
+          "prompt": "I was completely out of breath because I ___.",
+          "acceptedAnswers": ["had been running"]
+        },
+        {
+          "id": "d5",
+          "prompt": "I ___ the film before, so I knew how it ended.",
+          "acceptedAnswers": ["had seen"]
+        },
+        {
+          "id": "d6",
+          "prompt": "When he got married, I ___ Chris for about two years.",
+          "acceptedAnswers": ["had known"]
+        },
+        {
+          "id": "d7",
+          "prompt": "Johnson ___ ready for the race for six months and finally the big moment came.",
+          "acceptedAnswers": ["had been getting", "had got"]
+        },
+        {
+          "id": "d8",
+          "prompt": "Vivian ___ computer lessons for very long so she wasn't sure how to use the Internet.",
+          "acceptedAnswers": ["hadn't been having", "had not been having", "hadn't had"]
+        },
+        {
+          "id": "d9",
+          "prompt": "Holly ___ oysters before, so she wasn't sure what to do with them.",
+          "acceptedAnswers": ["hadn't eaten", "had not eaten"]
+        },
+        {
+          "id": "d10",
+          "prompt": "I ___ to my new CD for a few minutes when the CD player started making a funny noise.",
+          "acceptedAnswers": ["had been listening"]
+        }
+      ]
+    },
+    {
+      "id": "e",
+      "type": "multiple-choice",
+      "title": "E · Choose the correct answer",
+      "instruction": "Select the form that completes each sentence.",
+      "items": [
+        {
+          "id": "e1",
+          "prompt": "My brother and I ___ swimming almost every day last summer.",
+          "options": ["went", "had been going", "were going", "had gone"],
+          "acceptedAnswers": ["went"]
+        },
+        {
+          "id": "e2",
+          "prompt": "We ___ when someone knocked at the door.",
+          "options": ["talked", "had talked", "were talking", "were talked"],
+          "acceptedAnswers": ["were talking"]
+        },
+        {
+          "id": "e3",
+          "prompt": "When the robbery happened, the security guard ___ !",
+          "options": ["slept", "was sleeping", "had slept", "was slept"],
+          "acceptedAnswers": ["was sleeping"]
+        },
+        {
+          "id": "e4",
+          "prompt": "Jack ___ chess before so I showed him what to do.",
+          "options": ["hadn't been playing", "didn't play", "wasn't playing", "hadn't played"],
+          "acceptedAnswers": ["hadn't played"]
+        },
+        {
+          "id": "e5",
+          "prompt": "I wasn't sure how Belinda would react because I ___ her long.",
+          "options": ["didn't know", "wasn't knowing", "hadn't been knowing", "hadn't known"],
+          "acceptedAnswers": ["hadn't known"]
+        },
+        {
+          "id": "e6",
+          "prompt": "Ian ___ at the factory long when he was made a manager.",
+          "options": ["hadn't been working", "wasn't working", "didn't work", "wasn't worked"],
+          "acceptedAnswers": ["hadn't been working"]
+        },
+        {
+          "id": "e7",
+          "prompt": "I wanted to say goodbye to Jerry, but he ___.",
+          "options": ["was already left", "already left", "had already been leaving", "had already left"],
+          "acceptedAnswers": ["had already left"]
+        },
+        {
+          "id": "e8",
+          "prompt": "When we got to the airport, I realised I ___ my passport at home!",
+          "options": ["was left", "had left", "left", "had been leaving"],
+          "acceptedAnswers": ["had left"]
+        }
+      ]
+    },
+    {
+      "id": "f",
+      "type": "rewrite",
+      "title": "F · Correct the mistake",
+      "instruction": "Circle the incorrect words or phrases and rewrite them correctly.",
+      "items": [
+        {
+          "id": "f1",
+          "prompt": "I **had paint** on my shoes because I'd painted my bedroom all morning.",
+          "acceptedAnswers": ["had been painting", "I'd been painting"]
+        },
+        {
+          "id": "f2",
+          "prompt": "I missed the start of the film because I **buy popcorn**.",
+          "acceptedAnswers": ["was buying popcorn", "had been buying popcorn"]
+        },
+        {
+          "id": "f3",
+          "prompt": "It was obvious that Bill **has worked** because he was very tired when I saw him.",
+          "acceptedAnswers": ["had been working", "had worked"]
+        },
+        {
+          "id": "f4",
+          "prompt": "We had been tidying the garden for hours and I **was needing** a rest.",
+          "acceptedAnswers": ["needed"]
+        },
+        {
+          "id": "f5",
+          "prompt": "When the bus **was arriving**, we missed it because we were talking.",
+          "acceptedAnswers": ["arrived"]
+        },
+        {
+          "id": "f6",
+          "prompt": "During the Christmas holiday, I **was eating** too much and watching too much TV!",
+          "acceptedAnswers": ["ate"]
+        },
+        {
+          "id": "f7",
+          "prompt": "Julian **was learning** all about computer games by the time he was six.",
+          "acceptedAnswers": ["had learnt", "had learned", "knew"]
+        },
+        {
+          "id": "f8",
+          "prompt": "My grandfather **was owning** a hotel by the beach until he sold it last year.",
+          "acceptedAnswers": ["owned"]
+        }
+      ]
+    },
+    {
+      "id": "g",
+      "type": "multiple-choice",
+      "title": "G · Circle the correct phrase",
+      "instruction": "Select would, used to or be/get used to.",
+      "items": [
+        {
+          "id": "g1",
+          "prompt": "When she was a girl, my mum ___ live in a village.",
+          "options": ["would", "used to"],
+          "acceptedAnswers": ["used to"]
+        },
+        {
+          "id": "g2",
+          "prompt": "I really can't ___ having a new baby brother.",
+          "options": ["be", "get used to"],
+          "acceptedAnswers": ["get used to"]
+        },
+        {
+          "id": "g3",
+          "prompt": "People ___ die of diseases in the past that we can cure today.",
+          "options": ["would", "are used to"],
+          "acceptedAnswers": ["would"]
+        },
+        {
+          "id": "g4",
+          "prompt": "There ___ be a cinema on this corner, but they knocked it down.",
+          "options": ["would", "used to"],
+          "acceptedAnswers": ["used to"]
+        },
+        {
+          "id": "g5",
+          "prompt": "It was strange at first, but I'm used to ___ the bagpipes now.",
+          "options": ["play", "playing"],
+          "acceptedAnswers": ["playing"]
+        },
+        {
+          "id": "g6",
+          "prompt": "Didn't you ___ to have blonde hair?",
+          "options": ["use", "be used"],
+          "acceptedAnswers": ["use"]
+        },
+        {
+          "id": "g7",
+          "prompt": "Christopher was ___ used to the idea of joining the army.",
+          "options": ["being", "getting"],
+          "acceptedAnswers": ["getting"]
+        },
+        {
+          "id": "g8",
+          "prompt": "People never ___ to be so worried about crime in this area.",
+          "options": ["would", "used"],
+          "acceptedAnswers": ["used"]
+        }
+      ]
+    },
+    {
+      "id": "h",
+      "type": "rewrite",
+      "title": "H · Similar meaning",
+      "instruction": "Complete each second sentence using the word given, so that it has a similar meaning to the first. Write between two and five words.",
+      "items": [
+        {
+          "id": "h1",
+          "prompt": "People walked more fifty years ago than they do now. **would**\nFifty years ago, ___ than they do now.",
+          "acceptedAnswers": ["people would walk more", "people would walk more often"]
+        },
+        {
+          "id": "h2",
+          "prompt": "My parents wouldn't let me stay out late when I was young. **used**\nMy parents ___ let me stay out late when I was young.",
+          "acceptedAnswers": ["didn't use to", "did not use to", "never used to"]
+        },
+        {
+          "id": "h3",
+          "prompt": "Did you know that Carol played basketball for her country? **to**\nDid you know that Carol ___ basketball for her country?",
+          "acceptedAnswers": ["used to play"]
+        },
+        {
+          "id": "h4",
+          "prompt": "Sending messages around the world instantly is no longer unusual. **got**\nWe ___ messages around the world instantly.",
+          "acceptedAnswers": ["have got used to sending", "'ve got used to sending", "got used to sending"]
+        },
+        {
+          "id": "h5",
+          "prompt": "When he was a teacher, my dad often used to get home quite late. **would**\nWhen he was a teacher, my dad ___ quite late.",
+          "acceptedAnswers": ["would often get home", "would get home"]
+        },
+        {
+          "id": "h6",
+          "prompt": "Do you think you could learn to live without your mobile phone? **used**\nDo you think you could ___ without your mobile phone?",
+          "acceptedAnswers": ["get used to living", "become used to living"]
+        },
+        {
+          "id": "h7",
+          "prompt": "In the past, people wouldn't go as far away on holiday as they do today. **use**\nIn the past, people ___ as far away on holiday as they do today.",
+          "acceptedAnswers": ["didn't use to go", "did not use to go"]
+        },
+        {
+          "id": "h8",
+          "prompt": "This town has a lot more cinemas than it had in the past. **used**\nThis town ___ so many cinemas.",
+          "acceptedAnswers": ["didn't use to have", "did not use to have", "never used to have"]
+        }
+      ]
+    },
+    {
+      "id": "i",
+      "type": "rewrite",
+      "title": "I · Extra word",
+      "instruction": "Write the extra word in each line.",
+      "items": [
+        {
+          "id": "i1",
+          "prompt": "Childhood **would used** to be quite different from what it is today. Young",
+          "acceptedAnswers": ["would"]
+        },
+        {
+          "id": "i2",
+          "prompt": "people **didn't use not** to have so much leisure time. Today's children may",
+          "acceptedAnswers": ["not"]
+        },
+        {
+          "id": "i3",
+          "prompt": "complain about their schoolwork, but our great-grandparents **would to go**",
+          "acceptedAnswers": ["to"]
+        },
+        {
+          "id": "i4",
+          "prompt": "out to work at a very young age. They had **often been left** school by",
+          "acceptedAnswers": ["been"]
+        },
+        {
+          "id": "i5",
+          "prompt": "the time they were fourteen and **were found** a job. This meant that they",
+          "acceptedAnswers": ["were"]
+        },
+        {
+          "id": "i6",
+          "prompt": "had had little free time for hobbies or leisure activities, especially when",
+          "acceptedAnswers": ["had"]
+        },
+        {
+          "id": "i7",
+          "prompt": "they had been working hard all day. Of course, they **got themselves used**",
+          "acceptedAnswers": ["themselves"]
+        },
+        {
+          "id": "i8",
+          "prompt": "to working long hours eventually, but it would meant that they had to",
+          "acceptedAnswers": ["would"]
+        },
+        {
+          "id": "i9",
+          "prompt": "grow up very quickly. Today, we **are got used** to having some free time to",
+          "acceptedAnswers": ["are"]
+        },
+        {
+          "id": "i10",
+          "prompt": "do things we enjoy, a luxury people in the past rarely **were had**.",
+          "acceptedAnswers": ["were"]
+        }
+      ]
+    },
+    {
+      "id": "j",
+      "type": "gap-fill",
+      "title": "J · The night before",
+      "instruction": "Write one word in each gap.",
+      "items": [
+        {
+          "id": "j1",
+          "prompt": "Jane lay awake. She had ___ preparing for the next day for a long time and now she couldn't sleep.",
+          "acceptedAnswers": ["been"]
+        },
+        {
+          "id": "j2",
+          "prompt": "She had been preparing for the next day ___ a long time and now she couldn't sleep.",
+          "acceptedAnswers": ["for"]
+        },
+        {
+          "id": "j3",
+          "prompt": "Her team ___ playing the local champions at water polo in the final and Jane was the captain.",
+          "acceptedAnswers": ["were", "was"]
+        },
+        {
+          "id": "j4",
+          "prompt": "She ___ feeling the pressure.",
+          "acceptedAnswers": ["was"]
+        },
+        {
+          "id": "j5",
+          "prompt": "She turned over and remembered how she ___ learned to swim.",
+          "acceptedAnswers": ["had"]
+        },
+        {
+          "id": "j6",
+          "prompt": "They ___ go to the local pool every day after school and her father taught her.",
+          "acceptedAnswers": ["would", "used to"]
+        },
+        {
+          "id": "j7",
+          "prompt": "Her father ___ to show her what to do.",
+          "acceptedAnswers": ["used"]
+        },
+        {
+          "id": "j8",
+          "prompt": "She hadn't liked the water at first, but she soon ___ used to it.",
+          "acceptedAnswers": ["got", "grew"]
+        },
+        {
+          "id": "j9",
+          "prompt": "She learned quickly and joined the water polo team. She had ___ their youngest member!",
+          "acceptedAnswers": ["become", "been"]
+        },
+        {
+          "id": "j10",
+          "prompt": "She quickly got used to scoring goals and ___ under pressure, but tomorrow was different.",
+          "acceptedAnswers": ["being", "performing", "playing"]
+        },
+        {
+          "id": "j11",
+          "prompt": "'I ___ to have problems sleeping,' she thought to herself.",
+          "acceptedAnswers": ["used"]
+        },
+        {
+          "id": "j12",
+          "prompt": "'But then again, I didn't ___ to be the captain of the team.'",
+          "acceptedAnswers": ["use"]
+        }
+      ]
+    }
+  ]
+}

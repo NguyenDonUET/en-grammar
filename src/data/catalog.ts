@@ -27,6 +27,13 @@ import unit37IngInfinitive from '@/data/b1/unit-37-ing-infinitive.json' with { t
 import unit38BothEitherNeither from '@/data/b1/unit-38-both-either-neither.json' with { type: 'json' }
 import unit40Connectives from '@/data/b1/unit-40-connectives.json' with { type: 'json' }
 import unit41Causative from '@/data/b1/unit-41-causative.json' with { type: 'json' }
+import unit01PresentTimeB2 from '@/data/b2/unit-01-present-time.json' with { type: 'json' }
+import unit03PastTimeB2 from '@/data/b2/unit-03-past-time.json' with { type: 'json' }
+import unit05FutureTimeB2 from '@/data/b2/unit-05-future-time.json' with { type: 'json' }
+import unit07ArticlesQuantifiersB2 from '@/data/b2/unit-07-articles-quantifiers.json' with { type: 'json' }
+import unit09ConditionalsB2 from '@/data/b2/unit-09-conditionals.json' with { type: 'json' }
+import unit11ComparativesB2 from '@/data/b2/unit-11-comparatives.json' with { type: 'json' }
+import unit13ModalsB2 from '@/data/b2/unit-13-modals.json' with { type: 'json' }
 
 export const LEVELS: { id: LevelId; label: string; description: string }[] = [
   { id: 'b1', label: 'B1', description: 'Intermediate' },
@@ -64,6 +71,13 @@ const units: GrammarUnit[] = [
   unit38BothEitherNeither as GrammarUnit,
   unit40Connectives as GrammarUnit,
   unit41Causative as GrammarUnit,
+  unit01PresentTimeB2 as GrammarUnit,
+  unit03PastTimeB2 as GrammarUnit,
+  unit05FutureTimeB2 as GrammarUnit,
+  unit07ArticlesQuantifiersB2 as GrammarUnit,
+  unit09ConditionalsB2 as GrammarUnit,
+  unit11ComparativesB2 as GrammarUnit,
+  unit13ModalsB2 as GrammarUnit,
 ]
 
 export function getUnitsByLevel(level: LevelId): UnitSummary[] {

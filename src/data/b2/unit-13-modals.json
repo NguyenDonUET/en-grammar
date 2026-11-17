@@ -1,0 +1,769 @@
+{
+  "id": "unit-13-modals",
+  "level": "b2",
+  "unitNumber": 13,
+  "title": "Modals",
+  "subtitle": "Ability, permission, advice, criticism, obligation and necessity, degrees of certainty",
+  "theory": [
+    {
+      "id": "form",
+      "title": "Form",
+      "icon": "BookOpen",
+      "blocks": [
+        {
+          "type": "hints",
+          "items": [
+            "All modals (**will, would, shall, should, can, could, may, might, must**) and the semi-modal **ought to** have only one form.",
+            "Modals are followed by the bare infinitive (simple or continuous) or the bare perfect infinitive: Toby **should be** very fit by now. · Toby **should have recovered** by now.",
+            "The semi-modals **have to** and **need** to change their form depending on person and tense: The doctor said I **had/needed to** give up red meat."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ability",
+      "title": "Ability",
+      "icon": "Sparkles",
+      "blocks": [
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "Expressing ability now or generally · can",
+              "example": "I **can** run a kilometre in four minutes."
+            },
+            {
+              "use": "Expressing decisions made now about future ability · can",
+              "example": "We **can** meet at the gym tomorrow, if you like."
+            },
+            {
+              "use": "Expressing ability in the past · could",
+              "example": "I **could** do fifty press-ups with one hand when I was younger."
+            },
+            {
+              "use": "Expressing ability in present, future or general hypothetical situations · could",
+              "example": "If only I **could** quit smoking!"
+            },
+            {
+              "use": "Expressing ability in past hypothetical situations · could + perfect infinitive",
+              "example": "I **could have roasted** the potatoes, but I decided that boiling them was healthier."
+            }
+          ]
+        },
+        {
+          "type": "watch-out",
+          "text": "We use **be able to** for the infinitive and other tenses.",
+          "note": "I'd love **to be able to** fit into these jeans again! (infinitive) · I'll **be able to** leave hospital in a few weeks, apparently. (future) · I've **been able to** swim since I was five. (present perfect)"
+        }
+      ]
+    },
+    {
+      "id": "permission",
+      "title": "Permission",
+      "icon": "Lightbulb",
+      "blocks": [
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "Asking for and giving permission now, for the future or generally · may / could / can",
+              "example": "**May / Could / Can** I see the doctor, please?"
+            }
+          ]
+        },
+        {
+          "type": "watch-out",
+          "text": "**May** is more polite than **could**, and **could** is more polite than **can**."
+        },
+        {
+          "type": "correct-incorrect",
+          "correct": "I **was allowed to** wear a knee support during the match.",
+          "incorrect": "I **could wear** a knee support during the match."
+        },
+        {
+          "type": "watch-out",
+          "text": "We don't usually use **could** to talk about past permission. However, we do use **could** to talk about past permission in reported speech.",
+          "note": "The coach said I **could** wear a knee support during the match."
+        }
+      ]
+    },
+    {
+      "id": "advice-criticism",
+      "title": "Advice and criticism",
+      "icon": "CheckCircle2",
+      "blocks": [
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "Asking for and giving advice now, for the future or generally · should / ought to",
+              "example": "You **ought to / should** cut down on the amount of red meat you eat."
+            },
+            {
+              "use": "Criticising past behaviour · should / ought to + perfect infinitive",
+              "example": "He **ought to / should have made** more of an effort with his diet."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "obligation",
+      "title": "Obligation and necessity",
+      "icon": "Table2",
+      "blocks": [
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "Expressing obligation or necessity · must / have to / need to",
+              "example": "I **must / have to / need to** pick up that prescription from the chemist on the way home."
+            },
+            {
+              "use": "Expressing lack of obligation or necessity · needn't / don't have to / don't need to",
+              "example": "You **needn't / don't have to / don't need to** pick up that prescription from the chemist as I'll get it while I'm in town."
+            },
+            {
+              "use": "Expressing past obligation · had to",
+              "example": "I **had to** take the pills three times a day for two weeks."
+            },
+            {
+              "use": "Expressing lack of past obligation · needn't + perfect infinitive / didn't have to / didn't need to",
+              "example": "I **needn't have gone** / **didn't have to go** / **didn't need to go** to the doctor."
+            }
+          ]
+        },
+        {
+          "type": "hints",
+          "items": [
+            "There is usually no difference in meaning between **must** and **have to**. However, we are sometimes more likely to use **must** for personal obligation and **have to** for external obligation.",
+            "We can also use **will have/need to** to express future obligation: You'll **have/need to** be more careful about what you eat in future.",
+            "It is unusual to use **must** for questions. We usually use **have/need to**: **Do I have/need to** take this medicine before every meal?",
+            "**Must** cannot be used as an infinitive. Use **to have to**: I'd hate **to have to** have injections every day.",
+            "**Mustn't** and **don't/doesn't have/need to** have different meanings. **You mustn't do that!** (Don't do that!) · **You don't have/need to do that.** (You can do it if you want to but it's not necessary.)",
+            "**Needn't** + perfect infinitive always refers to actions that happened. **Didn't have to** and **didn't need to** can refer to actions that did or didn't happen: I **needn't have gone** to the doctor. (I went but it wasn't necessary.) · I **didn't have/need to** go to the doctor because I suddenly felt better. (I didn't go.) · I **didn't have/need to** go to the doctor but I went just to be on the safe side. (I did go.)",
+            "Be careful with the verb **need**. It can also take the **-ing** form: I **need to sterilise** this syringe. · This syringe **needs sterilising**."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "certainty",
+      "title": "Degrees of certainty",
+      "icon": "AlertTriangle",
+      "blocks": [
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "Expressing certainty (or near certainty) about now or generally · must / can't / couldn't",
+              "example": "That **must** be the district nurse at the door. · These **can't / couldn't** be the pills; they're the wrong colour."
+            },
+            {
+              "use": "Expressing certainty (or near certainty) about the past · must / can't / couldn't + perfect infinitive",
+              "example": "She **must have been** in a lot of pain. · His leg **can't / couldn't have been** in plaster for two years!"
+            },
+            {
+              "use": "Expressing probability about now, the future or generally · should / ought to",
+              "example": "You **ought to / should** feel better in a few days, as long as you get lots of rest."
+            },
+            {
+              "use": "Expressing probability about the past · should / ought to + perfect infinitive",
+              "example": "The bruise **ought to / should have disappeared** days ago. I wonder why it didn't."
+            },
+            {
+              "use": "Expressing possibility about now, the future or generally · could / may / might",
+              "example": "You **should** ask your doctor first because that diet **could / may / might** be dangerous."
+            },
+            {
+              "use": "Expressing possibility about the real past · could / may / might + perfect infinitive",
+              "example": "That **could / may / might have been** the doctor who rang earlier while we were out."
+            },
+            {
+              "use": "Expressing possibility about a hypothetical past · could / might + perfect infinitive",
+              "example": "It's a good thing you went to the doctor or you **could / might have become** quite ill."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "a",
+      "type": "rewrite",
+      "title": "A · Tick or correct",
+      "instruction": "If a word or phrase in bold is correct, write it again. If it is incorrect, rewrite it correctly.",
+      "items": [
+        {
+          "id": "a1",
+          "prompt": "Can you **to speak** French?",
+          "acceptedAnswers": ["speak"]
+        },
+        {
+          "id": "a2",
+          "prompt": "I **can** give you a hand tomorrow morning, if you like.",
+          "acceptedAnswers": ["can"]
+        },
+        {
+          "id": "a3",
+          "prompt": "I'll **can** take my driving test after a few more lessons.",
+          "acceptedAnswers": ["be able to"]
+        },
+        {
+          "id": "a4",
+          "prompt": "Jack **can** play the guitar before he learnt to talk!",
+          "acceptedAnswers": ["could"]
+        },
+        {
+          "id": "a5",
+          "prompt": "If only I **can** afford to buy that top!",
+          "acceptedAnswers": ["could"]
+        },
+        {
+          "id": "a6",
+          "prompt": "We **can have gone** up the Eiffel Tower while we were in Paris, but we decided to go to the Louvre instead.",
+          "acceptedAnswers": ["could have gone"]
+        },
+        {
+          "id": "a7",
+          "prompt": "I **could get** a more expensive computer, but it didn't seem worth it.",
+          "acceptedAnswers": ["could have got"]
+        },
+        {
+          "id": "a8",
+          "prompt": "I wish I **could** get out of the maths test tomorrow!",
+          "acceptedAnswers": ["could"]
+        },
+        {
+          "id": "a9",
+          "prompt": "I bet you'd love to **be can to** get satellite TV.",
+          "acceptedAnswers": ["be able to"]
+        },
+        {
+          "id": "a10",
+          "prompt": "You'd better tell the coach if you can't **playing** on Saturday.",
+          "acceptedAnswers": ["play"]
+        }
+      ]
+    },
+    {
+      "id": "b",
+      "type": "multiple-choice",
+      "title": "B · Circle the correct phrase",
+      "instruction": "Select the form that fits. If both forms are possible, choose the option that says both.",
+      "items": [
+        {
+          "id": "b1",
+          "prompt": "Hello. ___ I speak to Mrs Johnson, please?",
+          "options": ["Could", "Can", "both: Could / Can"],
+          "acceptedAnswers": ["both: Could / Can"]
+        },
+        {
+          "id": "b2",
+          "prompt": "We ___ to go home early yesterday because our teacher was ill.",
+          "options": ["could", "were allowed", "both: could / were allowed"],
+          "acceptedAnswers": ["were allowed"]
+        },
+        {
+          "id": "b3",
+          "prompt": "The head teacher said we ___ to go home early yesterday because our teacher was ill.",
+          "options": ["could", "were allowed", "both: could / were allowed"],
+          "acceptedAnswers": ["both: could / were allowed"]
+        },
+        {
+          "id": "b4",
+          "prompt": "Do you think I ___ be worried about these spots on my forehead?",
+          "options": ["should", "could", "both: should / could"],
+          "acceptedAnswers": ["should"]
+        },
+        {
+          "id": "b5",
+          "prompt": "You ___ enter that talent contest!",
+          "options": ["ought to", "should", "both: ought to / should"],
+          "acceptedAnswers": ["both: ought to / should"]
+        },
+        {
+          "id": "b6",
+          "prompt": "You ___ talk to people like that! It's rude!",
+          "options": ["couldn't", "shouldn't", "both: couldn't / shouldn't"],
+          "acceptedAnswers": ["shouldn't"]
+        },
+        {
+          "id": "b7",
+          "prompt": "Alan should ___ two essays in English yesterday, not one!",
+          "options": ["write", "have written", "both: write / have written"],
+          "acceptedAnswers": ["have written"]
+        },
+        {
+          "id": "b8",
+          "prompt": "No, you ___ not go out tonight. You know you're grounded!",
+          "options": ["may", "should", "both: may / should"],
+          "acceptedAnswers": ["may"]
+        },
+        {
+          "id": "b9",
+          "prompt": "Diana should have ___ for me at the corner. I wonder where she went.",
+          "options": ["waited", "been waiting", "both: waited / been waiting"],
+          "acceptedAnswers": ["both: waited / been waiting"]
+        },
+        {
+          "id": "b10",
+          "prompt": "What were you doing in the park? You ought to have ___ your homework then!",
+          "options": ["done", "been doing", "both: done / been doing"],
+          "acceptedAnswers": ["been doing"]
+        },
+        {
+          "id": "b11",
+          "prompt": "Yes, of course you ___ open the window if you're too hot!",
+          "options": ["can", "are able to", "both: can / are able to"],
+          "acceptedAnswers": ["both: can / are able to"]
+        }
+      ]
+    },
+    {
+      "id": "c",
+      "type": "gap-fill",
+      "title": "C · must, have to, need",
+      "instruction": "Write a form of must, have to, need or need to in each gap. If more than one possibility is correct, write the most natural one; other accepted forms also score.",
+      "items": [
+        {
+          "id": "c1",
+          "prompt": "Oh, I ___ remember to get some potatoes on the way home tonight.",
+          "acceptedAnswers": ["must", "have to", "need to"]
+        },
+        {
+          "id": "c2",
+          "prompt": "Jason ___ see the headmaster during the next break. I wonder what it's about?",
+          "acceptedAnswers": ["has to", "must", "needs to"]
+        },
+        {
+          "id": "c3",
+          "prompt": "We ___ light lots of candles during the power cut two nights ago.",
+          "acceptedAnswers": ["had to", "needed to"]
+        },
+        {
+          "id": "c4",
+          "prompt": "I'll ___ start doing my Christmas cards soon. It's nearly December.",
+          "acceptedAnswers": ["have to", "need to"]
+        },
+        {
+          "id": "c5",
+          "prompt": "Carl, you ___ run into the street like that without looking first. It's dangerous!",
+          "acceptedAnswers": ["mustn't", "must not"]
+        },
+        {
+          "id": "c6",
+          "prompt": "People with solar-powered cars ___ worry about the price of petrol.",
+          "acceptedAnswers": ["don't have to", "don't need to", "needn't"]
+        },
+        {
+          "id": "c7",
+          "prompt": "I wouldn't like to ___ get up at five o'clock every morning.",
+          "acceptedAnswers": ["have to", "need to"]
+        },
+        {
+          "id": "c8",
+          "prompt": "We ___ do any washing-up after the picnic because we'd used disposable plates and cutlery.",
+          "acceptedAnswers": ["didn't have to", "didn't need to", "needn't have done"]
+        },
+        {
+          "id": "c9",
+          "prompt": "Do professional musicians ___ practise every day?",
+          "acceptedAnswers": ["have to", "need to"]
+        },
+        {
+          "id": "c10",
+          "prompt": "I ___ have bothered cooking all that food; they'd eaten before they arrived.",
+          "acceptedAnswers": ["needn't"]
+        }
+      ]
+    },
+    {
+      "id": "d",
+      "type": "rewrite",
+      "title": "D · Similar meaning",
+      "instruction": "Complete each second sentence using the word given, so that it has a similar meaning to the first. Write between two and five words.",
+      "items": [
+        {
+          "id": "d1",
+          "prompt": "His lights are on so I'm pretty sure Dan is at home. **as**\nDan ___ his lights are on.",
+          "acceptedAnswers": ["must be at home as", "must be in as"]
+        },
+        {
+          "id": "d2",
+          "prompt": "Susie's car's not here so she's almost certainly taking Dobber to the vet. **be**\nSusie ___ Dobber to the vet since her car's not here.",
+          "acceptedAnswers": ["must be taking", "must be taking"]
+        },
+        {
+          "id": "d3",
+          "prompt": "There's no way that boy's Simon. He's much taller! **boy**\nThat ___ Simon. He's much taller!",
+          "acceptedAnswers": ["boy can't be", "boy couldn't be", "can't be the boy"]
+        },
+        {
+          "id": "d4",
+          "prompt": "I'm certain the Winners don't think we're coming tonight; we arranged it for next Tuesday. **expecting**\nThe Winners ___ tonight; we arranged it for next Tuesday.",
+          "acceptedAnswers": ["can't be expecting us", "couldn't be expecting us", "can't be expecting us tonight"]
+        },
+        {
+          "id": "d5",
+          "prompt": "I bet you were exhausted after such a long journey! **have**\nYou ___ exhausted after such a long journey!",
+          "acceptedAnswers": ["must have been"]
+        },
+        {
+          "id": "d6",
+          "prompt": "The only explanation is that Evan was on the phone to someone in Australia! **talking**\nEvan ___ on the phone to someone in Australia!",
+          "acceptedAnswers": ["must have been talking"]
+        },
+        {
+          "id": "d7",
+          "prompt": "There's no way Casey won the disco dancing competition — he's got two left feet! **have**\nCasey ___ the disco dancing competition — he's got two left feet!",
+          "acceptedAnswers": ["can't have won", "couldn't have won"]
+        },
+        {
+          "id": "d8",
+          "prompt": "I don't believe Helen's been trying to call us all day. The phone hasn't rung once. **been**\nHelen ___ to call us all day. The phone hasn't rung once.",
+          "acceptedAnswers": ["can't have been trying", "couldn't have been trying"]
+        }
+      ]
+    },
+    {
+      "id": "e",
+      "type": "gap-fill",
+      "title": "E · Modals in Table A",
+      "instruction": "Use the words in the box only once to complete the sentences. The meaning in Table B will help you.",
+      "wordBank": ["able", "cannot", "could", "had", "have", "might", "must", "needn't", "mustn't", "ought", "should", "will"],
+      "items": [
+        {
+          "id": "e1",
+          "prompt": "I ___ have left my bag on the bus. (expressing certainty)",
+          "acceptedAnswers": ["must"]
+        },
+        {
+          "id": "e2",
+          "prompt": "In a few months, I'll be ___ to buy a car. (expressing future ability)",
+          "acceptedAnswers": ["able"]
+        },
+        {
+          "id": "e3",
+          "prompt": "I ___ drive when I was thirteen years old! (expressing past ability)",
+          "acceptedAnswers": ["could"]
+        },
+        {
+          "id": "e4",
+          "prompt": "No, you ___ have any more pocket money! (refusing a request)",
+          "acceptedAnswers": ["cannot"]
+        },
+        {
+          "id": "e5",
+          "prompt": "I think you ___ consider a career in the armed forces. (giving advice)",
+          "acceptedAnswers": ["should"]
+        },
+        {
+          "id": "e6",
+          "prompt": "I ___ forget to phone Julie tonight! (expressing personal obligation)",
+          "acceptedAnswers": ["mustn't"]
+        },
+        {
+          "id": "e7",
+          "prompt": "I ___ to have a filling at the dentist's. (expressing external obligation in the past)",
+          "acceptedAnswers": ["had"]
+        },
+        {
+          "id": "e8",
+          "prompt": "You don't ___ to do Exercise D for homework. (expressing a lack of obligation)",
+          "acceptedAnswers": ["have"]
+        },
+        {
+          "id": "e9",
+          "prompt": "You ___ have to work a lot harder if you want to get a good report. (expressing future obligation)",
+          "acceptedAnswers": ["will"]
+        },
+        {
+          "id": "e10",
+          "prompt": "They ___ to arrive at about 8. (expressing probability)",
+          "acceptedAnswers": ["ought"]
+        },
+        {
+          "id": "e11",
+          "prompt": "Sean ___ have got stuck in traffic. (expressing possibility)",
+          "acceptedAnswers": ["might"]
+        },
+        {
+          "id": "e12",
+          "prompt": "I ___ have worried so much about Jan's present. She loved it! (expressing a lack of past obligation)",
+          "acceptedAnswers": ["needn't"]
+        }
+      ]
+    },
+    {
+      "id": "f",
+      "type": "multiple-choice",
+      "title": "F · Circle the correct answer",
+      "instruction": "Select the modal that completes each sentence.",
+      "items": [
+        {
+          "id": "f1",
+          "prompt": "___ I have a look at those shoes in the window, please?",
+          "options": ["Must", "Would", "Should", "Could"],
+          "acceptedAnswers": ["Could"]
+        },
+        {
+          "id": "f2",
+          "prompt": "We ___ pay for the tickets as Josie won them in a competition.",
+          "options": ["mustn't", "didn't have to", "couldn't", "hadn't to"],
+          "acceptedAnswers": ["didn't have to"]
+        },
+        {
+          "id": "f3",
+          "prompt": "You really ___ make such a mountain out of a molehill!",
+          "options": ["can't", "won't", "mightn't", "shouldn't"],
+          "acceptedAnswers": ["shouldn't"]
+        },
+        {
+          "id": "f4",
+          "prompt": "You won't ___ to connect to the Internet once you've got broadband as you're online twenty-four hours a day.",
+          "options": ["need", "must", "ought", "able"],
+          "acceptedAnswers": ["need"]
+        },
+        {
+          "id": "f5",
+          "prompt": "I hope we ___ find the cinema easily.",
+          "options": ["could", "may", "might", "can"],
+          "acceptedAnswers": ["can"]
+        },
+        {
+          "id": "f6",
+          "prompt": "We couldn't find a hotel room so we ___ sleep in the car. It was awful!",
+          "options": ["must", "should", "had to", "could"],
+          "acceptedAnswers": ["had to"]
+        },
+        {
+          "id": "f7",
+          "prompt": "We'd love to ___ afford to go on a round-the-world cruise.",
+          "options": ["can", "be able to", "will have to", "have to"],
+          "acceptedAnswers": ["be able to"]
+        },
+        {
+          "id": "f8",
+          "prompt": "Fiona can't ___ about the meeting. I reminded her this morning!",
+          "options": ["forget", "be forgetting", "have forgotten", "have been forgetting"],
+          "acceptedAnswers": ["have forgotten"]
+        },
+        {
+          "id": "f9",
+          "prompt": "She could ___ in the garage when we came round, which would explain why she didn't hear the bell.",
+          "options": ["work", "be working", "have worked", "have been working"],
+          "acceptedAnswers": ["have been working"]
+        },
+        {
+          "id": "f10",
+          "prompt": "You'll ___ tell the police that your house was broken into.",
+          "options": ["have to", "must", "had to", "should"],
+          "acceptedAnswers": ["have to"]
+        }
+      ]
+    },
+    {
+      "id": "g",
+      "type": "gap-fill",
+      "title": "G · Replace the phrase",
+      "instruction": "Write a modal or semi-modal in each gap to replace the phrase in brackets. Add any other words you need.",
+      "items": [
+        {
+          "id": "g1",
+          "prompt": "Bruce ___ finish most crosswords in under ten minutes. (is able to)",
+          "acceptedAnswers": ["can", "is able to"]
+        },
+        {
+          "id": "g2",
+          "prompt": "Charlotte didn't get to the Craig David concert because she ___ get tickets. (wasn't able to)",
+          "acceptedAnswers": ["couldn't", "wasn't able to"]
+        },
+        {
+          "id": "g3",
+          "prompt": "I ___ go to Oxford but I decided to go to a more modern university. (had the opportunity to go)",
+          "acceptedAnswers": ["could have gone", "could have"]
+        },
+        {
+          "id": "g4",
+          "prompt": "You ___ Angus. You know he can't keep a secret! (were wrong to tell)",
+          "acceptedAnswers": ["shouldn't have told", "ought not to have told"]
+        },
+        {
+          "id": "g5",
+          "prompt": "If you have a cashpoint card, you ___ go into the bank to get money from your account. (are not forced to)",
+          "acceptedAnswers": ["don't have to", "needn't", "don't need to"]
+        },
+        {
+          "id": "g6",
+          "prompt": "We ___ apologise to the police for wasting their time. (were made to)",
+          "acceptedAnswers": ["had to"]
+        },
+        {
+          "id": "g7",
+          "prompt": "That ___ the last can of soda in the fridge. I bought loads this morning! (almost definitely wasn't)",
+          "acceptedAnswers": ["can't have been", "couldn't have been"]
+        },
+        {
+          "id": "g8",
+          "prompt": "___ talk about two photographs during the interview? (Were you obliged to)",
+          "acceptedAnswers": ["Did you have to", "Did you need to"]
+        },
+        {
+          "id": "g9",
+          "prompt": "Children ___ be left unattended. (are not allowed to)",
+          "acceptedAnswers": ["mustn't", "may not", "can't"]
+        },
+        {
+          "id": "g10",
+          "prompt": "The weather ___ be good tomorrow. (will probably)",
+          "acceptedAnswers": ["should", "ought to"]
+        }
+      ]
+    },
+    {
+      "id": "h",
+      "type": "multiple-choice",
+      "title": "H · Choosing a gym",
+      "instruction": "Select the form that completes each gap.",
+      "items": [
+        {
+          "id": "h1",
+          "prompt": "Choosing to go to a gym regularly ___ change your life for the better. Don't let it be a decision you regret!",
+          "options": ["can", "would", "should", "will have to"],
+          "acceptedAnswers": ["can"]
+        },
+        {
+          "id": "h2",
+          "prompt": "Good gyms have a lot to offer. They ___ provide exercise equipment that is just too expensive to buy",
+          "options": ["can", "could", "might", "must"],
+          "acceptedAnswers": ["can"]
+        },
+        {
+          "id": "h3",
+          "prompt": "and their trained staff are ___ to provide quality health and fitness advice.",
+          "options": ["should", "forced", "allowed", "able"],
+          "acceptedAnswers": ["able"]
+        },
+        {
+          "id": "h4",
+          "prompt": "But if you're planning to join a gym, you ___ definitely ask to look round before you become a member.",
+          "options": ["can", "could", "might", "should"],
+          "acceptedAnswers": ["should"]
+        },
+        {
+          "id": "h5",
+          "prompt": "There are a number of things to bear in mind before choosing which gym to join. Before the law changed a few years ago, anyone ___ set up a gym and even today gyms",
+          "options": ["can", "could", "might", "may"],
+          "acceptedAnswers": ["could"]
+        },
+        {
+          "id": "h6",
+          "prompt": "___ employ trained fitness instructors. Find out what qualifications the staff have.",
+          "options": ["mustn't", "don't have to", "can't", "shouldn't"],
+          "acceptedAnswers": ["don't have to"]
+        },
+        {
+          "id": "h7",
+          "prompt": "If they're untrained, it's best to go elsewhere. You ___ be put off by the gym's hard sell.",
+          "options": ["mustn't", "couldn't", "mightn't", "won't"],
+          "acceptedAnswers": ["mustn't"]
+        },
+        {
+          "id": "h8",
+          "prompt": "Just because they want you to sign up — they want your money, after all — that doesn't mean you ___ decide there and then.",
+          "options": ["can't", "can", "could", "have to"],
+          "acceptedAnswers": ["have to"]
+        },
+        {
+          "id": "h9",
+          "prompt": "See a few gyms before you make your final decision. Ask yourself: What kind of equipment and facilities do they have? There's little point joining a gym and then thinking a few months later, 'I ___ have chosen a gym with a pool.'",
+          "options": ["ought to", "must", "would", "can't"],
+          "acceptedAnswers": ["ought to"]
+        },
+        {
+          "id": "h10",
+          "prompt": "Do you ___ book equipment in advance, or can you just turn up and use it?",
+          "options": ["able", "must", "have to", "allowed"],
+          "acceptedAnswers": ["have to"]
+        },
+        {
+          "id": "h11",
+          "prompt": "How busy does the gym get? It ___ be very pleasant turning up to find there's no room in the changing room and there's a huge queue for each piece of equipment.",
+          "options": ["won't have to", "doesn't have to", "mustn't", "won't"],
+          "acceptedAnswers": ["won't"]
+        },
+        {
+          "id": "h12",
+          "prompt": "It ___ also be a good idea to talk to people who already go to that gym to find out their opinion.",
+          "options": ["must", "might", "has to", "ought to"],
+          "acceptedAnswers": ["might"]
+        }
+      ]
+    },
+    {
+      "id": "i",
+      "type": "gap-fill",
+      "title": "I · One word in each gap",
+      "instruction": "Write one word in each gap.",
+      "items": [
+        {
+          "id": "i1",
+          "prompt": "When I broke my arm a week ago, I guess it (1) ___ to have hurt. But it didn't!",
+          "acceptedAnswers": ["ought"]
+        },
+        {
+          "id": "i2",
+          "prompt": "We were doing PE at school, and we were making a pyramid. We (2) ___ to stand on each other's shoulders.",
+          "acceptedAnswers": ["had"]
+        },
+        {
+          "id": "i3",
+          "prompt": "I was right at the top. We (3) ___ have been doing it properly because suddenly the pyramid collapsed and we all fell.",
+          "acceptedAnswers": ["can't", "couldn't"]
+        },
+        {
+          "id": "i4",
+          "prompt": "I landed on my arm. Mr Jenkins (4) ___ have known immediately that I'd broken my arm because he sent someone to call an ambulance.",
+          "acceptedAnswers": ["must"]
+        },
+        {
+          "id": "i5",
+          "prompt": "'Sit still, and don't move your arm at all until the ambulance comes,' he said. I (5) ___ still remember the feeling — my arm was numb, and looked very strange, but there was no pain at all.",
+          "acceptedAnswers": ["can"]
+        },
+        {
+          "id": "i6",
+          "prompt": "I remember thinking: 'It (6) ___ be broken. If it was broken, I'd be in agony.'",
+          "acceptedAnswers": ["can't", "couldn't"]
+        },
+        {
+          "id": "i7",
+          "prompt": "I suppose not feeling any pain (7) ___ have been because I was in shock.",
+          "acceptedAnswers": ["must", "might", "could", "may"]
+        },
+        {
+          "id": "i8",
+          "prompt": "The plaster ___ come off in about three weeks but I may have to stay on longer.",
+          "acceptedAnswers": ["should", "ought to"]
+        },
+        {
+          "id": "i9",
+          "prompt": "The plaster should come off in about three weeks but I ___ have to stay on longer.",
+          "acceptedAnswers": ["may", "might"]
+        },
+        {
+          "id": "i10",
+          "prompt": "The next three weeks may ___ be the best three weeks of my life — no basketball, no playing in the playground, no swimming — but I'm counting my blessings.",
+          "acceptedAnswers": ["not"]
+        },
+        {
+          "id": "i11",
+          "prompt": "It ___ have been a lot worse!",
+          "acceptedAnswers": ["could", "might"]
+        }
+      ]
+    }
+  ]
+}
