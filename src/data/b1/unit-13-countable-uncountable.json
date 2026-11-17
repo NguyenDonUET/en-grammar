@@ -1,0 +1,448 @@
+{
+  "id": "unit-13-countable-uncountable",
+  "level": "b1",
+  "unitNumber": 13,
+  "title": "Countable and uncountable nouns",
+  "subtitle": "Singular, plural, a few, a little, and nouns that change meaning",
+  "theory": [
+    {
+      "id": "countable",
+      "title": "Countable nouns",
+      "icon": "BookOpen",
+      "blocks": [
+        {
+          "type": "prose",
+          "text": "Countable nouns have a singular and a plural form and take a singular or plural verb."
+        },
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "shop / shops",
+              "example": "There are over 100 **shops** in the new shopping centre."
+            },
+            {
+              "use": "baby / babies",
+              "example": "They've got some great toys for **babies** in there."
+            },
+            {
+              "use": "dish / dishes",
+              "example": "We need to get some new **dishes** for this evening."
+            }
+          ]
+        },
+        {
+          "type": "hints",
+          "intro": "We use these words with countable nouns:",
+          "items": [
+            "{pill:a} {pill:an} {pill:many}",
+            "{pill:a few} {pill:one} {pill:two} {pill:etc}"
+          ]
+        },
+        {
+          "type": "watch-out",
+          "text": "A few countable nouns have irregular plurals.",
+          "note": "one child, two **children** · one foot, two **feet** · one man, two **men** · one person, two **people** · one tooth, two **teeth** · one woman, two **women**"
+        }
+      ]
+    },
+    {
+      "id": "uncountable",
+      "title": "Uncountable nouns",
+      "icon": "Sparkles",
+      "blocks": [
+        {
+          "type": "prose",
+          "text": "We cannot count some nouns (uncountable nouns). They do not have a plural form and take a singular verb, even if they end in **-s**."
+        },
+        {
+          "type": "word-list",
+          "intro": "Some uncountable nouns:",
+          "words": [
+            "advice",
+            "bread",
+            "fruit",
+            "furniture",
+            "hair",
+            "homework",
+            "information",
+            "money",
+            "news",
+            "paper",
+            "rice",
+            "work"
+          ]
+        },
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "money",
+              "example": "My **money is** in my wallet."
+            },
+            {
+              "use": "hair",
+              "example": "Your **hair is** really long!"
+            },
+            {
+              "use": "news",
+              "example": "The **news was** a complete shock."
+            }
+          ]
+        },
+        {
+          "type": "hints",
+          "intro": "We use these words with uncountable nouns:",
+          "items": [
+            "{pill:a little} {pill:much}",
+            "{pill:a bit of} {pill:a piece of}"
+          ]
+        },
+        {
+          "type": "hints",
+          "intro": "We use these words with both countable and uncountable nouns:",
+          "items": [
+            "{pill:a lot of} {pill:some} {pill:lots of} {pill:the}",
+            "We can use **any** in questions and negative statements with both countable nouns and plural countable nouns:",
+            "Have we got **any** homework today?",
+            "There aren't **any** eggs left."
+          ]
+        },
+        {
+          "type": "watch-out",
+          "text": "There are a few uncountable nouns that are plural and are followed by a plural verb. Be careful with **clothes** and **jeans**."
+        },
+        {
+          "type": "correct-incorrect",
+          "correct": "Your clean **clothes are** on the bed.",
+          "incorrect": "Your clean **clothes is** on the bed."
+        },
+        {
+          "type": "correct-incorrect",
+          "correct": "Your new **jeans look** great!",
+          "incorrect": "Your new **jeans looks** great!"
+        },
+        {
+          "type": "watch-out",
+          "text": "Some nouns are uncountable with one meaning and countable with another meaning.",
+          "note": "Get me some **paper** when you go to the shops. (= a packet of paper to write on) · Get me **a paper** when you go to the shops. (= a newspaper)"
+        }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "a",
+      "type": "gap-fill",
+      "title": "A · Irregular plurals",
+      "instruction": "Complete using the plural form of a word from the box.",
+      "wordBank": ["child", "foot", "man", "person", "puppy", "tooth", "watch", "woman"],
+      "items": [
+        {
+          "id": "a1",
+          "prompt": "Did you know that Jason's dog has had three beautiful ___ ?",
+          "acceptedAnswers": ["puppies"]
+        },
+        {
+          "id": "a2",
+          "prompt": "The Spice Girls was an all-girl band, so there weren't any ___ .",
+          "acceptedAnswers": ["men"]
+        },
+        {
+          "id": "a3",
+          "prompt": "It's a bit strange that Victor wears two ___ — one on each arm.",
+          "acceptedAnswers": ["watches"]
+        },
+        {
+          "id": "a4",
+          "prompt": "If ___ do the same jobs as their husbands, they should be paid the same.",
+          "acceptedAnswers": ["women"]
+        },
+        {
+          "id": "a5",
+          "prompt": "The dentist says I have to have two ___ taken out!",
+          "acceptedAnswers": ["teeth"]
+        },
+        {
+          "id": "a6",
+          "prompt": "How many ___ were there at the show?",
+          "acceptedAnswers": ["people"]
+        },
+        {
+          "id": "a7",
+          "prompt": "We've walked miles! My ___ are hurting!",
+          "acceptedAnswers": ["feet"]
+        },
+        {
+          "id": "a8",
+          "prompt": "Mrs Jenkins has just had a baby, so she's got three ___ now.",
+          "acceptedAnswers": ["children"]
+        }
+      ]
+    },
+    {
+      "id": "b",
+      "type": "multiple-choice",
+      "title": "B · Circle the correct word",
+      "instruction": "Select the form that agrees with the noun.",
+      "items": [
+        {
+          "id": "b1",
+          "prompt": "Your money ___ on the table in the dining room.",
+          "options": ["is", "are"],
+          "acceptedAnswers": ["is"]
+        },
+        {
+          "id": "b2",
+          "prompt": "The advice you gave me ___ really useful. Thanks!",
+          "options": ["was", "were"],
+          "acceptedAnswers": ["was"]
+        },
+        {
+          "id": "b3",
+          "prompt": "The cakes in that shop ___ absolutely delicious.",
+          "options": ["looks", "look"],
+          "acceptedAnswers": ["look"]
+        },
+        {
+          "id": "b4",
+          "prompt": "There ___ been a lot of bad news recently.",
+          "options": ["has", "have"],
+          "acceptedAnswers": ["has"]
+        },
+        {
+          "id": "b5",
+          "prompt": "Your homework ___ late. Please do it sooner next time.",
+          "options": ["was", "were"],
+          "acceptedAnswers": ["was"]
+        },
+        {
+          "id": "b6",
+          "prompt": "___ the information about the museum include the opening times?",
+          "options": ["Does", "Do"],
+          "acceptedAnswers": ["Does"]
+        },
+        {
+          "id": "b7",
+          "prompt": "We need new furniture in the dining room. ___ very old and scratched.",
+          "options": ["It's", "They're"],
+          "acceptedAnswers": ["It's"]
+        },
+        {
+          "id": "b8",
+          "prompt": "The fish in this tank all ___ to be ill.",
+          "options": ["seems", "seem"],
+          "acceptedAnswers": ["seem"]
+        },
+        {
+          "id": "b9",
+          "prompt": "I love your hair. ___ really soft.",
+          "options": ["It's", "They're"],
+          "acceptedAnswers": ["It's"]
+        },
+        {
+          "id": "b10",
+          "prompt": "Oh, no! The rice ___ gone all over the floor!",
+          "options": ["has", "have"],
+          "acceptedAnswers": ["has"]
+        }
+      ]
+    },
+    {
+      "id": "c",
+      "type": "gap-fill",
+      "title": "C · Quantifiers",
+      "instruction": "Complete using a phrase from the box. Some pictures accept more than one phrase.",
+      "wordBank": ["a few", "a little", "a piece of", "some"],
+      "items": [
+        {
+          "id": "c1",
+          "prompt": "sugar — ___ sugar",
+          "acceptedAnswers": ["some", "a little"]
+        },
+        {
+          "id": "c2",
+          "prompt": "bread — ___ bread",
+          "acceptedAnswers": ["some", "a piece of"]
+        },
+        {
+          "id": "c3",
+          "prompt": "bottles — ___ bottles",
+          "acceptedAnswers": ["some", "a few"]
+        },
+        {
+          "id": "c4",
+          "prompt": "water — ___ water",
+          "acceptedAnswers": ["some", "a little"]
+        },
+        {
+          "id": "c5",
+          "prompt": "fruit — ___ fruit",
+          "acceptedAnswers": ["some", "a piece of"]
+        },
+        {
+          "id": "c6",
+          "prompt": "toys — ___ toys",
+          "acceptedAnswers": ["some", "a few"]
+        },
+        {
+          "id": "c7",
+          "prompt": "butter — ___ butter",
+          "acceptedAnswers": ["some", "a little"]
+        },
+        {
+          "id": "c8",
+          "prompt": "music — ___ music",
+          "acceptedAnswers": ["some", "a little"]
+        }
+      ]
+    },
+    {
+      "id": "d",
+      "type": "rewrite",
+      "title": "D · Similar meaning",
+      "instruction": "Complete each second sentence using the word given. Write no more than three words.",
+      "items": [
+        {
+          "id": "d1",
+          "prompt": "We don't know anything about the problem. **information** — We don't ___ about the problem.",
+          "acceptedAnswers": [
+            "have any information",
+            "have much information",
+            "We don't have any information about the problem."
+          ]
+        },
+        {
+          "id": "d2",
+          "prompt": "Is it okay if I have some cheese? **bit** — Is it okay if I have ___ cheese?",
+          "acceptedAnswers": [
+            "a bit of",
+            "Is it okay if I have a bit of cheese?"
+          ]
+        },
+        {
+          "id": "d3",
+          "prompt": "There's only a little coffee left in the jar. **much** — There ___ coffee left in the jar.",
+          "acceptedAnswers": [
+            "isn't much",
+            "is not much",
+            "There isn't much coffee left in the jar."
+          ]
+        },
+        {
+          "id": "d4",
+          "prompt": "I try not to drink too much Coca-Cola in a week. **cans** — I try not to drink too ___ of Coca-Cola in a week.",
+          "acceptedAnswers": [
+            "many cans",
+            "I try not to drink too many cans of Coca-Cola in a week."
+          ]
+        },
+        {
+          "id": "d5",
+          "prompt": "Would you like some more chocolate? **piece** — Would you like ___ chocolate?",
+          "acceptedAnswers": [
+            "another piece of",
+            "a piece of",
+            "Would you like another piece of chocolate?"
+          ]
+        },
+        {
+          "id": "d6",
+          "prompt": "I don't want a lot of cream on my strawberries. **cream** — I only want ___ on my strawberries.",
+          "acceptedAnswers": [
+            "a little cream",
+            "a bit of cream",
+            "I only want a little cream on my strawberries."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e",
+      "type": "multiple-choice",
+      "title": "E · Choose the correct answer",
+      "instruction": "Select the meaning that fits the sentence.",
+      "items": [
+        {
+          "id": "e1",
+          "prompt": "Be careful with that vase because it's made of ___ !",
+          "options": ["glass", "a glass"],
+          "acceptedAnswers": ["glass"]
+        },
+        {
+          "id": "e2",
+          "prompt": "I started coughing because I had ___ at the back of my throat.",
+          "options": ["hair", "a hair"],
+          "acceptedAnswers": ["a hair"]
+        },
+        {
+          "id": "e3",
+          "prompt": "Don't put your hot cup on my new table! It's ___ and I don't want you to burn it.",
+          "options": ["wood", "a wood"],
+          "acceptedAnswers": ["wood"]
+        },
+        {
+          "id": "e4",
+          "prompt": "We should all recycle ___ so that it can be used again.",
+          "options": ["paper", "a paper"],
+          "acceptedAnswers": ["paper"]
+        },
+        {
+          "id": "e5",
+          "prompt": "My dad gets ___ every day on his way to work.",
+          "options": ["paper", "a paper"],
+          "acceptedAnswers": ["a paper"]
+        },
+        {
+          "id": "e6",
+          "prompt": "Of course you can have some milk. Get ___ out of the cupboard.",
+          "options": ["glass", "a glass"],
+          "acceptedAnswers": ["a glass"]
+        }
+      ]
+    },
+    {
+      "id": "f",
+      "type": "gap-fill",
+      "title": "F · Open-air markets",
+      "instruction": "Write one word in each gap.",
+      "items": [
+        {
+          "id": "f1",
+          "prompt": "Even if you only have a ___ money, you can still have a great time at your local open-air market.",
+          "acceptedAnswers": ["little"]
+        },
+        {
+          "id": "f2",
+          "prompt": "The clothes ___ cheap,",
+          "acceptedAnswers": ["are"]
+        },
+        {
+          "id": "f3",
+          "prompt": "and the fruit ___ cheap, too!",
+          "acceptedAnswers": ["is"]
+        },
+        {
+          "id": "f4",
+          "prompt": "Often, the food in your local supermarket ___ travelled a long way,",
+          "acceptedAnswers": ["has"]
+        },
+        {
+          "id": "f5",
+          "prompt": "but at the market you know that you're buying food which has been produced locally. The vegetables ___ fresh,",
+          "acceptedAnswers": ["are"]
+        },
+        {
+          "id": "f6",
+          "prompt": "even if you go late in the day when there are only a ___ left.",
+          "acceptedAnswers": ["few"]
+        },
+        {
+          "id": "f7",
+          "prompt": "Support your local market and help local farmers. Contact your Town Hall to find out if there are ___ open-air markets in your area.",
+          "acceptedAnswers": ["any"]
+        }
+      ]
+    }
+  ]
+}

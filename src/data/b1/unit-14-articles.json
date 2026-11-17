@@ -1,0 +1,471 @@
+{
+  "id": "unit-14-articles",
+  "level": "b1",
+  "unitNumber": 14,
+  "title": "Articles",
+  "subtitle": "a, an, the, and when we use no article",
+  "theory": [
+    {
+      "id": "a-an",
+      "title": "a / an (indefinite article)",
+      "icon": "BookOpen",
+      "blocks": [
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "a · singular countable nouns (not specific)",
+              "example": "I need to get **a** new coat."
+            },
+            {
+              "use": "an · instead of a when the next word begins with a vowel sound",
+              "example": "I don't have enough money for **an** expensive dress."
+            }
+          ]
+        },
+        {
+          "type": "watch-out",
+          "text": "Whether we use **a** or **an** with a word depends on the **sound**, not the spelling.",
+          "note": "**an** honest person · **an** hour · **a** euro · **a** uniform"
+        }
+      ]
+    },
+    {
+      "id": "the",
+      "title": "the (definite article)",
+      "icon": "Sparkles",
+      "blocks": [
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "singular countable nouns (specific)",
+              "example": "Let's go to **the** new shopping centre."
+            },
+            {
+              "use": "plural countable nouns (specific)",
+              "example": "Where are **the** books I ordered?"
+            },
+            {
+              "use": "uncountable nouns (specific)",
+              "example": "I gave the shop assistant **the** money and then left."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "zero-article",
+      "title": "No article (zero article)",
+      "icon": "Lightbulb",
+      "blocks": [
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "plural countable nouns (general)",
+              "example": "Prices have gone up a lot recently."
+            },
+            {
+              "use": "uncountable nouns (general)",
+              "example": "Fresh fruit is really good for you."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "special-rules",
+      "title": "Special rules",
+      "icon": "Table2",
+      "blocks": [
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "places · the",
+              "example": "seas (**the** Atlantic), rivers (**the** Amazon), areas (**the** Antarctic), some countries (**the** USA, **the** UK), public buildings (**the** theatre), **the** Earth, **the** world, **the** sky, **the** moon, **the** sun, **the** sea, **the** environment"
+            },
+            {
+              "use": "places · no article",
+              "example": "towns and cities (Moscow), most countries (France), continents (Europe), streets (Baker Street), planets (Mars)"
+            },
+            {
+              "use": "activities · a / an",
+              "example": "have **a** job, work as **a** …"
+            },
+            {
+              "use": "activities · the",
+              "example": "on **the** radio, **the** media, play **the** piano"
+            },
+            {
+              "use": "activities · no article",
+              "example": "go to work, on TV, go shopping, play tennis, listen to music, go to school, be at school, be at university, school subjects (maths)"
+            },
+            {
+              "use": "time · the",
+              "example": "in **the** morning/afternoon/evening, on **the** 20th March, in **the** 1950s"
+            },
+            {
+              "use": "time · no article",
+              "example": "days (Thursday), months (May), years (2009), at night"
+            },
+            {
+              "use": "people · the",
+              "example": "**the** King, **the** Prime Minister, **the** army, **the** navy, **the** police, **the** Germans, **the** English"
+            },
+            {
+              "use": "people · no article",
+              "example": "become king, he's English, speak English"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "a",
+      "type": "gap-fill",
+      "title": "A · a, an or the",
+      "instruction": "Complete using a, an or the.",
+      "wordBank": ["a", "an", "the"],
+      "items": [
+        {
+          "id": "a1",
+          "prompt": "We had ___ really good science lesson at school today.",
+          "acceptedAnswers": ["a"]
+        },
+        {
+          "id": "a2",
+          "prompt": "I found ___ unusual insect on the wall outside our house.",
+          "acceptedAnswers": ["an"]
+        },
+        {
+          "id": "a3",
+          "prompt": "It's your birthday next week. Are you going to have ___ party?",
+          "acceptedAnswers": ["a"]
+        },
+        {
+          "id": "a4",
+          "prompt": "We waited for hours, but we finally saw ___ Queen.",
+          "acceptedAnswers": ["the"]
+        },
+        {
+          "id": "a5",
+          "prompt": "Why don't we listen to ___ radio?",
+          "acceptedAnswers": ["the"]
+        },
+        {
+          "id": "a6",
+          "prompt": "Have you got ___ euro I could borrow?",
+          "acceptedAnswers": ["a"]
+        },
+        {
+          "id": "a7",
+          "prompt": "Mum has gone to ___ bank, but she'll be back soon.",
+          "acceptedAnswers": ["the"]
+        },
+        {
+          "id": "a8",
+          "prompt": "Where have you been? I've been waiting for over ___ hour!",
+          "acceptedAnswers": ["an"]
+        }
+      ]
+    },
+    {
+      "id": "b",
+      "type": "gap-fill",
+      "title": "B · Article or dash",
+      "instruction": "Write an article in each gap where necessary. If an article is not necessary, put a dash (-).",
+      "items": [
+        {
+          "id": "b1",
+          "prompt": "I had (1) ___ really bad day on Tuesday.",
+          "acceptedAnswers": ["a"]
+        },
+        {
+          "id": "b2",
+          "prompt": "I had a really bad day on (2) ___ Tuesday.",
+          "acceptedAnswers": ["-", "–"]
+        },
+        {
+          "id": "b3",
+          "prompt": "I bought (3) ___ new game on CD-ROM for my computer,",
+          "acceptedAnswers": ["a"]
+        },
+        {
+          "id": "b4",
+          "prompt": "but (4) ___ game didn't work properly.",
+          "acceptedAnswers": ["the"]
+        },
+        {
+          "id": "b5",
+          "prompt": "I took it back to (5) ___ shop on",
+          "acceptedAnswers": ["the"]
+        },
+        {
+          "id": "b6",
+          "prompt": "(6) ___ North Street, but",
+          "acceptedAnswers": ["-", "–"]
+        },
+        {
+          "id": "b7",
+          "prompt": "(7) ___ manager blamed me!",
+          "acceptedAnswers": ["the"]
+        },
+        {
+          "id": "b8",
+          "prompt": "He pointed to (8) ___ scratch on",
+          "acceptedAnswers": ["a", "the"]
+        },
+        {
+          "id": "b9",
+          "prompt": "(9) ___ CD-ROM and said I'd done it.",
+          "acceptedAnswers": ["the"]
+        },
+        {
+          "id": "b10",
+          "prompt": "I couldn't believe it! I had to buy (10) ___ new one!",
+          "acceptedAnswers": ["a"]
+        }
+      ]
+    },
+    {
+      "id": "c",
+      "type": "rewrite",
+      "title": "C · Extra word",
+      "instruction": "Write the extra word in each sentence. If the sentence is already correct, write OK.",
+      "items": [
+        {
+          "id": "c1",
+          "prompt": "Do you think we will ever send a person to **the** Mars?",
+          "acceptedAnswers": ["the"]
+        },
+        {
+          "id": "c2",
+          "prompt": "When you go to **the** London, don't forget to see the London Eye.",
+          "acceptedAnswers": ["the"]
+        },
+        {
+          "id": "c3",
+          "prompt": "When we use **the** cars, we damage the environment.",
+          "acceptedAnswers": ["the"]
+        },
+        {
+          "id": "c4",
+          "prompt": "I'm not telling a lies! It's the truth.",
+          "acceptedAnswers": ["a"]
+        },
+        {
+          "id": "c5",
+          "prompt": "I'm looking for a teacher who can teach me **the** German.",
+          "acceptedAnswers": ["the"]
+        },
+        {
+          "id": "c6",
+          "prompt": "Ray needs a warm hat and a new coat for his visit to **the** Russia.",
+          "acceptedAnswers": ["the"]
+        },
+        {
+          "id": "c7",
+          "prompt": "Dad has gone to **a** work and forgotten the car keys.",
+          "acceptedAnswers": ["a"]
+        },
+        {
+          "id": "c8",
+          "prompt": "Some people have an unusual pets, such as lions or tigers.",
+          "acceptedAnswers": ["an"]
+        }
+      ]
+    },
+    {
+      "id": "d",
+      "type": "rewrite",
+      "title": "D · Missing word",
+      "instruction": "Write the missing article (and the word after it if you need to show the place).",
+      "items": [
+        {
+          "id": "d1",
+          "prompt": "English music was popular in America in **1960s**.",
+          "acceptedAnswers": ["the 1960s", "in the 1960s"]
+        },
+        {
+          "id": "d2",
+          "prompt": "Would you prefer to read **book** or watch television?",
+          "acceptedAnswers": ["a book"]
+        },
+        {
+          "id": "d3",
+          "prompt": "We had maths at school yesterday and our teacher gave us **surprise test**!",
+          "acceptedAnswers": ["a surprise test"]
+        },
+        {
+          "id": "d4",
+          "prompt": "Peter joined **police** and caught ten thieves in his first month!",
+          "acceptedAnswers": ["the police"]
+        },
+        {
+          "id": "d5",
+          "prompt": "Gordon wanted to be **writer**, so he studied English at university.",
+          "acceptedAnswers": ["a writer"]
+        },
+        {
+          "id": "d6",
+          "prompt": "Suddenly, two UFOs appeared in **sky** over Washington.",
+          "acceptedAnswers": ["the sky"]
+        }
+      ]
+    },
+    {
+      "id": "e",
+      "type": "rewrite",
+      "title": "E · Add articles",
+      "instruction": "Rewrite the sentences correctly, adding articles where necessary.",
+      "items": [
+        {
+          "id": "e1",
+          "prompt": "We had great time in USA.",
+          "acceptedAnswers": [
+            "We had a great time in the USA.",
+            "We had a great time in the USA"
+          ]
+        },
+        {
+          "id": "e2",
+          "prompt": "Let's go to Belgium for week this summer.",
+          "acceptedAnswers": [
+            "Let's go to Belgium for a week this summer.",
+            "Let's go to Belgium for a week this summer"
+          ]
+        },
+        {
+          "id": "e3",
+          "prompt": "Where's money I gave you on fifteenth of last month?",
+          "acceptedAnswers": [
+            "Where's the money I gave you on the fifteenth of last month?",
+            "Where's the money I gave you on the fifteenth of last month"
+          ]
+        },
+        {
+          "id": "e4",
+          "prompt": "I'd like to join army and become soldier.",
+          "acceptedAnswers": [
+            "I'd like to join the army and become a soldier.",
+            "I'd like to join the army and become a soldier",
+            "I would like to join the army and become a soldier.",
+            "I would like to join the army and become a soldier"
+          ]
+        },
+        {
+          "id": "e5",
+          "prompt": "For Christmas, I got book, DVD and latest CD by my favourite band.",
+          "acceptedAnswers": [
+            "For Christmas, I got a book, a DVD and the latest CD by my favourite band.",
+            "For Christmas, I got a book, a DVD and the latest CD by my favourite band"
+          ]
+        },
+        {
+          "id": "e6",
+          "prompt": "They say that English drink lot of tea.",
+          "acceptedAnswers": [
+            "They say that the English drink a lot of tea.",
+            "They say that the English drink a lot of tea"
+          ]
+        },
+        {
+          "id": "e7",
+          "prompt": "I heard song on radio that I really liked.",
+          "acceptedAnswers": [
+            "I heard a song on the radio that I really liked.",
+            "I heard a song on the radio that I really liked"
+          ]
+        },
+        {
+          "id": "e8",
+          "prompt": "Do Japanese and other people in Asia eat cheese?",
+          "acceptedAnswers": [
+            "Do the Japanese and other people in Asia eat cheese?",
+            "Do the Japanese and other people in Asia eat cheese"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f",
+      "type": "error-correction",
+      "title": "F · Dialogue mistakes",
+      "instruction": "Tap the article that is wrong, then write the correct form. Use a dash (-) if the article should be removed.",
+      "paragraph": "{click:It's the} lovely day, isn't it? Let's walk down to {click:a shops} and look around. That's {click:an good} idea. I'll just have a look {click:in a kitchen} and see what we need. I got {click:a milk} yesterday, so we don't need any more. We might need {click:a bread}, though. Okay. Bread … oh, and {click:the packet} of sugar. After shopping, we could go to {click:a new market} in {click:a town centre} and see what they have. Right. You get your coat and I'll get {click:a car keys}.",
+      "items": [
+        {
+          "id": "f1",
+          "prompt": "Opening line",
+          "targetSpan": "It's the",
+          "acceptedAnswers": ["It's a", "It's a lovely"],
+          "explanation": "First mention of a lovely day uses a, not the."
+        },
+        {
+          "id": "f2",
+          "prompt": "Shops in general / the local shops",
+          "targetSpan": "a shops",
+          "acceptedAnswers": ["the shops", "- shops"],
+          "explanation": "Plural shops needs the (specific local shops) or no article for shops in general. Write: the shops"
+        },
+        {
+          "id": "f3",
+          "prompt": "Sound before a consonant",
+          "targetSpan": "an good",
+          "acceptedAnswers": ["a good"],
+          "explanation": "good begins with a consonant sound → a good."
+        },
+        {
+          "id": "f4",
+          "prompt": "Their kitchen",
+          "targetSpan": "in a kitchen",
+          "acceptedAnswers": ["in the kitchen"],
+          "explanation": "A specific kitchen in the house uses the."
+        },
+        {
+          "id": "f5",
+          "prompt": "Uncountable milk",
+          "targetSpan": "a milk",
+          "acceptedAnswers": ["some milk", "milk", "-"],
+          "explanation": "Milk is uncountable here. Write: some milk or -"
+        },
+        {
+          "id": "f6",
+          "prompt": "Uncountable bread",
+          "targetSpan": "a bread",
+          "acceptedAnswers": ["some bread", "bread", "-"],
+          "explanation": "Bread is uncountable unless you mean a loaf."
+        },
+        {
+          "id": "f7",
+          "prompt": "First mention of a packet",
+          "targetSpan": "the packet",
+          "acceptedAnswers": ["a packet"]
+        },
+        {
+          "id": "f8",
+          "prompt": "A known local market",
+          "targetSpan": "a new market",
+          "acceptedAnswers": ["the new market"],
+          "explanation": "If you mean the town's market, use the."
+        },
+        {
+          "id": "f9",
+          "prompt": "Town centre",
+          "targetSpan": "a town centre",
+          "acceptedAnswers": ["the town centre"]
+        },
+        {
+          "id": "f10",
+          "prompt": "Specific keys",
+          "targetSpan": "a car keys",
+          "acceptedAnswers": ["the car keys"]
+        }
+      ]
+    }
+  ]
+}

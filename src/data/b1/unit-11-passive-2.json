@@ -1,0 +1,375 @@
+{
+  "id": "unit-11-passive-2",
+  "level": "b1",
+  "unitNumber": 11,
+  "title": "The passive 2",
+  "subtitle": "Continuous forms, perfect forms, be going to and modals",
+  "theory": [
+    {
+      "id": "passive-more-tenses",
+      "title": "The passive (more tenses and modals)",
+      "icon": "BookOpen",
+      "blocks": [
+        {
+          "type": "prose",
+          "text": "**be** in the right form + past participle. For present simple, past simple and **will**, see Unit 10."
+        },
+        {
+          "type": "form-table",
+          "rows": [
+            {
+              "person": "the pizzas",
+              "statement": "The pizzas **are being** cooked.",
+              "negative": "The pizzas **aren't (are not) being** cooked.",
+              "question": "**Are** the pizzas **being** cooked?"
+            }
+          ]
+        },
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "Present continuous",
+              "example": "My aunt is doing the washing-up. → The washing-up **is being done** by my aunt."
+            },
+            {
+              "use": "Present perfect simple",
+              "example": "My cousin has sent the invitations. → The invitations **have been sent** by my cousin."
+            },
+            {
+              "use": "Past continuous",
+              "example": "My uncle was cleaning the car. → The car **was being cleaned** by my uncle."
+            },
+            {
+              "use": "Past perfect simple",
+              "example": "Our neighbours had taken the twins to the zoo. → The twins **had been taken** to the zoo by our neighbours."
+            },
+            {
+              "use": "be going to",
+              "example": "They're going to invite Phil to the party. → Phil **is going to be invited** to the party."
+            },
+            {
+              "use": "might",
+              "example": "They might invite Kyle to the party. → Kyle **might be invited** to the party."
+            },
+            {
+              "use": "should",
+              "example": "We should tell Jenny about the party. → Jenny **should be told** about the party."
+            },
+            {
+              "use": "must",
+              "example": "We must tell Dominic about the concert. → Dominic **must be told** about the concert."
+            },
+            {
+              "use": "can",
+              "example": "We can hold the party at Jack's house. → The party **can be held** at Jack's house."
+            }
+          ]
+        },
+        {
+          "type": "watch-out",
+          "text": "We can use **by** to emphasise who does something.",
+          "note": "My sister's bedroom **was painted by** my parents. (= My parents painted my sister's bedroom.)"
+        },
+        {
+          "type": "watch-out",
+          "text": "We can use **with** to emphasise what someone uses.",
+          "note": "Soup is usually eaten **with** a spoon. (= You usually use a spoon to eat soup.)"
+        },
+        {
+          "type": "watch-out",
+          "text": "We don't use **by** or **with** when we don't need to say, or don't know, who does something.",
+          "note": "Mrs Fisher **was taken** to hospital yesterday."
+        }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "a",
+      "type": "multiple-choice",
+      "title": "A · Carnival lorry",
+      "instruction": "Choose the ending that completes each sentence about the carnival lorry.",
+      "items": [
+        {
+          "id": "a1",
+          "prompt": "The carnival lorry is ___",
+          "options": [
+            "being driven by a clown",
+            "been given a banana by the pirate",
+            "going to be given a balloon by the astronaut"
+          ],
+          "acceptedAnswers": ["being driven by a clown"]
+        },
+        {
+          "id": "a2",
+          "prompt": "The lorry has ___",
+          "options": [
+            "been decorated with lots of flowers",
+            "be sung by the cowboy",
+            "been bought from a fancy-dress shop?"
+          ],
+          "acceptedAnswers": ["been decorated with lots of flowers"]
+        },
+        {
+          "id": "a3",
+          "prompt": "The gorilla has ___",
+          "options": [
+            "been given a banana by the pirate",
+            "being driven by a clown",
+            "be sung by the cowboy"
+          ],
+          "acceptedAnswers": ["been given a banana by the pirate"]
+        },
+        {
+          "id": "a4",
+          "prompt": "Everyone watching is ___",
+          "options": [
+            "going to be given a balloon by the astronaut",
+            "been decorated with lots of flowers",
+            "been given a banana by the pirate"
+          ],
+          "acceptedAnswers": ["going to be given a balloon by the astronaut"]
+        },
+        {
+          "id": "a5",
+          "prompt": "The best song might ___",
+          "options": [
+            "be sung by the cowboy",
+            "been bought from a fancy-dress shop?",
+            "being driven by a clown"
+          ],
+          "acceptedAnswers": ["be sung by the cowboy"]
+        },
+        {
+          "id": "a6",
+          "prompt": "Have the costumes ___",
+          "options": [
+            "been bought from a fancy-dress shop?",
+            "been decorated with lots of flowers",
+            "be sung by the cowboy"
+          ],
+          "acceptedAnswers": ["been bought from a fancy-dress shop?"]
+        }
+      ]
+    },
+    {
+      "id": "b",
+      "type": "multiple-choice",
+      "title": "B · Circle the correct word",
+      "instruction": "Select the form that completes each sentence.",
+      "items": [
+        {
+          "id": "b1",
+          "prompt": "The balloons had all been ___ up before the carnival started.",
+          "options": ["blowing", "blown"],
+          "acceptedAnswers": ["blown"]
+        },
+        {
+          "id": "b2",
+          "prompt": "The bananas ___ all been eaten yet.",
+          "options": ["haven't", "aren't"],
+          "acceptedAnswers": ["haven't"]
+        },
+        {
+          "id": "b3",
+          "prompt": "The lorry isn't ___ driven by the gorilla.",
+          "options": ["been", "being"],
+          "acceptedAnswers": ["being"]
+        },
+        {
+          "id": "b4",
+          "prompt": "A young boy ___ just taken a balloon from the astronaut.",
+          "options": ["was", "has"],
+          "acceptedAnswers": ["has"]
+        },
+        {
+          "id": "b5",
+          "prompt": "A prize is going to ___ to the person in the best fancy dress.",
+          "options": ["have", "be given"],
+          "acceptedAnswers": ["be given"]
+        },
+        {
+          "id": "b6",
+          "prompt": "The prize might not be ___ to the clown.",
+          "options": ["awarding", "awarded"],
+          "acceptedAnswers": ["awarded"]
+        },
+        {
+          "id": "b7",
+          "prompt": "___ the lorry been decorated well?",
+          "options": ["Has", "Is"],
+          "acceptedAnswers": ["Has"]
+        },
+        {
+          "id": "b8",
+          "prompt": "Can songs be sung ___ people in the crowd, too?",
+          "options": ["by", "with"],
+          "acceptedAnswers": ["by"]
+        }
+      ]
+    },
+    {
+      "id": "c",
+      "type": "gap-fill",
+      "title": "C · by or with",
+      "instruction": "Complete using by or with.",
+      "wordBank": ["by", "with"],
+      "items": [
+        {
+          "id": "c1",
+          "prompt": "That book was written ___ my uncle!",
+          "acceptedAnswers": ["by"]
+        },
+        {
+          "id": "c2",
+          "prompt": "Are the best photos usually taken ___ digital cameras?",
+          "acceptedAnswers": ["with"]
+        },
+        {
+          "id": "c3",
+          "prompt": "That song has been sung ___ lots of famous singers.",
+          "acceptedAnswers": ["by"]
+        },
+        {
+          "id": "c4",
+          "prompt": "Is your hair cut ___ a professional hairdresser?",
+          "acceptedAnswers": ["by"]
+        },
+        {
+          "id": "c5",
+          "prompt": "Should the paper be cut ___ a pair of scissors?",
+          "acceptedAnswers": ["with"]
+        },
+        {
+          "id": "c6",
+          "prompt": "All the candles had been lit ___ the same match.",
+          "acceptedAnswers": ["with"]
+        },
+        {
+          "id": "c7",
+          "prompt": "The film isn't going to be directed ___ Steven Spielberg after all.",
+          "acceptedAnswers": ["by"]
+        }
+      ]
+    },
+    {
+      "id": "d",
+      "type": "rewrite",
+      "title": "D · Similar meaning",
+      "instruction": "Complete each second sentence so that it has a similar meaning. Write no more than four words.",
+      "items": [
+        {
+          "id": "d1",
+          "prompt": "I think John has taken my jacket. — I think my jacket ___ John.",
+          "acceptedAnswers": [
+            "has been taken by",
+            "I think my jacket has been taken by John.",
+            "I think my jacket has been taken by John"
+          ]
+        },
+        {
+          "id": "d2",
+          "prompt": "You should cook the chicken for at least an hour. — The chicken ___ for at least an hour.",
+          "acceptedAnswers": [
+            "should be cooked",
+            "The chicken should be cooked for at least an hour.",
+            "The chicken should be cooked for at least an hour"
+          ]
+        },
+        {
+          "id": "d3",
+          "prompt": "They're showing that film at the cinema in town. — That film ___ at the cinema in town.",
+          "acceptedAnswers": [
+            "is being shown",
+            "That film is being shown at the cinema in town.",
+            "That film is being shown at the cinema in town"
+          ]
+        },
+        {
+          "id": "d4",
+          "prompt": "They hadn't invented digital cameras when we took that photo. — Digital cameras ___ when that photo was taken.",
+          "acceptedAnswers": [
+            "hadn't been invented",
+            "had not been invented",
+            "Digital cameras hadn't been invented when that photo was taken."
+          ]
+        },
+        {
+          "id": "d5",
+          "prompt": "When I got there, Carly was doing the ironing, so I didn't have to do it! — When I got there, the ironing ___ Carly, so I didn't have to do it!",
+          "acceptedAnswers": [
+            "was being done by",
+            "When I got there, the ironing was being done by Carly, so I didn't have to do it!"
+          ]
+        },
+        {
+          "id": "d6",
+          "prompt": "They were using hot soapy water to wash all the cars. — All the cars ___ hot soapy water.",
+          "acceptedAnswers": [
+            "were being washed with",
+            "All the cars were being washed with hot soapy water."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e",
+      "type": "gap-fill",
+      "title": "E · Doing the housework",
+      "instruction": "Complete the answers using the correct form of the passive.",
+      "items": [
+        {
+          "id": "e1",
+          "prompt": "Does only one person do the housework in Lisa's house? No, the housework ___ .",
+          "acceptedAnswers": ["is shared", "is shared by everyone"]
+        },
+        {
+          "id": "e2",
+          "prompt": "Who cooks the food? The food ___ by Lisa's dad.",
+          "acceptedAnswers": ["is cooked", "is all cooked"]
+        },
+        {
+          "id": "e3",
+          "prompt": "Who is going to help Lisa's dad next weekend? Lisa's dad ___ .",
+          "acceptedAnswers": ["is going to be helped", "is going to be helped by everyone"]
+        },
+        {
+          "id": "e4",
+          "prompt": "Who did all the shopping until about a year ago? Until about a year ago, the shopping ___ by Lisa's mum.",
+          "acceptedAnswers": ["was done", "was all done"]
+        },
+        {
+          "id": "e5",
+          "prompt": "Who has done most of the shopping since then? Since then, most of the shopping ___ by Lisa.",
+          "acceptedAnswers": ["has been done"]
+        },
+        {
+          "id": "e6",
+          "prompt": "Does Lisa take the shopping home from the supermarket? No, it ___ to their house.",
+          "acceptedAnswers": ["is delivered", "is delivered by someone from the supermarket"]
+        },
+        {
+          "id": "e7",
+          "prompt": "How often does someone clean the bathroom? It ___ nearly every day.",
+          "acceptedAnswers": ["is cleaned"]
+        },
+        {
+          "id": "e8",
+          "prompt": "When might someone next clean the bathroom? It ___ later today.",
+          "acceptedAnswers": ["might be cleaned", "might be done"]
+        },
+        {
+          "id": "e9",
+          "prompt": "How does Angelina sweep the floors? The floors ___ with an old brush.",
+          "acceptedAnswers": ["are swept", "are swept with an old brush"]
+        },
+        {
+          "id": "e10",
+          "prompt": "What does Lisa think Angelina should use? Lisa thinks a vacuum cleaner ___ .",
+          "acceptedAnswers": ["should be used"]
+        }
+      ]
+    }
+  ]
+}

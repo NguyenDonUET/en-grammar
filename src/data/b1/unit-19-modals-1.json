@@ -1,0 +1,548 @@
+{
+  "id": "unit-19-modals-1",
+  "level": "b1",
+  "unitNumber": 19,
+  "title": "Modals 1",
+  "subtitle": "Ability, permission and advice",
+  "theory": [
+    {
+      "id": "introduction-to-modals",
+      "title": "Introduction to modals",
+      "icon": "BookOpen",
+      "blocks": [
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "can",
+              "example": "statement: **can** · negative: **can't / cannot**"
+            },
+            {
+              "use": "may",
+              "example": "statement: **may** · negative: **may not**"
+            },
+            {
+              "use": "will",
+              "example": "statement: **will** · negative: **won't / will not**"
+            },
+            {
+              "use": "shall",
+              "example": "statement: **shall** · negative: **shan't / shall not**"
+            },
+            {
+              "use": "must",
+              "example": "statement: **must** · negative: **mustn't / must not**"
+            },
+            {
+              "use": "could",
+              "example": "statement: **could** · negative: **couldn't / could not**"
+            },
+            {
+              "use": "might",
+              "example": "statement: **might** · negative: **mightn't / might not**"
+            },
+            {
+              "use": "would",
+              "example": "statement: **would** · negative: **wouldn't / would not**"
+            },
+            {
+              "use": "should",
+              "example": "statement: **should** · negative: **shouldn't / should not**"
+            }
+          ]
+        },
+        {
+          "type": "hints",
+          "intro": "All modal verbs:",
+          "items": [
+            "have only one form: I/you/he/she/it/we/they **may** write an email.",
+            "are followed by the bare infinitive: You **should call** Stella.",
+            "do not have an infinitive"
+          ]
+        },
+        {
+          "type": "hints",
+          "intro": "Semi-modals — phrases that we use like modals:",
+          "items": [
+            "{pill:ought to} ({pill:ought not to})",
+            "{pill:have to} ({pill:don't have to})",
+            "{pill:need to} ({pill:don't need to} / {pill:needn't})",
+            "Like modals, **ought to** doesn't change.",
+            "**Have to** and **need to** change for person and tense like normal verbs and have infinitives."
+          ]
+        },
+        {
+          "type": "watch-out",
+          "text": "We form questions with modal verbs like this:",
+          "note": "**Can you** understand what he's saying?"
+        },
+        {
+          "type": "watch-out",
+          "text": "We use modals with the passive voice like this:",
+          "note": "The address **should be written** clearly on the front of the envelope."
+        }
+      ]
+    },
+    {
+      "id": "ability",
+      "title": "Ability",
+      "icon": "Sparkles",
+      "blocks": [
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "Ability now or generally · can",
+              "example": "**Can** you use a fax machine?"
+            },
+            {
+              "use": "Ability in the past · could",
+              "example": "Tom **could** read when he was two years old."
+            }
+          ]
+        },
+        {
+          "type": "watch-out",
+          "text": "We use **be able to** to form other tenses."
+        },
+        {
+          "type": "correct-incorrect",
+          "correct": "It's useful **to be able to** order things by e-mail. (infinitive)",
+          "incorrect": "It's useful **to can** order things by e-mail."
+        },
+        {
+          "type": "hints",
+          "items": [
+            "Soon, I'll **be able to** speak Italian quite well. (future)",
+            "Have you **been able to** speak English for a long time? (present perfect)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "permission",
+      "title": "Permission",
+      "icon": "Lightbulb",
+      "blocks": [
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "Asking for permission",
+              "example": "**Can / Could / May** I use the phone?"
+            },
+            {
+              "use": "Giving permission",
+              "example": "You **can / may** send the fax when you like."
+            }
+          ]
+        },
+        {
+          "type": "watch-out",
+          "text": "**May** is more polite than **could** and **could** is more polite than **can**."
+        }
+      ]
+    },
+    {
+      "id": "advice",
+      "title": "Advice",
+      "icon": "CheckCircle2",
+      "blocks": [
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "Asking for and giving advice",
+              "example": "Liam **ought to / should** watch less TV."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "a",
+      "type": "rewrite",
+      "title": "A · Correct the modal",
+      "instruction": "Rewrite each sentence, correcting the mistake with the modal.",
+      "items": [
+        {
+          "id": "a1",
+          "prompt": "My older brother **can to ride** a motorbike, but I can't.",
+          "acceptedAnswers": [
+            "My older brother can ride a motorbike, but I can't.",
+            "My older brother can ride a motorbike, but I can't"
+          ]
+        },
+        {
+          "id": "a2",
+          "prompt": "**He'll has** his dinner early today because he's going out.",
+          "acceptedAnswers": [
+            "He'll have his dinner early today because he's going out.",
+            "He'll have his dinner early today because he's going out",
+            "He will have his dinner early today because he's going out.",
+            "He will have his dinner early today because he's going out"
+          ]
+        },
+        {
+          "id": "a3",
+          "prompt": "**Do you can** come to my party?",
+          "acceptedAnswers": [
+            "Can you come to my party?",
+            "Can you come to my party"
+          ]
+        },
+        {
+          "id": "a4",
+          "prompt": "You **should to see** a doctor about your foot.",
+          "acceptedAnswers": [
+            "You should see a doctor about your foot.",
+            "You should see a doctor about your foot"
+          ]
+        },
+        {
+          "id": "a5",
+          "prompt": "I **couldn't bought** any bread because the baker's was closed.",
+          "acceptedAnswers": [
+            "I couldn't buy any bread because the baker's was closed.",
+            "I couldn't buy any bread because the baker's was closed",
+            "I could not buy any bread because the baker's was closed."
+          ]
+        },
+        {
+          "id": "a6",
+          "prompt": "You **needn't to do** the washing-up. I've already done it.",
+          "acceptedAnswers": [
+            "You needn't do the washing-up. I've already done it.",
+            "You needn't do the washing-up. I've already done it",
+            "You don't need to do the washing-up. I've already done it.",
+            "You don't need to do the washing-up. I've already done it"
+          ]
+        },
+        {
+          "id": "a7",
+          "prompt": "The school **ought listen** to pupils' opinions.",
+          "acceptedAnswers": [
+            "The school ought to listen to pupils' opinions.",
+            "The school ought to listen to pupils' opinions"
+          ]
+        },
+        {
+          "id": "a8",
+          "prompt": "People **shouldn't to drop** their rubbish in the street.",
+          "acceptedAnswers": [
+            "People shouldn't drop their rubbish in the street.",
+            "People shouldn't drop their rubbish in the street",
+            "People should not drop their rubbish in the street."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b",
+      "type": "gap-fill",
+      "title": "B · can, could, be able to",
+      "instruction": "Complete using can, could or the correct form of be able to. You may need a negative form.",
+      "items": [
+        {
+          "id": "b1",
+          "prompt": "Amy really loves playing chess and she ___ play very well.",
+          "acceptedAnswers": ["can"]
+        },
+        {
+          "id": "b2",
+          "prompt": "When she was a baby she ___ play chess.",
+          "acceptedAnswers": ["couldn't", "could not", "wasn't able to", "was not able to"]
+        },
+        {
+          "id": "b3",
+          "prompt": "She thinks that when she's older, she'll ___ win the national championships!",
+          "acceptedAnswers": ["be able to"]
+        },
+        {
+          "id": "b4",
+          "prompt": "Amy has ___ ride a bicycle since she was three.",
+          "acceptedAnswers": ["been able to"]
+        },
+        {
+          "id": "b5",
+          "prompt": "She wants to learn to drive when she grows up, though. When she's eighteen, she hopes she'll ___ do her driving test.",
+          "acceptedAnswers": ["be able to"]
+        },
+        {
+          "id": "b6",
+          "prompt": "She ___ drive a car now though. It's against the law!",
+          "acceptedAnswers": ["can't", "cannot", "isn't able to", "is not able to"]
+        }
+      ]
+    },
+    {
+      "id": "c",
+      "type": "rewrite",
+      "title": "C · Ask for permission",
+      "instruction": "Write what they say using the word given.",
+      "items": [
+        {
+          "id": "c1",
+          "prompt": "Tony wants to borrow his friend's pencil. **could**",
+          "acceptedAnswers": [
+            "Could I borrow your pencil?",
+            "Could I borrow your pencil"
+          ]
+        },
+        {
+          "id": "c2",
+          "prompt": "Alex wants to allow her friend to use her dictionary. **can**",
+          "acceptedAnswers": [
+            "You can use my dictionary.",
+            "You can use my dictionary",
+            "You can use my dictionary if you like.",
+            "You can use my dictionary if you like"
+          ]
+        },
+        {
+          "id": "c3",
+          "prompt": "Julie wants permission from her teacher to leave the classroom. **may**",
+          "acceptedAnswers": [
+            "May I leave the classroom?",
+            "May I leave the classroom"
+          ]
+        },
+        {
+          "id": "c4",
+          "prompt": "Lou wants to wear his brother's new trainers. **can**",
+          "acceptedAnswers": [
+            "Can I wear your new trainers?",
+            "Can I wear your new trainers"
+          ]
+        },
+        {
+          "id": "c5",
+          "prompt": "Terry wants to ask her boss for permission to take the day off work. **could**",
+          "acceptedAnswers": [
+            "Could I take the day off work?",
+            "Could I take the day off work",
+            "Could I take the day off?",
+            "Could I take the day off"
+          ]
+        },
+        {
+          "id": "c6",
+          "prompt": "Diane wants to use her dad's car this weekend. **can**",
+          "acceptedAnswers": [
+            "Can I use your car this weekend?",
+            "Can I use your car this weekend"
+          ]
+        },
+        {
+          "id": "c7",
+          "prompt": "A teacher wants to give her students five extra minutes to finish the test. **may**",
+          "acceptedAnswers": [
+            "You may have five extra minutes to finish the test.",
+            "You may have five extra minutes to finish the test",
+            "You may have five extra minutes.",
+            "You may have five extra minutes"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d",
+      "type": "guided-sentence",
+      "title": "D · should / ought to",
+      "instruction": "Write advice using should or ought to and the words in brackets. You may need a negative form.",
+      "items": [
+        {
+          "id": "d1",
+          "prompt": "I need to earn more money. / get / a new job / you",
+          "acceptedAnswers": [
+            "You should get a new job.",
+            "You should get a new job",
+            "You ought to get a new job.",
+            "You ought to get a new job"
+          ]
+        },
+        {
+          "id": "d2",
+          "prompt": "Brenda is angry about what I said. / are / say / sorry / you / you",
+          "acceptedAnswers": [
+            "You should say you're sorry.",
+            "You should say you're sorry",
+            "You ought to say you're sorry.",
+            "You ought to say you're sorry",
+            "You should say you are sorry.",
+            "You ought to say you are sorry."
+          ]
+        },
+        {
+          "id": "d3",
+          "prompt": "Tom doesn't understand his homework. / ask / his teacher / about it / he",
+          "acceptedAnswers": [
+            "He should ask his teacher about it.",
+            "He should ask his teacher about it",
+            "He ought to ask his teacher about it.",
+            "He ought to ask his teacher about it"
+          ]
+        },
+        {
+          "id": "d4",
+          "prompt": "I'd like to learn to play the piano. / start / having lessons / you",
+          "acceptedAnswers": [
+            "You should start having lessons.",
+            "You should start having lessons",
+            "You ought to start having lessons.",
+            "You ought to start having lessons"
+          ]
+        },
+        {
+          "id": "d5",
+          "prompt": "Tina is often tired at work. / not / watch / TV / late / at night / she",
+          "acceptedAnswers": [
+            "She shouldn't watch TV late at night.",
+            "She shouldn't watch TV late at night",
+            "She ought not to watch TV late at night.",
+            "She ought not to watch TV late at night",
+            "She should not watch TV late at night."
+          ]
+        },
+        {
+          "id": "d6",
+          "prompt": "I don't seem to have much energy at the moment. / get / some exercise / you",
+          "acceptedAnswers": [
+            "You should get some exercise.",
+            "You should get some exercise",
+            "You ought to get some exercise.",
+            "You ought to get some exercise"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e",
+      "type": "multiple-choice",
+      "title": "E · Circle the correct phrase",
+      "instruction": "Select the modal that fits each sentence.",
+      "items": [
+        {
+          "id": "e1",
+          "prompt": "I've been having swimming lessons and now I ___ swim really well.",
+          "options": ["can", "could"],
+          "acceptedAnswers": ["can"]
+        },
+        {
+          "id": "e2",
+          "prompt": "Please ___ I use your mobile phone? Mine doesn't have any power.",
+          "options": ["could", "should"],
+          "acceptedAnswers": ["could"]
+        },
+        {
+          "id": "e3",
+          "prompt": "Sam ___ get a job instead of complaining about having no money.",
+          "options": ["could", "ought to"],
+          "acceptedAnswers": ["ought to"]
+        },
+        {
+          "id": "e4",
+          "prompt": "Okay, yes — you ___ leave five minutes early today.",
+          "options": ["can", "should"],
+          "acceptedAnswers": ["can"]
+        },
+        {
+          "id": "e5",
+          "prompt": "Do you think I ___ tell Michael the truth about what happened?",
+          "options": ["must", "should"],
+          "acceptedAnswers": ["should"]
+        },
+        {
+          "id": "e6",
+          "prompt": "I ___ read until I was five years old.",
+          "options": ["can't", "couldn't"],
+          "acceptedAnswers": ["couldn't"]
+        },
+        {
+          "id": "e7",
+          "prompt": "I'm sorry, but you ___ leave your car there.",
+          "options": ["can't", "couldn't"],
+          "acceptedAnswers": ["can't"]
+        },
+        {
+          "id": "e8",
+          "prompt": "If you want to pass the exam, you ___ do some revision.",
+          "options": ["can", "ought to"],
+          "acceptedAnswers": ["ought to"]
+        },
+        {
+          "id": "e9",
+          "prompt": "I know John lived in Tokyo, but I don't think he ___ speak Japanese.",
+          "options": ["can", "may"],
+          "acceptedAnswers": ["can"]
+        },
+        {
+          "id": "e10",
+          "prompt": "Tracy ___ sing really well now that she's had a few lessons.",
+          "options": ["can", "could"],
+          "acceptedAnswers": ["can"]
+        }
+      ]
+    },
+    {
+      "id": "f",
+      "type": "multiple-choice",
+      "title": "F · Match the sentences",
+      "instruction": "Choose the ending that completes each sentence.",
+      "items": [
+        {
+          "id": "f1",
+          "prompt": "There's a lot of washing-up; I think we should",
+          "options": [
+            "offer to do it.",
+            "borrow some if you need it.",
+            "wait for their flight in the VIP area."
+          ],
+          "acceptedAnswers": ["offer to do it."]
+        },
+        {
+          "id": "f2",
+          "prompt": "It's getting quite late and we ought",
+          "options": [
+            "to think about getting a taxi.",
+            "offer to do it.",
+            "walk when he was just six months old."
+          ],
+          "acceptedAnswers": ["to think about getting a taxi."]
+        },
+        {
+          "id": "f3",
+          "prompt": "I don't have much money, but you can",
+          "options": [
+            "borrow some if you need it.",
+            "wait for their flight in the VIP area.",
+            "offer to do it."
+          ],
+          "acceptedAnswers": ["borrow some if you need it."]
+        },
+        {
+          "id": "f4",
+          "prompt": "It's amazing that Andrew could",
+          "options": [
+            "walk when he was just six months old.",
+            "offer to do it.",
+            "borrow some if you need it."
+          ],
+          "acceptedAnswers": ["walk when he was just six months old."]
+        },
+        {
+          "id": "f5",
+          "prompt": "Passengers travelling in first class may",
+          "options": [
+            "wait for their flight in the VIP area.",
+            "to think about getting a taxi.",
+            "walk when he was just six months old."
+          ],
+          "acceptedAnswers": ["wait for their flight in the VIP area."]
+        }
+      ]
+    }
+  ]
+}

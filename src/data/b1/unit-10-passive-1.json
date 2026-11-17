@@ -1,0 +1,466 @@
+{
+  "id": "unit-10-passive-1",
+  "level": "b1",
+  "unitNumber": 10,
+  "title": "The passive 1",
+  "subtitle": "Present simple, past simple and will",
+  "theory": [
+    {
+      "id": "passive-form",
+      "title": "The passive (present simple, past simple, will)",
+      "icon": "BookOpen",
+      "blocks": [
+        {
+          "type": "prose",
+          "text": "**be** in the right form + past participle"
+        },
+        {
+          "type": "form-table",
+          "rows": [
+            {
+              "person": "everyone",
+              "statement": "Everyone **is invited**.",
+              "negative": "Some people **aren't (are not) invited**.",
+              "question": "**Is** everyone **invited**?"
+            }
+          ]
+        },
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "Present simple · active → passive",
+              "example": "They always invite Grandma. → Grandma **is always invited**."
+            },
+            {
+              "use": "Past simple · active → passive",
+              "example": "They invited Uncle Adrian. → Uncle Adrian **was invited**."
+            },
+            {
+              "use": "will · active → passive",
+              "example": "They **will / won't** invite the neighbours. → The neighbours **will / won't be invited**."
+            },
+            {
+              "use": "When we don't know who does something",
+              "example": "My sister's bike **was stolen** yesterday."
+            },
+            {
+              "use": "When we don't want or need to say who does something",
+              "example": "**Was** Simon **invited**?"
+            }
+          ]
+        },
+        {
+          "type": "hints",
+          "intro": "If you are not sure how to form a passive sentence, think of the active sentence first.",
+          "items": [
+            "Active: Someone **stole** my sister's bike yesterday.",
+            "The object of the active sentence (**my sister's bike**) becomes the subject of the passive.",
+            "Keep the same tense. **stole** is past simple, so we need **was**.",
+            "Add the past participle: steal → **stolen**.",
+            "Passive: My sister's bike **was stolen** yesterday."
+          ]
+        },
+        {
+          "type": "watch-out",
+          "text": "When the verb in a passive sentence is a phrasal verb, don't forget to include the particle.",
+          "note": "They **picked up** the broken glass. → The broken glass **was picked up**."
+        },
+        {
+          "type": "watch-out",
+          "text": "Some verbs have irregular past participle forms.",
+          "note": "See the irregular verb list in your notes."
+        }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "a",
+      "type": "rewrite",
+      "title": "A · Correct the verb",
+      "instruction": "The words in bold are wrong. Rewrite the sentence with the correct passive or active form.",
+      "items": [
+        {
+          "id": "a1",
+          "prompt": "Every year, several prizes **are giving** to the best students.",
+          "acceptedAnswers": [
+            "Every year, several prizes are given to the best students.",
+            "Every year, several prizes are given to the best students"
+          ]
+        },
+        {
+          "id": "a2",
+          "prompt": "When the pizza **was delivering**, it was cold.",
+          "acceptedAnswers": [
+            "When the pizza was delivered, it was cold.",
+            "When the pizza was delivered, it was cold"
+          ]
+        },
+        {
+          "id": "a3",
+          "prompt": "You **will be telling** when you can come in.",
+          "acceptedAnswers": [
+            "You will be told when you can come in.",
+            "You will be told when you can come in",
+            "You'll be told when you can come in.",
+            "You'll be told when you can come in"
+          ]
+        },
+        {
+          "id": "a4",
+          "prompt": "That song **doesn't played** on the radio very often, is it?",
+          "acceptedAnswers": [
+            "That song isn't played on the radio very often, is it?",
+            "That song isn't played on the radio very often, is it",
+            "That song is not played on the radio very often, is it?",
+            "That song is not played on the radio very often, is it"
+          ]
+        },
+        {
+          "id": "a5",
+          "prompt": "Your money **was stealing** out of your bag.",
+          "acceptedAnswers": [
+            "Your money was stolen out of your bag.",
+            "Your money was stolen out of your bag"
+          ]
+        },
+        {
+          "id": "a6",
+          "prompt": "We **haven't allowed** to use a dictionary in the exam yesterday.",
+          "acceptedAnswers": [
+            "We weren't allowed to use a dictionary in the exam yesterday.",
+            "We weren't allowed to use a dictionary in the exam yesterday",
+            "We were not allowed to use a dictionary in the exam yesterday.",
+            "We were not allowed to use a dictionary in the exam yesterday"
+          ]
+        },
+        {
+          "id": "a7",
+          "prompt": "That film **won't have shown** in our local cinema for a long time.",
+          "acceptedAnswers": [
+            "That film won't be shown in our local cinema for a long time.",
+            "That film won't be shown in our local cinema for a long time",
+            "That film will not be shown in our local cinema for a long time.",
+            "That film will not be shown in our local cinema for a long time"
+          ]
+        },
+        {
+          "id": "a8",
+          "prompt": "**I will be picked** up from the station on Saturday?",
+          "acceptedAnswers": [
+            "Will I be picked up from the station on Saturday?",
+            "Will I be picked up from the station on Saturday"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b",
+      "type": "gap-fill",
+      "title": "B · Passive forms",
+      "instruction": "Complete using the correct passive form of the verbs in brackets.",
+      "items": [
+        {
+          "id": "b1",
+          "prompt": "When people ___ , they are taken to the police station. (arrest)",
+          "acceptedAnswers": ["are arrested"]
+        },
+        {
+          "id": "b2",
+          "prompt": "When people are arrested, they ___ to the police station. (take)",
+          "acceptedAnswers": ["are taken"]
+        },
+        {
+          "id": "b3",
+          "prompt": "Milk ___ in the fridge. (usually / keep)",
+          "acceptedAnswers": ["is usually kept"]
+        },
+        {
+          "id": "b4",
+          "prompt": "___ what's in next week's test? (we / tell)",
+          "acceptedAnswers": ["Are we told", "Will we be told", "are we told"]
+        },
+        {
+          "id": "b5",
+          "prompt": "How did people communicate over long distances before the phone ___ ? (invent)",
+          "acceptedAnswers": ["was invented"]
+        },
+        {
+          "id": "b6",
+          "prompt": "___ to come to the party next Saturday? (you / allow)",
+          "acceptedAnswers": [
+            "Are you allowed",
+            "Will you be allowed",
+            "are you allowed"
+          ]
+        },
+        {
+          "id": "b7",
+          "prompt": "You ___ your exam results next Monday. (give)",
+          "acceptedAnswers": ["will be given"]
+        },
+        {
+          "id": "b8",
+          "prompt": "___ yesterday? (Aidan's bike / find)",
+          "acceptedAnswers": [
+            "Was Aidan's bike found",
+            "was Aidan's bike found"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c",
+      "type": "gap-fill",
+      "title": "C · Bank robbery",
+      "instruction": "Complete using the correct passive form of a verb from the box. Add any other words you need.",
+      "wordBank": ["call", "catch", "find", "investigate", "rob", "send"],
+      "items": [
+        {
+          "id": "c1",
+          "prompt": "At ten o'clock yesterday morning, the local bank in the high street ___ .",
+          "acceptedAnswers": ["was robbed"]
+        },
+        {
+          "id": "c2",
+          "prompt": "At one minute past ten, the police ___ .",
+          "acceptedAnswers": ["were called", "were called immediately"]
+        },
+        {
+          "id": "c3",
+          "prompt": "A few minutes later, the police arrived at the bank. The crime scene ___ .",
+          "acceptedAnswers": ["was investigated"]
+        },
+        {
+          "id": "c4",
+          "prompt": "At twenty past ten, the robbers' fingerprints ___ .",
+          "acceptedAnswers": ["were found"]
+        },
+        {
+          "id": "c5",
+          "prompt": "At half past eleven, the robbers ___ .",
+          "acceptedAnswers": ["were caught"]
+        },
+        {
+          "id": "c6",
+          "prompt": "Next week, they ___ to prison.",
+          "acceptedAnswers": ["will be sent", "are going to be sent"]
+        }
+      ]
+    },
+    {
+      "id": "d",
+      "type": "guided-sentence",
+      "title": "D · Answer in the passive",
+      "instruction": "Write a full passive sentence from the prompts.",
+      "items": [
+        {
+          "id": "d1",
+          "prompt": "cars / usually / fix / in a garage",
+          "acceptedAnswers": [
+            "They are usually fixed in a garage.",
+            "They are usually fixed in a garage",
+            "Cars are usually fixed in a garage.",
+            "Cars are usually fixed in a garage"
+          ]
+        },
+        {
+          "id": "d2",
+          "prompt": "the next Olympic Games / hold / in Paris",
+          "acceptedAnswers": [
+            "They will be held in Paris.",
+            "They will be held in Paris",
+            "The next Olympic Games will be held in Paris.",
+            "The next Olympic Games will be held in Paris"
+          ]
+        },
+        {
+          "id": "d3",
+          "prompt": "Oscars / usually / award / to film actors",
+          "acceptedAnswers": [
+            "They are usually awarded to film actors.",
+            "They are usually awarded to film actors",
+            "Oscars are usually awarded to film actors.",
+            "Oscars are usually awarded to film actors"
+          ]
+        },
+        {
+          "id": "d4",
+          "prompt": "I / not / allow / to use my phone / at school",
+          "acceptedAnswers": [
+            "I am not allowed to use my phone at school.",
+            "I am not allowed to use my phone at school",
+            "I'm not allowed to use my phone at school.",
+            "I'm not allowed to use my phone at school"
+          ]
+        },
+        {
+          "id": "d5",
+          "prompt": "I / give / a bike / for my birthday / last year",
+          "acceptedAnswers": [
+            "I was given a bike for my birthday last year.",
+            "I was given a bike for my birthday last year"
+          ]
+        },
+        {
+          "id": "d6",
+          "prompt": "I / probably / give / a book / for my next birthday",
+          "acceptedAnswers": [
+            "I'll probably be given a book for my next birthday.",
+            "I'll probably be given a book for my next birthday",
+            "I will probably be given a book for my next birthday.",
+            "I will probably be given a book for my next birthday"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e",
+      "type": "rewrite",
+      "title": "E · Similar meaning",
+      "instruction": "Complete the second sentence using the word given, so that it has a similar meaning. Use a passive form.",
+      "items": [
+        {
+          "id": "e1",
+          "prompt": "Will they send the letters first class? **sent** — Will the letters ___ first class?",
+          "acceptedAnswers": [
+            "be sent",
+            "Will the letters be sent first class?",
+            "Will the letters be sent first class"
+          ]
+        },
+        {
+          "id": "e2",
+          "prompt": "I'm not sure if they eat pizza in China. **is** — I'm not sure if pizza ___ in China.",
+          "acceptedAnswers": [
+            "is eaten",
+            "I'm not sure if pizza is eaten in China.",
+            "I'm not sure if pizza is eaten in China"
+          ]
+        },
+        {
+          "id": "e3",
+          "prompt": "Someone told me that they don't make cars in the UK anymore. **made** — Someone told me that cars ___ in the UK anymore.",
+          "acceptedAnswers": [
+            "aren't made",
+            "are not made",
+            "aren't made in the UK anymore",
+            "Someone told me that cars aren't made in the UK anymore."
+          ]
+        },
+        {
+          "id": "e4",
+          "prompt": "Do they usually feed the animals three times a day? **fed** — Are the animals ___ three times a day?",
+          "acceptedAnswers": [
+            "usually fed",
+            "Are the animals usually fed three times a day?",
+            "Are the animals usually fed three times a day"
+          ]
+        },
+        {
+          "id": "e5",
+          "prompt": "Mr Jones is ill, so he won't give us a geography test today! **be** — Mr Jones is ill, so we ___ a geography test today!",
+          "acceptedAnswers": [
+            "won't be given",
+            "will not be given",
+            "won't be given a geography test today",
+            "Mr Jones is ill, so we won't be given a geography test today!"
+          ]
+        },
+        {
+          "id": "e6",
+          "prompt": "Did they take her to hospital in an ambulance? **she** — Was she ___ to hospital in an ambulance?",
+          "acceptedAnswers": [
+            "taken",
+            "Was she taken to hospital in an ambulance?",
+            "Was she taken to hospital in an ambulance"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f",
+      "type": "gap-fill",
+      "title": "F · The National Trust",
+      "instruction": "Write one word in each gap.",
+      "items": [
+        {
+          "id": "f1",
+          "prompt": "There are lots of beautiful, large houses in Britain. Many of them ___ built hundreds of years ago.",
+          "acceptedAnswers": ["were"]
+        },
+        {
+          "id": "f2",
+          "prompt": "In the past, they ___ owned by very rich families.",
+          "acceptedAnswers": ["were"]
+        },
+        {
+          "id": "f3",
+          "prompt": "Today, many of them ___ owned by an organisation called The National Trust,",
+          "acceptedAnswers": ["are"]
+        },
+        {
+          "id": "f4",
+          "prompt": "which ___ created to look after them.",
+          "acceptedAnswers": ["was"]
+        },
+        {
+          "id": "f5",
+          "prompt": "The houses ___ kept in perfect condition,",
+          "acceptedAnswers": ["are"]
+        },
+        {
+          "id": "f6",
+          "prompt": "and visitors ___ allowed to look round them.",
+          "acceptedAnswers": ["are"]
+        },
+        {
+          "id": "f7",
+          "prompt": "It's interesting to learn how different life was in an old house. Milk was ___ kept in the fridge, because they didn't have fridges!",
+          "acceptedAnswers": ["not", "never"]
+        },
+        {
+          "id": "f8",
+          "prompt": "Washing machines ___ only invented very recently,",
+          "acceptedAnswers": ["were"]
+        },
+        {
+          "id": "f9",
+          "prompt": "so washing ___ done by hand.",
+          "acceptedAnswers": ["was"]
+        },
+        {
+          "id": "f10",
+          "prompt": "In some cases, the house ___ still lived in today.",
+          "acceptedAnswers": ["is"]
+        },
+        {
+          "id": "f11",
+          "prompt": "When this happens, visitors ___ only shown part of the house.",
+          "acceptedAnswers": ["are"]
+        },
+        {
+          "id": "f12",
+          "prompt": "The private rooms ___ kept closed to the public.",
+          "acceptedAnswers": ["are"]
+        },
+        {
+          "id": "f13",
+          "prompt": "The gardens ___ looked after by professional gardeners.",
+          "acceptedAnswers": ["are"]
+        },
+        {
+          "id": "f14",
+          "prompt": "Members of the National Trust ___ given a discount.",
+          "acceptedAnswers": ["are"]
+        },
+        {
+          "id": "f15",
+          "prompt": "This year, millions of people ___ be given the chance to see what life in an old country house was like.",
+          "acceptedAnswers": ["will"]
+        }
+      ]
+    }
+  ]
+}

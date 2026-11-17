@@ -1,0 +1,413 @@
+{
+  "id": "unit-20-modals-2",
+  "level": "b1",
+  "unitNumber": 20,
+  "title": "Modals 2",
+  "subtitle": "Obligation, probability and possibility",
+  "theory": [
+    {
+      "id": "obligation",
+      "title": "Obligation",
+      "icon": "BookOpen",
+      "blocks": [
+        {
+          "type": "prose",
+          "text": "For general information about modals, see Unit 19."
+        },
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "Present or future obligation",
+              "example": "**must / mustn't** · **have to** · **need to** — All visitors **must** turn off their mobile phones. You **have to / need to** press 'send'."
+            },
+            {
+              "use": "No present or future obligation",
+              "example": "**don't have to / don't need to / needn't** — You **don't have to / don't need to / needn't** pay to send an e-mail."
+            },
+            {
+              "use": "Past obligation",
+              "example": "**had to** — Yesterday, Sam **had to** buy more stamps."
+            },
+            {
+              "use": "No past obligation",
+              "example": "**didn't have to / didn't need to** — I learnt a little Italian, but everyone spoke English, so I **didn't have to / didn't need to** use it."
+            }
+          ]
+        },
+        {
+          "type": "hints",
+          "intro": "In spoken English, **have to** is more common than **must**. **Must** is often used in written notices and instructions.",
+          "items": [
+            "**We have to** pay the phone bill today, Rita said.",
+            "Passengers **must** turn off all mobile phones."
+          ]
+        },
+        {
+          "type": "watch-out",
+          "text": "**Mustn't** and **don't have to** do not mean the same.",
+          "note": "You **mustn't** do that! (= Don't do that!) · You **don't have to** do that. (= You can do that if you want to, but it's not necessary.)"
+        }
+      ]
+    },
+    {
+      "id": "probability-possibility",
+      "title": "Probability and possibility",
+      "icon": "Sparkles",
+      "blocks": [
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "Present strong probability",
+              "example": "**must / can't / couldn't** — The phone is ringing — it **must** be Simon. This letter **can't / couldn't** be from Japan because it's got a French stamp."
+            },
+            {
+              "use": "Present and future probability",
+              "example": "**should / ought to** — We **ought to / should** hear from Cheryl this weekend."
+            },
+            {
+              "use": "Present and future possibility",
+              "example": "**could / may / might** — I'm not sure what language it is — it **could / may / might** be Polish."
+            }
+          ]
+        },
+        {
+          "type": "hints",
+          "intro": "We often use **must**, **can't** and **couldn't** for probability when we have some evidence for our opinion.",
+          "items": [
+            "I just rang Paul, but there's no answer. He **must** be out."
+          ]
+        },
+        {
+          "type": "watch-out",
+          "text": "To talk about possibility and probability about the past, we use a modal and the perfect infinitive. See Unit 22."
+        }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "a",
+      "type": "multiple-choice",
+      "title": "A · Same meaning?",
+      "instruction": "Choose the sentence which means the same as the first sentence.",
+      "items": [
+        {
+          "id": "a1",
+          "prompt": "We have to pay the electricity bill before Friday.",
+          "options": [
+            "We can pay it if we want to.",
+            "We must pay it.",
+            "We've already paid it."
+          ],
+          "acceptedAnswers": ["We must pay it."]
+        },
+        {
+          "id": "a2",
+          "prompt": "You don't need to buy me a birthday present.",
+          "options": [
+            "You must buy me a birthday present.",
+            "It's not necessary to buy me a birthday present.",
+            "You mustn't buy me a birthday present."
+          ],
+          "acceptedAnswers": ["It's not necessary to buy me a birthday present."]
+        },
+        {
+          "id": "a3",
+          "prompt": "I have to do some work on my project this evening.",
+          "options": [
+            "I haven't got time to do the work.",
+            "I've already done the work.",
+            "I need to do the work."
+          ],
+          "acceptedAnswers": ["I need to do the work."]
+        },
+        {
+          "id": "a4",
+          "prompt": "Lenny didn't have to see the head teacher after all.",
+          "options": [
+            "It wasn't necessary for Lenny to see the head teacher.",
+            "Lenny went to see the head teacher.",
+            "Lenny is waiting to see the head teacher."
+          ],
+          "acceptedAnswers": ["It wasn't necessary for Lenny to see the head teacher."]
+        },
+        {
+          "id": "a5",
+          "prompt": "Students mustn't run in school buildings.",
+          "options": [
+            "They can run if they want to.",
+            "Students don't like running.",
+            "Running isn't allowed."
+          ],
+          "acceptedAnswers": ["Running isn't allowed."]
+        },
+        {
+          "id": "a6",
+          "prompt": "All passengers must fasten their seatbelts.",
+          "options": [
+            "They have to fasten their seatbelts now.",
+            "They don't have to fasten their seatbelts.",
+            "They can fasten their seatbelts."
+          ],
+          "acceptedAnswers": ["They have to fasten their seatbelts now."]
+        },
+        {
+          "id": "a7",
+          "prompt": "Mr Reed had to go to the police station to answer some questions.",
+          "options": [
+            "Mr Reed was able to go to the police station.",
+            "Mr Reed forgot to go to the police station.",
+            "Mr Reed was obliged to go to the police station."
+          ],
+          "acceptedAnswers": ["Mr Reed was obliged to go to the police station."]
+        },
+        {
+          "id": "a8",
+          "prompt": "It's kind of you to offer to help, but you really don't need to.",
+          "options": [
+            "I don't want you to help me.",
+            "Your help isn't necessary.",
+            "You won't be able to help me."
+          ],
+          "acceptedAnswers": ["Your help isn't necessary."]
+        }
+      ]
+    },
+    {
+      "id": "b",
+      "type": "multiple-choice",
+      "title": "B · Circle the correct phrase",
+      "instruction": "Select the form that fits the meaning.",
+      "items": [
+        {
+          "id": "b1",
+          "prompt": "'Smoking isn't allowed in the airport.' You ___ smoke in the airport.",
+          "options": ["mustn't", "don't have to"],
+          "acceptedAnswers": ["mustn't"]
+        },
+        {
+          "id": "b2",
+          "prompt": "'It's not necessary to come to the train station to meet me.' You ___ meet her at the train station.",
+          "options": ["have to", "don't have to"],
+          "acceptedAnswers": ["don't have to"]
+        },
+        {
+          "id": "b3",
+          "prompt": "'We were forced to wait for over two hours in the rain!' They ___ wait for over two hours in the rain.",
+          "options": ["had to", "didn't have to"],
+          "acceptedAnswers": ["had to"]
+        },
+        {
+          "id": "b4",
+          "prompt": "'The instructions tell you to write in pencil.' You ___ write in pencil.",
+          "options": ["must", "needn't"],
+          "acceptedAnswers": ["must"]
+        },
+        {
+          "id": "b5",
+          "prompt": "'You can contact us by either phone or e-mail.' You ___ phone them.",
+          "options": ["mustn't", "don't have to"],
+          "acceptedAnswers": ["don't have to"]
+        },
+        {
+          "id": "b6",
+          "prompt": "'In my country, you can carry your passport with you if you want, but it's not necessary.' In her country, you ___ carry your passport with you.",
+          "options": ["don't need to", "mustn't"],
+          "acceptedAnswers": ["don't need to"]
+        },
+        {
+          "id": "b7",
+          "prompt": "'My grandfather was made to start work when he was just fourteen years old.' He ___ start work when he was just fourteen years old.",
+          "options": ["had to", "must"],
+          "acceptedAnswers": ["had to"]
+        },
+        {
+          "id": "b8",
+          "prompt": "'It's not necessary to book a hotel; you can stay in our spare room.' You ___ stay in a hotel.",
+          "options": ["mustn't", "don't have to"],
+          "acceptedAnswers": ["don't have to"]
+        }
+      ]
+    },
+    {
+      "id": "c",
+      "type": "gap-fill",
+      "title": "C · have to",
+      "instruction": "Complete using the correct form of have to. You may need a negative form.",
+      "items": [
+        {
+          "id": "c1",
+          "prompt": "Jade can't come out tonight. She ___ look after her little brother.",
+          "acceptedAnswers": ["has to"]
+        },
+        {
+          "id": "c2",
+          "prompt": "I didn't have enough money, so I ___ borrow some from Yuri.",
+          "acceptedAnswers": ["had to"]
+        },
+        {
+          "id": "c3",
+          "prompt": "It's raining really hard, but luckily we ___ go out this evening.",
+          "acceptedAnswers": ["don't have to", "do not have to"]
+        },
+        {
+          "id": "c4",
+          "prompt": "To start the laptop you ___ press the power button.",
+          "acceptedAnswers": ["have to"]
+        },
+        {
+          "id": "c5",
+          "prompt": "Robbie worked last weekend, but I ___ .",
+          "acceptedAnswers": ["didn't have to", "did not have to"]
+        },
+        {
+          "id": "c6",
+          "prompt": "___ go to piano lessons when you were younger? (you / have to)",
+          "acceptedAnswers": ["Did you have to"]
+        }
+      ]
+    },
+    {
+      "id": "d",
+      "type": "multiple-choice",
+      "title": "D · How certain?",
+      "instruction": "Match each sentence with the explanation.",
+      "items": [
+        {
+          "id": "d1",
+          "prompt": "'Someone is at the door. It must be Mrs Johnson from next door.'",
+          "options": ["I'm almost certain.", "It's probable.", "Maybe / Perhaps."],
+          "acceptedAnswers": ["I'm almost certain."]
+        },
+        {
+          "id": "d2",
+          "prompt": "'Lena might not know where the cinema is.'",
+          "options": ["I'm almost certain.", "It's probable.", "Maybe / Perhaps."],
+          "acceptedAnswers": ["Maybe / Perhaps."]
+        },
+        {
+          "id": "d3",
+          "prompt": "'Dad should know what the capital of New Zealand is.'",
+          "options": ["I'm almost certain.", "It's probable.", "Maybe / Perhaps."],
+          "acceptedAnswers": ["It's probable."]
+        },
+        {
+          "id": "d4",
+          "prompt": "'Greg can't be in the final! He's a terrible player!'",
+          "options": ["I'm almost certain.", "It's probable.", "Maybe / Perhaps."],
+          "acceptedAnswers": ["I'm almost certain."]
+        },
+        {
+          "id": "d5",
+          "prompt": "'The dog is wet. It must be raining outside.'",
+          "options": ["I'm almost certain.", "It's probable.", "Maybe / Perhaps."],
+          "acceptedAnswers": ["I'm almost certain."]
+        },
+        {
+          "id": "d6",
+          "prompt": "'We may go to the Canary Islands for Easter.'",
+          "options": ["I'm almost certain.", "It's probable.", "Maybe / Perhaps."],
+          "acceptedAnswers": ["Maybe / Perhaps."]
+        },
+        {
+          "id": "d7",
+          "prompt": "'Ken must like that film. He's seen it six times!'",
+          "options": ["I'm almost certain.", "It's probable.", "Maybe / Perhaps."],
+          "acceptedAnswers": ["I'm almost certain."]
+        },
+        {
+          "id": "d8",
+          "prompt": "'Barry ought to be able to cook Chinese food. He lived there for two years.'",
+          "options": ["I'm almost certain.", "It's probable.", "Maybe / Perhaps."],
+          "acceptedAnswers": ["It's probable."]
+        }
+      ]
+    },
+    {
+      "id": "e",
+      "type": "rewrite",
+      "title": "E · Rewrite with the modal",
+      "instruction": "Rewrite the sentences using the words given.",
+      "items": [
+        {
+          "id": "e1",
+          "prompt": "You're expecting David to ring. The phone rings. **must**",
+          "acceptedAnswers": [
+            "It must be David.",
+            "It must be David",
+            "That must be David.",
+            "That must be David"
+          ]
+        },
+        {
+          "id": "e2",
+          "prompt": "Anna is a better runner than Rula. You think Anna will probably win the race tomorrow. **should**",
+          "acceptedAnswers": [
+            "Anna should win the race tomorrow.",
+            "Anna should win the race tomorrow",
+            "Anna should win tomorrow.",
+            "Anna should win tomorrow"
+          ]
+        },
+        {
+          "id": "e3",
+          "prompt": "A letter arrives. It's possible that it's from your cousin, Janice. **could**",
+          "acceptedAnswers": [
+            "It could be from Janice.",
+            "It could be from Janice",
+            "It could be from my cousin Janice.",
+            "It could be from my cousin, Janice."
+          ]
+        },
+        {
+          "id": "e4",
+          "prompt": "There's a knock at the door. Your mum says it might be Colin, but you know Colin is on holiday. **can't**",
+          "acceptedAnswers": [
+            "It can't be Colin.",
+            "It can't be Colin",
+            "It can't be Colin because he's on holiday.",
+            "It can't be Colin because he's on holiday"
+          ]
+        },
+        {
+          "id": "e5",
+          "prompt": "You see someone wearing a costume. You think there's a strong probability that she's going to a fancy-dress party. **must**",
+          "acceptedAnswers": [
+            "She must be going to a fancy-dress party.",
+            "She must be going to a fancy-dress party",
+            "She must be going to a fancy dress party.",
+            "She must be going to a fancy dress party"
+          ]
+        },
+        {
+          "id": "e6",
+          "prompt": "Your sister is looking for her hairbrush. You think it's possible that it's in the living room. **might**",
+          "acceptedAnswers": [
+            "It might be in the living room.",
+            "It might be in the living room"
+          ]
+        },
+        {
+          "id": "e7",
+          "prompt": "You're waiting for Harriet to arrive. You think she'll probably be there in half an hour. **should**",
+          "acceptedAnswers": [
+            "She should be there in half an hour.",
+            "She should be there in half an hour",
+            "Harriet should be there in half an hour.",
+            "Harriet should be there in half an hour"
+          ]
+        },
+        {
+          "id": "e8",
+          "prompt": "You're talking about why James seems to be sad. You think it's possible he's in trouble at school. **could**",
+          "acceptedAnswers": [
+            "He could be in trouble at school.",
+            "He could be in trouble at school"
+          ]
+        }
+      ]
+    }
+  ]
+}

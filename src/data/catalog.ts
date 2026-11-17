@@ -5,6 +5,14 @@ import unit04PresentPerfect from '@/data/b1/unit-04-present-perfect.json' with {
 import unit05PastPerfect from '@/data/b1/unit-05-past-perfect.json' with { type: 'json' }
 import unit07FutureTime from '@/data/b1/unit-07-future-time.json' with { type: 'json' }
 import unit08Prepositions from '@/data/b1/unit-08-prepositions.json' with { type: 'json' }
+import unit10Passive1 from '@/data/b1/unit-10-passive-1.json' with { type: 'json' }
+import unit11Passive2 from '@/data/b1/unit-11-passive-2.json' with { type: 'json' }
+import unit13CountableUncountable from '@/data/b1/unit-13-countable-uncountable.json' with { type: 'json' }
+import unit14Articles from '@/data/b1/unit-14-articles.json' with { type: 'json' }
+import unit16Pronouns from '@/data/b1/unit-16-pronouns.json' with { type: 'json' }
+import unit17RelativeClauses from '@/data/b1/unit-17-relative-clauses.json' with { type: 'json' }
+import unit19Modals1 from '@/data/b1/unit-19-modals-1.json' with { type: 'json' }
+import unit20Modals2 from '@/data/b1/unit-20-modals-2.json' with { type: 'json' }
 
 export const LEVELS: { id: LevelId; label: string; description: string }[] = [
   { id: 'b1', label: 'B1', description: 'Intermediate' },
@@ -20,6 +28,14 @@ const units: GrammarUnit[] = [
   unit05PastPerfect as GrammarUnit,
   unit07FutureTime as GrammarUnit,
   unit08Prepositions as GrammarUnit,
+  unit10Passive1 as GrammarUnit,
+  unit11Passive2 as GrammarUnit,
+  unit13CountableUncountable as GrammarUnit,
+  unit14Articles as GrammarUnit,
+  unit16Pronouns as GrammarUnit,
+  unit17RelativeClauses as GrammarUnit,
+  unit19Modals1 as GrammarUnit,
+  unit20Modals2 as GrammarUnit,
 ]
 
 export function getUnitsByLevel(level: LevelId): UnitSummary[] {

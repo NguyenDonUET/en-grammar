@@ -1,0 +1,470 @@
+{
+  "id": "unit-17-relative-clauses",
+  "level": "b1",
+  "unitNumber": 17,
+  "title": "Relative clauses",
+  "subtitle": "who, which, where, whose, that, defining and non-defining",
+  "theory": [
+    {
+      "id": "relative-pronouns",
+      "title": "Relative pronouns",
+      "icon": "BookOpen",
+      "blocks": [
+        {
+          "type": "prose",
+          "text": "We use relative pronouns in relative clauses. We use relative clauses to give more information about something, without having to start a new sentence."
+        },
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "who for people",
+              "example": "What's the name of the man **who** created the Internet?"
+            },
+            {
+              "use": "which for things and animals",
+              "example": "The experiment **which** worked was the last one."
+            },
+            {
+              "use": "where for places",
+              "example": "This is the town **where** Albert Einstein was born."
+            },
+            {
+              "use": "whose to show possession",
+              "example": "That's the man **whose** sister discovered a new planet."
+            }
+          ]
+        },
+        {
+          "type": "watch-out",
+          "text": "We can use **who** for animals when we give them a personality."
+        },
+        {
+          "type": "correct-incorrect",
+          "correct": "Our dog, **who's** called Benji, is eight years old.",
+          "incorrect": "Our dog, **which's** called Benji, is eight years old."
+        },
+        {
+          "type": "watch-out",
+          "text": "When there is a relative pronoun, remember not to repeat the subject/object."
+        },
+        {
+          "type": "correct-incorrect",
+          "correct": "What's the name of the man **who** created the World Wide Web?",
+          "incorrect": "What's the name of the man **who he** created the World Wide Web?"
+        },
+        {
+          "type": "correct-incorrect",
+          "correct": "This is the experiment **which** I'm doing at the moment.",
+          "incorrect": "This is the experiment **which** I'm doing **it** at the moment."
+        }
+      ]
+    },
+    {
+      "id": "non-defining",
+      "title": "Non-defining relative clauses",
+      "icon": "Sparkles",
+      "blocks": [
+        {
+          "type": "prose",
+          "text": "Non-defining relative clauses give extra information. The sentence makes sense without the relative clause. If we remove the relative clause, the sentence still makes sense: That man over there started Microsoft."
+        },
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "To give extra information",
+              "example": "This program, **which** is totally free, protects your computer against viruses."
+            }
+          ]
+        },
+        {
+          "type": "hints",
+          "intro": "We use commas with non-defining relative clauses.",
+          "items": ["Carl, **whose** sister is famous, is a friend of mine."]
+        }
+      ]
+    },
+    {
+      "id": "defining",
+      "title": "Defining relative clauses",
+      "icon": "Lightbulb",
+      "blocks": [
+        {
+          "type": "prose",
+          "text": "Defining relative clauses give very important information. If we remove a defining relative clause, the sentence doesn't make sense. Imagine that there are lots of people in a room. Only one of them is wearing a blue shirt. The person **who** is wearing the blue shirt started Microsoft. If we remove the relative clause, we won't know which person it is."
+        },
+        {
+          "type": "correct-incorrect",
+          "correct": "The person **who** is wearing the blue shirt started Microsoft.",
+          "incorrect": "The person started Microsoft. (We don't know which person.)"
+        },
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "To define who or what we are talking about",
+              "example": "This is the TV **which** works. This is the TV **which** doesn't work."
+            }
+          ]
+        },
+        {
+          "type": "hints",
+          "intro": "We don't use commas with defining relative clauses. We can use **that** instead of **who** and **which**.",
+          "items": [
+            "Did you see the programme about the woman **who** invented Tippex?",
+            "Did you see the programme about the woman **that** invented Tippex?"
+          ]
+        }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "a",
+      "type": "gap-fill",
+      "title": "A · Relative pronouns",
+      "instruction": "Complete using a word from the box. You may need some words more than once.",
+      "wordBank": ["where", "which", "who", "whose"],
+      "items": [
+        {
+          "id": "a1",
+          "prompt": "There's a film on tonight ___ I really want to see.",
+          "acceptedAnswers": ["which", "that"]
+        },
+        {
+          "id": "a2",
+          "prompt": "Do you know any restaurants ___ they serve vegetarian dishes?",
+          "acceptedAnswers": ["where"]
+        },
+        {
+          "id": "a3",
+          "prompt": "Can you remember ___ told you about the new nightclub?",
+          "acceptedAnswers": ["who"]
+        },
+        {
+          "id": "a4",
+          "prompt": "The film, ___ stars Tom Hanks, is based on a book by Dan Brown.",
+          "acceptedAnswers": ["which"]
+        },
+        {
+          "id": "a5",
+          "prompt": "I've never met anyone before ___ mother was famous!",
+          "acceptedAnswers": ["whose"]
+        },
+        {
+          "id": "a6",
+          "prompt": "Lorenzo, ___ is from Spain originally, has lived here for about ten years.",
+          "acceptedAnswers": ["who"]
+        },
+        {
+          "id": "a7",
+          "prompt": "Carla, ___ parents are from Mexico, was born in the UK.",
+          "acceptedAnswers": ["whose"]
+        },
+        {
+          "id": "a8",
+          "prompt": "Here's a photo of the hotel ___ we stayed.",
+          "acceptedAnswers": ["where"]
+        }
+      ]
+    },
+    {
+      "id": "b",
+      "type": "rewrite",
+      "title": "B · Extra word",
+      "instruction": "Write the extra word in each sentence.",
+      "items": [
+        {
+          "id": "b1",
+          "prompt": "The boy **who he** sits next to me in class is called Vladimir.",
+          "acceptedAnswers": ["he"]
+        },
+        {
+          "id": "b2",
+          "prompt": "This book, which I started reading **it** last week, is really funny.",
+          "acceptedAnswers": ["it"]
+        },
+        {
+          "id": "b3",
+          "prompt": "Jean, whose **her** mother is a nurse, wants to be a doctor.",
+          "acceptedAnswers": ["her"]
+        },
+        {
+          "id": "b4",
+          "prompt": "My mum and dad, who **they** got married fifteen years ago, met over thirty years ago.",
+          "acceptedAnswers": ["they"]
+        },
+        {
+          "id": "b5",
+          "prompt": "The jeans which I was telling you about **them** are over there.",
+          "acceptedAnswers": ["them"]
+        }
+      ]
+    },
+    {
+      "id": "c",
+      "type": "rewrite",
+      "title": "C · Join the sentences",
+      "instruction": "Rewrite as one sentence using a relative clause.",
+      "items": [
+        {
+          "id": "c1",
+          "prompt": "My grandfather was an airline pilot. He is sixty-five years old now.",
+          "acceptedAnswers": [
+            "My grandfather, who is sixty-five years old now, was an airline pilot.",
+            "My grandfather, who is sixty-five years old now, was an airline pilot"
+          ]
+        },
+        {
+          "id": "c2",
+          "prompt": "Friendly People is a comedy. It's my favourite programme.",
+          "acceptedAnswers": [
+            "Friendly People, which is a comedy, is my favourite programme.",
+            "Friendly People, which is a comedy, is my favourite programme",
+            "Friendly People is a comedy which is my favourite programme.",
+            "Friendly People is a comedy which is my favourite programme"
+          ]
+        },
+        {
+          "id": "c3",
+          "prompt": "My friend Michael often comes to play with me. He hasn't got any brothers and sisters.",
+          "acceptedAnswers": [
+            "My friend Michael, who hasn't got any brothers and sisters, often comes to play with me.",
+            "My friend Michael, who hasn't got any brothers and sisters, often comes to play with me"
+          ]
+        },
+        {
+          "id": "c4",
+          "prompt": "My sister loves wearing hats. Her hair is brown.",
+          "acceptedAnswers": [
+            "My sister, whose hair is brown, loves wearing hats.",
+            "My sister, whose hair is brown, loves wearing hats"
+          ]
+        },
+        {
+          "id": "c5",
+          "prompt": "New York is an enormous city. It's where I was born.",
+          "acceptedAnswers": [
+            "New York, where I was born, is an enormous city.",
+            "New York, where I was born, is an enormous city",
+            "New York is an enormous city where I was born.",
+            "New York is an enormous city where I was born"
+          ]
+        },
+        {
+          "id": "c6",
+          "prompt": "This CD is scratched. I only bought it yesterday.",
+          "acceptedAnswers": [
+            "This CD, which I only bought yesterday, is scratched.",
+            "This CD, which I only bought yesterday, is scratched"
+          ]
+        },
+        {
+          "id": "c7",
+          "prompt": "My brother George has got some great shirts! He hates me borrowing his clothes.",
+          "acceptedAnswers": [
+            "My brother George, who hates me borrowing his clothes, has got some great shirts!",
+            "My brother George, who hates me borrowing his clothes, has got some great shirts"
+          ]
+        },
+        {
+          "id": "c8",
+          "prompt": "Our neighbours have never invited us to dinner. Their house is directly opposite ours.",
+          "acceptedAnswers": [
+            "Our neighbours, whose house is directly opposite ours, have never invited us to dinner.",
+            "Our neighbours, whose house is directly opposite ours, have never invited us to dinner"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d",
+      "type": "guided-sentence",
+      "title": "D · Picture prompts",
+      "instruction": "Use the prompts to write sentences with a relative clause.",
+      "items": [
+        {
+          "id": "d1",
+          "prompt": "The tree / which / be / tall / not / have / any leaves",
+          "acceptedAnswers": [
+            "The tree which is tall doesn't have any leaves.",
+            "The tree which is tall doesn't have any leaves",
+            "The tree which is tall does not have any leaves.",
+            "The tree that is tall doesn't have any leaves."
+          ]
+        },
+        {
+          "id": "d2",
+          "prompt": "The trees / which / have / leaves / be / short",
+          "acceptedAnswers": [
+            "The trees which have leaves are short.",
+            "The trees which have leaves are short",
+            "The trees that have leaves are short.",
+            "The trees that have leaves are short"
+          ]
+        },
+        {
+          "id": "d3",
+          "prompt": "The bottle / which / be / big / be / full",
+          "acceptedAnswers": [
+            "The bottle which is big is full.",
+            "The bottle which is big is full",
+            "The bottle that is big is full.",
+            "The bottle that is big is full"
+          ]
+        },
+        {
+          "id": "d4",
+          "prompt": "The bottles / which / be / small / be / empty",
+          "acceptedAnswers": [
+            "The bottles which are small are empty.",
+            "The bottles which are small are empty",
+            "The bottles that are small are empty.",
+            "The bottles that are small are empty"
+          ]
+        },
+        {
+          "id": "d5",
+          "prompt": "The girl / who / have / short hair / be called / Melissa",
+          "acceptedAnswers": [
+            "The girl who has short hair is called Melissa.",
+            "The girl who has short hair is called Melissa",
+            "The girl that has short hair is called Melissa.",
+            "The girl that has short hair is called Melissa"
+          ]
+        },
+        {
+          "id": "d6",
+          "prompt": "The girls / whose / hair / be / long / be called / Lucy, Tina and Debbi",
+          "acceptedAnswers": [
+            "The girls whose hair is long are called Lucy, Tina and Debbi.",
+            "The girls whose hair is long are called Lucy, Tina and Debbi"
+          ]
+        },
+        {
+          "id": "d7",
+          "prompt": "The boy / who / hold / a black basketball / wear / a school uniform",
+          "acceptedAnswers": [
+            "The boy who is holding a black basketball is wearing a school uniform.",
+            "The boy who is holding a black basketball is wearing a school uniform",
+            "The boy who holds a black basketball wears a school uniform.",
+            "The boy that is holding a black basketball is wearing a school uniform."
+          ]
+        },
+        {
+          "id": "d8",
+          "prompt": "The boys / who / have / basketballs / which / be / white / wear / tracksuits",
+          "acceptedAnswers": [
+            "The boys who have basketballs which are white are wearing tracksuits.",
+            "The boys who have basketballs which are white are wearing tracksuits",
+            "The boys who have white basketballs are wearing tracksuits.",
+            "The boys who have white basketballs are wearing tracksuits"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e",
+      "type": "multiple-choice",
+      "title": "E · that or not?",
+      "instruction": "Can the relative pronoun be replaced by that?",
+      "items": [
+        {
+          "id": "e1",
+          "prompt": "The tree which is tall doesn't have any leaves. (defining)",
+          "options": ["that is possible", "that is not possible"],
+          "acceptedAnswers": ["that is possible"]
+        },
+        {
+          "id": "e2",
+          "prompt": "The trees which have leaves are short. (defining)",
+          "options": ["that is possible", "that is not possible"],
+          "acceptedAnswers": ["that is possible"]
+        },
+        {
+          "id": "e3",
+          "prompt": "The bottle which is big is full. (defining)",
+          "options": ["that is possible", "that is not possible"],
+          "acceptedAnswers": ["that is possible"]
+        },
+        {
+          "id": "e4",
+          "prompt": "The girls whose hair is long are called Lucy, Tina and Debbi. (whose)",
+          "options": ["that is possible", "that is not possible"],
+          "acceptedAnswers": ["that is not possible"]
+        },
+        {
+          "id": "e5",
+          "prompt": "The boy who is holding a black basketball is wearing a school uniform. (defining who)",
+          "options": ["that is possible", "that is not possible"],
+          "acceptedAnswers": ["that is possible"]
+        },
+        {
+          "id": "e6",
+          "prompt": "My grandfather, who is sixty-five years old now, was an airline pilot. (non-defining)",
+          "options": ["that is possible", "that is not possible"],
+          "acceptedAnswers": ["that is not possible"]
+        }
+      ]
+    },
+    {
+      "id": "f",
+      "type": "gap-fill",
+      "title": "F · Actuaries",
+      "instruction": "Write one word in each gap.",
+      "items": [
+        {
+          "id": "f1",
+          "prompt": "Did you know that there are people ___ are paid to predict the future? They're called 'actuaries'.",
+          "acceptedAnswers": ["who", "that"]
+        },
+        {
+          "id": "f2",
+          "prompt": "I'd never heard of actuaries until my friend Greg, ___ mother is an actuary, told me about them.",
+          "acceptedAnswers": ["whose"]
+        },
+        {
+          "id": "f3",
+          "prompt": "It's a job ___ sounds quite interesting.",
+          "acceptedAnswers": ["which", "that"]
+        },
+        {
+          "id": "f4",
+          "prompt": "Actuaries usually work for companies, like insurance companies, ___ deal with the chances of things happening in the future.",
+          "acceptedAnswers": ["which", "that"]
+        },
+        {
+          "id": "f5",
+          "prompt": "For example, it's more probable that buildings will be flooded in places ___ it rains a lot.",
+          "acceptedAnswers": ["where"]
+        },
+        {
+          "id": "f6",
+          "prompt": "Greg's mum, ___ has been an actuary for about five years, is involved with car insurance.",
+          "acceptedAnswers": ["who"]
+        },
+        {
+          "id": "f7",
+          "prompt": "She works in an office ___ they decide how much car insurance people should pay.",
+          "acceptedAnswers": ["where"]
+        },
+        {
+          "id": "f8",
+          "prompt": "It's more probable that a car ___ is new is safer and more reliable than a very old car,",
+          "acceptedAnswers": ["which", "that"]
+        },
+        {
+          "id": "f9",
+          "prompt": "so people ___ cars are new pay less insurance.",
+          "acceptedAnswers": ["whose"]
+        },
+        {
+          "id": "f10",
+          "prompt": "If there are drivers ___ she thinks will probably have more accidents, she makes them pay more insurance!",
+          "acceptedAnswers": ["who", "that"]
+        }
+      ]
+    }
+  ]
+}

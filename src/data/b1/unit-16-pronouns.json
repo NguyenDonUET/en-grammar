@@ -1,0 +1,519 @@
+{
+  "id": "unit-16-pronouns",
+  "level": "b1",
+  "unitNumber": 16,
+  "title": "Pronouns and possessive determiners",
+  "subtitle": "Subject, object, possessives and reflexives",
+  "theory": [
+    {
+      "id": "subject-pronouns",
+      "title": "Subject pronouns",
+      "icon": "BookOpen",
+      "blocks": [
+        {
+          "type": "prose",
+          "text": "**I / you / he / she / it / we / they**"
+        },
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "The subject of a verb",
+              "example": "**They** built the first aeroplane. · Alexander Fleming discovered penicillin, but **he** did it by mistake!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "object-pronouns",
+      "title": "Object pronouns",
+      "icon": "Sparkles",
+      "blocks": [
+        {
+          "type": "prose",
+          "text": "**me / you / him / her / it / us / them**"
+        },
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "The object of a verb",
+              "example": "Could you give **me** that equipment? · Could you give that equipment **to me**?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "possessive-determiners",
+      "title": "Possessive determiners",
+      "icon": "Lightbulb",
+      "blocks": [
+        {
+          "type": "prose",
+          "text": "**my / your / his / her / its / our / their**"
+        },
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "To show who owns or has something",
+              "example": "That's **their** car."
+            }
+          ]
+        },
+        {
+          "type": "hints",
+          "intro": "Possessive determiners are always followed by a noun.",
+          "items": ["Is this **my** coffee?"]
+        },
+        {
+          "type": "watch-out",
+          "text": "**Its** and **it's** do not mean the same thing."
+        },
+        {
+          "type": "correct-incorrect",
+          "correct": "Here's the dog's water and here's **its** food. (= the dog's food)",
+          "incorrect": "Here's the dog's water and here's **it's** food."
+        },
+        {
+          "type": "correct-incorrect",
+          "correct": "**It's** the best camera I've ever had. (= It is …)",
+          "incorrect": "**Its** the best camera I've ever had."
+        }
+      ]
+    },
+    {
+      "id": "possessive-pronouns",
+      "title": "Possessive pronouns",
+      "icon": "CheckCircle2",
+      "blocks": [
+        {
+          "type": "prose",
+          "text": "**mine / yours / his / hers / ours / theirs**"
+        },
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "To show who owns or has something",
+              "example": "That car is **ours**."
+            }
+          ]
+        },
+        {
+          "type": "hints",
+          "intro": "Possessive pronouns are not followed by a noun.",
+          "items": ["This is **hers**."]
+        },
+        {
+          "type": "correct-incorrect",
+          "correct": "This is **hers**.",
+          "incorrect": "This is **hers car**."
+        },
+        {
+          "type": "watch-out",
+          "text": "There is no possessive pronoun for **it**."
+        }
+      ]
+    },
+    {
+      "id": "reflexive-pronouns",
+      "title": "Reflexive pronouns",
+      "icon": "PencilLine",
+      "blocks": [
+        {
+          "type": "prose",
+          "text": "**myself / yourself / himself / herself / itself / ourselves / yourselves / themselves**"
+        },
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "To describe actions where the subject and object are the same",
+              "example": "My computer turns **itself** off after half an hour."
+            },
+            {
+              "use": "To emphasise who does something",
+              "example": "Nobody helped me. I did it **myself**!"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "a",
+      "type": "gap-fill",
+      "title": "A · Subject pronouns",
+      "instruction": "Complete using a word from the box. You may need some words more than once.",
+      "wordBank": ["I", "you", "he", "she", "it", "we", "they"],
+      "items": [
+        {
+          "id": "a1",
+          "prompt": "___ asked Mr Simons, my science teacher, what glass was",
+          "acceptedAnswers": ["I"]
+        },
+        {
+          "id": "a2",
+          "prompt": "I asked Mr Simons, my science teacher, what glass was and ___ said that it is a liquid!",
+          "acceptedAnswers": ["he"]
+        },
+        {
+          "id": "a3",
+          "prompt": "and he said that ___ is a liquid!",
+          "acceptedAnswers": ["it"]
+        },
+        {
+          "id": "a4",
+          "prompt": "Hi Diana! Are ___ still coming shopping with us tomorrow?",
+          "acceptedAnswers": ["you"]
+        },
+        {
+          "id": "a5",
+          "prompt": "My mum studied history at university. ___ says ___ was a really interesting course.",
+          "acceptedAnswers": ["She, it", "She"],
+          "explanation": "Write: She"
+        },
+        {
+          "id": "a6",
+          "prompt": "She says ___ was a really interesting course.",
+          "acceptedAnswers": ["it"]
+        },
+        {
+          "id": "a7",
+          "prompt": "Scientists are working hard to find cures for lots of diseases, but ___ haven't found a cure for the common cold yet.",
+          "acceptedAnswers": ["they"]
+        },
+        {
+          "id": "a8",
+          "prompt": "Adam, do ___ think ___ should all bring some food with us to your party?",
+          "acceptedAnswers": ["you"],
+          "explanation": "This gap is you (talking to Adam)."
+        },
+        {
+          "id": "a9",
+          "prompt": "Adam, do you think ___ should all bring some food with us to your party?",
+          "acceptedAnswers": ["we"]
+        },
+        {
+          "id": "a10",
+          "prompt": "Dad, do ___ know if ___ sell computer games in the market?",
+          "acceptedAnswers": ["you"],
+          "explanation": "This gap is you (talking to Dad)."
+        },
+        {
+          "id": "a11",
+          "prompt": "Dad, do you know if ___ sell computer games in the market?",
+          "acceptedAnswers": ["they"]
+        }
+      ]
+    },
+    {
+      "id": "b",
+      "type": "gap-fill",
+      "title": "B · Object pronouns",
+      "instruction": "Replace the words in bold with a word from the box.",
+      "wordBank": ["him", "her", "it", "us", "them"],
+      "items": [
+        {
+          "id": "b1",
+          "prompt": "Did you give **that book** back to Alicia? → Did you give ___ back to Alicia?",
+          "acceptedAnswers": ["it"]
+        },
+        {
+          "id": "b2",
+          "prompt": "I told **Bill** that you don't eat meat. → I told ___ that you don't eat meat.",
+          "acceptedAnswers": ["him"]
+        },
+        {
+          "id": "b3",
+          "prompt": "Why does she always give **our class** more tests than the other class? → Why does she always give ___ more tests than the other class?",
+          "acceptedAnswers": ["us"]
+        },
+        {
+          "id": "b4",
+          "prompt": "They paid **Kate Winslet** a lot of money to be in this film. → They paid ___ a lot of money to be in this film.",
+          "acceptedAnswers": ["her"]
+        },
+        {
+          "id": "b5",
+          "prompt": "I haven't seen **Rich and Andy** for ages. → I haven't seen ___ for ages.",
+          "acceptedAnswers": ["them"]
+        },
+        {
+          "id": "b6",
+          "prompt": "Did you give an invitation to **Mr and Mrs Clark**? → Did you give an invitation to ___ ?",
+          "acceptedAnswers": ["them"]
+        },
+        {
+          "id": "b7",
+          "prompt": "A TV channel has invited **my family** to take part in a game show! → A TV channel has invited ___ to take part in a game show!",
+          "acceptedAnswers": ["us"]
+        }
+      ]
+    },
+    {
+      "id": "c",
+      "type": "rewrite",
+      "title": "C · Possessives",
+      "instruction": "Rewrite the sentences using the word given.",
+      "items": [
+        {
+          "id": "c1",
+          "prompt": "This is where we live. **house** — This is ___ .",
+          "acceptedAnswers": [
+            "our house",
+            "This is our house.",
+            "This is our house"
+          ]
+        },
+        {
+          "id": "c2",
+          "prompt": "That wallet belongs to me! **That** — That ___ wallet!",
+          "acceptedAnswers": [
+            "That's my",
+            "That is my",
+            "That's my wallet!",
+            "That is my wallet!"
+          ]
+        },
+        {
+          "id": "c3",
+          "prompt": "Do those shoes belong to you? **your** — Are ___ ?",
+          "acceptedAnswers": [
+            "they yours",
+            "Are they yours?",
+            "Are they yours"
+          ]
+        },
+        {
+          "id": "c4",
+          "prompt": "That car doesn't belong to them. **car** — That's ___ .",
+          "acceptedAnswers": [
+            "not their car",
+            "That's not their car.",
+            "That's not their car",
+            "That isn't their car.",
+            "That isn't their car"
+          ]
+        },
+        {
+          "id": "c5",
+          "prompt": "This is where she sleeps. **bed** — This ___ .",
+          "acceptedAnswers": [
+            "is her bed",
+            "This is her bed.",
+            "This is her bed"
+          ]
+        },
+        {
+          "id": "c6",
+          "prompt": "That isn't what he does. **job** — That ___ .",
+          "acceptedAnswers": [
+            "isn't his job",
+            "is not his job",
+            "That isn't his job.",
+            "That isn't his job"
+          ]
+        },
+        {
+          "id": "c7",
+          "prompt": "Have you seen the dog's blanket? **its** — Where's ___ ?",
+          "acceptedAnswers": [
+            "its blanket",
+            "Where's its blanket?",
+            "Where's its blanket"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d",
+      "type": "rewrite",
+      "title": "D · Extra word",
+      "instruction": "If a sentence is correct, write OK. If there is an extra word, write that word.",
+      "items": [
+        {
+          "id": "d1",
+          "prompt": "Is that my milkshake or yours milkshake?",
+          "acceptedAnswers": ["milkshake"]
+        },
+        {
+          "id": "d2",
+          "prompt": "Look where the dog has put its bone!",
+          "acceptedAnswers": ["OK", "ok", "Ok"]
+        },
+        {
+          "id": "d3",
+          "prompt": "I haven't got a camera with me because I've lent mine to my brother.",
+          "acceptedAnswers": ["OK", "ok", "Ok"]
+        },
+        {
+          "id": "d4",
+          "prompt": "Your DVD player is just the same as theirs is.",
+          "acceptedAnswers": ["is"]
+        },
+        {
+          "id": "d5",
+          "prompt": "Was it your decision or hers decision?",
+          "acceptedAnswers": ["decision"]
+        },
+        {
+          "id": "d6",
+          "prompt": "You can borrow my laptop, but why aren't you using yours laptop?",
+          "acceptedAnswers": ["laptop"]
+        },
+        {
+          "id": "d7",
+          "prompt": "I think those are my CDs and these are ours.",
+          "acceptedAnswers": ["OK", "ok", "Ok"]
+        },
+        {
+          "id": "d8",
+          "prompt": "This is her books, these are your books and these two are mine books.",
+          "acceptedAnswers": ["books"],
+          "explanation": "mine is not followed by a noun. Write the extra word: books"
+        },
+        {
+          "id": "d9",
+          "prompt": "That video belongs to Carol and Doug — at least, I think it's theirs video.",
+          "acceptedAnswers": ["video"]
+        }
+      ]
+    },
+    {
+      "id": "e",
+      "type": "rewrite",
+      "title": "E · Wrong reflexive",
+      "instruction": "Each word in bold is in the wrong sentence. Write the correct reflexive pronoun.",
+      "items": [
+        {
+          "id": "e1",
+          "prompt": "That's great, Cathy. Did you make that **herself**?",
+          "acceptedAnswers": ["yourself"]
+        },
+        {
+          "id": "e2",
+          "prompt": "Doug hit **myself** in the eye by mistake with his toothbrush!",
+          "acceptedAnswers": ["himself"]
+        },
+        {
+          "id": "e3",
+          "prompt": "Cats can look after **yourself**, can't they?",
+          "acceptedAnswers": ["themselves"]
+        },
+        {
+          "id": "e4",
+          "prompt": "I hope you all enjoy **himself** on holiday!",
+          "acceptedAnswers": ["yourselves"]
+        },
+        {
+          "id": "e5",
+          "prompt": "Dad didn't help me. I did it all **themselves**!",
+          "acceptedAnswers": ["myself"]
+        },
+        {
+          "id": "e6",
+          "prompt": "We painted the room **yourselves**; we didn't pay anyone to do it.",
+          "acceptedAnswers": ["ourselves"]
+        },
+        {
+          "id": "e7",
+          "prompt": "This kitchen isn't going to clean **ourselves**, you know!",
+          "acceptedAnswers": ["itself"]
+        },
+        {
+          "id": "e8",
+          "prompt": "Wendy decided that she would buy **itself** a new dress in the sales.",
+          "acceptedAnswers": ["herself"]
+        }
+      ]
+    },
+    {
+      "id": "f",
+      "type": "gap-fill",
+      "title": "F · Inventions",
+      "instruction": "Complete using the correct pronouns or determiners.",
+      "items": [
+        {
+          "id": "f1",
+          "prompt": "If you invented something important, (1) ___ would want to make money out of",
+          "acceptedAnswers": ["you"]
+        },
+        {
+          "id": "f2",
+          "prompt": "(2) ___ , right?",
+          "acceptedAnswers": ["it"]
+        },
+        {
+          "id": "f3",
+          "prompt": "Most of us would want to make some money from (3) ___ invention.",
+          "acceptedAnswers": ["our"]
+        },
+        {
+          "id": "f4",
+          "prompt": "It seems only fair — we did the work, so the money should be (4) ___ too.",
+          "acceptedAnswers": ["ours"]
+        },
+        {
+          "id": "f5",
+          "prompt": "Many inventors who have had (5) ___ inventions produced, have become rich and famous",
+          "acceptedAnswers": ["their"]
+        },
+        {
+          "id": "f6",
+          "prompt": "and we shouldn't blame (6) ___ for that.",
+          "acceptedAnswers": ["them"]
+        },
+        {
+          "id": "f7",
+          "prompt": "But have (7) ___ heard of Tim Berners-Lee?",
+          "acceptedAnswers": ["you"]
+        },
+        {
+          "id": "f8",
+          "prompt": "(8) ___ invented the World Wide Web on the Internet,",
+          "acceptedAnswers": ["He"]
+        },
+        {
+          "id": "f9",
+          "prompt": "one of the most important inventions of the last fifty years. Millions of lives have been changed by (9) ___ introduction.",
+          "acceptedAnswers": ["its"]
+        },
+        {
+          "id": "f10",
+          "prompt": "When Tim Berners-Lee invented the Web, he made a promise to (10) ___ — that he wouldn't make any money out of it,",
+          "acceptedAnswers": ["himself"]
+        },
+        {
+          "id": "f11",
+          "prompt": "and that he would give (11) ___ invention to the world.",
+          "acceptedAnswers": ["his"]
+        },
+        {
+          "id": "f12",
+          "prompt": "He did, and now the Web belongs to all of (12) ___ .",
+          "acceptedAnswers": ["us"]
+        },
+        {
+          "id": "f13",
+          "prompt": "Ask (13) ___ what life would be like if the World Wide Web wasn't free.",
+          "acceptedAnswers": ["yourself"]
+        },
+        {
+          "id": "f14",
+          "prompt": "We should be grateful to Tim Berners-Lee, and thank (14) ___ for",
+          "acceptedAnswers": ["him"]
+        },
+        {
+          "id": "f15",
+          "prompt": "(15) ___ amazing gift to the world.",
+          "acceptedAnswers": ["this", "his", "an"]
+        }
+      ]
+    }
+  ]
+}
