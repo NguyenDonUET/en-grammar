@@ -1,0 +1,415 @@
+{
+  "id": "unit-31-reported-speech",
+  "level": "b1",
+  "unitNumber": 31,
+  "title": "Reported speech",
+  "subtitle": "Reporting what someone else said, with tense and time-word changes",
+  "theory": [
+    {
+      "id": "reported-speech",
+      "title": "Reported speech",
+      "icon": "BookOpen",
+      "blocks": [
+        {
+          "type": "prose",
+          "text": "We use reported speech to report what someone else said. When the reporting verb (**said**, etc.) is in the past, we usually move the tense one step back."
+        },
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "present simple → past simple",
+              "example": "'I **want** to build a new house,' said Jill. → Jill said she **wanted** to build a new house."
+            },
+            {
+              "use": "present continuous → past continuous",
+              "example": "'We **are making** a dress,' they said. → They said they **were making** a dress."
+            },
+            {
+              "use": "present perfect continuous → past perfect continuous",
+              "example": "'I **have been drawing** all day,' said Debbie. → Debbie said she **had been drawing** all day."
+            },
+            {
+              "use": "past simple → past perfect simple",
+              "example": "'Jim **made** a card for me yesterday,' Amy said. → Amy said Jim **had made** a card for her the day before."
+            },
+            {
+              "use": "past continuous → past perfect continuous",
+              "example": "'I **was writing** a poem,' said Tina. → Tina said she **had been writing** a poem."
+            },
+            {
+              "use": "will → would",
+              "example": "'I **will** make you a scarf,' my grandma said. → My grandma said she **would** make me a scarf."
+            },
+            {
+              "use": "am/is/are going to → was/were going to",
+              "example": "'They **are going to** make a new one,' said Joe. → Joe said they **were going to** make a new one."
+            },
+            {
+              "use": "can → could",
+              "example": "'I **can** draw quite well,' Emma said. → Emma said she **could** draw quite well."
+            },
+            {
+              "use": "must / have to → had to",
+              "example": "'You **have to** visit the fashion show,' she said. → She said we **had to** visit the fashion show."
+            },
+            {
+              "use": "may → might",
+              "example": "'I **may** visit the White House next week,' said Polly. → Polly said she **might** visit the White House the following week."
+            }
+          ]
+        },
+        {
+          "type": "hints",
+          "intro": "We often have to change other words apart from the verb form.",
+          "items": [
+            "pronouns: I → he/she · you → I/me/they/them · we → they · us → them · my → his/her · your → my/their",
+            "time and place: here → there · now → then/at that moment · tomorrow → the next day · tonight → that night · next week → the following week · yesterday → the day before · last week → the week before · ago → before"
+          ]
+        },
+        {
+          "type": "watch-out",
+          "text": "We only make tense changes when the reporting verb (**say**, etc.) is in the past."
+        },
+        {
+          "type": "correct-incorrect",
+          "correct": "Tony **says** he **is going** to study architecture.",
+          "incorrect": "Tony **says** he **was going** to study architecture."
+        },
+        {
+          "type": "hints",
+          "items": [
+            "We don't change the past perfect simple and the past perfect continuous.",
+            "'I **had seen** the picture before.' → He said he **had seen** the picture before.",
+            "We also don't change **would**, **should**, **could** or **might**.",
+            "'I **might** take up painting.' → She said she **might** take up painting."
+          ]
+        },
+        {
+          "type": "hints",
+          "intro": "We can use verbs like **apologise**, **deny**, **promise**, **refuse** and **suggest** in reported speech.",
+          "items": [
+            "Tony **apologised for** losing the picture.",
+            "He **denied** breaking the statue.",
+            "Terence **promised to** help me decorate the house.",
+            "Charlotte **refused to** let me see her painting.",
+            "My dad **suggested going** to an art gallery."
+          ]
+        }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "a",
+      "type": "multiple-choice",
+      "title": "A · Choose the correct tense",
+      "instruction": "Choose the correct answer.",
+      "items": [
+        {
+          "id": "a1",
+          "prompt": "'I'm a big fan of U2,' Derek said. Derek said he ___ a big fan of U2.",
+          "options": ["was", "has been", "had been"],
+          "acceptedAnswers": ["was"]
+        },
+        {
+          "id": "a2",
+          "prompt": "'We're watching TV,' said the twins. The twins said they ___ TV.",
+          "options": ["watched", "were watching", "had watched"],
+          "acceptedAnswers": ["were watching"]
+        },
+        {
+          "id": "a3",
+          "prompt": "'You've been annoying me all day!' my mum said. My mum said I ___ her all day.",
+          "options": ["annoyed", "was annoying", "had been annoying"],
+          "acceptedAnswers": ["had been annoying"]
+        },
+        {
+          "id": "a4",
+          "prompt": "'The dog ate my homework!' said Ivan. Ivan said the dog ___ his homework.",
+          "options": ["was eating", "had eaten", "has eaten"],
+          "acceptedAnswers": ["had eaten"]
+        },
+        {
+          "id": "a5",
+          "prompt": "'At one o'clock, I was having lunch,' said Molly. Molly said she ___ lunch at one o'clock.",
+          "options": ["had been having", "has had", "is having"],
+          "acceptedAnswers": ["had been having"]
+        },
+        {
+          "id": "a6",
+          "prompt": "'You'll get wet without an umbrella,' Dad said. Dad said I ___ wet without an umbrella.",
+          "options": ["will be getting", "got", "would get"],
+          "acceptedAnswers": ["would get"]
+        },
+        {
+          "id": "a7",
+          "prompt": "'He can juggle five balls!' said Angie. Angie said he ___ five balls.",
+          "options": ["juggled", "would juggle", "could juggle"],
+          "acceptedAnswers": ["could juggle"]
+        },
+        {
+          "id": "a8",
+          "prompt": "'You must give me your essays,' Mrs Vine said. Mrs Vine said we ___ give her our essays.",
+          "options": ["were having to", "had to", "would have to"],
+          "acceptedAnswers": ["had to"]
+        }
+      ]
+    },
+    {
+      "id": "b",
+      "type": "gap-fill",
+      "title": "B · Pronouns and time words",
+      "instruction": "Complete using the words and phrases in the boxes.",
+      "wordBank": ["his", "their", "them", "there", "before", "that night", "the day before", "the next day"],
+      "items": [
+        {
+          "id": "b1",
+          "prompt": "'I'm seeing Simon tomorrow,' Mary said. Mary said she was seeing Simon ___ .",
+          "acceptedAnswers": ["the next day"]
+        },
+        {
+          "id": "b2",
+          "prompt": "'We moved into the area two years ago,' Bella said. Bella said they had moved into the area two years ___ .",
+          "acceptedAnswers": ["before"]
+        },
+        {
+          "id": "b3",
+          "prompt": "'Our teacher is giving us a test!' said Michelle. Michelle said ___ teacher was giving them a test.",
+          "acceptedAnswers": ["their"]
+        },
+        {
+          "id": "b4",
+          "prompt": "'My dad gave me fifty pounds!' said Neil. Neil said ___ dad had given him fifty pounds.",
+          "acceptedAnswers": ["his"]
+        },
+        {
+          "id": "b5",
+          "prompt": "'I scored a great goal yesterday,' Marina said. Marina said she had scored a great goal ___ .",
+          "acceptedAnswers": ["the day before"]
+        },
+        {
+          "id": "b6",
+          "prompt": "'We saw our cousin at the fair,' said Ben. Ben said they had seen ___ cousin at the fair.",
+          "acceptedAnswers": ["their"]
+        },
+        {
+          "id": "b7",
+          "prompt": "'I left my wallet here,' Frank said. Frank said he had left his wallet ___ .",
+          "acceptedAnswers": ["there"]
+        },
+        {
+          "id": "b8",
+          "prompt": "'I'll sleep well tonight!' said Arnie. Arnie said he would sleep well ___ .",
+          "acceptedAnswers": ["that night"]
+        }
+      ]
+    },
+    {
+      "id": "c",
+      "type": "rewrite",
+      "title": "C · Find the mistake",
+      "instruction": "Underline the mistake in each second sentence and write the correct words.",
+      "items": [
+        {
+          "id": "c1",
+          "prompt": "'There's a mouse in the kitchen!' said Martha. Martha said there **had been** a mouse in the kitchen.",
+          "acceptedAnswers": [
+            "was",
+            "there was a mouse",
+            "Martha said there was a mouse in the kitchen.",
+            "Martha said there was a mouse in the kitchen"
+          ]
+        },
+        {
+          "id": "c2",
+          "prompt": "'We've won every match this year,' Amy said. Amy said they **won** every match that year.",
+          "acceptedAnswers": [
+            "had won",
+            "they had won",
+            "Amy said they had won every match that year.",
+            "Amy said they had won every match that year"
+          ]
+        },
+        {
+          "id": "c3",
+          "prompt": "'I broke my leg two weeks ago,' said Spencer. Spencer said he **had broken his leg two weeks ago**.",
+          "acceptedAnswers": [
+            "had broken his leg two weeks before",
+            "two weeks before",
+            "Spencer said he had broken his leg two weeks before.",
+            "Spencer said he had broken his leg two weeks before"
+          ]
+        },
+        {
+          "id": "c4",
+          "prompt": "'We'd heard the song before,' Rory said. Rory said they **had heard the song before**.",
+          "acceptedAnswers": [
+            "had heard the song before",
+            "Rory said they had heard the song before.",
+            "Rory said they had heard the song before"
+          ]
+        },
+        {
+          "id": "c5",
+          "prompt": "'I've been working since four o'clock,' said Dad. Dad said he **was working** since four o'clock.",
+          "acceptedAnswers": [
+            "had been working",
+            "Dad said he had been working since four o'clock.",
+            "Dad said he had been working since four o'clock"
+          ]
+        },
+        {
+          "id": "c6",
+          "prompt": "'We're spending tomorrow by the swimming pool,' Belinda said. Belinda said they **have spent** the next day by the swimming pool.",
+          "acceptedAnswers": [
+            "were going to spend",
+            "were spending",
+            "would spend",
+            "Belinda said they were spending the next day by the swimming pool.",
+            "Belinda said they were going to spend the next day by the swimming pool."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d",
+      "type": "rewrite",
+      "title": "D · Similar meaning",
+      "instruction": "Complete each second sentence using the word given, so that it has a similar meaning to the first sentence. Write between two and five words.",
+      "items": [
+        {
+          "id": "d1",
+          "prompt": "'I'm going to bake a cake,' said Mum. **she**\nMum said ___ to bake a cake.",
+          "acceptedAnswers": [
+            "she was going",
+            "Mum said she was going to bake a cake.",
+            "Mum said she was going to bake a cake"
+          ]
+        },
+        {
+          "id": "d2",
+          "prompt": "'Richard has passed his driving test,' Andy said. **passed**\nAndy said ___ his driving test.",
+          "acceptedAnswers": [
+            "Richard had passed",
+            "Andy said Richard had passed his driving test.",
+            "Andy said Richard had passed his driving test"
+          ]
+        },
+        {
+          "id": "d3",
+          "prompt": "'We're staying in tonight to watch TV,' Jim said. **that**\nJim said they ___ to watch TV.",
+          "acceptedAnswers": [
+            "were staying in that night",
+            "Jim said they were staying in that night to watch TV.",
+            "Jim said they were staying in that night to watch TV"
+          ]
+        },
+        {
+          "id": "d4",
+          "prompt": "'I'm thinking of going on a diet,' said George. **he**\nGeorge said ___ of going on a diet.",
+          "acceptedAnswers": [
+            "he was thinking",
+            "George said he was thinking of going on a diet.",
+            "George said he was thinking of going on a diet"
+          ]
+        },
+        {
+          "id": "d5",
+          "prompt": "'My sister lived in Russia for a year,' Carol said. **lived**\nCarol said ___ in Russia for a year.",
+          "acceptedAnswers": [
+            "her sister had lived",
+            "Carol said her sister had lived in Russia for a year.",
+            "Carol said her sister had lived in Russia for a year"
+          ]
+        },
+        {
+          "id": "d6",
+          "prompt": "'I went snowboarding last year,' Jill said. **year**\nJill said she ___ before.",
+          "acceptedAnswers": [
+            "had gone snowboarding the year",
+            "had been snowboarding the year",
+            "Jill said she had gone snowboarding the year before.",
+            "Jill said she had been snowboarding the year before."
+          ]
+        },
+        {
+          "id": "d7",
+          "prompt": "'I'll call you tomorrow,' Karl said to me. **next**\nKarl said he ___ day.",
+          "acceptedAnswers": [
+            "would call me the next",
+            "Karl said he would call me the next day.",
+            "Karl said he would call me the next day"
+          ]
+        },
+        {
+          "id": "d8",
+          "prompt": "'We're flying home next week,' said Arthur. **the**\nArthur said they ___ week.",
+          "acceptedAnswers": [
+            "were flying home the following",
+            "would fly home the following",
+            "Arthur said they were flying home the following week.",
+            "Arthur said they were flying home the following week"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e",
+      "type": "rewrite",
+      "title": "E · Reporting verbs",
+      "instruction": "Rewrite the sentences in reported speech using the verb given.",
+      "items": [
+        {
+          "id": "e1",
+          "prompt": "'I'm sorry I told everyone your secret,' my sister said. **apologised**",
+          "acceptedAnswers": [
+            "My sister apologised for telling everyone my secret.",
+            "My sister apologised for telling everyone my secret",
+            "My sister apologised for telling everyone your secret.",
+            "She apologised for telling everyone my secret."
+          ]
+        },
+        {
+          "id": "e2",
+          "prompt": "'I didn't give the money to John,' said Ali. **denied**",
+          "acceptedAnswers": [
+            "Ali denied giving the money to John.",
+            "Ali denied giving the money to John",
+            "Ali denied that he had given the money to John.",
+            "Ali denied that he had given the money to John"
+          ]
+        },
+        {
+          "id": "e3",
+          "prompt": "'I'll love you forever!' Francis said to Elizabeth. **promised**",
+          "acceptedAnswers": [
+            "Francis promised to love Elizabeth forever.",
+            "Francis promised to love Elizabeth forever",
+            "Francis promised Elizabeth that he would love her forever.",
+            "Francis promised Elizabeth that he would love her forever"
+          ]
+        },
+        {
+          "id": "e4",
+          "prompt": "'No, I won't open the door!' said Mandy. **refused**",
+          "acceptedAnswers": [
+            "Mandy refused to open the door.",
+            "Mandy refused to open the door"
+          ]
+        },
+        {
+          "id": "e5",
+          "prompt": "'Why don't we give Jenny a call?' Albert said. **suggested**",
+          "acceptedAnswers": [
+            "Albert suggested giving Jenny a call.",
+            "Albert suggested giving Jenny a call",
+            "Albert suggested that they give Jenny a call.",
+            "Albert suggested that they gave Jenny a call.",
+            "Albert suggested calling Jenny."
+          ]
+        }
+      ]
+    }
+  ]
+}

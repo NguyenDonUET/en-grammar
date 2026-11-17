@@ -13,6 +13,20 @@ import unit16Pronouns from '@/data/b1/unit-16-pronouns.json' with { type: 'json'
 import unit17RelativeClauses from '@/data/b1/unit-17-relative-clauses.json' with { type: 'json' }
 import unit19Modals1 from '@/data/b1/unit-19-modals-1.json' with { type: 'json' }
 import unit20Modals2 from '@/data/b1/unit-20-modals-2.json' with { type: 'json' }
+import unit22ModalPerfect from '@/data/b1/unit-22-modal-perfect.json' with { type: 'json' }
+import unit23Questions from '@/data/b1/unit-23-questions.json' with { type: 'json' }
+import unit25SoSuchTooEnough from '@/data/b1/unit-25-so-such-too-enough.json' with { type: 'json' }
+import unit26Comparatives from '@/data/b1/unit-26-comparatives.json' with { type: 'json' }
+import unit28Conditionals1 from '@/data/b1/unit-28-conditionals-1.json' with { type: 'json' }
+import unit29Conditionals2 from '@/data/b1/unit-29-conditionals-2.json' with { type: 'json' }
+import unit31ReportedSpeech from '@/data/b1/unit-31-reported-speech.json' with { type: 'json' }
+import unit32ReportedQuestions from '@/data/b1/unit-32-reported-questions.json' with { type: 'json' }
+import unit34DirectIndirectObjects from '@/data/b1/unit-34-direct-indirect-objects.json' with { type: 'json' }
+import unit35Wish from '@/data/b1/unit-35-wish.json' with { type: 'json' }
+import unit37IngInfinitive from '@/data/b1/unit-37-ing-infinitive.json' with { type: 'json' }
+import unit38BothEitherNeither from '@/data/b1/unit-38-both-either-neither.json' with { type: 'json' }
+import unit40Connectives from '@/data/b1/unit-40-connectives.json' with { type: 'json' }
+import unit41Causative from '@/data/b1/unit-41-causative.json' with { type: 'json' }
 
 export const LEVELS: { id: LevelId; label: string; description: string }[] = [
   { id: 'b1', label: 'B1', description: 'Intermediate' },
@@ -36,6 +50,20 @@ const units: GrammarUnit[] = [
   unit17RelativeClauses as GrammarUnit,
   unit19Modals1 as GrammarUnit,
   unit20Modals2 as GrammarUnit,
+  unit22ModalPerfect as GrammarUnit,
+  unit23Questions as GrammarUnit,
+  unit25SoSuchTooEnough as GrammarUnit,
+  unit26Comparatives as GrammarUnit,
+  unit28Conditionals1 as GrammarUnit,
+  unit29Conditionals2 as GrammarUnit,
+  unit31ReportedSpeech as GrammarUnit,
+  unit32ReportedQuestions as GrammarUnit,
+  unit34DirectIndirectObjects as GrammarUnit,
+  unit35Wish as GrammarUnit,
+  unit37IngInfinitive as GrammarUnit,
+  unit38BothEitherNeither as GrammarUnit,
+  unit40Connectives as GrammarUnit,
+  unit41Causative as GrammarUnit,
 ]
 
 export function getUnitsByLevel(level: LevelId): UnitSummary[] {

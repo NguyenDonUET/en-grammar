@@ -1,0 +1,482 @@
+{
+  "id": "unit-23-questions",
+  "level": "b1",
+  "unitNumber": 23,
+  "title": "Questions, question tags, indirect questions",
+  "subtitle": "Word order in questions, tags, and polite indirect questions",
+  "theory": [
+    {
+      "id": "questions",
+      "title": "Questions",
+      "icon": "BookOpen",
+      "blocks": [
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "Normal main verbs · simple tenses",
+              "example": "**Do** you feel cold? **Did** they go shopping?"
+            },
+            {
+              "use": "Continuous tenses",
+              "example": "**Am** I annoying you? **Were** they waiting for you?"
+            },
+            {
+              "use": "Perfect tenses",
+              "example": "**Have** you seen this film? **Had** it started?"
+            },
+            {
+              "use": "Be as a main verb",
+              "example": "**Am** I late? **Were** you all right? **Have** you been ill?"
+            },
+            {
+              "use": "Have as a main verb",
+              "example": "**Does** she **have** a bath every day? **Did** they **have** lunch at one o'clock?"
+            },
+            {
+              "use": "Modals",
+              "example": "**Should** I call the police? **Could** you call me later?"
+            },
+            {
+              "use": "Question words",
+              "example": "**Who** was in prison? **What's** your name? **Where** do they live? **Why** did you do that?"
+            }
+          ]
+        },
+        {
+          "type": "watch-out",
+          "text": "To form questions in the passive, we put the auxiliary verb before the subject. If there is more than one auxiliary verb, only the first one goes before the subject."
+        },
+        {
+          "type": "hints",
+          "items": [
+            "**Was** Mr Jenkins arrested yesterday?",
+            "**Has** Mr Jenkins been arrested?"
+          ]
+        },
+        {
+          "type": "hints",
+          "intro": "With the question words **who** and **what**, we use **do** as an auxiliary verb if the question word refers to the object of the verb.",
+          "items": [
+            "**Who told you?** (= Someone told you. Who?)",
+            "**Who did you tell?** (= You told someone. Who?)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "question-tags",
+      "title": "Question tags",
+      "icon": "Sparkles",
+      "blocks": [
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "To ask someone to agree with us",
+              "example": "It's confusing, **isn't it**?"
+            },
+            {
+              "use": "To check whether something is true",
+              "example": "You haven't been to prison, **have you**?"
+            },
+            {
+              "use": "Normal main verbs · simple tenses",
+              "example": "Phil works here, **doesn't he**? They didn't leave, **did they**?"
+            },
+            {
+              "use": "Continuous tenses",
+              "example": "You are coming, **aren't you**? They weren't looking, **were they**?"
+            },
+            {
+              "use": "Perfect tenses",
+              "example": "They've gone, **haven't they**? You hadn't seen it, **had you**?"
+            },
+            {
+              "use": "Be as a main verb",
+              "example": "He's new here, **isn't he**? You weren't old enough, **were you**?"
+            },
+            {
+              "use": "Have as a main verb",
+              "example": "They have a car, **haven't / don't they**? You didn't have a shower every day, **did you**?"
+            },
+            {
+              "use": "Modals",
+              "example": "Jan **should** be here by now, **shouldn't he**? You **won't** make a mess, **will you**?"
+            }
+          ]
+        },
+        {
+          "type": "hints",
+          "intro": "Helpful hints",
+          "items": [
+            "In sentences with **I am**, we use **aren't I**? In sentences with **I'm not**, we use **am I**?",
+            "I'm right, **aren't I**? I'm not stupid, **am I**?"
+          ]
+        },
+        {
+          "type": "watch-out",
+          "text": "With **Let's**, we use **shall** in the question tag.",
+          "note": "Let's do the washing-up later, **shall we**?"
+        }
+      ]
+    },
+    {
+      "id": "indirect-questions",
+      "title": "Indirect questions",
+      "icon": "Lightbulb",
+      "blocks": [
+        {
+          "type": "prose",
+          "text": "We use a phrase + a clause with normal word order to ask questions politely."
+        },
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "To ask questions politely",
+              "example": "**Can/Could you tell me** where the bank is? **Do you know** if Alison lives there? **I wonder if** Alison could tell me where the toilets are."
+            }
+          ]
+        },
+        {
+          "type": "watch-out",
+          "text": "We don't use question word order in the second half of the sentence.",
+          "note": "I wonder if you know how much this costs. (not **how much does this cost**)"
+        }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "a",
+      "type": "rewrite",
+      "title": "A · Correct the question",
+      "instruction": "The words and phrases in bold in each sentence are wrong. Write the correct word or phrase.",
+      "items": [
+        {
+          "id": "a1",
+          "prompt": "Does Debbie **likes** Greek food?",
+          "acceptedAnswers": ["like", "Does Debbie like Greek food?", "Does Debbie like Greek food"]
+        },
+        {
+          "id": "a2",
+          "prompt": "Did Anne and Carlo **went** to Spain last year?",
+          "acceptedAnswers": ["go", "Did Anne and Carlo go to Spain last year?", "Did Anne and Carlo go to Spain last year"]
+        },
+        {
+          "id": "a3",
+          "prompt": "**Was** Dawn and Jennifer with you?",
+          "acceptedAnswers": ["Were", "Were Dawn and Jennifer with you?", "Were Dawn and Jennifer with you"]
+        },
+        {
+          "id": "a4",
+          "prompt": "Has Claudia **a haircut** every Thursday?",
+          "acceptedAnswers": [
+            "Does Claudia have a haircut every Thursday?",
+            "Does Claudia have a haircut every Thursday",
+            "Does Claudia have"
+          ]
+        },
+        {
+          "id": "a5",
+          "prompt": "Have you **buy** the new Arctic Monkeys' CD yet?",
+          "acceptedAnswers": [
+            "bought",
+            "Have you bought the new Arctic Monkeys' CD yet?",
+            "Have you bought the new Arctic Monkeys' CD yet"
+          ]
+        },
+        {
+          "id": "a6",
+          "prompt": "**Does** Tim going to be in the school play?",
+          "acceptedAnswers": [
+            "Is",
+            "Is Tim going to be in the school play?",
+            "Is Tim going to be in the school play"
+          ]
+        },
+        {
+          "id": "a7",
+          "prompt": "It **would be** the best thing to do?",
+          "acceptedAnswers": [
+            "Would it be",
+            "Would it be the best thing to do?",
+            "Would it be the best thing to do"
+          ]
+        },
+        {
+          "id": "a8",
+          "prompt": "Were you **play** basketball when it started snowing?",
+          "acceptedAnswers": [
+            "playing",
+            "Were you playing basketball when it started snowing?",
+            "Were you playing basketball when it started snowing"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b",
+      "type": "gap-fill",
+      "title": "B · Dialogue",
+      "instruction": "Write one word in each gap.",
+      "items": [
+        {
+          "id": "b1",
+          "prompt": "Rachel: Hi, Ben! (1) ___ are you?",
+          "acceptedAnswers": ["How"]
+        },
+        {
+          "id": "b2",
+          "prompt": "Ben: I'm fine. (2) ___ you hear about Mr Watkins, the maths teacher?",
+          "acceptedAnswers": ["Did"]
+        },
+        {
+          "id": "b3",
+          "prompt": "Rachel: No. (3) ___ happened to him?",
+          "acceptedAnswers": ["What"]
+        },
+        {
+          "id": "b4",
+          "prompt": "Ben: He fell out of the window of his classroom!\nRachel: (4) ___ pushed him?",
+          "acceptedAnswers": ["Who"]
+        },
+        {
+          "id": "b5",
+          "prompt": "Ben: No one!\nRachel: So how (5) ___ it happen?",
+          "acceptedAnswers": ["did"]
+        },
+        {
+          "id": "b6",
+          "prompt": "Ben: He was sitting on the windowsill and he just fell backwards!\nRachel: Oh dear! Poor Mr Watkins. (6) ___ he hurt?",
+          "acceptedAnswers": ["Was", "Is"]
+        },
+        {
+          "id": "b7",
+          "prompt": "Ben: No. Luckily his classroom is on the ground floor.\nRachel: That's lucky! (7) ___ you there at the time?",
+          "acceptedAnswers": ["Were"]
+        },
+        {
+          "id": "b8",
+          "prompt": "Ben: Yes! We were having a maths lesson.\nRachel: So (8) ___ did you all do?",
+          "acceptedAnswers": ["what"]
+        },
+        {
+          "id": "b9",
+          "prompt": "Ben: We ran outside to help him. We were all laughing, though!\nRachel: (9) ___ he think it was funny, too?",
+          "acceptedAnswers": ["Did"]
+        }
+      ]
+    },
+    {
+      "id": "c",
+      "type": "multiple-choice",
+      "title": "C · Match the tags",
+      "instruction": "Choose the question tag that completes each sentence.",
+      "items": [
+        {
+          "id": "c1",
+          "prompt": "You live in a village,",
+          "options": ["aren't they?", "have you?", "don't you?", "didn't they?", "are you?", "haven't you?", "isn't she?", "doesn't she?", "isn't it?", "am I?"],
+          "acceptedAnswers": ["don't you?"]
+        },
+        {
+          "id": "c2",
+          "prompt": "You're not fifteen years old,",
+          "options": ["aren't they?", "have you?", "don't you?", "didn't they?", "are you?", "haven't you?", "isn't she?", "doesn't she?", "isn't it?", "am I?"],
+          "acceptedAnswers": ["are you?"]
+        },
+        {
+          "id": "c3",
+          "prompt": "Carol has a maths test tomorrow,",
+          "options": ["aren't they?", "have you?", "don't you?", "didn't they?", "are you?", "haven't you?", "isn't she?", "doesn't she?", "isn't it?", "am I?"],
+          "acceptedAnswers": ["doesn't she?"]
+        },
+        {
+          "id": "c4",
+          "prompt": "They were having lunch at the time,",
+          "options": ["aren't they?", "have you?", "don't you?", "didn't they?", "are you?", "haven't you?", "isn't she?", "doesn't she?", "isn't it?", "am I?", "weren't they?"],
+          "acceptedAnswers": ["weren't they?"]
+        },
+        {
+          "id": "c5",
+          "prompt": "You've been to France,",
+          "options": ["aren't they?", "have you?", "don't you?", "didn't they?", "are you?", "haven't you?", "isn't she?", "doesn't she?", "isn't it?", "am I?"],
+          "acceptedAnswers": ["haven't you?"]
+        },
+        {
+          "id": "c6",
+          "prompt": "I'm not the only one,",
+          "options": ["aren't they?", "have you?", "don't you?", "didn't they?", "are you?", "haven't you?", "isn't she?", "doesn't she?", "isn't it?", "am I?"],
+          "acceptedAnswers": ["am I?"]
+        },
+        {
+          "id": "c7",
+          "prompt": "They all passed the test,",
+          "options": ["aren't they?", "have you?", "don't you?", "didn't they?", "are you?", "haven't you?", "isn't she?", "doesn't she?", "isn't it?", "am I?"],
+          "acceptedAnswers": ["didn't they?"]
+        },
+        {
+          "id": "c8",
+          "prompt": "You haven't seen Linda anywhere,",
+          "options": ["aren't they?", "have you?", "don't you?", "didn't they?", "are you?", "haven't you?", "isn't she?", "doesn't she?", "isn't it?", "am I?"],
+          "acceptedAnswers": ["have you?"]
+        },
+        {
+          "id": "c9",
+          "prompt": "She won't tell anyone else,",
+          "options": ["aren't they?", "have you?", "don't you?", "didn't they?", "are you?", "haven't you?", "isn't she?", "doesn't she?", "isn't it?", "am I?", "will she?"],
+          "acceptedAnswers": ["will she?"]
+        },
+        {
+          "id": "c10",
+          "prompt": "This is the right DVD,",
+          "options": ["aren't they?", "have you?", "don't you?", "didn't they?", "are you?", "haven't you?", "isn't she?", "doesn't she?", "isn't it?", "am I?"],
+          "acceptedAnswers": ["isn't it?"]
+        }
+      ]
+    },
+    {
+      "id": "d",
+      "type": "gap-fill",
+      "title": "D · Complete the tags",
+      "instruction": "Complete the question tags.",
+      "items": [
+        {
+          "id": "d1",
+          "prompt": "Mark doesn't eat meat, ___ he?",
+          "acceptedAnswers": ["does"]
+        },
+        {
+          "id": "d2",
+          "prompt": "We should phone Grandma, ___ we?",
+          "acceptedAnswers": ["shouldn't"]
+        },
+        {
+          "id": "d3",
+          "prompt": "I didn't get you into trouble, ___ I?",
+          "acceptedAnswers": ["did"]
+        },
+        {
+          "id": "d4",
+          "prompt": "You weren't waiting for me, ___ you?",
+          "acceptedAnswers": ["were"]
+        },
+        {
+          "id": "d5",
+          "prompt": "Jill has finished her homework, ___ she?",
+          "acceptedAnswers": ["hasn't", "doesn't"]
+        },
+        {
+          "id": "d6",
+          "prompt": "You'll call me later, ___ you?",
+          "acceptedAnswers": ["won't"]
+        },
+        {
+          "id": "d7",
+          "prompt": "Let's go out tonight, ___ we?",
+          "acceptedAnswers": ["shall"]
+        },
+        {
+          "id": "d8",
+          "prompt": "I'm going to pass the exam, ___ I?",
+          "acceptedAnswers": ["aren't"]
+        }
+      ]
+    },
+    {
+      "id": "e",
+      "type": "multiple-choice",
+      "title": "E · Indirect questions",
+      "instruction": "Choose the correct answer.",
+      "items": [
+        {
+          "id": "e1",
+          "prompt": "Excuse me. Could you tell me how much ___ , please?",
+          "options": ["are these jeans", "these jeans are"],
+          "acceptedAnswers": ["these jeans are"]
+        },
+        {
+          "id": "e2",
+          "prompt": "Can you let me know what time ___ ?",
+          "options": ["does the train arrive", "the train arrives"],
+          "acceptedAnswers": ["the train arrives"]
+        },
+        {
+          "id": "e3",
+          "prompt": "Do you know if ___ at seven o'clock?",
+          "options": ["the show starts", "does the show start"],
+          "acceptedAnswers": ["the show starts"]
+        },
+        {
+          "id": "e4",
+          "prompt": "I wonder if you could tell me what ___ .",
+          "options": ["is the difference", "the difference is"],
+          "acceptedAnswers": ["the difference is"]
+        },
+        {
+          "id": "e5",
+          "prompt": "I wonder if you know who ___ ask.",
+          "options": ["I should", "should I"],
+          "acceptedAnswers": ["I should"]
+        }
+      ]
+    },
+    {
+      "id": "f",
+      "type": "rewrite",
+      "title": "F · Make it polite",
+      "instruction": "Complete each second sentence so that it has a similar meaning to the first sentence.",
+      "items": [
+        {
+          "id": "f1",
+          "prompt": "Where's the post office?\nI wonder if you could tell me ___ .",
+          "acceptedAnswers": [
+            "where the post office is",
+            "I wonder if you could tell me where the post office is.",
+            "I wonder if you could tell me where the post office is"
+          ]
+        },
+        {
+          "id": "f2",
+          "prompt": "Why did you do that?\nCould you tell us ___ ?",
+          "acceptedAnswers": [
+            "why you did that",
+            "Could you tell us why you did that?",
+            "Could you tell us why you did that"
+          ]
+        },
+        {
+          "id": "f3",
+          "prompt": "How much will the holiday cost?\nCan you let me know ___ ?",
+          "acceptedAnswers": [
+            "how much the holiday will cost",
+            "Can you let me know how much the holiday will cost?",
+            "Can you let me know how much the holiday will cost"
+          ]
+        },
+        {
+          "id": "f4",
+          "prompt": "Are there any cafés near here?\nCould you tell me if ___ ?",
+          "acceptedAnswers": [
+            "there are any cafés near here",
+            "there are any cafes near here",
+            "Could you tell me if there are any cafés near here?",
+            "Could you tell me if there are any cafes near here?"
+          ]
+        },
+        {
+          "id": "f5",
+          "prompt": "Does Jim like jazz music?\nDo you know ___ ?",
+          "acceptedAnswers": [
+            "if Jim likes jazz music",
+            "whether Jim likes jazz music",
+            "Do you know if Jim likes jazz music?",
+            "Do you know whether Jim likes jazz music?"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,449 @@
+{
+  "id": "unit-40-connectives",
+  "level": "b1",
+  "unitNumber": 40,
+  "title": "Connectives",
+  "subtitle": "Time phrases, although, despite, however and unless",
+  "theory": [
+    {
+      "id": "time-words",
+      "title": "Time words and phrases",
+      "icon": "BookOpen",
+      "blocks": [
+        {
+          "type": "prose",
+          "text": "With some time words and phrases, we use the present simple to talk about the future. We don't use **will** or **be going to**."
+        },
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "after",
+              "example": "I'll call you **after** we **solve** the problem."
+            },
+            {
+              "use": "as soon as",
+              "example": "I'll call you **as soon as** we **solve** the problem."
+            },
+            {
+              "use": "before",
+              "example": "It'll be a few days **before** we **find** the solution."
+            },
+            {
+              "use": "until / till",
+              "example": "I won't call you **until** we **find** the solution."
+            },
+            {
+              "use": "when",
+              "example": "It'll be great **when** we **find** the solution."
+            },
+            {
+              "use": "while",
+              "example": "I'll be in the office **while** I **deal** with this problem."
+            }
+          ]
+        },
+        {
+          "type": "watch-out",
+          "text": "We can also put these time words and phrases at the beginning of the sentence.",
+          "note": "**As soon as** we solve the problem, I'll call you."
+        }
+      ]
+    },
+    {
+      "id": "although",
+      "title": "Although",
+      "icon": "Sparkles",
+      "blocks": [
+        {
+          "type": "prose",
+          "text": "We use the word **although** to express contrast. Form: **Although** + subject + verb, subject + verb"
+        },
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "Contrast",
+              "example": "**Although** my homework was difficult, I finished it before bed."
+            }
+          ]
+        },
+        {
+          "type": "watch-out",
+          "text": "We can also put **although** in the middle of the sentence.",
+          "note": "I finished my homework before bed, **although** it was difficult."
+        }
+      ]
+    },
+    {
+      "id": "in-spite-despite",
+      "title": "In spite of / Despite",
+      "icon": "Lightbulb",
+      "blocks": [
+        {
+          "type": "prose",
+          "text": "We use **in spite of** and **despite** to express contrast. They mean the same thing."
+        },
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "In spite of / despite + -ing form, subject + verb",
+              "example": "**In spite of revising** for hours, I didn't do well in the test."
+            },
+            {
+              "use": "In spite of / despite + noun, subject + verb",
+              "example": "**Despite my revision**, I didn't do well in the test."
+            }
+          ]
+        },
+        {
+          "type": "watch-out",
+          "text": "We can also put **in spite of** and **despite** in the middle of the sentence.",
+          "note": "I didn't do well in the test, **despite** revising for hours."
+        }
+      ]
+    },
+    {
+      "id": "however",
+      "title": "However",
+      "icon": "PencilLine",
+      "blocks": [
+        {
+          "type": "prose",
+          "text": "We use **however** to express contrast. Form: Subject + verb. **However**, subject + verb."
+        },
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "Contrast between two sentences",
+              "example": "We believed that we would find a solution. **However**, we were wrong."
+            }
+          ]
+        },
+        {
+          "type": "watch-out",
+          "text": "We can also put **however** at the end of the second sentence.",
+          "note": "We believed that we would find a solution. We were wrong, **however**."
+        }
+      ]
+    },
+    {
+      "id": "unless",
+      "title": "Unless",
+      "icon": "AlertTriangle",
+      "blocks": [
+        {
+          "type": "prose",
+          "text": "The word **unless** means **if … not** or **except if**."
+        },
+        {
+          "type": "hints",
+          "items": [
+            "**Unless** you hurry up, we'll be late. (= If you **don't** hurry up, we'll be late.)"
+          ]
+        },
+        {
+          "type": "hints",
+          "items": ["For more information about conditional sentences, see Units 28 and 29."]
+        }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "a",
+      "type": "rewrite",
+      "title": "A · Time clauses",
+      "instruction": "The phrases in bold are wrong. Write the correct phrases.",
+      "items": [
+        {
+          "id": "a1",
+          "prompt": "We'll have something to eat when we **will get** home.",
+          "acceptedAnswers": ["get", "when we get home"]
+        },
+        {
+          "id": "a2",
+          "prompt": "I won't book the tickets until you **will tell** me to.",
+          "acceptedAnswers": ["tell", "until you tell me to"]
+        },
+        {
+          "id": "a3",
+          "prompt": "I'll come home as soon as the concert **will finish**.",
+          "acceptedAnswers": ["finishes", "as soon as the concert finishes"]
+        },
+        {
+          "id": "a4",
+          "prompt": "After you **are going to do** this test, we'll play a game.",
+          "acceptedAnswers": ["do", "After you do this test"]
+        },
+        {
+          "id": "a5",
+          "prompt": "He'll send you a text message before he **is going to leave**.",
+          "acceptedAnswers": ["leaves", "before he leaves"]
+        },
+        {
+          "id": "a6",
+          "prompt": "Will you go to St. Petersburg while you **will be** in Russia?",
+          "acceptedAnswers": ["are", "while you are in Russia"]
+        }
+      ]
+    },
+    {
+      "id": "b",
+      "type": "gap-fill",
+      "title": "B · Verb box",
+      "instruction": "Complete using the correct form of the verbs in the box.",
+      "wordBank": ["be", "come", "finish", "have", "leave", "return", "take"],
+      "items": [
+        {
+          "id": "b1",
+          "prompt": "Call me as soon as you ___ any news.",
+          "acceptedAnswers": ["have"]
+        },
+        {
+          "id": "b2",
+          "prompt": "She'll have to do a lot of revision before she ___ the exam.",
+          "acceptedAnswers": ["takes"]
+        },
+        {
+          "id": "b3",
+          "prompt": "Are they going to visit you while they ___ in the UK?",
+          "acceptedAnswers": ["are"]
+        },
+        {
+          "id": "b4",
+          "prompt": "Do you want to go to university after you ___ school?",
+          "acceptedAnswers": ["leave", "finish"]
+        },
+        {
+          "id": "b5",
+          "prompt": "Claire won't have a break until she ___ all her homework.",
+          "acceptedAnswers": ["has finished", "finishes"]
+        },
+        {
+          "id": "b6",
+          "prompt": "The lesson can't start till the teacher ___ .",
+          "acceptedAnswers": ["comes", "returns"]
+        }
+      ]
+    },
+    {
+      "id": "c",
+      "type": "multiple-choice",
+      "title": "C · although or despite",
+      "instruction": "Choose the correct word.",
+      "items": [
+        {
+          "id": "c1",
+          "prompt": "___ the water was cold, we still went swimming.",
+          "options": ["Although", "Despite"],
+          "acceptedAnswers": ["Although"]
+        },
+        {
+          "id": "c2",
+          "prompt": "___ my mum's got a mobile, she never uses it.",
+          "options": ["Although", "Despite"],
+          "acceptedAnswers": ["Although"]
+        },
+        {
+          "id": "c3",
+          "prompt": "___ looking for hours, I couldn't find a nice pair of jeans.",
+          "options": ["Although", "Despite"],
+          "acceptedAnswers": ["Despite"]
+        },
+        {
+          "id": "c4",
+          "prompt": "___ taking a map, we still got lost.",
+          "options": ["Although", "Despite"],
+          "acceptedAnswers": ["Despite"]
+        },
+        {
+          "id": "c5",
+          "prompt": "I don't like sweets, ___ I do like chocolate.",
+          "options": ["although", "despite"],
+          "acceptedAnswers": ["although"]
+        },
+        {
+          "id": "c6",
+          "prompt": "We enjoyed the picnic ___ the bad weather.",
+          "options": ["although", "despite"],
+          "acceptedAnswers": ["despite"]
+        }
+      ]
+    },
+    {
+      "id": "d",
+      "type": "multiple-choice",
+      "title": "D · Choose the connective",
+      "instruction": "Choose the correct answer.",
+      "items": [
+        {
+          "id": "d1",
+          "prompt": "___ it was expensive, the CD wasn't very good quality.",
+          "options": ["Although", "In spite of", "However"],
+          "acceptedAnswers": ["Although"]
+        },
+        {
+          "id": "d2",
+          "prompt": "___ being expensive, the CD wasn't very good quality.",
+          "options": ["Although", "In spite of", "However"],
+          "acceptedAnswers": ["In spite of"]
+        },
+        {
+          "id": "d3",
+          "prompt": "___ the cost, the CD wasn't very good quality.",
+          "options": ["Although", "In spite of", "However"],
+          "acceptedAnswers": ["In spite of"]
+        },
+        {
+          "id": "d4",
+          "prompt": "The CD was expensive. ___ , it wasn't very good quality.",
+          "options": ["Although", "In spite of", "However"],
+          "acceptedAnswers": ["However"]
+        },
+        {
+          "id": "d5",
+          "prompt": "The CD was expensive. It wasn't very good quality, ___ .",
+          "options": ["although", "despite", "however"],
+          "acceptedAnswers": ["however"]
+        },
+        {
+          "id": "d6",
+          "prompt": "The CD wasn't very good quality, ___ being expensive.",
+          "options": ["although", "despite", "however"],
+          "acceptedAnswers": ["despite"]
+        },
+        {
+          "id": "d7",
+          "prompt": "The CD wasn't very good quality, ___ it was expensive.",
+          "options": ["although", "in spite of", "however"],
+          "acceptedAnswers": ["although"]
+        },
+        {
+          "id": "d8",
+          "prompt": "The CD wasn't very good quality, ___ the cost.",
+          "options": ["although", "in spite of", "however"],
+          "acceptedAnswers": ["in spite of"]
+        }
+      ]
+    },
+    {
+      "id": "e",
+      "type": "rewrite",
+      "title": "E · unless",
+      "instruction": "Complete each second sentence so that it has a similar meaning to the first sentence.",
+      "items": [
+        {
+          "id": "e1",
+          "prompt": "If the traffic isn't bad, she'll be here at six o'clock.\nUnless the traffic ___ bad, she'll be here at six o'clock.",
+          "acceptedAnswers": [
+            "is",
+            "Unless the traffic is bad, she'll be here at six o'clock."
+          ]
+        },
+        {
+          "id": "e2",
+          "prompt": "If it doesn't rain, we'll go to the beach.\nUnless it ___ , we'll go to the beach.",
+          "acceptedAnswers": [
+            "rains",
+            "Unless it rains, we'll go to the beach."
+          ]
+        },
+        {
+          "id": "e3",
+          "prompt": "If I'm not tired, I'll come to the party.\nUnless ___ tired, I'll come to the party.",
+          "acceptedAnswers": [
+            "I'm",
+            "I am",
+            "Unless I'm tired, I'll come to the party.",
+            "Unless I am tired, I'll come to the party."
+          ]
+        },
+        {
+          "id": "e4",
+          "prompt": "If Mrs Potts doesn't come, we won't have a test.\nUnless Mrs Potts ___ , we won't have a test.",
+          "acceptedAnswers": [
+            "comes",
+            "Unless Mrs Potts comes, we won't have a test."
+          ]
+        },
+        {
+          "id": "e5",
+          "prompt": "If Sarah comes, we'll watch the video.\nWe'll watch the video unless Sarah ___ .",
+          "acceptedAnswers": [
+            "doesn't come",
+            "does not come",
+            "We'll watch the video unless Sarah doesn't come."
+          ]
+        },
+        {
+          "id": "e6",
+          "prompt": "If Mum gives me some pocket money, I'll buy a new pair of jeans.\nI won't buy a new pair of jeans unless Mum ___ some pocket money.",
+          "acceptedAnswers": [
+            "gives me",
+            "gives",
+            "I won't buy a new pair of jeans unless Mum gives me some pocket money."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f",
+      "type": "multiple-choice",
+      "title": "F · One door leads to freedom",
+      "instruction": "Choose the correct answer.",
+      "items": [
+        {
+          "id": "f1",
+          "prompt": "(1) ___ you choose the right door, you can go free.",
+          "options": ["Unless", "If", "Before", "As soon"],
+          "acceptedAnswers": ["If"]
+        },
+        {
+          "id": "f2",
+          "prompt": "(2) ___ , if you choose the wrong door, you have to stay in prison forever!",
+          "options": ["However", "Although", "Despite", "In spite of"],
+          "acceptedAnswers": ["However"]
+        },
+        {
+          "id": "f3",
+          "prompt": "And it gets worse! (3) ___ one of the guards always tells the truth, the other one always lies.",
+          "options": ["However", "Although", "Despite", "In spite of"],
+          "acceptedAnswers": ["Although"]
+        },
+        {
+          "id": "f4",
+          "prompt": "It's an impossible situation — isn't it? No, it's not. But (4) ___ you're extremely careful, you might choose the wrong door.",
+          "options": ["unless", "when", "if", "as soon as"],
+          "acceptedAnswers": ["unless"]
+        },
+        {
+          "id": "f5",
+          "prompt": "And you shouldn't choose a door (5) ___ you're absolutely sure it's the door to freedom.",
+          "options": ["until", "if", "when", "while"],
+          "acceptedAnswers": ["until"]
+        },
+        {
+          "id": "f6",
+          "prompt": "And you'll only know it's the right door (6) ___ you ask the right question.",
+          "options": ["unless", "as soon as", "before", "when"],
+          "acceptedAnswers": ["when"]
+        },
+        {
+          "id": "f7",
+          "prompt": "(7) ___ of not knowing if the guard always tells the truth or always lies, you'll always get an answer that will help you.",
+          "options": ["Although", "However", "In spite", "Despite"],
+          "acceptedAnswers": ["In spite"]
+        },
+        {
+          "id": "f8",
+          "prompt": "(8) ___ you get the answer, go through the other door. You'll be free!",
+          "options": ["Before", "Although", "As soon as", "Unless"],
+          "acceptedAnswers": ["As soon as"]
+        }
+      ]
+    }
+  ]
+}

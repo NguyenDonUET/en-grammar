@@ -1,0 +1,384 @@
+{
+  "id": "unit-41-causative",
+  "level": "b1",
+  "unitNumber": 41,
+  "title": "The causative",
+  "subtitle": "have something done — arranging for someone else to do it",
+  "theory": [
+    {
+      "id": "causative",
+      "title": "The causative",
+      "icon": "BookOpen",
+      "blocks": [
+        {
+          "type": "prose",
+          "text": "Form: subject + **have** in the correct form + object + past participle. We use this to show that someone arranges for someone else to do something for them."
+        },
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "present simple",
+              "example": "Mrs Taylor **has her car cleaned** once a month."
+            },
+            {
+              "use": "present continuous",
+              "example": "She **is having the tyres checked** at the moment."
+            },
+            {
+              "use": "present perfect simple",
+              "example": "She **has had the windscreen replaced**."
+            },
+            {
+              "use": "present perfect continuous",
+              "example": "This is not usually used in the causative."
+            },
+            {
+              "use": "past simple",
+              "example": "She **had the car filled up** with petrol yesterday."
+            },
+            {
+              "use": "past continuous",
+              "example": "She **was having the car repaired** when I last saw her."
+            },
+            {
+              "use": "past perfect simple",
+              "example": "She **had had the engine checked**."
+            },
+            {
+              "use": "past perfect continuous",
+              "example": "This is not usually used in the causative."
+            },
+            {
+              "use": "will and other modals",
+              "example": "She **will have a car alarm fitted** when she can afford it. She **would have air bags put in** but it's too expensive."
+            },
+            {
+              "use": "be going to",
+              "example": "She **is going to have a new car radio installed**."
+            },
+            {
+              "use": "-ing form",
+              "example": "She might stop **having the car cleaned** so often."
+            }
+          ]
+        },
+        {
+          "type": "hints",
+          "intro": "Look at the difference between a normal active sentence and a sentence in the causative.",
+          "items": [
+            "Normal active sentence: Someone **cleans** Mrs Taylor's car every week.",
+            "In the causative: Mrs Taylor **has her car cleaned** every week."
+          ]
+        },
+        {
+          "type": "hints",
+          "intro": "We can also use **get** instead of **have**. **Get** is more informal than **have**.",
+          "items": [
+            "I'm going to **have** my hair cut tomorrow. (more formal)",
+            "I'm going to **get** my hair cut tomorrow. (more informal)"
+          ]
+        },
+        {
+          "type": "hints",
+          "items": [
+            "Just as with the passive (see Unit 11), we can use **by** to show who does the action.",
+            "We're having a family photo taken **by** a local photographer."
+          ]
+        },
+        {
+          "type": "watch-out",
+          "text": "With the causative, **have** always comes **before** the noun and the past participle always comes **after** the noun."
+        },
+        {
+          "type": "correct-incorrect",
+          "correct": "Did you **have the furniture delivered** yesterday?",
+          "incorrect": "Did you **have delivered the furniture** yesterday?"
+        },
+        {
+          "type": "hints",
+          "items": ["Some verbs have irregular past participle forms."]
+        }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "a",
+      "type": "rewrite",
+      "title": "A · Rewrite with have",
+      "instruction": "Complete each second sentence using the correct form of have so that it has a similar meaning to the first sentence.",
+      "items": [
+        {
+          "id": "a1",
+          "prompt": "Let's arrange for someone to knock that wall down.\nLet's ___ that wall knocked down.",
+          "acceptedAnswers": [
+            "have",
+            "Let's have that wall knocked down.",
+            "Let's have that wall knocked down"
+          ]
+        },
+        {
+          "id": "a2",
+          "prompt": "We paid someone to deliver the furniture.\nWe ___ the furniture delivered.",
+          "acceptedAnswers": [
+            "had",
+            "We had the furniture delivered.",
+            "We had the furniture delivered"
+          ]
+        },
+        {
+          "id": "a3",
+          "prompt": "I'm going to pay someone to paint this wall.\nI'm ___ this wall painted.",
+          "acceptedAnswers": [
+            "going to have",
+            "I'm going to have this wall painted.",
+            "I'm going to have this wall painted"
+          ]
+        },
+        {
+          "id": "a4",
+          "prompt": "Has anyone printed the invitations for you yet?\n___ you ___ the invitations printed yet?",
+          "acceptedAnswers": [
+            "Have / had",
+            "Have you had the invitations printed yet?",
+            "Have you had the invitations printed yet"
+          ]
+        },
+        {
+          "id": "a5",
+          "prompt": "You should arrange for someone to fix your mobile.\nYou should ___ your mobile fixed.",
+          "acceptedAnswers": [
+            "have",
+            "You should have your mobile fixed.",
+            "You should have your mobile fixed"
+          ]
+        },
+        {
+          "id": "a6",
+          "prompt": "When did you dye your hair?\nWhen ___ you ___ your hair dyed?",
+          "acceptedAnswers": [
+            "did / have",
+            "When did you have your hair dyed?",
+            "When did you have your hair dyed"
+          ]
+        },
+        {
+          "id": "a7",
+          "prompt": "A vet is looking at Lucy at the moment.\nThey ___ Lucy looked at by a vet at the moment.",
+          "acceptedAnswers": [
+            "are having",
+            "'re having",
+            "They are having Lucy looked at by a vet at the moment."
+          ]
+        },
+        {
+          "id": "a8",
+          "prompt": "I haven't taken my suit to the dry-cleaner's yet.\nI ___ my suit dry-cleaned yet.",
+          "acceptedAnswers": [
+            "haven't had",
+            "have not had",
+            "I haven't had my suit dry-cleaned yet.",
+            "I haven't had my suit dry-cleaned yet"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b",
+      "type": "gap-fill",
+      "title": "B · Past participles",
+      "instruction": "Complete using the correct form of the verbs in the box.",
+      "wordBank": ["clean", "cut", "deliver", "paint", "repair", "sign"],
+      "items": [
+        {
+          "id": "b1",
+          "prompt": "I have my teeth ___ by a dentist every six months.",
+          "acceptedAnswers": ["cleaned"]
+        },
+        {
+          "id": "b2",
+          "prompt": "My mum has just had her hair ___ by a hairdresser in the town centre.",
+          "acceptedAnswers": ["cut"]
+        },
+        {
+          "id": "b3",
+          "prompt": "The car broke down, so we had it ___ by a mechanic.",
+          "acceptedAnswers": ["repaired"]
+        },
+        {
+          "id": "b4",
+          "prompt": "Let's get a pizza ___ before the film starts.",
+          "acceptedAnswers": ["delivered"]
+        },
+        {
+          "id": "b5",
+          "prompt": "Did you get your book ___ by the author?",
+          "acceptedAnswers": ["signed"]
+        },
+        {
+          "id": "b6",
+          "prompt": "Garry is going to have his face ___ blue for the party!",
+          "acceptedAnswers": ["painted"]
+        }
+      ]
+    },
+    {
+      "id": "c",
+      "type": "rewrite",
+      "title": "C · Tick or correct",
+      "instruction": "If the phrase in bold is correct, write it again. If it is wrong, write the correct phrase.",
+      "items": [
+        {
+          "id": "c1",
+          "prompt": "Mandy is **having cut her hair** at the moment.",
+          "acceptedAnswers": ["having her hair cut"]
+        },
+        {
+          "id": "c2",
+          "prompt": "I might **have the house redecorated** next summer.",
+          "acceptedAnswers": ["have the house redecorated"]
+        },
+        {
+          "id": "c3",
+          "prompt": "Our dog loves **having his back scratching**.",
+          "acceptedAnswers": ["having his back scratched"]
+        },
+        {
+          "id": "c4",
+          "prompt": "The receptionist **had the suitcases brought** up to the room.",
+          "acceptedAnswers": ["had the suitcases brought"]
+        },
+        {
+          "id": "c5",
+          "prompt": "We're not going to **have costumes make** for the play.",
+          "acceptedAnswers": ["have costumes made"]
+        },
+        {
+          "id": "c6",
+          "prompt": "How often do you **have checked your teeth**?",
+          "acceptedAnswers": ["have your teeth checked"]
+        },
+        {
+          "id": "c7",
+          "prompt": "You don't like **having your photo taken**, do you?",
+          "acceptedAnswers": ["having your photo taken"]
+        }
+      ]
+    },
+    {
+      "id": "d",
+      "type": "rewrite",
+      "title": "D · Mr Lazylion",
+      "instruction": "Look at the pictures and complete the sentences. Use the causative.",
+      "items": [
+        {
+          "id": "d1",
+          "prompt": "Three times a day, a giraffe called Gloria does the washing-up for Mr Lazylion.\nThree times a day, Mr Lazylion ___ .",
+          "acceptedAnswers": [
+            "has the washing-up done by a giraffe called Gloria",
+            "has the washing-up done by Gloria",
+            "Three times a day, Mr Lazylion has the washing-up done by a giraffe called Gloria.",
+            "Three times a day, Mr Lazylion has the washing-up done by a giraffe called Gloria"
+          ]
+        },
+        {
+          "id": "d2",
+          "prompt": "At the moment, Harry Hippo is cleaning Mr Lazylion's car.\nAt the moment, Mr Lazylion ___ .",
+          "acceptedAnswers": [
+            "is having his car cleaned by Harry Hippo",
+            "At the moment, Mr Lazylion is having his car cleaned by Harry Hippo.",
+            "At the moment, Mr Lazylion is having his car cleaned by Harry Hippo"
+          ]
+        },
+        {
+          "id": "d3",
+          "prompt": "Later, the Mice Sisters will cook Mr Lazylion's supper.\nLater, Mr Lazylion ___ .",
+          "acceptedAnswers": [
+            "will have his supper cooked by the Mice Sisters",
+            "is going to have his supper cooked by the Mice Sisters",
+            "Later, Mr Lazylion will have his supper cooked by the Mice Sisters.",
+            "Later, Mr Lazylion will have his supper cooked by the Mice Sisters"
+          ]
+        },
+        {
+          "id": "d4",
+          "prompt": "Ellie Phant has just brushed Mr Lazylion's hair.\nMr Lazylion ___ .",
+          "acceptedAnswers": [
+            "has just had his hair brushed by Ellie Phant",
+            "Mr Lazylion has just had his hair brushed by Ellie Phant.",
+            "Mr Lazylion has just had his hair brushed by Ellie Phant"
+          ]
+        },
+        {
+          "id": "d5",
+          "prompt": "Mr Lazylion loves it when Marty Monkey tickles his feet.\nMr Lazylion loves ___ .",
+          "acceptedAnswers": [
+            "having his feet tickled by Marty Monkey",
+            "Mr Lazylion loves having his feet tickled by Marty Monkey.",
+            "Mr Lazylion loves having his feet tickled by Marty Monkey"
+          ]
+        },
+        {
+          "id": "d6",
+          "prompt": "George is making a suit for Mr Lazylion.\nMr Lazylion ___ .",
+          "acceptedAnswers": [
+            "is having a suit made by George",
+            "Mr Lazylion is having a suit made by George.",
+            "Mr Lazylion is having a suit made by George"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e",
+      "type": "multiple-choice",
+      "title": "E · Mr Lazylion's problem",
+      "instruction": "Choose the correct word or phrase.",
+      "items": [
+        {
+          "id": "e1",
+          "prompt": "Mr Lazylion had had things (1) ___ for him (2) by / with the other animals for so long that he didn't know what to do.",
+          "options": ["doing", "done"],
+          "acceptedAnswers": ["done"]
+        },
+        {
+          "id": "e2",
+          "prompt": "… things done for him (2) ___ the other animals for so long …",
+          "options": ["by", "with"],
+          "acceptedAnswers": ["by"]
+        },
+        {
+          "id": "e3",
+          "prompt": "He (3) ___ his meals prepared for him for two days now, and he was starting to get hungry.",
+          "options": ["hadn't had", "hadn't"],
+          "acceptedAnswers": ["hadn't had"]
+        },
+        {
+          "id": "e4",
+          "prompt": "So, he had some Chinese food (4) ___ — all the way from China.",
+          "options": ["delivering", "delivered"],
+          "acceptedAnswers": ["delivered"]
+        },
+        {
+          "id": "e5",
+          "prompt": "That filled him up, but it's not easy to (5) ___ food delivered in the jungle.",
+          "options": ["get", "be"],
+          "acceptedAnswers": ["get"]
+        },
+        {
+          "id": "e6",
+          "prompt": "He felt very sad. He really wanted to have (6) ___ by Ellie and his feet (7) by Marty, but they just said 'No'.",
+          "options": ["brushed his hair", "his hair brushed"],
+          "acceptedAnswers": ["his hair brushed"]
+        },
+        {
+          "id": "e7",
+          "prompt": "… and his feet (7) ___ by Marty …",
+          "options": ["tickling", "tickled"],
+          "acceptedAnswers": ["tickled"]
+        }
+      ]
+    }
+  ]
+}

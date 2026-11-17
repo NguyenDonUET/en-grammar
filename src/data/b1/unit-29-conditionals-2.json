@@ -1,0 +1,380 @@
+{
+  "id": "unit-29-conditionals-2",
+  "level": "b1",
+  "unitNumber": 29,
+  "title": "Conditionals 2: third",
+  "subtitle": "Unreal situations in the past and their unreal past results",
+  "theory": [
+    {
+      "id": "third",
+      "title": "Third conditional",
+      "icon": "BookOpen",
+      "blocks": [
+        {
+          "type": "prose",
+          "text": "Form: **if** + past perfect simple, **would** + **have** + past participle"
+        },
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "Unreal situations in the past and their unreal past results",
+              "example": "If the chemist **had been** open, I **would have bought** some aspirin. (= The chemist wasn't open, so I didn't buy any aspirin.)"
+            },
+            {
+              "use": "If I hadn't ...",
+              "example": "If I **hadn't listened** to you, I **would have cooked** the chicken for too long. (= I listened to you, so I didn't cook the chicken for too long.)"
+            },
+            {
+              "use": "If he had ...",
+              "example": "If he **had seen** the doctor, he **wouldn't have been** ill for such a long time. (= He didn't see the doctor, so he was ill for a long time.)"
+            },
+            {
+              "use": "If you hadn't ...",
+              "example": "If you **hadn't eaten** a giant pizza, you **wouldn't have been** sick! (= You ate a giant pizza, so you were sick.)"
+            }
+          ]
+        },
+        {
+          "type": "hints",
+          "intro": "We can also use **could** and **might** instead of **would**, depending on the meaning.",
+          "items": [
+            "If you had eaten a giant pizza, you **might have been** sick! (= It's possible, but not certain, that you would have been sick.)",
+            "If Mary had told me she was coming, I **could have cooked** a nice meal. (= I would have been able to cook a nice meal.)"
+          ]
+        },
+        {
+          "type": "watch-out",
+          "text": "The third conditional is the only conditional that refers to the past."
+        },
+        {
+          "type": "correct-incorrect",
+          "correct": "If I **had had** a headache, I **would have taken** an aspirin. (= in the past)",
+          "incorrect": "If I **had** a headache, I **would take** an aspirin. (second conditional = now or generally)"
+        },
+        {
+          "type": "hints",
+          "items": [
+            "We use past simple in the second conditional, but that does not refer to the past.",
+            "For more information on the second conditional, see Unit 28."
+          ]
+        }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "a",
+      "type": "multiple-choice",
+      "title": "A · What really happened?",
+      "instruction": "Read each third conditional sentence and choose Yes or No.",
+      "items": [
+        {
+          "id": "a1",
+          "prompt": "'If Charles had had enough money, he'd have bought the CD.' Did Charles have enough money?",
+          "options": ["Yes", "No"],
+          "acceptedAnswers": ["No"]
+        },
+        {
+          "id": "a2",
+          "prompt": "'If Charles had had enough money, he'd have bought the CD.' Did he buy the CD?",
+          "options": ["Yes", "No"],
+          "acceptedAnswers": ["No"]
+        },
+        {
+          "id": "a3",
+          "prompt": "'Cilla would have called Andrea if she'd taken her mobile with her.' Did Cilla call Andrea?",
+          "options": ["Yes", "No"],
+          "acceptedAnswers": ["No"]
+        },
+        {
+          "id": "a4",
+          "prompt": "'Cilla would have called Andrea if she'd taken her mobile with her.' Did she take her mobile with her?",
+          "options": ["Yes", "No"],
+          "acceptedAnswers": ["No"]
+        },
+        {
+          "id": "a5",
+          "prompt": "'If we hadn't been late, we'd have seen the start of the film.' Were they late?",
+          "options": ["Yes", "No"],
+          "acceptedAnswers": ["Yes"]
+        },
+        {
+          "id": "a6",
+          "prompt": "'If we hadn't been late, we'd have seen the start of the film.' Did they see the start of the film?",
+          "options": ["Yes", "No"],
+          "acceptedAnswers": ["No"]
+        },
+        {
+          "id": "a7",
+          "prompt": "'Paul wouldn't have made a mistake if he'd listened to Lee.' Did Paul make a mistake?",
+          "options": ["Yes", "No"],
+          "acceptedAnswers": ["Yes"]
+        },
+        {
+          "id": "a8",
+          "prompt": "'Paul wouldn't have made a mistake if he'd listened to Lee.' Did Paul listen to Lee?",
+          "options": ["Yes", "No"],
+          "acceptedAnswers": ["No"]
+        },
+        {
+          "id": "a9",
+          "prompt": "'Jo wouldn't have gone to the party if she hadn't been invited.' Did Jo go to the party?",
+          "options": ["Yes", "No"],
+          "acceptedAnswers": ["Yes"]
+        },
+        {
+          "id": "a10",
+          "prompt": "'Jo wouldn't have gone to the party if she hadn't been invited.' Was Jo invited to the party?",
+          "options": ["Yes", "No"],
+          "acceptedAnswers": ["Yes"]
+        },
+        {
+          "id": "a11",
+          "prompt": "'Tom would have forgotten his keys if Lisa hadn't reminded him.' Did Tom forget his keys?",
+          "options": ["Yes", "No"],
+          "acceptedAnswers": ["No"]
+        },
+        {
+          "id": "a12",
+          "prompt": "'Tom would have forgotten his keys if Lisa hadn't reminded him.' Did Lisa remind him about his keys?",
+          "options": ["Yes", "No"],
+          "acceptedAnswers": ["Yes"]
+        }
+      ]
+    },
+    {
+      "id": "b",
+      "type": "gap-fill",
+      "title": "B · Complete the verbs",
+      "instruction": "Complete using the correct form of the words in brackets.",
+      "items": [
+        {
+          "id": "b1",
+          "prompt": "If you ___ me you were going to the beach, I'd have come with you. (tell)",
+          "acceptedAnswers": ["had told", "'d told"]
+        },
+        {
+          "id": "b2",
+          "prompt": "If Dan had missed the plane, he ___ very annoyed. (be)",
+          "acceptedAnswers": ["would have been", "'d have been"]
+        },
+        {
+          "id": "b3",
+          "prompt": "I'd have got you a present if I ___ it was your birthday. (know)",
+          "acceptedAnswers": ["had known", "'d known"]
+        },
+        {
+          "id": "b4",
+          "prompt": "We ___ lost if we'd taken a map with us. (not / get)",
+          "acceptedAnswers": ["wouldn't have got", "would not have got", "wouldn't have gotten"]
+        },
+        {
+          "id": "b5",
+          "prompt": "If the car ___ , I wouldn't have been late. (not / break down)",
+          "acceptedAnswers": ["hadn't broken down", "had not broken down"]
+        },
+        {
+          "id": "b6",
+          "prompt": "If you ___ me, I wouldn't have finished in time. (not / help)",
+          "acceptedAnswers": ["hadn't helped", "had not helped"]
+        },
+        {
+          "id": "b7",
+          "prompt": "If Baz ___ you what to do, what would you have done? (not / show)",
+          "acceptedAnswers": ["hadn't shown", "had not shown"]
+        }
+      ]
+    },
+    {
+      "id": "c",
+      "type": "rewrite",
+      "title": "C · Similar meaning",
+      "instruction": "Complete each second sentence so that it has a similar meaning to the first sentence. Write between two and five words.",
+      "items": [
+        {
+          "id": "c1",
+          "prompt": "It wasn't cold, so we didn't light a fire.\nIf it ___ cold, we'd have lit a fire.",
+          "acceptedAnswers": [
+            "had been",
+            "If it had been cold, we'd have lit a fire.",
+            "If it had been cold, we would have lit a fire."
+          ]
+        },
+        {
+          "id": "c2",
+          "prompt": "John didn't come, so we didn't do any painting.\nIf John ___ , we'd have done some painting.",
+          "acceptedAnswers": [
+            "had come",
+            "If John had come, we'd have done some painting.",
+            "If John had come, we would have done some painting."
+          ]
+        },
+        {
+          "id": "c3",
+          "prompt": "Claire didn't buy any clothes because she didn't see anything she liked.\nClaire ___ some clothes if she'd seen something she liked.",
+          "acceptedAnswers": [
+            "would have bought",
+            "'d have bought",
+            "Claire would have bought some clothes if she'd seen something she liked."
+          ]
+        },
+        {
+          "id": "c4",
+          "prompt": "The audience laughed because the joke was very funny.\nIf the joke ___ very funny, the audience wouldn't have laughed.",
+          "acceptedAnswers": [
+            "hadn't been",
+            "had not been",
+            "If the joke hadn't been very funny, the audience wouldn't have laughed."
+          ]
+        },
+        {
+          "id": "c5",
+          "prompt": "We decided to leave because it was really noisy.\nWe ___ to leave if it hadn't been really noisy.",
+          "acceptedAnswers": [
+            "wouldn't have decided",
+            "would not have decided",
+            "We wouldn't have decided to leave if it hadn't been really noisy."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d",
+      "type": "gap-fill",
+      "title": "D · Banana-skin story",
+      "instruction": "Look at the pictures and complete the sentences. Use the correct form of the verbs in the box. You may have to use some negative forms.",
+      "wordBank": ["break", "fall over", "look", "pick up", "reply", "see", "stand"],
+      "items": [
+        {
+          "id": "d1",
+          "prompt": "If Kevin hadn't just got a text message, he ___ at his mobile phone.",
+          "acceptedAnswers": ["wouldn't have looked", "would not have looked"]
+        },
+        {
+          "id": "d2",
+          "prompt": "If he hadn't looked at his mobile, he ___ the banana skin.",
+          "acceptedAnswers": ["would have seen", "'d have seen"]
+        },
+        {
+          "id": "d3",
+          "prompt": "If someone ___ the banana skin earlier, it wouldn't have been there.",
+          "acceptedAnswers": ["had picked up", "had picked it up", "'d picked up"]
+        },
+        {
+          "id": "d4",
+          "prompt": "If Kevin had seen the banana skin, he ___ on it.",
+          "acceptedAnswers": ["wouldn't have stood", "would not have stood", "wouldn't have stepped"]
+        },
+        {
+          "id": "d5",
+          "prompt": "If he hadn't stood on it, he ___ .",
+          "acceptedAnswers": ["wouldn't have fallen over", "would not have fallen over"]
+        },
+        {
+          "id": "d6",
+          "prompt": "If he hadn't fallen over, he ___ his mobile.",
+          "acceptedAnswers": ["wouldn't have broken", "would not have broken"]
+        },
+        {
+          "id": "d7",
+          "prompt": "If he hadn't broken his mobile, he ___ to the text message.",
+          "acceptedAnswers": ["would have replied", "'d have replied"]
+        }
+      ]
+    },
+    {
+      "id": "e",
+      "type": "rewrite",
+      "title": "E · Vida and the Fitmaster 5000",
+      "instruction": "Read the story and complete the sentences.",
+      "items": [
+        {
+          "id": "e1",
+          "prompt": "Vida loved to keep fit. Whenever she could, she went to the gym after work. But one evening, Vida got home late. 'It's too late to go to the gym now,' she said to herself. 'I'll just watch TV instead.'\nIf Vida had got home earlier, ___ .",
+          "acceptedAnswers": [
+            "she would have gone to the gym",
+            "she'd have gone to the gym",
+            "she would have gone to the gym.",
+            "she'd have gone to the gym."
+          ]
+        },
+        {
+          "id": "e2",
+          "prompt": "If she'd gone to the gym that evening, ___ .",
+          "acceptedAnswers": [
+            "she wouldn't have watched TV",
+            "she would not have watched TV",
+            "she wouldn't have seen the advert",
+            "she wouldn't have watched TV.",
+            "she would not have watched TV."
+          ]
+        },
+        {
+          "id": "e3",
+          "prompt": "She made herself a nice, fresh, healthy salad and sat down in front of the TV. Suddenly, she saw something on TV that caught her attention. It was an advert for an exercise bike called the Fitmaster 5000.\nIf she hadn't watched TV, ___ .",
+          "acceptedAnswers": [
+            "she wouldn't have seen the advert",
+            "she wouldn't have seen the Fitmaster 5000",
+            "she wouldn't have bought the Fitmaster 5000",
+            "she wouldn't have seen the advert.",
+            "she wouldn't have bought the Fitmaster 5000."
+          ]
+        },
+        {
+          "id": "e4",
+          "prompt": "'That looks fantastic!' thought Vida. 'I think I'll buy that!' She phoned the number and ordered the machine. It came the next day. It was much bigger than it looked on TV, and the only place Vida could put it was at the top of the stairs.\nShe wouldn't have bought the Fitmaster 5000 ___ .",
+          "acceptedAnswers": [
+            "if she hadn't watched TV",
+            "if she hadn't seen the advert",
+            "if she hadn't watched TV.",
+            "if she hadn't seen the advert."
+          ]
+        },
+        {
+          "id": "e5",
+          "prompt": "She loved the Fitmaster 5000 so much, though, that from that day on, she only exercised at home. She didn't go to the gym any more.\nShe wouldn't have put it at the top of the stairs ___ .",
+          "acceptedAnswers": [
+            "if it hadn't been so big",
+            "if it had been smaller",
+            "if there had been another place",
+            "if it hadn't been so big.",
+            "if it had been smaller."
+          ]
+        },
+        {
+          "id": "e6",
+          "prompt": "She'd have continued going to the gym ___ .",
+          "acceptedAnswers": [
+            "if she hadn't bought the Fitmaster 5000",
+            "if she hadn't got the exercise bike",
+            "if she hadn't bought the Fitmaster 5000.",
+            "if she hadn't got the exercise bike."
+          ]
+        },
+        {
+          "id": "e7",
+          "prompt": "She spent hours every evening on her exercise bike, and every evening she went faster and faster. One evening, she was going so fast that the exercise bike began to move forwards. Before she knew what had happened, she — and the bike — fell down the stairs. All sixteen of them. Right to the bottom. Ouch!\nIf she hadn't gone so fast, ___ .",
+          "acceptedAnswers": [
+            "the bike wouldn't have moved",
+            "she wouldn't have fallen down the stairs",
+            "she wouldn't have broken her leg",
+            "the bike wouldn't have moved.",
+            "she wouldn't have fallen down the stairs."
+          ]
+        },
+        {
+          "id": "e8",
+          "prompt": "The Fitmaster 5000 was broken, and so was Vida's leg. 'I think that's enough exercise for a while,' thought Vida, as she lay in her hospital bed. 'And that's enough watching adverts on TV too.'\nIf she hadn't fallen down the stairs, ___ .",
+          "acceptedAnswers": [
+            "she wouldn't have broken her leg",
+            "the Fitmaster 5000 wouldn't have broken",
+            "she wouldn't have been in hospital",
+            "she wouldn't have broken her leg.",
+            "she wouldn't have been in hospital."
+          ]
+        }
+      ]
+    }
+  ]
+}

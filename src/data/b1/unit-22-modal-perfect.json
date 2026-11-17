@@ -1,0 +1,398 @@
+{
+  "id": "unit-22-modal-perfect",
+  "level": "b1",
+  "unitNumber": 22,
+  "title": "Modals 3: the modal perfect",
+  "subtitle": "modal + have + past participle for past ability, criticism, probability and expectation",
+  "theory": [
+    {
+      "id": "form",
+      "title": "Modals + the perfect infinitive",
+      "icon": "Table2",
+      "blocks": [
+        {
+          "type": "prose",
+          "text": "We form the modal perfect with a modal + **have** + past participle."
+        },
+        {
+          "type": "form-table",
+          "rows": [
+            {
+              "person": "modal perfect",
+              "statement": "You **should have told** me you were going shopping.",
+              "negative": "You **shouldn't (should not) have told** Liz what Bill said.",
+              "question": "**Should I have invited** Carol to the party?"
+            }
+          ]
+        },
+        {
+          "type": "watch-out",
+          "text": "Some verbs have irregular past participle forms.",
+          "note": "go → **gone** · take → **taken** · tell → **told** · see → **seen**"
+        }
+      ]
+    },
+    {
+      "id": "ability",
+      "title": "Ability",
+      "icon": "Sparkles",
+      "blocks": [
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "Someone had the chance or ability to do something, but didn't do it · could",
+              "example": "We **could have gone** to the party, but we decided not to in the end."
+            }
+          ]
+        },
+        {
+          "type": "watch-out",
+          "text": "Use **could have** for things someone didn't actually do. For general ability in the past, use **could** + bare infinitive (see Unit 19)."
+        },
+        {
+          "type": "hints",
+          "intro": "Compare general past ability with a missed opportunity:",
+          "items": [
+            "I **could play** the guitar when I was seven. (= I knew how to play the guitar.)",
+            "I **could have played** the guitar. (= I had the opportunity, but I didn't actually play it.)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "criticism",
+      "title": "Criticism",
+      "icon": "AlertTriangle",
+      "blocks": [
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "Someone's past behaviour was bad or wrong · ought to / should",
+              "example": "You **should have invited** Carol to your party. (= You didn't invite Carol and that was wrong.)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "probability",
+      "title": "Probability and possibility",
+      "icon": "Lightbulb",
+      "blocks": [
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "Strong probability · must / can't",
+              "example": "They **must have had** a lovely holiday! (= It's almost certain that they had a lovely holiday.) They **can't have had** any sleep! (= It's almost certain that they didn't have any sleep.)"
+            },
+            {
+              "use": "Possibility · could / may / might",
+              "example": "Helen **might have found** a new house. (= It's possible, but I'm not certain.)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "expectation",
+      "title": "Expectation",
+      "icon": "CheckCircle2",
+      "blocks": [
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "You expected the past to be different from what actually happened · ought to / should",
+              "example": "Jim **should have arrived** half an hour ago. I wonder where he is."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "a",
+      "type": "gap-fill",
+      "title": "A · could have",
+      "instruction": "Complete using the correct form of the verbs in brackets.",
+      "items": [
+        {
+          "id": "a1",
+          "prompt": "We could ___ the bus, but in the end we decided to walk. (take)",
+          "acceptedAnswers": ["have taken"]
+        },
+        {
+          "id": "a2",
+          "prompt": "Although I could ___ the DVD, I actually got the video. (buy)",
+          "acceptedAnswers": ["have bought"]
+        },
+        {
+          "id": "a3",
+          "prompt": "Alan could ___ to the concert with Sindy, but he stayed at home instead. (go)",
+          "acceptedAnswers": ["have gone"]
+        },
+        {
+          "id": "a4",
+          "prompt": "They could ___ an earlier plane, but they decided to get the later one. (catch)",
+          "acceptedAnswers": ["have caught"]
+        },
+        {
+          "id": "a5",
+          "prompt": "Could you ___ longer or did you have to leave then? (stay)",
+          "acceptedAnswers": ["have stayed"]
+        }
+      ]
+    },
+    {
+      "id": "b",
+      "type": "gap-fill",
+      "title": "B · should / shouldn't have",
+      "instruction": "Complete the sentences. Use should or shouldn't and the correct form of a verb from the box.",
+      "wordBank": ["eat", "get", "kick", "take", "tidy", "wear"],
+      "items": [
+        {
+          "id": "b1",
+          "prompt": "Mr Appleby ___ an umbrella with him. (It's pouring and he is getting wet.)",
+          "acceptedAnswers": ["should have taken", "should have brought"]
+        },
+        {
+          "id": "b2",
+          "prompt": "Jenny ___ her room. (Clothes are all over the floor.)",
+          "acceptedAnswers": ["should have tidied", "should tidy"]
+        },
+        {
+          "id": "b3",
+          "prompt": "Alex ___ the ball so hard. (The window is broken.)",
+          "acceptedAnswers": ["shouldn't have kicked", "should not have kicked"]
+        },
+        {
+          "id": "b4",
+          "prompt": "Tim ___ a fancy-dress costume. (Everyone else at the party is in costume.)",
+          "acceptedAnswers": ["should have worn", "should have got"]
+        },
+        {
+          "id": "b5",
+          "prompt": "They ___ there earlier. (The tickets are sold out.)",
+          "acceptedAnswers": ["should have got", "should have arrived", "should have been"]
+        },
+        {
+          "id": "b6",
+          "prompt": "They ___ so much! (They feel ill after a huge meal.)",
+          "acceptedAnswers": ["shouldn't have eaten", "should not have eaten"]
+        }
+      ]
+    },
+    {
+      "id": "c",
+      "type": "rewrite",
+      "title": "C · Probability in the past",
+      "instruction": "Complete each second sentence using the word given, so that it has a similar meaning to the first sentence. Write between two and five words.",
+      "items": [
+        {
+          "id": "c1",
+          "prompt": "I expect Adrian did a lot of revision. **must**\nAdrian ___ a lot of revision.",
+          "acceptedAnswers": [
+            "must have done",
+            "Adrian must have done a lot of revision.",
+            "Adrian must have done a lot of revision"
+          ]
+        },
+        {
+          "id": "c2",
+          "prompt": "I don't believe that Jim stole the money. **can't**\nJim ___ the money.",
+          "acceptedAnswers": [
+            "can't have stolen",
+            "cannot have stolen",
+            "Jim can't have stolen the money.",
+            "Jim can't have stolen the money"
+          ]
+        },
+        {
+          "id": "c3",
+          "prompt": "It's possible that I have made a mistake. **could**\nI ___ a mistake.",
+          "acceptedAnswers": [
+            "could have made",
+            "I could have made a mistake.",
+            "I could have made a mistake"
+          ]
+        },
+        {
+          "id": "c4",
+          "prompt": "There's a chance that someone saw us. **may**\nSomeone ___ us.",
+          "acceptedAnswers": [
+            "may have seen",
+            "Someone may have seen us.",
+            "Someone may have seen us"
+          ]
+        },
+        {
+          "id": "c5",
+          "prompt": "It's possible that Tim hasn't arrived yet. **might**\nTim ___ yet.",
+          "acceptedAnswers": [
+            "might not have arrived",
+            "mightn't have arrived",
+            "Tim might not have arrived yet.",
+            "Tim might not have arrived yet"
+          ]
+        },
+        {
+          "id": "c6",
+          "prompt": "I'm sure that Irene wasn't at the party because she was ill. **have**\nIrene ___ at the party because she was ill.",
+          "acceptedAnswers": [
+            "can't have been",
+            "cannot have been",
+            "mustn't have been",
+            "Irene can't have been at the party because she was ill.",
+            "Irene can't have been at the party because she was ill"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d",
+      "type": "rewrite",
+      "title": "D · Expectation",
+      "instruction": "Complete each second sentence so that it has a similar meaning to the first sentence.",
+      "items": [
+        {
+          "id": "d1",
+          "prompt": "We were expecting Dave to call, but he hasn't.\nDave should ___ .",
+          "acceptedAnswers": [
+            "have called",
+            "Dave should have called.",
+            "Dave should have called"
+          ]
+        },
+        {
+          "id": "d2",
+          "prompt": "They said they were going to deliver the computer at lunchtime, but they didn't.\nThey should ___ .",
+          "acceptedAnswers": [
+            "have delivered it at lunchtime",
+            "have delivered the computer at lunchtime",
+            "They should have delivered it at lunchtime.",
+            "They should have delivered the computer at lunchtime."
+          ]
+        },
+        {
+          "id": "d3",
+          "prompt": "I was expecting the film to come out at the cinema last week.\nThe film ought ___ .",
+          "acceptedAnswers": [
+            "to have come out last week",
+            "to have come out at the cinema last week",
+            "The film ought to have come out last week.",
+            "The film ought to have come out at the cinema last week."
+          ]
+        },
+        {
+          "id": "d4",
+          "prompt": "The shop wasn't supposed to close so early.\nThe shop shouldn't ___ .",
+          "acceptedAnswers": [
+            "have closed so early",
+            "The shop shouldn't have closed so early.",
+            "The shop shouldn't have closed so early"
+          ]
+        },
+        {
+          "id": "d5",
+          "prompt": "Was the programme supposed to start at eight o'clock?\nShould ___ ?",
+          "acceptedAnswers": [
+            "the programme have started at eight o'clock",
+            "Should the programme have started at eight o'clock?",
+            "Should the programme have started at eight o'clock"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e",
+      "type": "multiple-choice",
+      "title": "E · Choose the correct answer",
+      "instruction": "Choose the correct modal perfect.",
+      "items": [
+        {
+          "id": "e1",
+          "prompt": "Ronny ___ have gone to Switzerland, but I'm not totally sure.",
+          "options": ["must", "could", "can't", "should"],
+          "acceptedAnswers": ["could"]
+        },
+        {
+          "id": "e2",
+          "prompt": "You ___ have lied to me! Why didn't you tell me the truth?",
+          "options": ["mustn't", "might not", "shouldn't", "couldn't"],
+          "acceptedAnswers": ["shouldn't"]
+        },
+        {
+          "id": "e3",
+          "prompt": "Helen ___ to have seen a doctor weeks ago. Why didn't she?",
+          "options": ["ought", "should", "must", "can't"],
+          "acceptedAnswers": ["ought"]
+        },
+        {
+          "id": "e4",
+          "prompt": "They ___ have seen the play last night as they went to a football match instead.",
+          "options": ["could", "must", "might", "can't"],
+          "acceptedAnswers": ["can't"]
+        },
+        {
+          "id": "e5",
+          "prompt": "Carl ___ have been here by now. Maybe he got stuck in traffic.",
+          "options": ["might", "must", "should", "can't"],
+          "acceptedAnswers": ["should"]
+        },
+        {
+          "id": "e6",
+          "prompt": "You ___ have been really excited when you heard you'd won the competition!",
+          "options": ["must", "should", "might", "could"],
+          "acceptedAnswers": ["must"]
+        }
+      ]
+    },
+    {
+      "id": "f",
+      "type": "gap-fill",
+      "title": "F · My cousin Tina",
+      "instruction": "Write one word in each gap.",
+      "items": [
+        {
+          "id": "f1",
+          "prompt": "My cousin Tina is a professional dancer. Her mum — my aunt — says that Tina (1) ___ dance really well even before she was able to walk!",
+          "acceptedAnswers": ["could"]
+        },
+        {
+          "id": "f2",
+          "prompt": "When Tina was ten, she could (2) ___ gone to a special school for dancers in New York, but she decided not to because she didn't want to leave her friends.",
+          "acceptedAnswers": ["have"]
+        },
+        {
+          "id": "f3",
+          "prompt": "Even today, Tina's mum thinks that Tina (3) ___ have gone to the school.",
+          "acceptedAnswers": ["should", "ought"]
+        },
+        {
+          "id": "f4",
+          "prompt": "I'm sure it (4) ___ have been a very difficult decision for Tina to make, but she says that she doesn't regret not going.",
+          "acceptedAnswers": ["must"]
+        },
+        {
+          "id": "f5",
+          "prompt": "She carried on dancing in her spare time, often getting up at five o'clock in the morning for a dance lesson before school. That can't have (5) ___ much fun!",
+          "acceptedAnswers": ["been"]
+        },
+        {
+          "id": "f6",
+          "prompt": "In fact, she (6) ___ have got the main part in a new show in London. She's not sure yet.",
+          "acceptedAnswers": ["may", "might", "could"]
+        },
+        {
+          "id": "f7",
+          "prompt": "They (7) ___ to have contacted her yesterday about it, but they didn't. Hopefully she'll hear in the next few days.",
+          "acceptedAnswers": ["ought"]
+        }
+      ]
+    }
+  ]
+}

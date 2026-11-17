@@ -1,0 +1,475 @@
+{
+  "id": "unit-28-conditionals-1",
+  "level": "b1",
+  "unitNumber": 28,
+  "title": "Conditionals 1: zero, first, second",
+  "subtitle": "Facts, likely futures, and imaginary present or future situations",
+  "theory": [
+    {
+      "id": "introduction",
+      "title": "Introduction to conditionals",
+      "icon": "BookOpen",
+      "blocks": [
+        {
+          "type": "prose",
+          "text": "Some sentences with the word **if** are called conditional sentences. With every conditional sentence, there are two parts: a situation and the result of that situation. It is the situation that starts with **if**. There are different types of conditional sentence, depending on what the situation is."
+        },
+        {
+          "type": "hints",
+          "intro": "Comma rules",
+          "items": [
+            "When we start the sentence with **if**, we separate the situation and the result with a comma: **If** you join a gym, I'll join too.",
+            "When we start the sentence with the result, we don't use a comma: I'll join too **if** you join a gym."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "zero",
+      "title": "Zero conditional",
+      "icon": "Table2",
+      "blocks": [
+        {
+          "type": "prose",
+          "text": "Form: **if** + present simple, present simple"
+        },
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "General or scientific facts",
+              "example": "If people **eat** too much, they often **get** fat."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "first",
+      "title": "First conditional",
+      "icon": "Sparkles",
+      "blocks": [
+        {
+          "type": "prose",
+          "text": "Form: **if** + present simple, **will** + bare infinitive"
+        },
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "Real or likely situations in the present or future and their results",
+              "example": "If you **take** these pills, you'll **start** to feel better very soon."
+            }
+          ]
+        },
+        {
+          "type": "hints",
+          "intro": "We can also use other modals instead of **will**, depending on the meaning. We can also use an imperative instead of **will** to give instructions.",
+          "items": [
+            "If you get some rest, you **might** feel better tomorrow.",
+            "If you don't feel well, **go** home!"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "second",
+      "title": "Second conditional",
+      "icon": "Lightbulb",
+      "blocks": [
+        {
+          "type": "prose",
+          "text": "Form: **if** + past simple, **would** + bare infinitive"
+        },
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "Impossible or unlikely situations in the present or future and their results",
+              "example": "If my legs **were** longer, I **would be** a much faster runner!"
+            }
+          ]
+        },
+        {
+          "type": "hints",
+          "intro": "We can also use the second conditional to give advice. We use the phrases **If I were you ...** or **If I was you ...** for this. **If I were you ...** is more formal than **If I was you ...** .",
+          "items": [
+            "If I **were** you, I would eat less chocolate. (more formal)",
+            "If I **was** you, I'd eat less chocolate! (more informal)"
+          ]
+        }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "a",
+      "type": "guided-sentence",
+      "title": "A · Zero conditional pictures",
+      "instruction": "Look at the prompts and complete the sentences. Use the zero conditional.",
+      "items": [
+        {
+          "id": "a1",
+          "prompt": "you / heat / water / it / boil",
+          "acceptedAnswers": [
+            "If you heat water, it boils.",
+            "If you heat water, it boils",
+            "If you heat water it boils."
+          ]
+        },
+        {
+          "id": "a2",
+          "prompt": "you / send / an e-mail / it / be / free",
+          "acceptedAnswers": [
+            "If you send an e-mail, it is free.",
+            "If you send an e-mail, it is free",
+            "If you send an email, it is free.",
+            "If you send an email, it's free.",
+            "If you send an e-mail, it's free."
+          ]
+        },
+        {
+          "id": "a3",
+          "prompt": "it / be / dangerous / you / not / wear / a seatbelt",
+          "acceptedAnswers": [
+            "It is dangerous if you don't wear a seatbelt.",
+            "It is dangerous if you don't wear a seatbelt",
+            "It's dangerous if you don't wear a seatbelt.",
+            "It's dangerous if you don't wear a seatbelt",
+            "If you don't wear a seatbelt, it is dangerous.",
+            "If you don't wear a seatbelt, it's dangerous."
+          ]
+        },
+        {
+          "id": "a4",
+          "prompt": "you / have / an injection / it / not / usually / hurt",
+          "acceptedAnswers": [
+            "If you have an injection, it doesn't usually hurt.",
+            "If you have an injection, it doesn't usually hurt",
+            "If you have an injection, it does not usually hurt."
+          ]
+        },
+        {
+          "id": "a5",
+          "prompt": "you / not / water / plants and flowers / they / die",
+          "acceptedAnswers": [
+            "If you don't water plants and flowers, they die.",
+            "If you don't water plants and flowers, they die",
+            "If you do not water plants and flowers, they die."
+          ]
+        },
+        {
+          "id": "a6",
+          "prompt": "the sea / not / be / calm / not / be / safe / to swim",
+          "acceptedAnswers": [
+            "If the sea isn't calm, it isn't safe to swim.",
+            "If the sea isn't calm, it isn't safe to swim",
+            "If the sea is not calm, it is not safe to swim.",
+            "If the sea isn't calm, it's not safe to swim."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b",
+      "type": "rewrite",
+      "title": "B · Correct the bold words",
+      "instruction": "The words and phrases in bold in each sentence are wrong. Write the correct word or phrase.",
+      "items": [
+        {
+          "id": "b1",
+          "prompt": "If we **will go** shopping tomorrow, I'll probably buy a new top.",
+          "acceptedAnswers": ["go", "If we go shopping tomorrow, I'll probably buy a new top."]
+        },
+        {
+          "id": "b2",
+          "prompt": "If Mum is tired tonight, I **cook** dinner.",
+          "acceptedAnswers": [
+            "I'll cook",
+            "I will cook",
+            "If Mum is tired tonight, I'll cook dinner.",
+            "If Mum is tired tonight, I will cook dinner."
+          ]
+        },
+        {
+          "id": "b3",
+          "prompt": "John **will tell** us if there **will be** any news.",
+          "acceptedAnswers": [
+            "will tell us if there is",
+            "John will tell us if there is any news.",
+            "John will tell us if there is any news"
+          ]
+        },
+        {
+          "id": "b4",
+          "prompt": "If I **won't get** a good mark in the geography test, I'll be very annoyed!",
+          "acceptedAnswers": [
+            "don't get",
+            "do not get",
+            "If I don't get a good mark in the geography test, I'll be very annoyed!",
+            "If I don't get a good mark in the geography test, I'll be very annoyed"
+          ]
+        },
+        {
+          "id": "b5",
+          "prompt": "You **are tired** in the morning if you don't go to bed soon.",
+          "acceptedAnswers": [
+            "You'll be tired",
+            "You will be tired",
+            "You'll be tired in the morning if you don't go to bed soon.",
+            "You will be tired in the morning if you don't go to bed soon."
+          ]
+        },
+        {
+          "id": "b6",
+          "prompt": "If you see Karen, **do you** ask her to call me?",
+          "acceptedAnswers": [
+            "will you",
+            "If you see Karen, will you ask her to call me?",
+            "If you see Karen, will you ask her to call me"
+          ]
+        },
+        {
+          "id": "b7",
+          "prompt": "**Does** Frank come with us if we go to the beach at the weekend?",
+          "acceptedAnswers": [
+            "Will",
+            "Will Frank come with us if we go to the beach at the weekend?",
+            "Will Frank come with us if we go to the beach at the weekend"
+          ]
+        },
+        {
+          "id": "b8",
+          "prompt": "If you need help, **will tell** me!",
+          "acceptedAnswers": [
+            "tell",
+            "If you need help, tell me!",
+            "If you need help, tell me"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c",
+      "type": "gap-fill",
+      "title": "C · First conditional",
+      "instruction": "Complete using the correct form of the verbs in brackets.",
+      "items": [
+        {
+          "id": "c1",
+          "prompt": "If I ___ well in the exam, my parents will buy me an MP3 player. (do)",
+          "acceptedAnswers": ["do"]
+        },
+        {
+          "id": "c2",
+          "prompt": "If my sister borrows my clothes again, I ___ ! (scream)",
+          "acceptedAnswers": ["will scream", "'ll scream"]
+        },
+        {
+          "id": "c3",
+          "prompt": "We'll leave at six o'clock if the weather ___ bad. (be)",
+          "acceptedAnswers": ["is"]
+        },
+        {
+          "id": "c4",
+          "prompt": "They ___ if we're a bit late this afternoon. (not / mind)",
+          "acceptedAnswers": ["won't mind", "will not mind", "wouldn't mind"]
+        },
+        {
+          "id": "c5",
+          "prompt": "Sarah will be very annoyed if Dave ___ her this evening. (not / call)",
+          "acceptedAnswers": ["doesn't call", "does not call"]
+        },
+        {
+          "id": "c6",
+          "prompt": "Will you still go to the concert if the tickets ___ 60 euros? (cost)",
+          "acceptedAnswers": ["cost"]
+        },
+        {
+          "id": "c7",
+          "prompt": "If Rania doesn't come to the party, ___ Greg upset? (be)",
+          "acceptedAnswers": ["will", "will Greg be", "Will Greg be"]
+        },
+        {
+          "id": "c8",
+          "prompt": "I'll be surprised if Doug and Dana ___ a new car soon. (not / get)",
+          "acceptedAnswers": ["don't get", "do not get"]
+        }
+      ]
+    },
+    {
+      "id": "d",
+      "type": "multiple-choice",
+      "title": "D · First or second?",
+      "instruction": "Choose the correct word or phrase.",
+      "items": [
+        {
+          "id": "d1",
+          "prompt": "If I ___ a million euros, I'd buy my mum and dad a new house.",
+          "options": ["win", "won"],
+          "acceptedAnswers": ["won"]
+        },
+        {
+          "id": "d2",
+          "prompt": "If Steve paid more attention in class, he ___ learn more.",
+          "options": ["will", "would"],
+          "acceptedAnswers": ["would"]
+        },
+        {
+          "id": "d3",
+          "prompt": "___ go on a cruise if they had enough money.",
+          "options": ["They'll", "They'd"],
+          "acceptedAnswers": ["They'd"]
+        },
+        {
+          "id": "d4",
+          "prompt": "You'd feel a lot healthier if you ___ eat so much fast food.",
+          "options": ["don't", "didn't"],
+          "acceptedAnswers": ["didn't"]
+        },
+        {
+          "id": "d5",
+          "prompt": "If I ___ a bike, it wouldn't take me so long to get to school.",
+          "options": ["have", "had"],
+          "acceptedAnswers": ["had"]
+        },
+        {
+          "id": "d6",
+          "prompt": "If you met Tom Hanks, what ___ you ask him?",
+          "options": ["will", "would"],
+          "acceptedAnswers": ["would"]
+        },
+        {
+          "id": "d7",
+          "prompt": "___ Bobby be upset if I didn't invite him?",
+          "options": ["Will", "Would"],
+          "acceptedAnswers": ["Would"]
+        },
+        {
+          "id": "d8",
+          "prompt": "If I ___ you, I'd get a haircut!",
+          "options": ["am", "were"],
+          "acceptedAnswers": ["were"]
+        }
+      ]
+    },
+    {
+      "id": "e",
+      "type": "rewrite",
+      "title": "E · Rewrite with if",
+      "instruction": "Complete each second sentence so that it has a similar meaning to the first sentence. Write no more than three words.",
+      "items": [
+        {
+          "id": "e1",
+          "prompt": "Sylvia doesn't have enough money, so she can't buy a new computer.\nIf Sylvia ___ enough money, she'd buy a new computer.",
+          "acceptedAnswers": [
+            "had",
+            "If Sylvia had enough money, she'd buy a new computer.",
+            "If Sylvia had enough money, she would buy a new computer."
+          ]
+        },
+        {
+          "id": "e2",
+          "prompt": "The twins don't see their friends often because they're very busy.\nIf the twins weren't so busy, they ___ their friends more often.",
+          "acceptedAnswers": [
+            "would see",
+            "'d see",
+            "If the twins weren't so busy, they would see their friends more often."
+          ]
+        },
+        {
+          "id": "e3",
+          "prompt": "I don't live in a city, so there's not much to do in the evening.\nIf I ___ in a city, there would be lots to do in the evening.",
+          "acceptedAnswers": [
+            "lived",
+            "If I lived in a city, there would be lots to do in the evening."
+          ]
+        },
+        {
+          "id": "e4",
+          "prompt": "Grandma won't get a dog because she lives in a small flat.\nIf Grandma ___ in a small flat, she'd get a dog.",
+          "acceptedAnswers": [
+            "didn't live",
+            "did not live",
+            "If Grandma didn't live in a small flat, she'd get a dog."
+          ]
+        },
+        {
+          "id": "e5",
+          "prompt": "You use your mobile a lot, so you have large phone bills.\nIf you didn't use your mobile so much, you ___ large phone bills.",
+          "acceptedAnswers": [
+            "wouldn't have",
+            "would not have",
+            "If you didn't use your mobile so much, you wouldn't have large phone bills."
+          ]
+        },
+        {
+          "id": "e6",
+          "prompt": "I think you should tell your parents the truth.\nIf I ___ you, I'd tell your parents the truth.",
+          "acceptedAnswers": [
+            "were",
+            "was",
+            "If I were you, I'd tell your parents the truth.",
+            "If I was you, I'd tell your parents the truth."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f",
+      "type": "multiple-choice",
+      "title": "F · Letters about vegetarianism",
+      "instruction": "Choose the correct answer for each gap.",
+      "items": [
+        {
+          "id": "f1",
+          "prompt": "Yuri: 'I'm thinking of becoming a vegetarian, but some of my friends say it's a bad idea. They say that if I (1) ___ eating meat, my body won't get all the things it needs to stay healthy.'",
+          "options": ["stop", "stopped"],
+          "acceptedAnswers": ["stop"]
+        },
+        {
+          "id": "f2",
+          "prompt": "Marsha: 'Millions of people are vegetarians and they're perfectly healthy. You have to be careful, though. If you (2) ___ up eating meat completely, and only ate chocolate and crisps, that would obviously be very bad for you!'",
+          "options": ["give", "gave"],
+          "acceptedAnswers": ["gave"]
+        },
+        {
+          "id": "f3",
+          "prompt": "If you gave up eating meat completely, and only (3) ___ chocolate and crisps, that would obviously be very bad for you!",
+          "options": ["will eat", "ate"],
+          "acceptedAnswers": ["ate"]
+        },
+        {
+          "id": "f4",
+          "prompt": "If people don't eat properly, they (4) ___ ill. It's that simple.",
+          "options": ["get", "would get"],
+          "acceptedAnswers": ["get"]
+        },
+        {
+          "id": "f5",
+          "prompt": "If you eat lots of fruit and salad and beans, you (5) ___ get all the things you need to stay healthy.",
+          "options": ["will", "would"],
+          "acceptedAnswers": ["will"]
+        },
+        {
+          "id": "f6",
+          "prompt": "But — you're only 14 years old. If you (6) ___ at home with your parents — and you probably do — you'll have to ask them what they think too.",
+          "options": ["live", "will live"],
+          "acceptedAnswers": ["live"]
+        },
+        {
+          "id": "f7",
+          "prompt": "If your mum cooks for you, it (7) ___ be difficult for her to make you special meals.",
+          "options": ["will", "would"],
+          "acceptedAnswers": ["will"]
+        },
+        {
+          "id": "f8",
+          "prompt": "If I were you, I (8) ___ think about this carefully and maybe wait until you're a bit older before making such a big decision.",
+          "options": ["will", "would"],
+          "acceptedAnswers": ["would"]
+        }
+      ]
+    }
+  ]
+}

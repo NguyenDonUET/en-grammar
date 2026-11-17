@@ -1,0 +1,371 @@
+{
+  "id": "unit-32-reported-questions",
+  "level": "b1",
+  "unitNumber": 32,
+  "title": "Reported questions, orders, requests",
+  "subtitle": "Reporting what someone asked, ordered or requested",
+  "theory": [
+    {
+      "id": "reported-questions",
+      "title": "Reported questions, orders, requests",
+      "icon": "BookOpen",
+      "blocks": [
+        {
+          "type": "prose",
+          "text": "We use reported questions, orders and requests to report what someone else asked, ordered or requested. We do not use question word order in reported questions."
+        },
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "questions beginning with have, do or be",
+              "example": "'Have you been to the gallery?' he asked her. → He asked her **if she had been** to the gallery. 'Are you making a skirt?' I asked Anne. → I asked Anne **if she was making** a skirt."
+            },
+            {
+              "use": "questions beginning with a modal",
+              "example": "'Can you paint?' Mary asked her friend. → Mary asked her friend **if she could** paint. 'Will you make me one?' I asked Terry. → I asked Terry **if he would** make me one. 'Shall I wear a jacket?' I asked Mum. → I asked Mum **if I should** wear a jacket. 'May I borrow your coat?' Mr Jones asked me. → Mr Jones asked me **if he might** borrow my coat."
+            },
+            {
+              "use": "questions beginning with a question word",
+              "example": "'What kind of shoes are in fashion now?' my mum asked me. → My mum asked me **what kind of shoes were** in fashion at that moment. 'Who did you see at the fashion show?' asked Ben. → Ben asked **who I had seen** at the fashion show. 'Which one do you want?' Sarah asked Liam. → Sarah asked Liam **which one he wanted**. 'When will they finish the house?' I asked. → I asked **when they would** finish the house. 'Why did you say that?' my sister asked me. → My sister asked me **why I had said** that. 'How much did your hat cost?' Ed asked Carl. → Ed asked Carl **how much his hat had cost**."
+            },
+            {
+              "use": "orders",
+              "example": "'Put your clothes in the drawer,' Mum said. → Mum **told me to put** my clothes in the drawer. 'Don't wear the red one,' Alice said. → Alice **told me not to wear** the red one."
+            },
+            {
+              "use": "requests",
+              "example": "'Will you make me one?' I asked Terry. → I **asked Terry to make** me one. 'Please don't move my pictures,' said Olga. → Olga **asked me not to move** her pictures."
+            }
+          ]
+        },
+        {
+          "type": "hints",
+          "items": [
+            "We can also use **whether** instead of **if** in reported questions.",
+            "He asked her **whether** she had been to the gallery."
+          ]
+        },
+        {
+          "type": "watch-out",
+          "text": "Remember not to use question word order in reported questions."
+        },
+        {
+          "type": "correct-incorrect",
+          "correct": "I asked when they **would finish** the house.",
+          "incorrect": "I asked when **would they finish** the house."
+        }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "a",
+      "type": "multiple-choice",
+      "title": "A · Choose the tense",
+      "instruction": "Choose the correct answer.",
+      "items": [
+        {
+          "id": "a1",
+          "prompt": "'Has your brother gone out?' Mum asked me. Mum asked me if my brother ___ out.",
+          "options": ["has gone", "had gone"],
+          "acceptedAnswers": ["had gone"]
+        },
+        {
+          "id": "a2",
+          "prompt": "'Do you know the answer?' Miss Smith asked Ruby. Miss Smith asked Ruby if she ___ the answer.",
+          "options": ["knew", "had known"],
+          "acceptedAnswers": ["knew"]
+        },
+        {
+          "id": "a3",
+          "prompt": "'Is this your car?' the police officer said to the man. The police officer asked the man if it ___ his car.",
+          "options": ["is", "was"],
+          "acceptedAnswers": ["was"]
+        },
+        {
+          "id": "a4",
+          "prompt": "'Have you been to see the exhibition?' I asked Benjamin. I asked Benjamin if he ___ to see the exhibition.",
+          "options": ["went", "had been"],
+          "acceptedAnswers": ["had been"]
+        },
+        {
+          "id": "a5",
+          "prompt": "'Does your laptop need a new battery?' Jerry asked me. Jerry asked me if my laptop ___ a new battery.",
+          "options": ["needed", "will need"],
+          "acceptedAnswers": ["needed"]
+        },
+        {
+          "id": "a6",
+          "prompt": "'Are you having a barbecue?' I asked the Browns. I asked the Browns if they ___ a barbecue.",
+          "options": ["were having", "had been having"],
+          "acceptedAnswers": ["were having"]
+        }
+      ]
+    },
+    {
+      "id": "b",
+      "type": "gap-fill",
+      "title": "B · One word in each gap",
+      "instruction": "Write one word in each gap.",
+      "items": [
+        {
+          "id": "b1",
+          "prompt": "'Will you be at the party?' Richard asked me. Richard asked me if I ___ be at the party.",
+          "acceptedAnswers": ["would"]
+        },
+        {
+          "id": "b2",
+          "prompt": "'May I ask you a few questions?' the woman asked Ted. The woman asked Ted if she ___ ask him a few questions.",
+          "acceptedAnswers": ["might", "could"]
+        },
+        {
+          "id": "b3",
+          "prompt": "'Can we go to the zoo tomorrow?' Jane asked her father. Jane asked her father if they ___ go to the zoo the following day.",
+          "acceptedAnswers": ["could"]
+        },
+        {
+          "id": "b4",
+          "prompt": "'Shall I study maths or English?' Sally asked her best friend. Sally asked her best friend whether she ___ study maths or English.",
+          "acceptedAnswers": ["should"]
+        },
+        {
+          "id": "b5",
+          "prompt": "'Can you write with your left hand?' Val asked me. Val asked me whether I ___ write with my left hand.",
+          "acceptedAnswers": ["could"]
+        },
+        {
+          "id": "b6",
+          "prompt": "'Shall we play tennis or volleyball?' Debbie asked her sister. Debbie asked her sister if they ___ play tennis or volleyball.",
+          "acceptedAnswers": ["should", "would"]
+        },
+        {
+          "id": "b7",
+          "prompt": "'May I leave the table?' Samantha asked her parents. Samantha asked her parents if she ___ leave the table.",
+          "acceptedAnswers": ["might", "could"]
+        },
+        {
+          "id": "b8",
+          "prompt": "'Will our bus leave on time?' Mum asked the driver. Mum asked the driver whether our bus ___ leave on time.",
+          "acceptedAnswers": ["would"]
+        }
+      ]
+    },
+    {
+      "id": "c",
+      "type": "rewrite",
+      "title": "C · Similar meaning",
+      "instruction": "Complete each second sentence so that it has a similar meaning to the first sentence. Write between two and five words.",
+      "items": [
+        {
+          "id": "c1",
+          "prompt": "'When did your brother join the army?' Rudy asked me.\nRudy asked me ___ the army.",
+          "acceptedAnswers": [
+            "when my brother had joined",
+            "when my brother joined",
+            "Rudy asked me when my brother had joined the army.",
+            "Rudy asked me when my brother had joined the army"
+          ]
+        },
+        {
+          "id": "c2",
+          "prompt": "'How was your trip to Turkey?' I asked Katherine.\nI asked Katherine how ___ been.",
+          "acceptedAnswers": [
+            "her trip to Turkey had",
+            "I asked Katherine how her trip to Turkey had been.",
+            "I asked Katherine how her trip to Turkey had been"
+          ]
+        },
+        {
+          "id": "c3",
+          "prompt": "'How will we find your keys in the dark?' Ashley asked Susie.\nAshley asked Susie how ___ keys in the dark.",
+          "acceptedAnswers": [
+            "they would find her",
+            "Ashley asked Susie how they would find her keys in the dark.",
+            "Ashley asked Susie how they would find her keys in the dark"
+          ]
+        },
+        {
+          "id": "c4",
+          "prompt": "'Why was Rob on TV?' Denise asked me.\nDenise asked me ___ on TV.",
+          "acceptedAnswers": [
+            "why Rob had been",
+            "why Rob was",
+            "Denise asked me why Rob had been on TV.",
+            "Denise asked me why Rob had been on TV"
+          ]
+        },
+        {
+          "id": "c5",
+          "prompt": "'Who saw you at the park?' the police officer asked me.\nThe police officer asked me ___ at the park.",
+          "acceptedAnswers": [
+            "who had seen me",
+            "who saw me",
+            "The police officer asked me who had seen me at the park.",
+            "The police officer asked me who had seen me at the park"
+          ]
+        },
+        {
+          "id": "c6",
+          "prompt": "'Who did you see at the park?' the police officer asked me.\nThe police officer asked me ___ at the park.",
+          "acceptedAnswers": [
+            "who I had seen",
+            "who I saw",
+            "The police officer asked me who I had seen at the park.",
+            "The police officer asked me who I had seen at the park"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d",
+      "type": "rewrite",
+      "title": "D · Picture orders",
+      "instruction": "Look at the pictures and complete the sentences.",
+      "items": [
+        {
+          "id": "d1",
+          "prompt": "A mum points at a messy room and says 'Tidy your room!'\nMy mum told ___ .",
+          "acceptedAnswers": [
+            "me to tidy my room",
+            "me to tidy my room.",
+            "My mum told me to tidy my room.",
+            "My mum told me to tidy my room"
+          ]
+        },
+        {
+          "id": "d2",
+          "prompt": "A girl is being followed by a dog. She says 'Stop following me.'\nI ___ .",
+          "acceptedAnswers": [
+            "told the dog to stop following me",
+            "told it to stop following me",
+            "I told the dog to stop following me.",
+            "I told the dog to stop following me"
+          ]
+        },
+        {
+          "id": "d3",
+          "prompt": "A cowboy says 'Listen carefully.'\nThe man ___ .",
+          "acceptedAnswers": [
+            "told us to listen carefully",
+            "told them to listen carefully",
+            "The man told us to listen carefully.",
+            "The man told us to listen carefully"
+          ]
+        },
+        {
+          "id": "d4",
+          "prompt": "A parrot shouts 'Shut up!'\nThe parrot ___ .",
+          "acceptedAnswers": [
+            "told me to shut up",
+            "told us to shut up",
+            "The parrot told me to shut up.",
+            "The parrot told me to shut up"
+          ]
+        },
+        {
+          "id": "d5",
+          "prompt": "Jenny is pushing a trolley. Grandma says 'Push harder, Jenny!'\nJenny's grandma ___ .",
+          "acceptedAnswers": [
+            "told her to push harder",
+            "told Jenny to push harder",
+            "Jenny's grandma told her to push harder.",
+            "Jenny's grandma told her to push harder"
+          ]
+        },
+        {
+          "id": "d6",
+          "prompt": "A magician says 'Pick a card.'\nThe magician ___ .",
+          "acceptedAnswers": [
+            "told me to pick a card",
+            "asked me to pick a card",
+            "The magician told me to pick a card.",
+            "The magician told me to pick a card"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e",
+      "type": "multiple-choice",
+      "title": "E · Choose the correct answer",
+      "instruction": "Choose the correct answer.",
+      "items": [
+        {
+          "id": "e1",
+          "prompt": "'Could you pass me the salt, please?' I asked the man next to me. I asked the man next to me ___ me the salt.",
+          "options": ["pass", "if he passes", "to pass"],
+          "acceptedAnswers": ["to pass"]
+        },
+        {
+          "id": "e2",
+          "prompt": "'Would you mind waiting a moment?' the shop assistant asked the woman. The shop assistant asked the woman ___ for a moment.",
+          "options": ["to wait", "waiting", "she wait"],
+          "acceptedAnswers": ["to wait"]
+        },
+        {
+          "id": "e3",
+          "prompt": "'Please don't leave your dirty football boots in the hall,' Mum said to Doug. Mum told Doug ___ his dirty football boots in the hall.",
+          "options": ["that he doesn't leave", "not to leave", "don't leave"],
+          "acceptedAnswers": ["not to leave"]
+        },
+        {
+          "id": "e4",
+          "prompt": "'Could you tell us where you were at six o'clock?' the police officers asked Barry. The police officers asked Barry ___ he had been at six o'clock.",
+          "options": ["telling them where", "where he", "to tell them where"],
+          "acceptedAnswers": ["where he"]
+        },
+        {
+          "id": "e5",
+          "prompt": "'Could I have your e-mail address?' I asked Mariella. I asked Mariella ___ e-mail address.",
+          "options": ["to give me her", "give me your", "give me her"],
+          "acceptedAnswers": ["to give me her"]
+        },
+        {
+          "id": "e6",
+          "prompt": "'Can I have a new Xbox for my birthday?' I asked my mum. I asked my mum ___ a new Xbox.",
+          "options": ["that she get me", "get me", "to get me"],
+          "acceptedAnswers": ["to get me"]
+        }
+      ]
+    },
+    {
+      "id": "f",
+      "type": "rewrite",
+      "title": "F · Tick or correct",
+      "instruction": "If the word or phrase in bold is correct, write it again. If it is wrong, write the correct word or phrase.",
+      "items": [
+        {
+          "id": "f1",
+          "prompt": "I asked Toni why **had she taken** my CD without asking me.",
+          "acceptedAnswers": ["she had taken"]
+        },
+        {
+          "id": "f2",
+          "prompt": "Roger told Isabelle **don't make** any plans for the weekend.",
+          "acceptedAnswers": ["not to make"]
+        },
+        {
+          "id": "f3",
+          "prompt": "Madison asked me how much my new jeans **had cost**.",
+          "acceptedAnswers": ["had cost"]
+        },
+        {
+          "id": "f4",
+          "prompt": "Alexander asked his dad **giving** him some money for his school trip.",
+          "acceptedAnswers": ["to give"]
+        },
+        {
+          "id": "f5",
+          "prompt": "I told Jeremy **you don't move** while I took his photograph.",
+          "acceptedAnswers": ["not to move"]
+        },
+        {
+          "id": "f6",
+          "prompt": "Annie told her dog **to sit**, but it didn't.",
+          "acceptedAnswers": ["to sit"]
+        }
+      ]
+    }
+  ]
+}

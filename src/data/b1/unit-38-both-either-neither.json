@@ -1,0 +1,475 @@
+{
+  "id": "unit-38-both-either-neither",
+  "level": "b1",
+  "unitNumber": 38,
+  "title": "Both, either, neither, so, nor",
+  "subtitle": "Talking about two things, and adding so / nor",
+  "theory": [
+    {
+      "id": "both",
+      "title": "both",
+      "icon": "BookOpen",
+      "blocks": [
+        {
+          "type": "prose",
+          "text": "Form: **both** + noun + **and** + noun · **both** + adjective + **and** + adjective"
+        },
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "To emphasise that each of two things is true",
+              "example": "**Both** Adam and Vicky said Colin was very kind. Simon is **both** rude and unkind."
+            },
+            {
+              "use": "To say the same thing about two things",
+              "example": "My sister and I were **both** shocked by what you said. Jack and Jill **both** know lots of jokes."
+            }
+          ]
+        },
+        {
+          "type": "hints",
+          "items": [
+            "We sometimes use **of** with **both**. We always use this when it comes before a pronoun.",
+            "I used to be good friends with Lisa and Mike, but I've had an argument with **both of them**."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "either",
+      "title": "either",
+      "icon": "Sparkles",
+      "blocks": [
+        {
+          "type": "prose",
+          "text": "Form: **either** + noun + **or** + noun · **either** + adjective + **or** + adjective · **either** + verb + **or** + verb"
+        },
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "To talk about a choice between two things",
+              "example": "I think I'll buy a Valentine's card with **either** a puppy **or** a kitten on it. I'm not sure how Tom will react — he'll be **either** happy **or** shocked! You can **either** tell him how you feel **or** hope he notices."
+            }
+          ]
+        },
+        {
+          "type": "hints",
+          "items": [
+            "We sometimes use **of** with **either**. We always use this when it comes before a pronoun.",
+            "I really like Robert and Martin — I'll go out with **either of them**!"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "neither",
+      "title": "neither",
+      "icon": "Lightbulb",
+      "blocks": [
+        {
+          "type": "prose",
+          "text": "Form: **neither** + noun + **nor** + noun · **neither** + adjective + **nor** + adjective · **neither** + verb + **nor** + verb"
+        },
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "To emphasise that each of two negative things is true",
+              "example": "I've got **neither** the time **nor** the energy to take up a new hobby at the moment. What you said to Lucy was **neither** true **nor** fair."
+            }
+          ]
+        },
+        {
+          "type": "hints",
+          "items": [
+            "We sometimes use **of** with **neither**. We always use this when it comes before a pronoun.",
+            "**Neither of** us found Jason's joke funny."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "so-nor",
+      "title": "so, nor",
+      "icon": "CheckCircle2",
+      "blocks": [
+        {
+          "type": "prose",
+          "text": "Form: **so** + do/have/be/modal + subject · **nor** + do/have/be/modal + subject"
+        },
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "To add more information to a positive statement",
+              "example": "Lisa is really unkind, and **so is** Angela. You're good at listening to people, and **so am I**."
+            },
+            {
+              "use": "To add more information to a negative statement",
+              "example": "My brother hasn't been invited to the party, and **nor has** his friend. Tom wouldn't forgive Jenny if she told everyone his secret, and **nor would I**."
+            }
+          ]
+        },
+        {
+          "type": "hints",
+          "intro": "You can also use these structures on their own in a conversation.",
+          "items": [
+            "'I like Hannah's sense of humour.' '**So do I.**'",
+            "'I don't find Mark funny.' '**Nor do I.**'"
+          ]
+        }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "a",
+      "type": "rewrite",
+      "title": "A · Tick or correct both",
+      "instruction": "If the phrase in bold in each sentence is correct, write it again. If it is wrong, write the correct phrase.",
+      "items": [
+        {
+          "id": "a1",
+          "prompt": "I was surprised that **both and Mary and Oliver** were late for the meeting.",
+          "acceptedAnswers": ["both Mary and Oliver"]
+        },
+        {
+          "id": "a2",
+          "prompt": "My mum said she was **both of proud and nervous** when I appeared in the school play.",
+          "acceptedAnswers": ["both proud and nervous"]
+        },
+        {
+          "id": "a3",
+          "prompt": "Why don't **both of you** wait here while I go and see if Stuart is in?",
+          "acceptedAnswers": ["both of you"]
+        },
+        {
+          "id": "a4",
+          "prompt": "**Both of books** have got pages missing.",
+          "acceptedAnswers": ["Both books", "Both of the books", "both books", "both of the books"]
+        },
+        {
+          "id": "a5",
+          "prompt": "Can I **throw and both** these magazines away, Derek?",
+          "acceptedAnswers": ["throw both", "throw both of"]
+        },
+        {
+          "id": "a6",
+          "prompt": "When I won the race, I was **both exhausted and happy**.",
+          "acceptedAnswers": ["both exhausted and happy"]
+        },
+        {
+          "id": "a7",
+          "prompt": "Edward and Nigel **both of them** wanted to go on holiday, but they couldn't afford it.",
+          "acceptedAnswers": ["both"]
+        },
+        {
+          "id": "a8",
+          "prompt": "Did **both you and Sylvia** grow up in the south of France?",
+          "acceptedAnswers": ["both you and Sylvia"]
+        }
+      ]
+    },
+    {
+      "id": "b",
+      "type": "rewrite",
+      "title": "B · either ... or",
+      "instruction": "Join the two sentences using either ... or.",
+      "items": [
+        {
+          "id": "b1",
+          "prompt": "You can have ice cream for dessert. You can also have fruit.\nYou can ___ .",
+          "acceptedAnswers": [
+            "have either ice cream or fruit for dessert",
+            "either have ice cream or fruit for dessert",
+            "You can have either ice cream or fruit for dessert.",
+            "You can either have ice cream or fruit."
+          ]
+        },
+        {
+          "id": "b2",
+          "prompt": "I'm considering studying maths at university and I'm considering studying physics.\nI'm considering ___ .",
+          "acceptedAnswers": [
+            "studying either maths or physics at university",
+            "either studying maths or physics at university",
+            "I'm considering studying either maths or physics at university.",
+            "I'm considering studying either maths or physics."
+          ]
+        },
+        {
+          "id": "b3",
+          "prompt": "I might play chess tonight. I might read a book.\nI might ___ .",
+          "acceptedAnswers": [
+            "either play chess or read a book tonight",
+            "play either chess or read a book tonight",
+            "I might either play chess or read a book tonight.",
+            "I might either play chess or read a book."
+          ]
+        },
+        {
+          "id": "b4",
+          "prompt": "Perhaps John has forgotten about our meeting. Perhaps he's got lost.\nJohn has ___ .",
+          "acceptedAnswers": [
+            "either forgotten about our meeting or got lost",
+            "John has either forgotten about our meeting or got lost.",
+            "John has either forgotten about our meeting or got lost"
+          ]
+        },
+        {
+          "id": "b5",
+          "prompt": "Some nights my dad cooks. Some nights he washes up.\nEvery night, my dad ___ .",
+          "acceptedAnswers": [
+            "either cooks or washes up",
+            "Every night, my dad either cooks or washes up.",
+            "Every night, my dad either cooks or washes up"
+          ]
+        },
+        {
+          "id": "b6",
+          "prompt": "We can order a pizza. We can order a Chinese takeaway.\nWe can ___ .",
+          "acceptedAnswers": [
+            "order either a pizza or a Chinese takeaway",
+            "either order a pizza or a Chinese takeaway",
+            "We can order either a pizza or a Chinese takeaway.",
+            "We can either order a pizza or a Chinese takeaway."
+          ]
+        },
+        {
+          "id": "b7",
+          "prompt": "I might have lost the piece of paper with Dave's number on it. I might have thrown it away.\nI've ___ .",
+          "acceptedAnswers": [
+            "either lost the piece of paper with Dave's number on it or thrown it away",
+            "I've either lost the piece of paper with Dave's number on it or thrown it away.",
+            "I've either lost Dave's number or thrown it away."
+          ]
+        },
+        {
+          "id": "b8",
+          "prompt": "You could write to your cousin. You could give her a call.\nYou could ___ .",
+          "acceptedAnswers": [
+            "either write to your cousin or give her a call",
+            "You could either write to your cousin or give her a call.",
+            "You could either write to your cousin or give her a call"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c",
+      "type": "multiple-choice",
+      "title": "C · Circle the correct word",
+      "instruction": "Choose the correct word.",
+      "items": [
+        {
+          "id": "c1",
+          "prompt": "Neither Alex ___ Gareth knew that I'd seen them take the money.",
+          "options": ["or", "nor"],
+          "acceptedAnswers": ["nor"]
+        },
+        {
+          "id": "c2",
+          "prompt": "I thought it was strange when both Ian ___ Anne left at the same time.",
+          "options": ["and", "or"],
+          "acceptedAnswers": ["and"]
+        },
+        {
+          "id": "c3",
+          "prompt": "We could order either a chicken salad ___ a green salad.",
+          "options": ["and", "or"],
+          "acceptedAnswers": ["or"]
+        },
+        {
+          "id": "c4",
+          "prompt": "Evi was neither embarrassed ___ angry when Victoria told her to shut up.",
+          "options": ["and", "nor"],
+          "acceptedAnswers": ["nor"]
+        },
+        {
+          "id": "c5",
+          "prompt": "Passengers can both watch recent movies ___ listen to great albums on many of our flights.",
+          "options": ["and", "or"],
+          "acceptedAnswers": ["and"]
+        },
+        {
+          "id": "c6",
+          "prompt": "I have neither the money ___ the time to go on holiday right now.",
+          "options": ["or", "nor"],
+          "acceptedAnswers": ["nor"]
+        }
+      ]
+    },
+    {
+      "id": "d",
+      "type": "rewrite",
+      "title": "D · neither ... nor",
+      "instruction": "Join the two sentences using neither ... nor.",
+      "items": [
+        {
+          "id": "d1",
+          "prompt": "Jim wasn't surprised by what I said. He wasn't shocked by what I said.\nJim ___ .",
+          "acceptedAnswers": [
+            "was neither surprised nor shocked by what I said",
+            "Jim was neither surprised nor shocked by what I said.",
+            "Jim was neither surprised nor shocked by what I said"
+          ]
+        },
+        {
+          "id": "d2",
+          "prompt": "Carol doesn't have a car. She also doesn't have a motorbike.\nCarol ___ .",
+          "acceptedAnswers": [
+            "has neither a car nor a motorbike",
+            "Carol has neither a car nor a motorbike.",
+            "Carol has neither a car nor a motorbike",
+            "Carol neither has a car nor a motorbike."
+          ]
+        },
+        {
+          "id": "d3",
+          "prompt": "Al doesn't play tennis. He doesn't watch it on TV.\nAl ___ .",
+          "acceptedAnswers": [
+            "neither plays tennis nor watches it on TV",
+            "Al neither plays tennis nor watches it on TV.",
+            "Al neither plays tennis nor watches it on TV"
+          ]
+        },
+        {
+          "id": "d4",
+          "prompt": "The manager wasn't very helpful. The receptionist wasn't very helpful.\nNeither ___ .",
+          "acceptedAnswers": [
+            "the manager nor the receptionist was very helpful",
+            "Neither the manager nor the receptionist was very helpful.",
+            "Neither the manager nor the receptionist were very helpful.",
+            "Neither the manager nor the receptionist was very helpful"
+          ]
+        },
+        {
+          "id": "d5",
+          "prompt": "Pauline couldn't read until she was seven. She also couldn't write until she was seven.\nPauline ___ .",
+          "acceptedAnswers": [
+            "could neither read nor write until she was seven",
+            "Pauline could neither read nor write until she was seven.",
+            "Pauline could neither read nor write until she was seven"
+          ]
+        },
+        {
+          "id": "d6",
+          "prompt": "I haven't been to Poland before. Boris hasn't been to Poland before.\nNeither ___ .",
+          "acceptedAnswers": [
+            "I nor Boris has been to Poland before",
+            "Neither I nor Boris has been to Poland before.",
+            "Neither I nor Boris have been to Poland before.",
+            "Neither of us has been to Poland before.",
+            "Neither Boris nor I have been to Poland before."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e",
+      "type": "gap-fill",
+      "title": "E · Dialogue: so / nor",
+      "instruction": "Write one word in each gap.",
+      "items": [
+        {
+          "id": "e1",
+          "prompt": "June: … and so we went to see that new Tim Banks comedy last week.\nPolly: Oh, so (1) ___ we. What did you think? We weren't very impressed.",
+          "acceptedAnswers": ["did"]
+        },
+        {
+          "id": "e2",
+          "prompt": "June: (2) ___ were we. It wasn't very funny.",
+          "acceptedAnswers": ["Neither", "Nor"]
+        },
+        {
+          "id": "e3",
+          "prompt": "Polly: I didn't want to go, but Kevin likes that cinema. So (3) ___ I, actually. We've been there hundreds of times.",
+          "acceptedAnswers": ["do"]
+        },
+        {
+          "id": "e4",
+          "prompt": "June: The one in town? Oh, so (4) ___ we. The ice cream there is great.",
+          "acceptedAnswers": ["do"]
+        },
+        {
+          "id": "e5",
+          "prompt": "The ice cream there is great, and (5) ___ is the popcorn!",
+          "acceptedAnswers": ["so"]
+        },
+        {
+          "id": "e6",
+          "prompt": "Polly: Yes! So (6) ___ I! I don't like their drinks, though.",
+          "acceptedAnswers": ["could", "do"]
+        },
+        {
+          "id": "e7",
+          "prompt": "June: Oh, no. (7) ___ do I. Anyway, we're thinking of going to see what's on this evening.",
+          "acceptedAnswers": ["Neither", "Nor"]
+        },
+        {
+          "id": "e8",
+          "prompt": "Polly: (8) ___ are Jack and I. Let's meet up. I don't finish work until seven.",
+          "acceptedAnswers": ["So"]
+        },
+        {
+          "id": "e9",
+          "prompt": "June: (9) ___ do I. I'll see what's on and give you a ring. I'm looking forward to it already.",
+          "acceptedAnswers": ["Neither", "Nor"]
+        },
+        {
+          "id": "e10",
+          "prompt": "Polly: So (10) ___ I. Okay, speak to you later.",
+          "acceptedAnswers": ["am"]
+        }
+      ]
+    },
+    {
+      "id": "f",
+      "type": "guided-sentence",
+      "title": "F · Picture sentences",
+      "instruction": "Write what they say using the words given in the correct form. Add any other words you need.",
+      "items": [
+        {
+          "id": "f1",
+          "prompt": "two people jogging / both / enjoy / run",
+          "acceptedAnswers": [
+            "They both enjoy running.",
+            "They both enjoy running",
+            "Both of them enjoy running.",
+            "Both of them enjoy running"
+          ]
+        },
+        {
+          "id": "f2",
+          "prompt": "Italian or Chinese restaurant signs / have / either",
+          "acceptedAnswers": [
+            "We could have either Italian or Chinese.",
+            "We could have either Italian or Chinese",
+            "Let's have either Italian or Chinese.",
+            "We can have either Italian or Chinese food."
+          ]
+        },
+        {
+          "id": "f3",
+          "prompt": "two people looking unhappy at a meal / neither / like",
+          "acceptedAnswers": [
+            "Neither of them likes it.",
+            "Neither of them likes it",
+            "Neither of them like it.",
+            "They neither like it."
+          ]
+        },
+        {
+          "id": "f4",
+          "prompt": "a woman leaving work / she / go home / so / I",
+          "acceptedAnswers": [
+            "She's going home and so am I.",
+            "She's going home and so am I",
+            "She is going home and so am I."
+          ]
+        }
+      ]
+    }
+  ]
+}

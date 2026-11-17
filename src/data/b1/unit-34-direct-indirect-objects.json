@@ -1,0 +1,486 @@
+{
+  "id": "unit-34-direct-indirect-objects",
+  "level": "b1",
+  "unitNumber": 34,
+  "title": "Direct and indirect objects",
+  "subtitle": "Verbs with no object, one object, or two objects",
+  "theory": [
+    {
+      "id": "no-object",
+      "title": "Verbs without an object",
+      "icon": "BookOpen",
+      "blocks": [
+        {
+          "type": "prose",
+          "text": "Some verbs only need a subject. They don't need an object."
+        },
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "subject + verb",
+              "example": "The flowers **grew**. The dog **got up**."
+            }
+          ]
+        },
+        {
+          "type": "word-list",
+          "intro": "These verbs include:",
+          "words": [
+            "fall down",
+            "get up",
+            "grow",
+            "happen",
+            "laugh",
+            "run away",
+            "sit down",
+            "sleep",
+            "speak",
+            "stand up",
+            "walk",
+            "work"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "one-object",
+      "title": "Verbs with one object",
+      "icon": "Sparkles",
+      "blocks": [
+        {
+          "type": "prose",
+          "text": "Many verbs can be followed by an object."
+        },
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "subject + verb + object",
+              "example": "We picked up **the rubbish**. I've planted **a tree**."
+            }
+          ]
+        },
+        {
+          "type": "word-list",
+          "intro": "These verbs include:",
+          "words": [
+            "borrow",
+            "close",
+            "draw",
+            "drink",
+            "drive",
+            "eat",
+            "have",
+            "invite",
+            "open",
+            "paint",
+            "pick up",
+            "plant"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "two-objects",
+      "title": "Verbs with two objects",
+      "icon": "Table2",
+      "blocks": [
+        {
+          "type": "prose",
+          "text": "Some verbs can be followed by two objects. One is the **direct object** and the other is the **indirect object**. The indirect object is usually a person. In **Simon gave Jill some flowers**, **some flowers** is the direct object and **Jill** is the indirect object."
+        },
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "subject + verb + indirect object + direct object",
+              "example": "Simon gave **Jill** some flowers."
+            },
+            {
+              "use": "subject + verb + direct object + preposition + indirect object",
+              "example": "Simon gave some flowers **to Jill**."
+            }
+          ]
+        },
+        {
+          "type": "word-list",
+          "intro": "These verbs include:",
+          "words": [
+            "bring",
+            "buy",
+            "cost",
+            "get",
+            "give",
+            "lend",
+            "make",
+            "offer",
+            "owe",
+            "pass",
+            "pay",
+            "read",
+            "send",
+            "show",
+            "sing",
+            "take",
+            "teach",
+            "tell",
+            "throw",
+            "write"
+          ]
+        },
+        {
+          "type": "hints",
+          "intro": "There are two prepositions which often go between the direct object and the indirect object: **to** and **for**.",
+          "items": [
+            "I bought an umbrella **for** George.",
+            "I gave the umbrella **to** George."
+          ]
+        },
+        {
+          "type": "hints",
+          "intro": "Some of the verbs above can also be used in the passive.",
+          "items": [
+            "Jill **was given** some flowers.",
+            "Some flowers **were given** to Jill."
+          ]
+        },
+        {
+          "type": "watch-out",
+          "text": "We don't use a preposition if the indirect object comes before the direct object."
+        },
+        {
+          "type": "correct-incorrect",
+          "correct": "Simon **gave Jill** some flowers.",
+          "incorrect": "Simon **gave to Jill** some flowers."
+        }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "a",
+      "type": "multiple-choice",
+      "title": "A · Match the objects",
+      "instruction": "Choose the phrase that completes each sentence. If the verb cannot take an object, choose X.",
+      "items": [
+        {
+          "id": "a1",
+          "prompt": "I've never driven",
+          "options": ["the window!", "some money.", "a lovely picture.", "a tractor.", "lots of people?", "a party on Saturday.", "X (no object)"],
+          "acceptedAnswers": ["a tractor."]
+        },
+        {
+          "id": "a2",
+          "prompt": "We're going to have",
+          "options": ["the window!", "some money.", "a lovely picture.", "a tractor.", "lots of people?", "a party on Saturday.", "X (no object)"],
+          "acceptedAnswers": ["a party on Saturday."]
+        },
+        {
+          "id": "a3",
+          "prompt": "Don't close",
+          "options": ["the window!", "some money.", "a lovely picture.", "a tractor.", "lots of people?", "a party on Saturday.", "X (no object)"],
+          "acceptedAnswers": ["the window!"]
+        },
+        {
+          "id": "a4",
+          "prompt": "Have you invited",
+          "options": ["the window!", "some money.", "a lovely picture.", "a tractor.", "lots of people?", "a party on Saturday.", "X (no object)"],
+          "acceptedAnswers": ["lots of people?"]
+        },
+        {
+          "id": "a5",
+          "prompt": "Our rabbit has run away",
+          "options": ["the window!", "some money.", "a lovely picture.", "a tractor.", "lots of people?", "a party on Saturday.", "X (no object)"],
+          "acceptedAnswers": ["X (no object)"]
+        },
+        {
+          "id": "a6",
+          "prompt": "Of course you can borrow",
+          "options": ["the window!", "some money.", "a lovely picture.", "a tractor.", "lots of people?", "a party on Saturday.", "X (no object)"],
+          "acceptedAnswers": ["some money."]
+        },
+        {
+          "id": "a7",
+          "prompt": "Clare has drawn",
+          "options": ["the window!", "some money.", "a lovely picture.", "a tractor.", "lots of people?", "a party on Saturday.", "X (no object)"],
+          "acceptedAnswers": ["a lovely picture."]
+        },
+        {
+          "id": "a8",
+          "prompt": "I think I'll sit down",
+          "options": ["the window!", "some money.", "a lovely picture.", "a tractor.", "lots of people?", "a party on Saturday.", "X (no object)"],
+          "acceptedAnswers": ["X (no object)"]
+        }
+      ]
+    },
+    {
+      "id": "b",
+      "type": "rewrite",
+      "title": "B · Extra word",
+      "instruction": "Write the extra word in each sentence.",
+      "items": [
+        {
+          "id": "b1",
+          "prompt": "My mum often **makes for** the old lady who lives next door some soup.",
+          "acceptedAnswers": ["for"]
+        },
+        {
+          "id": "b2",
+          "prompt": "I won't **tell to** anyone your secret.",
+          "acceptedAnswers": ["to"]
+        },
+        {
+          "id": "b3",
+          "prompt": "**Sing to** us a song!",
+          "acceptedAnswers": ["to"]
+        },
+        {
+          "id": "b4",
+          "prompt": "Could you **bring for** me some crisps when you come?",
+          "acceptedAnswers": ["for"]
+        },
+        {
+          "id": "b5",
+          "prompt": "I think I'll **buy for** Carl a computer game for his birthday.",
+          "acceptedAnswers": ["for"]
+        },
+        {
+          "id": "b6",
+          "prompt": "That CD **cost to** me fifteen euros.",
+          "acceptedAnswers": ["to"]
+        },
+        {
+          "id": "b7",
+          "prompt": "Dan **showed to** me his autograph book.",
+          "acceptedAnswers": ["to"]
+        }
+      ]
+    },
+    {
+      "id": "c",
+      "type": "rewrite",
+      "title": "C · Direct object at the end",
+      "instruction": "Rewrite the sentences with the direct object at the end.",
+      "items": [
+        {
+          "id": "c1",
+          "prompt": "I owe ten euros to Danny.",
+          "acceptedAnswers": [
+            "I owe Danny ten euros.",
+            "I owe Danny ten euros"
+          ]
+        },
+        {
+          "id": "c2",
+          "prompt": "Susan hasn't bought a birthday present for her mum yet.",
+          "acceptedAnswers": [
+            "Susan hasn't bought her mum a birthday present yet.",
+            "Susan hasn't bought her mum a birthday present yet",
+            "Susan has not bought her mum a birthday present yet."
+          ]
+        },
+        {
+          "id": "c3",
+          "prompt": "You should show your new guitar to Mike.",
+          "acceptedAnswers": [
+            "You should show Mike your new guitar.",
+            "You should show Mike your new guitar"
+          ]
+        },
+        {
+          "id": "c4",
+          "prompt": "Did you give that CD to Liz?",
+          "acceptedAnswers": [
+            "Did you give Liz that CD?",
+            "Did you give Liz that CD"
+          ]
+        },
+        {
+          "id": "c5",
+          "prompt": "I'd like to teach English to young teenagers.",
+          "acceptedAnswers": [
+            "I'd like to teach young teenagers English.",
+            "I'd like to teach young teenagers English",
+            "I would like to teach young teenagers English."
+          ]
+        },
+        {
+          "id": "c6",
+          "prompt": "Are you going to write a letter to your grandparents?",
+          "acceptedAnswers": [
+            "Are you going to write your grandparents a letter?",
+            "Are you going to write your grandparents a letter"
+          ]
+        },
+        {
+          "id": "c7",
+          "prompt": "Could you take this magazine to your dad?",
+          "acceptedAnswers": [
+            "Could you take your dad this magazine?",
+            "Could you take your dad this magazine"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d",
+      "type": "rewrite",
+      "title": "D · Indirect object at the end",
+      "instruction": "Rewrite the sentences with the indirect object at the end.",
+      "items": [
+        {
+          "id": "d1",
+          "prompt": "I'm going to read the kids a story.",
+          "acceptedAnswers": [
+            "I'm going to read a story to the kids.",
+            "I'm going to read a story to the kids",
+            "I am going to read a story to the kids."
+          ]
+        },
+        {
+          "id": "d2",
+          "prompt": "Could you pass Ed the potatoes?",
+          "acceptedAnswers": [
+            "Could you pass the potatoes to Ed?",
+            "Could you pass the potatoes to Ed"
+          ]
+        },
+        {
+          "id": "d3",
+          "prompt": "Throw the dog that bone!",
+          "acceptedAnswers": [
+            "Throw that bone to the dog!",
+            "Throw that bone to the dog",
+            "Throw that bone to the dog."
+          ]
+        },
+        {
+          "id": "d4",
+          "prompt": "Why are you sending Aunty June those clothes?",
+          "acceptedAnswers": [
+            "Why are you sending those clothes to Aunty June?",
+            "Why are you sending those clothes to Aunty June"
+          ]
+        },
+        {
+          "id": "d5",
+          "prompt": "Steve sang us his new song.",
+          "acceptedAnswers": [
+            "Steve sang his new song to us.",
+            "Steve sang his new song to us"
+          ]
+        },
+        {
+          "id": "d6",
+          "prompt": "I'll lend Doug the money.",
+          "acceptedAnswers": [
+            "I'll lend the money to Doug.",
+            "I'll lend the money to Doug",
+            "I will lend the money to Doug."
+          ]
+        },
+        {
+          "id": "d7",
+          "prompt": "I've never told my mum a lie.",
+          "acceptedAnswers": [
+            "I've never told a lie to my mum.",
+            "I've never told a lie to my mum",
+            "I have never told a lie to my mum."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e",
+      "type": "gap-fill",
+      "title": "E · to, for or dash",
+      "instruction": "Write one word in each gap. If no word is necessary, put a dash (-).",
+      "items": [
+        {
+          "id": "e1",
+          "prompt": "My mum is going to write a letter ___ the editor.",
+          "acceptedAnswers": ["to"]
+        },
+        {
+          "id": "e2",
+          "prompt": "I paid the money ___ the shop assistant and then left.",
+          "acceptedAnswers": ["to"]
+        },
+        {
+          "id": "e3",
+          "prompt": "Let's get a birthday card ___ your dad.",
+          "acceptedAnswers": ["for"]
+        },
+        {
+          "id": "e4",
+          "prompt": "I'm not going to tell ___ you the answer!",
+          "acceptedAnswers": ["-"]
+        },
+        {
+          "id": "e5",
+          "prompt": "I've made some sandwiches ___ Jake.",
+          "acceptedAnswers": ["for"]
+        },
+        {
+          "id": "e6",
+          "prompt": "We'll bring ___ you that DVD tonight.",
+          "acceptedAnswers": ["-"]
+        },
+        {
+          "id": "e7",
+          "prompt": "Tony has bought a book ___ you.",
+          "acceptedAnswers": ["for"]
+        },
+        {
+          "id": "e8",
+          "prompt": "A prize was given ___ the best student.",
+          "acceptedAnswers": ["to"]
+        }
+      ]
+    },
+    {
+      "id": "f",
+      "type": "rewrite",
+      "title": "F · My new hobby",
+      "instruction": "If the line is correct, write a dash (-). If there is an extra word, write that word.",
+      "items": [
+        {
+          "id": "f1",
+          "prompt": "My aunt recently **bought for** him a new telescope for his birthday.",
+          "acceptedAnswers": ["for"]
+        },
+        {
+          "id": "f2",
+          "prompt": "so he gave his old one to me! It's a very good telescope.",
+          "acceptedAnswers": ["-", "correct", "✓"]
+        },
+        {
+          "id": "f3",
+          "prompt": "When he bought it, it **cost to** him over two hundred euros!",
+          "acceptedAnswers": ["to"]
+        },
+        {
+          "id": "f4",
+          "prompt": "Last weekend, he **taught to** me the basics.",
+          "acceptedAnswers": ["to"]
+        },
+        {
+          "id": "f5",
+          "prompt": "He showed me how to look through it, and **told to** me the names of all the planets.",
+          "acceptedAnswers": ["to"]
+        },
+        {
+          "id": "f6",
+          "prompt": "He said he'll **bring to** me a book with more information about the night sky next time he comes.",
+          "acceptedAnswers": ["to"]
+        },
+        {
+          "id": "f7",
+          "prompt": "Now astronomy is my hobby too. I think I'm going to enjoy it!",
+          "acceptedAnswers": ["-", "correct", "✓"]
+        }
+      ]
+    }
+  ]
+}

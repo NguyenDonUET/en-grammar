@@ -1,0 +1,489 @@
+{
+  "id": "unit-37-ing-infinitive",
+  "level": "b1",
+  "unitNumber": 37,
+  "title": "-ing and infinitive",
+  "subtitle": "Verbs followed by -ing, the full infinitive, or both",
+  "theory": [
+    {
+      "id": "ing",
+      "title": "-ing",
+      "icon": "BookOpen",
+      "blocks": [
+        {
+          "type": "prose",
+          "text": "Some verbs are sometimes followed by **-ing**: He enjoys **making** other people laugh."
+        },
+        {
+          "type": "word-list",
+          "intro": "These include:",
+          "words": [
+            "admit",
+            "avoid",
+            "deny",
+            "discuss",
+            "dislike",
+            "enjoy",
+            "feel like",
+            "finish",
+            "give up",
+            "mention",
+            "mind",
+            "practise",
+            "suggest",
+            "take up"
+          ]
+        },
+        {
+          "type": "hints",
+          "items": ["After a preposition, we usually use **-ing**. I'm afraid **of flying**."]
+        },
+        {
+          "type": "watch-out",
+          "text": "Some phrases end in the preposition **to**. These are also followed by **-ing**, not an infinitive."
+        },
+        {
+          "type": "correct-incorrect",
+          "correct": "I look forward **to hearing** from you.",
+          "incorrect": "I look forward **to hear** from you."
+        },
+        {
+          "type": "hints",
+          "items": ["We can also use the **-ing** form as the subject of a sentence. **Cooking** is great fun!"]
+        }
+      ]
+    },
+    {
+      "id": "infinitive",
+      "title": "Infinitive",
+      "icon": "Sparkles",
+      "blocks": [
+        {
+          "type": "prose",
+          "text": "Some verbs are sometimes followed by the full infinitive: I decided **to apologise** to Emma."
+        },
+        {
+          "type": "word-list",
+          "intro": "These include:",
+          "words": [
+            "afford",
+            "agree",
+            "choose",
+            "decide",
+            "expect",
+            "help",
+            "hope",
+            "learn",
+            "manage",
+            "offer",
+            "plan",
+            "pretend",
+            "promise",
+            "refuse",
+            "seem",
+            "want",
+            "would like",
+            "tell",
+            "teach"
+          ]
+        },
+        {
+          "type": "hints",
+          "intro": "Some verbs are followed by an object + bare infinitive (without **to**).",
+          "items": [
+            "These include: **let**, **make**.",
+            "Don't **let** the dog **sit** on the sofa.",
+            "She **made** us **wear** jackets."
+          ]
+        },
+        {
+          "type": "watch-out",
+          "text": "**Make** in the passive is followed by the full infinitive."
+        },
+        {
+          "type": "correct-incorrect",
+          "correct": "Michael **was made to apologise** by his mother.",
+          "incorrect": "Michael **was made apologise** by his mother."
+        },
+        {
+          "type": "hints",
+          "items": [
+            "Some verbs are followed by the full infinitive alone and some can be followed by an object + full infinitive.",
+            "He **wants me to tell** him a joke."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ing-or-infinitive",
+      "title": "-ing or infinitive",
+      "icon": "Lightbulb",
+      "blocks": [
+        {
+          "type": "prose",
+          "text": "Some verbs can be followed by either **-ing** or the full infinitive. I started **liking / to like** James after he helped me with my problem."
+        },
+        {
+          "type": "word-list",
+          "intro": "With these verbs, the meaning is the same or nearly the same:",
+          "words": ["begin", "continue", "hate", "like", "love", "prefer", "start"]
+        },
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "remember + -ing",
+              "example": "have a memory in your mind — Do you **remember seeing** that comedy?"
+            },
+            {
+              "use": "remember + full infinitive",
+              "example": "do something you are/were planning to do — Did you **remember to say** sorry to James?"
+            },
+            {
+              "use": "forget + -ing",
+              "example": "not be able to remember a past event — I'd **forgotten hearing** that joke."
+            },
+            {
+              "use": "forget + full infinitive",
+              "example": "not do something you are/were planning to do — Oh, no! I **forgot to invite** Shelly!"
+            },
+            {
+              "use": "stop + -ing",
+              "example": "stop an action — **Stop crying** — it's not that bad."
+            },
+            {
+              "use": "stop + full infinitive",
+              "example": "interrupt an action to do something else — I was on my way to see Maria and I **stopped to get** her some flowers."
+            },
+            {
+              "use": "try + -ing",
+              "example": "do something to try and solve a problem — Have you **tried talking** to her?"
+            },
+            {
+              "use": "try + full infinitive",
+              "example": "make an effort to do something — I'm **trying to say** I'm sorry, but you won't listen!"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "a",
+      "type": "multiple-choice",
+      "title": "A · Circle the form",
+      "instruction": "Choose the correct word or phrase.",
+      "items": [
+        {
+          "id": "a1",
+          "prompt": "My dad finally gave up ___ at the age of forty-nine.",
+          "options": ["smoking", "to smoke"],
+          "acceptedAnswers": ["smoking"]
+        },
+        {
+          "id": "a2",
+          "prompt": "I really enjoyed ___ to those MP3s you sent me. Thanks.",
+          "options": ["listening", "to listen"],
+          "acceptedAnswers": ["listening"]
+        },
+        {
+          "id": "a3",
+          "prompt": "Can you afford ___ so many presents?",
+          "options": ["buying", "to buy"],
+          "acceptedAnswers": ["to buy"]
+        },
+        {
+          "id": "a4",
+          "prompt": "You should practise ___ every day or you'll never learn.",
+          "options": ["juggling", "to juggle"],
+          "acceptedAnswers": ["juggling"]
+        },
+        {
+          "id": "a5",
+          "prompt": "How did you learn ___ Japanese so well?",
+          "options": ["speaking", "to speak"],
+          "acceptedAnswers": ["to speak"]
+        },
+        {
+          "id": "a6",
+          "prompt": "I thought we discussed ___ to India and now you want to go to China!",
+          "options": ["going", "to go"],
+          "acceptedAnswers": ["going"]
+        },
+        {
+          "id": "a7",
+          "prompt": "We finally managed ___ my passport and then left for the airport.",
+          "options": ["finding", "to find"],
+          "acceptedAnswers": ["to find"]
+        },
+        {
+          "id": "a8",
+          "prompt": "I look forward to ___ you when I come next week!",
+          "options": ["seeing", "see"],
+          "acceptedAnswers": ["seeing"]
+        },
+        {
+          "id": "a9",
+          "prompt": "It was very kind of Jack to offer ___ this weekend.",
+          "options": ["baby-sit", "to baby-sit", "baby-sitting"],
+          "acceptedAnswers": ["to baby-sit"]
+        },
+        {
+          "id": "a10",
+          "prompt": "No! I refuse ___ a moment longer!",
+          "options": ["waiting", "to wait"],
+          "acceptedAnswers": ["to wait"]
+        }
+      ]
+    },
+    {
+      "id": "b",
+      "type": "rewrite",
+      "title": "B · Tick or correct the verb",
+      "instruction": "If the verb in bold is correct, write it again. If it is wrong, write the correct form of the verb (-ing, full or bare infinitive).",
+      "items": [
+        {
+          "id": "b1",
+          "prompt": "I hope to start **driving** as soon as I'm seventeen.",
+          "acceptedAnswers": ["driving"]
+        },
+        {
+          "id": "b2",
+          "prompt": "Stop pretending **being** asleep. I saw you open your eyes!",
+          "acceptedAnswers": ["to be"]
+        },
+        {
+          "id": "b3",
+          "prompt": "My mum suggested **to go** bowling, but I didn't think that was a good idea.",
+          "acceptedAnswers": ["going"]
+        },
+        {
+          "id": "b4",
+          "prompt": "Quentin will do anything to avoid **to walk** to school. He's so lazy!",
+          "acceptedAnswers": ["walking"]
+        },
+        {
+          "id": "b5",
+          "prompt": "I'd really like **visiting** New York one day.",
+          "acceptedAnswers": ["to visit"]
+        },
+        {
+          "id": "b6",
+          "prompt": "Do you like watching TV or do you prefer **play** computer games?",
+          "acceptedAnswers": ["playing", "to play"]
+        },
+        {
+          "id": "b7",
+          "prompt": "The weather seems **being** better. What about a picnic this weekend?",
+          "acceptedAnswers": ["to be"]
+        },
+        {
+          "id": "b8",
+          "prompt": "I expect **to be** home at nine o'clock, so have dinner without me.",
+          "acceptedAnswers": ["to be"]
+        },
+        {
+          "id": "b9",
+          "prompt": "Our head teacher makes us all **to wear** jackets — even in summer!",
+          "acceptedAnswers": ["wear"]
+        },
+        {
+          "id": "b10",
+          "prompt": "Don't let the dog **sitting** on the sofa!",
+          "acceptedAnswers": ["sit"]
+        }
+      ]
+    },
+    {
+      "id": "c",
+      "type": "multiple-choice",
+      "title": "C · Choose the correct answer",
+      "instruction": "Choose the correct answer.",
+      "items": [
+        {
+          "id": "c1",
+          "prompt": "He tried to deny ___ the money, but no one believed him.",
+          "options": ["take", "to take", "taking"],
+          "acceptedAnswers": ["taking"]
+        },
+        {
+          "id": "c2",
+          "prompt": "I hope ___ a pilot when I grow up.",
+          "options": ["become", "to become", "becoming"],
+          "acceptedAnswers": ["to become"]
+        },
+        {
+          "id": "c3",
+          "prompt": "Mr Foster has decided ___ , so we're going to have a party.",
+          "options": ["retire", "to retire", "retiring"],
+          "acceptedAnswers": ["to retire"]
+        },
+        {
+          "id": "c4",
+          "prompt": "Do you remember ___ to Germany when you were two years old?",
+          "options": ["go", "to go", "going"],
+          "acceptedAnswers": ["going"]
+        },
+        {
+          "id": "c5",
+          "prompt": "You can make the dog ___ to you by shouting 'come'.",
+          "options": ["come", "to come", "coming"],
+          "acceptedAnswers": ["come"]
+        },
+        {
+          "id": "c6",
+          "prompt": "There's no answer at the office. Let's try ___ Roger's mobile.",
+          "options": ["call", "to call", "calling"],
+          "acceptedAnswers": ["calling"]
+        }
+      ]
+    },
+    {
+      "id": "d",
+      "type": "rewrite",
+      "title": "D · Similar meaning",
+      "instruction": "Complete each second sentence using the word given, so that it has a similar meaning to the first sentence. Write between two and five words.",
+      "items": [
+        {
+          "id": "d1",
+          "prompt": "They finally succeeded in escaping from the room. **managed**\nThey finally ___ from the room.",
+          "acceptedAnswers": [
+            "managed to escape",
+            "They finally managed to escape from the room.",
+            "They finally managed to escape from the room"
+          ]
+        },
+        {
+          "id": "d2",
+          "prompt": "I bought a new notebook on the way to school. **stopped**\nOn the way to school, I ___ a new notebook.",
+          "acceptedAnswers": [
+            "stopped to buy",
+            "On the way to school, I stopped to buy a new notebook.",
+            "On the way to school, I stopped to buy a new notebook"
+          ]
+        },
+        {
+          "id": "d3",
+          "prompt": "We're staying in Milan for a night before flying home. **planning**\nWe ___ in Milan for a night before flying home.",
+          "acceptedAnswers": [
+            "are planning to stay",
+            "'re planning to stay",
+            "We are planning to stay in Milan for a night before flying home."
+          ]
+        },
+        {
+          "id": "d4",
+          "prompt": "I don't want to cook tonight — let's have a takeaway. **feel**\nI don't ___ tonight — let's have a takeaway.",
+          "acceptedAnswers": [
+            "feel like cooking",
+            "I don't feel like cooking tonight — let's have a takeaway.",
+            "I don't feel like cooking tonight — let's have a takeaway"
+          ]
+        },
+        {
+          "id": "d5",
+          "prompt": "I'm going to get annoyed if you don't stop making that noise! **continue**\nIf you ___ that noise, I'm going to get annoyed!",
+          "acceptedAnswers": [
+            "continue making",
+            "continue to make",
+            "If you continue making that noise, I'm going to get annoyed!",
+            "If you continue to make that noise, I'm going to get annoyed!"
+          ]
+        },
+        {
+          "id": "d6",
+          "prompt": "Could you ask Francis to come into my office, please? **mind**\nDo you ___ Francis to come into my office, please?",
+          "acceptedAnswers": [
+            "mind asking",
+            "Do you mind asking Francis to come into my office, please?",
+            "Do you mind asking Francis to come into my office, please"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e",
+      "type": "gap-fill",
+      "title": "E · Picture verbs",
+      "instruction": "Complete using the correct form of the verbs in the box. Add any other words you need.",
+      "wordBank": ["ask", "be", "bring", "tidy", "turn", "win"],
+      "items": [
+        {
+          "id": "e1",
+          "prompt": "A student at an empty desk: Oh, no! I forgot ___ my homework!",
+          "acceptedAnswers": ["to do", "to bring", "to take"]
+        },
+        {
+          "id": "e2",
+          "prompt": "Looking at holiday photos: I remember ___ on holiday.",
+          "acceptedAnswers": ["being", "going"]
+        },
+        {
+          "id": "e3",
+          "prompt": "A messy bedroom: I tried ___ my room, but I couldn't find it!",
+          "acceptedAnswers": ["tidying", "to tidy"]
+        },
+        {
+          "id": "e4",
+          "prompt": "A car with the lights on: Did you remember ___ the tap off? (here: the lights / engine)",
+          "acceptedAnswers": ["to turn", "turning"]
+        },
+        {
+          "id": "e5",
+          "prompt": "Lottery winners: I'll never forget ___ the lottery.",
+          "acceptedAnswers": ["winning"]
+        },
+        {
+          "id": "e6",
+          "prompt": "A woman in a huge hat: Try ___ her to take it off!",
+          "acceptedAnswers": ["asking", "to get", "to ask"]
+        }
+      ]
+    },
+    {
+      "id": "f",
+      "type": "multiple-choice",
+      "title": "F · Laughter is the best medicine!",
+      "instruction": "Choose the correct word or phrase.",
+      "items": [
+        {
+          "id": "f1",
+          "prompt": "The next time you're feeling ill, try (1) ___ a comedy instead of just doing nothing.",
+          "options": ["watching", "to watch"],
+          "acceptedAnswers": ["watching"]
+        },
+        {
+          "id": "f2",
+          "prompt": "At least, that's what some doctors suggest (2) ___ .",
+          "options": ["doing", "to do"],
+          "acceptedAnswers": ["doing"]
+        },
+        {
+          "id": "f3",
+          "prompt": "If you want (3) ___ better, there's nothing like laughter.",
+          "options": ["getting", "to get"],
+          "acceptedAnswers": ["to get"]
+        },
+        {
+          "id": "f4",
+          "prompt": "First of all, an activity you enjoy (4) ___ takes your mind off your illness.",
+          "options": ["doing", "to do"],
+          "acceptedAnswers": ["doing"]
+        },
+        {
+          "id": "f5",
+          "prompt": "Time seems (5) ___ more quickly and you stop (6) about how you feel.",
+          "options": ["passing", "to pass"],
+          "acceptedAnswers": ["to pass"]
+        },
+        {
+          "id": "f6",
+          "prompt": "… and you stop (6) ___ about how you feel.",
+          "options": ["worrying", "to worry"],
+          "acceptedAnswers": ["worrying"]
+        }
+      ]
+    }
+  ]
+}

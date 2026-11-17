@@ -1,0 +1,428 @@
+{
+  "id": "unit-25-so-such-too-enough",
+  "level": "b1",
+  "unitNumber": 25,
+  "title": "So and such, too and enough",
+  "subtitle": "so/such ... that, and talking about more or less than is needed",
+  "theory": [
+    {
+      "id": "so-such",
+      "title": "so and such",
+      "icon": "BookOpen",
+      "blocks": [
+        {
+          "type": "prose",
+          "text": "Both **so ... that** and **such ... that** are used to show the results of a situation or action."
+        },
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "with an adjective: so + adjective + that",
+              "example": "Al is **so good that** he was made manager."
+            },
+            {
+              "use": "with a noun: so + many/much + noun + that",
+              "example": "Al sells **so many cars that** he was made manager."
+            },
+            {
+              "use": "such + a/an + adjective + noun + that",
+              "example": "Al is **such a good worker that** he was made manager."
+            },
+            {
+              "use": "such + adjective + plural noun + that",
+              "example": "Al gets **such good results that** he was made manager."
+            },
+            {
+              "use": "such + a lot of + noun + that",
+              "example": "Al makes **such a lot of money for the company that** he was made manager."
+            },
+            {
+              "use": "with an adverb: so + adverb + that",
+              "example": "Al works **so well that** he was made manager."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "too-enough",
+      "title": "too and enough",
+      "icon": "Sparkles",
+      "blocks": [
+        {
+          "type": "prose",
+          "text": "Both **too** and **enough** are used to talk about how much or how little of something there is. We use **too** to describe the negative effect of having more than necessary. We use **enough** to describe the effects of having/not having the right amount of something."
+        },
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "with an adjective: too + adjective (+ full infinitive)",
+              "example": "It's **too cold** to work in the garden."
+            },
+            {
+              "use": "adjective + enough (+ full infinitive)",
+              "example": "Carol isn't **patient enough** to work as a teacher."
+            },
+            {
+              "use": "with a noun: too + many/much + noun (+ full infinitive)",
+              "example": "Jonty works **too many hours** to have any hobbies."
+            },
+            {
+              "use": "enough + noun (+ full infinitive)",
+              "example": "We don't have **enough money** to pay our bills."
+            },
+            {
+              "use": "with an adverb: too + adverb (+ full infinitive)",
+              "example": "I got there **too late** to see the manager."
+            },
+            {
+              "use": "adverb + enough (+ full infinitive)",
+              "example": "Jack did the work **quickly enough** to finish half an hour early."
+            }
+          ]
+        },
+        {
+          "type": "watch-out",
+          "text": "**Too** does not mean the same as **very**. We only use **too** when we are describing something negative."
+        },
+        {
+          "type": "correct-incorrect",
+          "correct": "I've got **too much** work. I can't come out tonight.",
+          "incorrect": "This job is great because you get paid **too much** money."
+        },
+        {
+          "type": "hints",
+          "intro": "**Enough** always comes after the adjective.",
+          "items": [
+            "You're not **old enough** to work here.",
+            "You're not **enough old** to work here. ✗"
+          ]
+        },
+        {
+          "type": "hints",
+          "intro": "Both **too** and **enough** can be followed by **for**.",
+          "items": [
+            "It's too hot **for me** in this office.",
+            "You're not old enough **for** the army."
+          ]
+        }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "a",
+      "type": "gap-fill",
+      "title": "A · so or such",
+      "instruction": "Complete using so or such.",
+      "items": [
+        {
+          "id": "a1",
+          "prompt": "The pan was ___ hot that I nearly dropped it!",
+          "acceptedAnswers": ["so"]
+        },
+        {
+          "id": "a2",
+          "prompt": "Mr Jones was ___ a kind man that I was sad when he moved to another town.",
+          "acceptedAnswers": ["such"]
+        },
+        {
+          "id": "a3",
+          "prompt": "We have ___ many pets that sometimes it's really noisy!",
+          "acceptedAnswers": ["so"]
+        },
+        {
+          "id": "a4",
+          "prompt": "Alicia is ___ good at basketball that I think she could be a professional.",
+          "acceptedAnswers": ["so"]
+        },
+        {
+          "id": "a5",
+          "prompt": "There was ___ a lot of smoke that I couldn't see.",
+          "acceptedAnswers": ["such"]
+        },
+        {
+          "id": "a6",
+          "prompt": "Tyrone ran ___ fast that no one had a chance in the race.",
+          "acceptedAnswers": ["so"]
+        },
+        {
+          "id": "a7",
+          "prompt": "Cherie is ___ popular that everyone wants to be friends with her.",
+          "acceptedAnswers": ["so"]
+        },
+        {
+          "id": "a8",
+          "prompt": "Would you like to have ___ long hair that you can sit on it?",
+          "acceptedAnswers": ["such"]
+        }
+      ]
+    },
+    {
+      "id": "b",
+      "type": "rewrite",
+      "title": "B · Tick or correct",
+      "instruction": "If the phrase in bold is correct, write the same phrase. If it is wrong, write the correct phrase.",
+      "items": [
+        {
+          "id": "b1",
+          "prompt": "Paris Hilton is **such famous** that she gets recognised wherever she goes.",
+          "acceptedAnswers": ["so famous"]
+        },
+        {
+          "id": "b2",
+          "prompt": "There were **so many customers in the shop that** I couldn't move!",
+          "acceptedAnswers": ["so many customers in the shop that"]
+        },
+        {
+          "id": "b3",
+          "prompt": "The man spoke **such quickly** that I couldn't understand a word he said.",
+          "acceptedAnswers": ["so quickly"]
+        },
+        {
+          "id": "b4",
+          "prompt": "I had **so good marks** that my dad bought me a new computer!",
+          "acceptedAnswers": ["such good marks", "such good marks that"]
+        },
+        {
+          "id": "b5",
+          "prompt": "Victoria is **so old that** she can remember seeing a car for the first time.",
+          "acceptedAnswers": ["so old that"]
+        },
+        {
+          "id": "b6",
+          "prompt": "There was **so a long queue** that we decided to go home.",
+          "acceptedAnswers": ["such a long queue", "such a long queue that"]
+        },
+        {
+          "id": "b7",
+          "prompt": "I've got **so a lot of friends** that I don't have time to see them all.",
+          "acceptedAnswers": ["such a lot of friends", "such a lot of friends that"]
+        },
+        {
+          "id": "b8",
+          "prompt": "Big Brother was **such successful** that they're making another series.",
+          "acceptedAnswers": ["so successful"]
+        }
+      ]
+    },
+    {
+      "id": "c",
+      "type": "rewrite",
+      "title": "C · Similar meaning",
+      "instruction": "Complete each second sentence using the word given, so that it has a similar meaning to the first sentence. Write between two and five words.",
+      "items": [
+        {
+          "id": "c1",
+          "prompt": "I have a lot of money and I don't know what to do with it. **such**\nI have ___ that I don't know what to do with it.",
+          "acceptedAnswers": [
+            "such a lot of money",
+            "such a lot of money that I don't know what to do with it.",
+            "such a lot of money that I don't know what to do with it"
+          ]
+        },
+        {
+          "id": "c2",
+          "prompt": "Adrian fell asleep during the film because he was very tired. **so**\nAdrian ___ he fell asleep during the film.",
+          "acceptedAnswers": [
+            "was so tired that",
+            "was so tired",
+            "Adrian was so tired that he fell asleep during the film.",
+            "Adrian was so tired that he fell asleep during the film"
+          ]
+        },
+        {
+          "id": "c3",
+          "prompt": "Today was so hot that I didn't want to do anything. **such**\nToday was ___ that I didn't want to do anything.",
+          "acceptedAnswers": [
+            "such a hot day",
+            "Today was such a hot day that I didn't want to do anything.",
+            "Today was such a hot day that I didn't want to do anything"
+          ]
+        },
+        {
+          "id": "c4",
+          "prompt": "I didn't have time to open all my Christmas presents because I got so many! **such**\nI got ___ Christmas presents that I didn't have time to open them all!",
+          "acceptedAnswers": [
+            "such a lot of",
+            "such a lot of Christmas presents",
+            "I got such a lot of Christmas presents that I didn't have time to open them all!"
+          ]
+        },
+        {
+          "id": "c5",
+          "prompt": "They closed the funfair because it was very dangerous. **that**\nThe funfair ___ they closed it.",
+          "acceptedAnswers": [
+            "was so dangerous that",
+            "The funfair was so dangerous that they closed it.",
+            "The funfair was so dangerous that they closed it"
+          ]
+        },
+        {
+          "id": "c6",
+          "prompt": "The food was so spicy that I couldn't eat it. **such**\nWe had ___ that I couldn't eat it.",
+          "acceptedAnswers": [
+            "such spicy food",
+            "We had such spicy food that I couldn't eat it.",
+            "We had such spicy food that I couldn't eat it"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d",
+      "type": "multiple-choice",
+      "title": "D · too or enough",
+      "instruction": "Choose the correct word or phrase.",
+      "items": [
+        {
+          "id": "d1",
+          "prompt": "This soup is ___ to eat.",
+          "options": ["very salty", "too salty"],
+          "acceptedAnswers": ["too salty"]
+        },
+        {
+          "id": "d2",
+          "prompt": "If you run ___ , you might win the race.",
+          "options": ["too fast", "fast enough"],
+          "acceptedAnswers": ["fast enough"]
+        },
+        {
+          "id": "d3",
+          "prompt": "Don't drive ___ or you might have an accident.",
+          "options": ["too fast", "fast enough"],
+          "acceptedAnswers": ["too fast"]
+        },
+        {
+          "id": "d4",
+          "prompt": "Have we got ___ time or do we need more?",
+          "options": ["too much", "enough"],
+          "acceptedAnswers": ["enough"]
+        },
+        {
+          "id": "d5",
+          "prompt": "Do you think you're ___ to lift this heavy chair?",
+          "options": ["too strong", "strong enough"],
+          "acceptedAnswers": ["strong enough"]
+        },
+        {
+          "id": "d6",
+          "prompt": "There are ___ questions here! I can't do all of them in five minutes!",
+          "options": ["too many", "enough"],
+          "acceptedAnswers": ["too many"]
+        },
+        {
+          "id": "d7",
+          "prompt": "Are you ___ ? Shall I put the heating on?",
+          "options": ["enough warm", "warm enough"],
+          "acceptedAnswers": ["warm enough"]
+        },
+        {
+          "id": "d8",
+          "prompt": "This tea is ___ to drink. I'll wait for it to cool down.",
+          "options": ["too", "enough"],
+          "acceptedAnswers": ["too"]
+        }
+      ]
+    },
+    {
+      "id": "e",
+      "type": "gap-fill",
+      "title": "E · Combine the boxes",
+      "instruction": "Complete using a word from box A (enough, so, such, too) and a word or phrase from box B. You may use words from box A more than once.",
+      "wordBank": ["enough", "so", "such", "too", "a long time", "a lot of fun", "beautiful", "early", "hard", "hot", "many things", "sweets"],
+      "items": [
+        {
+          "id": "e1",
+          "prompt": "We were having ___ at the party that I didn't want to come home.",
+          "acceptedAnswers": ["such a lot of fun", "so much fun"]
+        },
+        {
+          "id": "e2",
+          "prompt": "I put ___ in the plastic bag and it broke.",
+          "acceptedAnswers": ["too many things", "so many things"]
+        },
+        {
+          "id": "e3",
+          "prompt": "We didn't have ___ for everyone to have one.",
+          "acceptedAnswers": ["enough sweets"]
+        },
+        {
+          "id": "e4",
+          "prompt": "Nancy is ___ that I think I'm falling in love with her.",
+          "acceptedAnswers": ["so beautiful"]
+        },
+        {
+          "id": "e5",
+          "prompt": "It's raining ___ to go out. Let's stay in and watch TV.",
+          "acceptedAnswers": ["too hard"]
+        },
+        {
+          "id": "e6",
+          "prompt": "When the milk is ___ , pour it into the cup and stir with a spoon.",
+          "acceptedAnswers": ["hot enough"]
+        },
+        {
+          "id": "e7",
+          "prompt": "We waited for ___ that I thought the bus was never going to come!",
+          "acceptedAnswers": ["such a long time", "so long"]
+        },
+        {
+          "id": "e8",
+          "prompt": "Stacy got to the theatre ___ that there was no one there.",
+          "acceptedAnswers": ["too early"]
+        }
+      ]
+    },
+    {
+      "id": "f",
+      "type": "gap-fill",
+      "title": "F · My first — and last! — day at work",
+      "instruction": "Write so, such, too or enough in each gap.",
+      "items": [
+        {
+          "id": "f1",
+          "prompt": "I'll never forget my first day at work. It was (1) ___ a disaster that I lost my job!",
+          "acceptedAnswers": ["such"]
+        },
+        {
+          "id": "f2",
+          "prompt": "The boss explained what I had to do, but she did it (2) ___ quickly that I didn't understand.",
+          "acceptedAnswers": ["so"]
+        },
+        {
+          "id": "f3",
+          "prompt": "I wasn't brave (3) ___ to ask her to repeat it, so I pretended I knew what to do.",
+          "acceptedAnswers": ["enough"]
+        },
+        {
+          "id": "f4",
+          "prompt": "It wasn't difficult at first — just putting numbers into a computer. Soon, though, I was (4) ___ busy that I started making more and more mistakes.",
+          "acceptedAnswers": ["so"]
+        },
+        {
+          "id": "f5",
+          "prompt": "I made (5) ___ a lot of mistakes that the other workers noticed.",
+          "acceptedAnswers": ["such"]
+        },
+        {
+          "id": "f6",
+          "prompt": "They tried to help me, but it was (6) ___ late.",
+          "acceptedAnswers": ["too"]
+        },
+        {
+          "id": "f7",
+          "prompt": "In the end, I just had (7) ___ much to do that I gave up.",
+          "acceptedAnswers": ["too", "so"]
+        },
+        {
+          "id": "f8",
+          "prompt": "I sat there and stared at my computer for two hours! The boss came back and she was (8) ___ shocked that she fired me immediately! My first day was also my last!",
+          "acceptedAnswers": ["so"]
+        }
+      ]
+    }
+  ]
+}

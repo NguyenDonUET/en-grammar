@@ -1,0 +1,348 @@
+{
+  "id": "unit-35-wish",
+  "level": "b1",
+  "unitNumber": 35,
+  "title": "wish",
+  "subtitle": "Wishes about now, the past, complaints, and ability",
+  "theory": [
+    {
+      "id": "wish",
+      "title": "wish",
+      "icon": "BookOpen",
+      "blocks": [
+        {
+          "type": "prose",
+          "text": "We use the verb **wish** to talk about situations which are not real, but which we would like to be real. We use **wish** with different tenses and modals depending on what we want to say."
+        },
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "Wishes about now or generally · wish + past simple",
+              "example": "Carl **wishes he had** a telescope. I **wish I wasn't** scared of spiders."
+            },
+            {
+              "use": "Wishes about the past · wish + past perfect simple",
+              "example": "Tracy **wishes she'd seen** that programme about the moon last night. I **wish they hadn't cut down** so many trees."
+            },
+            {
+              "use": "To criticise other people, or to complain · wish + would + bare infinitive",
+              "example": "I **wish people would throw** their litter in the bin and not on the ground! I **wish you wouldn't smoke** in here."
+            },
+            {
+              "use": "Wishes about ability and permission now or in the future · wish + could + bare infinitive",
+              "example": "I **wish I could travel** through time! David **wishes he could come** with us, but his parents won't let him."
+            }
+          ]
+        },
+        {
+          "type": "hints",
+          "intro": "When we use **wish** + past simple, we can say **I/he/she/it was ...** or **I/he/she/it were ...** . **Were** is more formal than **was**.",
+          "items": [
+            "I wish I **was** an astronaut. (more informal)",
+            "I wish I **were** an astronaut. (more formal)"
+          ]
+        },
+        {
+          "type": "hints",
+          "intro": "We can use the phrase **if only** in the same way as **wish**.",
+          "items": ["If only I **was/were** an astronaut."]
+        },
+        {
+          "type": "watch-out",
+          "text": "We don't use **would** for wishes about ourselves."
+        },
+        {
+          "type": "correct-incorrect",
+          "correct": "I wish I **lived** on Mars.",
+          "incorrect": "I wish I **would live** on Mars."
+        },
+        {
+          "type": "watch-out",
+          "text": "We use **wish** for situations that aren't real. If there is a possibility that something will happen in the future, we don't use **wish**, but we can use **hope**."
+        },
+        {
+          "type": "correct-incorrect",
+          "correct": "I **hope** it doesn't snow tomorrow.",
+          "incorrect": "I **wish** it doesn't snow tomorrow."
+        }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "a",
+      "type": "gap-fill",
+      "title": "A · Verb forms",
+      "instruction": "Complete using the correct form of the verbs in brackets.",
+      "items": [
+        {
+          "id": "a1",
+          "prompt": "I wish I ___ a million euros! I'd buy lots of great things. (have)",
+          "acceptedAnswers": ["had"]
+        },
+        {
+          "id": "a2",
+          "prompt": "I wish we ___ in a bigger house. This one is too small. (live)",
+          "acceptedAnswers": ["lived"]
+        },
+        {
+          "id": "a3",
+          "prompt": "Becca wishes she ___ old enough to drive a car. (be)",
+          "acceptedAnswers": ["was", "were"]
+        },
+        {
+          "id": "a4",
+          "prompt": "Do you wish you ___ more confident about the exam tomorrow? (feel)",
+          "acceptedAnswers": ["felt"]
+        },
+        {
+          "id": "a5",
+          "prompt": "I wish my computer ___ . I can't check my e-mail. (not / be / broken)",
+          "acceptedAnswers": ["wasn't broken", "weren't broken", "was not broken", "were not broken"]
+        },
+        {
+          "id": "a6",
+          "prompt": "I wish I ___ chocolate so much! I eat three bars a day! (not / like)",
+          "acceptedAnswers": ["didn't like", "did not like"]
+        },
+        {
+          "id": "a7",
+          "prompt": "Grant wishes he ___ so many mistakes all the time. (not / make)",
+          "acceptedAnswers": ["didn't make", "did not make"]
+        },
+        {
+          "id": "a8",
+          "prompt": "Look what they're wearing! I bet they wish they ___ so silly! (not / look)",
+          "acceptedAnswers": ["didn't look", "did not look"]
+        }
+      ]
+    },
+    {
+      "id": "b",
+      "type": "gap-fill",
+      "title": "B · Word box",
+      "instruction": "Complete using the correct form of the verbs in the box. You may have to use some negative forms.",
+      "wordBank": ["feel", "give", "have", "live", "spend", "wear"],
+      "items": [
+        {
+          "id": "b1",
+          "prompt": "I wish I ___ in the countryside. The city is so noisy!",
+          "acceptedAnswers": ["lived"]
+        },
+        {
+          "id": "b2",
+          "prompt": "Tracy has got curly hair but she often wishes she ___ straight hair.",
+          "acceptedAnswers": ["had"]
+        },
+        {
+          "id": "b3",
+          "prompt": "I wish our teachers ___ us less homework every day, but there's nothing I can do about it.",
+          "acceptedAnswers": ["gave", "would give"]
+        },
+        {
+          "id": "b4",
+          "prompt": "I wish I ___ so scared, but I do!",
+          "acceptedAnswers": ["didn't feel", "did not feel"]
+        },
+        {
+          "id": "b5",
+          "prompt": "Do you wish you ___ contact lenses or are you happy with glasses?",
+          "acceptedAnswers": ["wore"]
+        },
+        {
+          "id": "b6",
+          "prompt": "Jake's mum wishes he ___ so much money on clothes whenever he goes shopping.",
+          "acceptedAnswers": ["didn't spend", "did not spend", "wouldn't spend", "would not spend"]
+        }
+      ]
+    },
+    {
+      "id": "c",
+      "type": "gap-fill",
+      "title": "C · Picture wishes",
+      "instruction": "Look at the situations and complete the sentences.",
+      "items": [
+        {
+          "id": "c1",
+          "prompt": "Someone is looking at lottery results. I wish I ___ . (win)",
+          "acceptedAnswers": ["had won", "'d won"]
+        },
+        {
+          "id": "c2",
+          "prompt": "A teenager is in trouble. I wish I ___ to my mother. (listen)",
+          "acceptedAnswers": ["had listened", "'d listened"]
+        },
+        {
+          "id": "c3",
+          "prompt": "Friends are at a landmark without a camera. I wish we ___ a camera with us. (bring)",
+          "acceptedAnswers": ["had brought", "'d brought"]
+        },
+        {
+          "id": "c4",
+          "prompt": "A student is stuck on a test. I wish I ___ a bit harder for this test. (study)",
+          "acceptedAnswers": ["had studied", "'d studied"]
+        },
+        {
+          "id": "c5",
+          "prompt": "Someone has a huge phone bill. I wish I ___ so many phone calls last month! (not / make)",
+          "acceptedAnswers": ["hadn't made", "had not made"]
+        },
+        {
+          "id": "c6",
+          "prompt": "Someone else got the job. I wish he ___ me! (choose)",
+          "acceptedAnswers": ["had chosen", "'d chosen"]
+        }
+      ]
+    },
+    {
+      "id": "d",
+      "type": "rewrite",
+      "title": "D · Correct the bold words",
+      "instruction": "The words in bold in each sentence are wrong. Write the correct word or phrase.",
+      "items": [
+        {
+          "id": "d1",
+          "prompt": "I wish I **can** speak German, but I never learnt it at school.",
+          "acceptedAnswers": ["could"]
+        },
+        {
+          "id": "d2",
+          "prompt": "I wish you **will** put your toys away! It's not difficult!",
+          "acceptedAnswers": ["would"]
+        },
+        {
+          "id": "d3",
+          "prompt": "Do you sometimes wish you **can** fly?",
+          "acceptedAnswers": ["could"]
+        },
+        {
+          "id": "d4",
+          "prompt": "I wish you **won't** lie to me all the time!",
+          "acceptedAnswers": ["wouldn't", "would not"]
+        },
+        {
+          "id": "d5",
+          "prompt": "I wish the neighbours **won't** make so much noise.",
+          "acceptedAnswers": ["wouldn't", "would not"]
+        },
+        {
+          "id": "d6",
+          "prompt": "If only she **will** ask me to go to the disco with her!",
+          "acceptedAnswers": ["would"]
+        },
+        {
+          "id": "d7",
+          "prompt": "If only you **can** come with us!",
+          "acceptedAnswers": ["could"]
+        }
+      ]
+    },
+    {
+      "id": "e",
+      "type": "multiple-choice",
+      "title": "E · Choose the correct answer",
+      "instruction": "Choose the correct answer.",
+      "items": [
+        {
+          "id": "e1",
+          "prompt": "I wish I ___ an MP3 player.",
+          "options": ["have", "had", "would have"],
+          "acceptedAnswers": ["had"]
+        },
+        {
+          "id": "e2",
+          "prompt": "We all wish Tim ___ with the housework.",
+          "options": ["helps", "will help", "would help"],
+          "acceptedAnswers": ["would help"]
+        },
+        {
+          "id": "e3",
+          "prompt": "I wish I ___ to buy a lottery ticket last night.",
+          "options": ["remember", "remembered", "had remembered"],
+          "acceptedAnswers": ["had remembered"]
+        },
+        {
+          "id": "e4",
+          "prompt": "I wish you ___ live so far away.",
+          "options": ["don't", "didn't", "won't"],
+          "acceptedAnswers": ["didn't"]
+        },
+        {
+          "id": "e5",
+          "prompt": "I wish they ___ keep changing the time of this programme.",
+          "options": ["couldn't", "wouldn't", "don't"],
+          "acceptedAnswers": ["wouldn't"]
+        },
+        {
+          "id": "e6",
+          "prompt": "Do you wish you ___ to help Michael in the shop last weekend?",
+          "options": ["hadn't offered", "didn't offer", "haven't offered"],
+          "acceptedAnswers": ["hadn't offered"]
+        }
+      ]
+    },
+    {
+      "id": "f",
+      "type": "multiple-choice",
+      "title": "F · 26th April 3500",
+      "instruction": "Choose the correct word or phrase.",
+      "items": [
+        {
+          "id": "f1",
+          "prompt": "I wish today (1) ___ never happened!",
+          "options": ["has", "had"],
+          "acceptedAnswers": ["had"]
+        },
+        {
+          "id": "f2",
+          "prompt": "If only I (2) ___ start the day again, I'd do everything differently.",
+          "options": ["could", "would"],
+          "acceptedAnswers": ["could"]
+        },
+        {
+          "id": "f3",
+          "prompt": "Why did I forget to set the alarm last night? I really wish I (3) ___ done that!",
+          "options": ["haven't", "hadn't"],
+          "acceptedAnswers": ["hadn't"]
+        },
+        {
+          "id": "f4",
+          "prompt": "I also wish I (4) ___ nearer the Earth. It takes such a long time to get there from Mars — especially when the traffic is bad.",
+          "options": ["live", "lived"],
+          "acceptedAnswers": ["lived"]
+        },
+        {
+          "id": "f5",
+          "prompt": "(5) ___ I (6) a faster spaceship. Choose the first word.",
+          "options": ["If only", "Only if"],
+          "acceptedAnswers": ["If only"]
+        },
+        {
+          "id": "f6",
+          "prompt": "If only I (6) ___ a faster spaceship.",
+          "options": ["have", "had"],
+          "acceptedAnswers": ["had"]
+        },
+        {
+          "id": "f7",
+          "prompt": "Oh, I wish I (7) ___ that. Why am I so stupid?",
+          "options": ["didn't say", "hadn't said"],
+          "acceptedAnswers": ["hadn't said"]
+        },
+        {
+          "id": "f8",
+          "prompt": "I (8) ___ now that I'd never applied for the job in the first place.",
+          "options": ["wish", "hope"],
+          "acceptedAnswers": ["wish"]
+        },
+        {
+          "id": "f9",
+          "prompt": "I'm sure I won't get the job. I just (9) ___ tomorrow is better than today was.",
+          "options": ["wish", "hope"],
+          "acceptedAnswers": ["hope"]
+        }
+      ]
+    }
+  ]
+}

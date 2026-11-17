@@ -17,7 +17,7 @@ export function Rewrite({ unitId, group, item, index }: Props) {
 
   return (
     <ItemShell index={index} checked={state.checked} correct={correct} onCheck={check}>
-      <p className="text-[0.975rem] leading-relaxed">
+      <p className="whitespace-pre-line text-[0.975rem] leading-relaxed">
         <RichText text={item.prompt} />
       </p>
       <Input

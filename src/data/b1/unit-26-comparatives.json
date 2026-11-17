@@ -1,0 +1,464 @@
+{
+  "id": "unit-26-comparatives",
+  "level": "b1",
+  "unitNumber": 26,
+  "title": "Comparatives and superlatives",
+  "subtitle": "Comparing two things, and picking one out of a group",
+  "theory": [
+    {
+      "id": "comparatives",
+      "title": "Comparatives",
+      "icon": "Table2",
+      "blocks": [
+        {
+          "type": "prose",
+          "text": "We use comparatives to compare things, people or actions that are different. The comparative form is often followed by **than**."
+        },
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "one syllable · hard → harder",
+              "example": "My new job is **more enjoyable** than my old one. I'd like you to get to the office **earlier** tomorrow."
+            },
+            {
+              "use": "one syllable ending in -e · late → later",
+              "example": "We arrived **later** than usual."
+            },
+            {
+              "use": "one syllable ending in vowel + consonant · big → bigger",
+              "example": "This bag is **bigger** than that one."
+            },
+            {
+              "use": "two syllables ending in -y · pretty → prettier",
+              "example": "Your garden looks **prettier** in spring."
+            },
+            {
+              "use": "two or more syllables · interesting → more/less interesting",
+              "example": "This book is **more interesting** than the film."
+            },
+            {
+              "use": "irregular adjectives / quantifiers",
+              "example": "good → **better** · bad → **worse** · far → **farther/further** · little → **less** · many/much → **more**"
+            },
+            {
+              "use": "regular adverbs",
+              "example": "carefully → **more/less carefully**"
+            },
+            {
+              "use": "irregular adverbs",
+              "example": "well → **better** · badly → **worse** · near → **nearer** · late → **later** · fast → **faster** · early → **earlier** · far → **farther/further**"
+            }
+          ]
+        },
+        {
+          "type": "hints",
+          "items": ["My working day is **longer than** it used to be."]
+        }
+      ]
+    },
+    {
+      "id": "superlatives",
+      "title": "Superlatives",
+      "icon": "Sparkles",
+      "blocks": [
+        {
+          "type": "prose",
+          "text": "We use superlatives to compare one member of a group of things, people or actions with the whole group. We usually use **the** before the superlative form."
+        },
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "one syllable · hard → hardest",
+              "example": "Out of all the jobs in the company, John's is **the hardest**. The person who does **best** will get a pay rise."
+            },
+            {
+              "use": "one syllable ending in -e · late → latest",
+              "example": "This is **the latest** train we can catch."
+            },
+            {
+              "use": "one syllable ending in vowel + consonant · big → biggest",
+              "example": "That's **the biggest** pizza I've ever seen."
+            },
+            {
+              "use": "two syllables ending in -y · pretty → prettiest",
+              "example": "Which is **the prettiest** village on the coast?"
+            },
+            {
+              "use": "two or more syllables · interesting → most/least interesting",
+              "example": "This is **the most interesting** talk of the day."
+            },
+            {
+              "use": "irregular adjectives / quantifiers",
+              "example": "good → **best** · bad → **worst** · far → **farthest/furthest** · little → **least** · many/much → **most**"
+            },
+            {
+              "use": "regular adverbs",
+              "example": "carefully → **most/least carefully**"
+            },
+            {
+              "use": "irregular adverbs",
+              "example": "well → **best** · badly → **worst** · near → **nearest** · late → **latest** · fast → **fastest** · early → **earliest** · far → **farthest/furthest**"
+            }
+          ]
+        },
+        {
+          "type": "hints",
+          "items": ["Today was **the worst** day since I started working there."]
+        }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "a",
+      "type": "gap-fill",
+      "title": "A · Comparative form",
+      "instruction": "Complete using the comparative form of the words in brackets.",
+      "items": [
+        {
+          "id": "a1",
+          "prompt": "Wait! Your bicycle is ___ than mine! (fast)",
+          "acceptedAnswers": ["faster"]
+        },
+        {
+          "id": "a2",
+          "prompt": "Phew! It's much ___ than it was yesterday, isn't it? (hot)",
+          "acceptedAnswers": ["hotter"]
+        },
+        {
+          "id": "a3",
+          "prompt": "I think you look ___ when you wear your hair up. (pretty)",
+          "acceptedAnswers": ["prettier"]
+        },
+        {
+          "id": "a4",
+          "prompt": "The price of batteries has gone up. They're a lot ___ than last time. (expensive)",
+          "acceptedAnswers": ["more expensive"]
+        },
+        {
+          "id": "a5",
+          "prompt": "Angus hasn't been practising the piano and he's got a lot ___ . (bad)",
+          "acceptedAnswers": ["worse"]
+        },
+        {
+          "id": "a6",
+          "prompt": "His new film is much ___ than his last one. I loved that one! (entertaining)",
+          "acceptedAnswers": ["more entertaining", "less entertaining"]
+        },
+        {
+          "id": "a7",
+          "prompt": "Tell us another joke — but a ___ one this time! That one took forever! (short)",
+          "acceptedAnswers": ["shorter"]
+        },
+        {
+          "id": "a8",
+          "prompt": "I didn't win the lottery. Maybe I'll be ___ next time. (lucky)",
+          "acceptedAnswers": ["luckier", "more lucky"]
+        },
+        {
+          "id": "a9",
+          "prompt": "The Russian athlete threw the discus ___ than all the others and won gold. (far)",
+          "acceptedAnswers": ["farther", "further"]
+        },
+        {
+          "id": "a10",
+          "prompt": "I think these biscuits are even ___ than the last ones you made! (nice)",
+          "acceptedAnswers": ["nicer"]
+        }
+      ]
+    },
+    {
+      "id": "b",
+      "type": "rewrite",
+      "title": "B · Correct the comparative",
+      "instruction": "The words in bold in each sentence are wrong. Write the correct word.",
+      "items": [
+        {
+          "id": "b1",
+          "prompt": "We lost the match because we played **badly** than the other team did.",
+          "acceptedAnswers": ["worse", "more badly"]
+        },
+        {
+          "id": "b2",
+          "prompt": "It rains a lot in England, so the countryside is a lot **green** than in Greece.",
+          "acceptedAnswers": ["greener"]
+        },
+        {
+          "id": "b3",
+          "prompt": "You gave Sarah a really small piece of cake — and you've given me even **little**!",
+          "acceptedAnswers": ["less", "smaller"]
+        },
+        {
+          "id": "b4",
+          "prompt": "I must have lost weight. These jeans seem **large** than they were before.",
+          "acceptedAnswers": ["larger", "bigger"]
+        },
+        {
+          "id": "b5",
+          "prompt": "I got to the party **early** than everyone else, so I had to wait.",
+          "acceptedAnswers": ["earlier"]
+        },
+        {
+          "id": "b6",
+          "prompt": "I hear her new CD is **good** than her last one. What do you think?",
+          "acceptedAnswers": ["better"]
+        },
+        {
+          "id": "b7",
+          "prompt": "Our cat seems to be getting **fat** every day — maybe she should go on a diet!",
+          "acceptedAnswers": ["fatter"]
+        },
+        {
+          "id": "b8",
+          "prompt": "I'm disappointed. I think you could have done a lot **well** on this test.",
+          "acceptedAnswers": ["better"]
+        }
+      ]
+    },
+    {
+      "id": "c",
+      "type": "rewrite",
+      "title": "C · Opposite comparatives",
+      "instruction": "Rewrite the sentences using the correct comparative form of the words in the box.",
+      "wordBank": ["bad", "beautiful", "confident", "fat", "happy", "near (to)", "short", "young"],
+      "items": [
+        {
+          "id": "c1",
+          "prompt": "Joshua is much taller than Alex.\nAlex is ___ .",
+          "acceptedAnswers": [
+            "much shorter than Joshua",
+            "shorter than Joshua",
+            "Alex is much shorter than Joshua.",
+            "Alex is much shorter than Joshua"
+          ]
+        },
+        {
+          "id": "c2",
+          "prompt": "Theresa is more confident than Amy.\nAmy is a lot ___ .",
+          "acceptedAnswers": [
+            "less confident than Theresa",
+            "Amy is a lot less confident than Theresa.",
+            "Amy is a lot less confident than Theresa"
+          ]
+        },
+        {
+          "id": "c3",
+          "prompt": "Your house is further from the school than mine.\nMy house is ___ .",
+          "acceptedAnswers": [
+            "nearer to the school than yours",
+            "nearer the school than yours",
+            "closer to the school than yours",
+            "My house is nearer to the school than yours.",
+            "My house is nearer to the school than yours"
+          ]
+        },
+        {
+          "id": "c4",
+          "prompt": "Jude is less happy than Andy about the decision.\nAndy is ___ .",
+          "acceptedAnswers": [
+            "happier than Jude about the decision",
+            "happier about the decision than Jude",
+            "Andy is happier than Jude about the decision.",
+            "Andy is happier than Jude about the decision"
+          ]
+        },
+        {
+          "id": "c5",
+          "prompt": "Bill is thinner than Simon.\nSimon is ___ .",
+          "acceptedAnswers": [
+            "fatter than Bill",
+            "Simon is fatter than Bill.",
+            "Simon is fatter than Bill"
+          ]
+        },
+        {
+          "id": "c6",
+          "prompt": "Terry is older than Sarah-Jane.\nSarah-Jane is ___ .",
+          "acceptedAnswers": [
+            "younger than Terry",
+            "Sarah-Jane is younger than Terry.",
+            "Sarah-Jane is younger than Terry"
+          ]
+        },
+        {
+          "id": "c7",
+          "prompt": "Patricia is better than her sister on the clarinet.\nPatricia's sister is ___ .",
+          "acceptedAnswers": [
+            "worse than Patricia on the clarinet",
+            "worse on the clarinet than Patricia",
+            "Patricia's sister is worse than Patricia on the clarinet.",
+            "Patricia's sister is worse than Patricia on the clarinet"
+          ]
+        },
+        {
+          "id": "c8",
+          "prompt": "The houses here are uglier than in my grandparents' village.\nThe houses in my grandparents' village are ___ .",
+          "acceptedAnswers": [
+            "more beautiful than here",
+            "more beautiful than the houses here",
+            "The houses in my grandparents' village are more beautiful than here.",
+            "The houses in my grandparents' village are more beautiful than here"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d",
+      "type": "gap-fill",
+      "title": "D · Superlatives",
+      "instruction": "Complete using the correct form of the words in the box.",
+      "wordBank": ["bad", "big", "far", "funny", "hard", "kind", "scary", "tasty"],
+      "items": [
+        {
+          "id": "d1",
+          "prompt": "This really is the ___ song I've ever heard! It's terrible!",
+          "acceptedAnswers": ["worst"]
+        },
+        {
+          "id": "d2",
+          "prompt": "Ivy is the ___ woman I know. She'll do anything for anybody.",
+          "acceptedAnswers": ["kindest"]
+        },
+        {
+          "id": "d3",
+          "prompt": "Listen! I promise you, this is the ___ joke ever! Well, a man goes into a shop …",
+          "acceptedAnswers": ["funniest"]
+        },
+        {
+          "id": "d4",
+          "prompt": "Mmm! This is the ___ soup you've made so far.",
+          "acceptedAnswers": ["tastiest"]
+        },
+        {
+          "id": "d5",
+          "prompt": "What's the ___ thing about English grammar for you?",
+          "acceptedAnswers": ["hardest"]
+        },
+        {
+          "id": "d6",
+          "prompt": "Ben appeared and he was carrying the ___ present I'd ever seen. It was huge!",
+          "acceptedAnswers": ["biggest"]
+        },
+        {
+          "id": "d7",
+          "prompt": "We had a competition to see who could swim the ___ .",
+          "acceptedAnswers": ["farthest", "furthest"]
+        },
+        {
+          "id": "d8",
+          "prompt": "Sandra told us the ___ ghost story she could, and it was really frightening!",
+          "acceptedAnswers": ["scariest"]
+        }
+      ]
+    },
+    {
+      "id": "e",
+      "type": "gap-fill",
+      "title": "E · Jobs compared",
+      "instruction": "Complete using the correct form of the words in brackets.",
+      "items": [
+        {
+          "id": "e1",
+          "prompt": "I think this is the (1) ___ job I've ever had. (bad)",
+          "acceptedAnswers": ["worst"]
+        },
+        {
+          "id": "e2",
+          "prompt": "My last job was much (2) ___ than this one. (good)",
+          "acceptedAnswers": ["better"]
+        },
+        {
+          "id": "e3",
+          "prompt": "I had a lot (3) ___ work there and my boss was really nice. (little)",
+          "acceptedAnswers": ["less"]
+        },
+        {
+          "id": "e4",
+          "prompt": "My boss here is the (4) ___ in the whole firm. (strict)",
+          "acceptedAnswers": ["strictest"]
+        },
+        {
+          "id": "e5",
+          "prompt": "The working day is (5) ___ than in my last job, too. (long)",
+          "acceptedAnswers": ["longer"]
+        },
+        {
+          "id": "e6",
+          "prompt": "The (6) ___ thing about it is that the office is closer to my house than the old one. (good)",
+          "acceptedAnswers": ["best", "only good"]
+        },
+        {
+          "id": "e7",
+          "prompt": "The office is (7) ___ to my house than the old one. (close)",
+          "acceptedAnswers": ["closer"]
+        },
+        {
+          "id": "e8",
+          "prompt": "At least now I get home (8) ___ than I used to. (early)",
+          "acceptedAnswers": ["earlier"]
+        }
+      ]
+    },
+    {
+      "id": "f",
+      "type": "gap-fill",
+      "title": "F · Picture comparisons",
+      "instruction": "Complete using the correct form of the words in the box.",
+      "wordBank": ["clean", "dirty", "fast", "old", "slowly", "young"],
+      "items": [
+        {
+          "id": "f1",
+          "prompt": "Tortoise: 'I walk (1) ___ than him.'",
+          "acceptedAnswers": ["more slowly", "slower"]
+        },
+        {
+          "id": "f2",
+          "prompt": "Tortoise: 'I walk the (2) ___ of all.'",
+          "acceptedAnswers": ["most slowly", "slowest"]
+        },
+        {
+          "id": "f3",
+          "prompt": "Statue of Liberty: 'I'm the (3) ___ pigeon.'",
+          "acceptedAnswers": ["dirtiest"]
+        },
+        {
+          "id": "f4",
+          "prompt": "Statue of Liberty: 'I'm (4) ___ than they are.'",
+          "acceptedAnswers": ["dirtier"]
+        },
+        {
+          "id": "f5",
+          "prompt": "Clean pigeon: 'I'm the (5) ___ pigeon.'",
+          "acceptedAnswers": ["cleanest"]
+        },
+        {
+          "id": "f6",
+          "prompt": "Boy in the lead: 'I ran (6) ___ of all.'",
+          "acceptedAnswers": ["the fastest", "fastest"]
+        },
+        {
+          "id": "f7",
+          "prompt": "Second boy: 'I ran (7) ___ than everyone except him.'",
+          "acceptedAnswers": ["faster"]
+        },
+        {
+          "id": "f8",
+          "prompt": "Second boy: 'They both ran (8) ___ than me.'",
+          "acceptedAnswers": ["faster"]
+        },
+        {
+          "id": "f9",
+          "prompt": "Grandparent: 'I'm the (9) ___ in the family.'",
+          "acceptedAnswers": ["oldest", "eldest"]
+        },
+        {
+          "id": "f10",
+          "prompt": "Baby: 'And I'm the (10) ___ .'",
+          "acceptedAnswers": ["youngest"]
+        }
+      ]
+    }
+  ]
+}
