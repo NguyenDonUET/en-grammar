@@ -1,0 +1,1074 @@
+{
+  "id": "unit-25-reporting",
+  "level": "c1-c2",
+  "unitNumber": 25,
+  "title": "Reporting",
+  "subtitle": "Reported speech, questions, commands and reporting verbs",
+  "theory": [
+    {
+      "id": "tense-changes",
+      "title": "Reported speech: tense changes",
+      "icon": "BookOpen",
+      "blocks": [
+        {
+          "type": "prose",
+          "text": "If the reporting verb is in the past (e.g. **said**), we usually have to change the tense of what the person actually said. The general rule is go back one tense but there are some exceptions. With **past perfect simple** and **continuous**, there is no tense change."
+        },
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "present simple → past simple",
+              "example": "Sam **doesn't play** hockey very often. → Fiona said that Sam **didn't play** hockey very often."
+            },
+            {
+              "use": "present continuous → past continuous",
+              "example": "**I'm winning!** → Carol shouted to us that she **was winning**."
+            },
+            {
+              "use": "present perfect simple → past perfect simple",
+              "example": "**I've never been given** a trophy before. → Paul said that he'd **never been given** a trophy before."
+            },
+            {
+              "use": "present perfect continuous → past perfect continuous",
+              "example": "**They've been playing** for four hours. → She told us that they'd **been playing** for four hours."
+            },
+            {
+              "use": "past simple → past perfect simple",
+              "example": "We **lost** the match. → Finally he told us that they **had lost** the match."
+            },
+            {
+              "use": "past continuous → past perfect continuous",
+              "example": "We **were winning** until half-time. → She said they **had been winning** until half-time."
+            }
+          ]
+        },
+        {
+          "type": "watch-out",
+          "text": "When something is still true, we can change tense but we don't have to.",
+          "note": "The article said that fishing **is/was** the most popular sport in Britain."
+        },
+        {
+          "type": "watch-out",
+          "text": "When we are reporting a scientific or historical fact, we don't usually change tense.",
+          "note": "Alan told me that Queen Victoria **hated** Gladstone, the Prime Minister."
+        },
+        {
+          "type": "hints",
+          "items": [
+            "Although we can usually leave out **that** (Alan told me **(that)** Queen Victoria … ), we cannot leave out **that** after the verbs **reply** and **shout**.",
+            "I **replied that** going swimming in such cold water was a ridiculous idea."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "modal-changes",
+      "title": "Reported speech: modal and semi-modal changes",
+      "icon": "Table2",
+      "blocks": [
+        {
+          "type": "prose",
+          "text": "If the reporting verb is in the past (e.g. **said**), we sometimes have to change modals and semi-modals. **Could, would, should, ought to, had better** and **need** do not change."
+        },
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "will / shall → would",
+              "example": "'I **could** swim when I was three,' said Lizzie. → Lizzie said that she **could** swim when she was three. (**could** does not change)"
+            },
+            {
+              "use": "can → could",
+              "example": "'I **can** swim 50 metres.' → She said she **could** swim 50 metres."
+            },
+            {
+              "use": "must → must / had to / was to / should",
+              "example": "Obligation: **must** in direct speech usually changes to **had to, be to** or **should**."
+            },
+            {
+              "use": "have to → had to",
+              "example": "'You **have to** train every day.' → He said we **had to** train every day."
+            },
+            {
+              "use": "don't / doesn't have to → didn't have to",
+              "example": "'You **don't have to** come.' → She said I **didn't have to** come."
+            },
+            {
+              "use": "mustn't → mustn't / be not to / shouldn't",
+              "example": "When we are expressing obligation, **mustn't** can become **mustn't, be not to** or **shouldn't**."
+            },
+            {
+              "use": "may → might",
+              "example": "'I **may** be late.' → He said he **might** be late."
+            },
+            {
+              "use": "am / is / are going to → was / were going to",
+              "example": "'I'm **going to** resign.' → She said she **was going to** resign."
+            }
+          ]
+        },
+        {
+          "type": "watch-out",
+          "text": "When we are expressing obligation, **must** in direct speech usually changes to **had to, be to** or **should** in reported speech.",
+          "note": "'You **must** do what the referee tells you,' said the coach. → The coach said that we **had to / were to / should** do what the referee told us."
+        },
+        {
+          "type": "watch-out",
+          "text": "When we are expressing obligation, **mustn't** can become **mustn't, be not to** or **shouldn't**.",
+          "note": "'You **mustn't** cheat under any circumstances!' → We were told that we **mustn't / were not to / shouldn't** cheat under any circumstances."
+        },
+        {
+          "type": "watch-out",
+          "text": "**Must** doesn't usually change to **had to** or **should** when we are expressing probability.",
+          "note": "'It **must** have felt wonderful when they won!' said Dave. → Dave said that it **must** have felt wonderful when they won."
+        }
+      ]
+    },
+    {
+      "id": "pronoun-determiner",
+      "title": "Reported speech: pronoun and determiner changes",
+      "icon": "Sparkles",
+      "blocks": [
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "my → his / her",
+              "example": "It's **my** turn. → Eddie pointed out that it was **his** turn."
+            },
+            {
+              "use": "this / that + noun",
+              "example": "I bought **this** fishing rod yesterday. → Linda said she'd bought **the/that** fishing rod the day before."
+            },
+            {
+              "use": "this / that + verb",
+              "example": "**This** is a great game! → Tony said **it** was a great game."
+            },
+            {
+              "use": "these / those + noun",
+              "example": "Look at **these** baseball gloves! → Alison told us to look at **the** baseball gloves."
+            },
+            {
+              "use": "these / those + verb",
+              "example": "**These** are the best baseball gloves I've ever seen. → She said **they** were the best baseball gloves she'd ever seen."
+            },
+            {
+              "use": "verb + these / those (without an object)",
+              "example": "I've had **these** for years. → She said she'd had **them** for years."
+            }
+          ]
+        },
+        {
+          "type": "watch-out",
+          "text": "We do not need to change time words/phrases when the information is still true at the moment of speaking/writing.",
+          "note": "'I'll see you at the match next week,' said Dave. → Dave told us he'd see us at the match next week."
+        },
+        {
+          "type": "hints",
+          "items": [
+            "In narratives, writers often use direct speech time words and phrases for dramatic effect.",
+            "Carlo turned to Fraser and said that, **here, now**, they would decide who the champion was once and for all."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "time-place",
+      "title": "Reported speech: time and place changes",
+      "icon": "ListChecks",
+      "blocks": [
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "here → there",
+              "example": "'Come **here**.' → She told him to go **there**."
+            },
+            {
+              "use": "tomorrow → the following / next day, the day after",
+              "example": "'I'll call you **tomorrow**.' → He said he would call me **the following day**."
+            },
+            {
+              "use": "tonight → that night",
+              "example": "'See you **tonight**.' → She said she'd see us **that night**."
+            },
+            {
+              "use": "yesterday → the day before, the previous day",
+              "example": "'I saw her **yesterday**.' → He said he'd seen her **the day before**."
+            },
+            {
+              "use": "now, at the moment → then, at that moment",
+              "example": "'I'm busy **at the moment**.' → She said she was busy **at that moment**."
+            },
+            {
+              "use": "next week / year / etc → the following / next week, the week after",
+              "example": "'We're moving **next week**.' → They said they were moving **the following week**."
+            },
+            {
+              "use": "last week / year / etc → the week before, the previous week",
+              "example": "'I started **last year**.' → He said he'd started **the previous year**."
+            },
+            {
+              "use": "ago → before, previously, earlier",
+              "example": "'I met her two days **ago**.' → She said she'd met her two days **before**."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "reported-questions",
+      "title": "Reported questions",
+      "icon": "Lightbulb",
+      "blocks": [
+        {
+          "type": "prose",
+          "text": "With reported questions, we make the same changes regarding tense, pronoun and time and place words/phrases as we do with reported speech. In reported questions we don't use the question form or question marks."
+        },
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "Questions beginning with have, do, be and modals",
+              "example": "'**Do** you want to play Monopoly?' asked Cheryl. → Cheryl asked **if/whether we wanted** to play Monopoly."
+            },
+            {
+              "use": "Questions with what, who, which, when, where, why and how",
+              "example": "'**What time did** the match start?' asked Jimmy. → Jimmy asked Andrea **what time the match had started**."
+            }
+          ]
+        },
+        {
+          "type": "watch-out",
+          "text": "The structure **question word + infinitive** is very common with reported questions.",
+          "note": "She asked me **how to tune** a piano. · He asked me **what to do**."
+        }
+      ]
+    },
+    {
+      "id": "commands-requests",
+      "title": "Reported commands and requests",
+      "icon": "PencilLine",
+      "blocks": [
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "Commands · tell / command / order / instruct + sb + full infinitive",
+              "example": "'Put the cricket bats away!' said Alex. → Alex **told me to put** the cricket bats away."
+            },
+            {
+              "use": "Requests · ask + sb + full infinitive",
+              "example": "'Would you put the cricket bats away?' asked Alex. → Alex **asked me to put** the cricket bats away."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "reporting-verbs",
+      "title": "Reporting verbs",
+      "icon": "CheckCircle2",
+      "blocks": [
+        {
+          "type": "prose",
+          "text": "Different reporting verbs take different grammatical patterns. Some verbs can take more than one pattern, e.g. **deny doing, deny sth, deny (that)**."
+        },
+        {
+          "type": "word-list",
+          "intro": "Common reporting verbs include:",
+          "words": [
+            "accuse",
+            "agree",
+            "apologise",
+            "ask",
+            "beg",
+            "claim",
+            "command",
+            "cry",
+            "deny",
+            "explain",
+            "instruct",
+            "order",
+            "promise",
+            "refuse",
+            "reply",
+            "respond",
+            "say",
+            "shout",
+            "state",
+            "suggest",
+            "tell",
+            "whisper"
+          ]
+        }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "a",
+      "type": "rewrite",
+      "title": "A · Back to direct speech",
+      "instruction": "Complete each second sentence so that it has a similar meaning to the first sentence. Write the missing part of the direct speech (without the quotation marks).",
+      "items": [
+        {
+          "id": "a1",
+          "prompt": "Jimmy said that he definitely wasn't going to the match on Saturday.\n'___ ,' said Jimmy.",
+          "acceptedAnswers": [
+            "I'm definitely not going to the match on Saturday",
+            "I am definitely not going to the match on Saturday",
+            "I definitely won't go to the match on Saturday",
+            "I definitely will not go to the match on Saturday"
+          ]
+        },
+        {
+          "id": "a2",
+          "prompt": "Alison told Ben that he'd forgotten to do the washing-up.\n'___ , Ben,' said Alison.",
+          "acceptedAnswers": [
+            "You've forgotten to do the washing-up",
+            "You have forgotten to do the washing-up",
+            "You forgot to do the washing-up"
+          ]
+        },
+        {
+          "id": "a3",
+          "prompt": "Jason admitted that he had been lying when he'd said he had nothing to do with the breakages.\n'Actually, I ___ ,' admitted Jason.",
+          "acceptedAnswers": [
+            "was lying when I said I had nothing to do with the breakages",
+            "have been lying when I said I had nothing to do with the breakages",
+            "had been lying when I said I had nothing to do with the breakages",
+            "'ve been lying when I said I had nothing to do with the breakages"
+          ]
+        },
+        {
+          "id": "a4",
+          "prompt": "Paul told me that Dawn hadn't been particularly hard-working when she was at university.\n'___ ,' said Paul.",
+          "acceptedAnswers": [
+            "Dawn wasn't particularly hard-working when she was at university",
+            "Dawn was not particularly hard-working when she was at university",
+            "Dawn hasn't been particularly hard-working when she was at university"
+          ]
+        },
+        {
+          "id": "a5",
+          "prompt": "Sharon shouted that she hadn't finished yet.\n'___ !' shouted Sharon.",
+          "acceptedAnswers": [
+            "I haven't finished yet",
+            "I have not finished yet",
+            "I didn't finish yet"
+          ]
+        },
+        {
+          "id": "a6",
+          "prompt": "Rudy said he'd meet us all at the café in half an hour.\n'___ ,' said Rudy.",
+          "acceptedAnswers": [
+            "I'll meet you all at the café in half an hour",
+            "I will meet you all at the café in half an hour",
+            "I'm going to meet you all at the café in half an hour"
+          ]
+        },
+        {
+          "id": "a7",
+          "prompt": "Belinda's mum told her that she didn't have to eat her sprouts if she didn't want to.\n'___ , Belinda,' said her mum.",
+          "acceptedAnswers": [
+            "You don't have to eat your sprouts if you don't want to",
+            "You do not have to eat your sprouts if you don't want to",
+            "You needn't eat your sprouts if you don't want to"
+          ]
+        },
+        {
+          "id": "a8",
+          "prompt": "Sebastian announced that he and Tristan were going to set up a website.\n'Tristan ___ ,' announced Sebastian.",
+          "acceptedAnswers": [
+            "and I are going to set up a website",
+            "and I are going to set up a website together",
+            "we're going to set up a website"
+          ]
+        },
+        {
+          "id": "a9",
+          "prompt": "Karen asked Diana when she had got married.\n'___ , Diana?' asked Karen.",
+          "acceptedAnswers": [
+            "When did you get married",
+            "When have you got married"
+          ]
+        },
+        {
+          "id": "a10",
+          "prompt": "Freda asked Bjorn if she could borrow his bike for a couple of hours.\n'Bjorn, ___ ?' asked Freda.",
+          "acceptedAnswers": [
+            "can I borrow your bike for a couple of hours",
+            "could I borrow your bike for a couple of hours",
+            "may I borrow your bike for a couple of hours"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b",
+      "type": "multiple-choice",
+      "title": "B · Circle the correct word or phrase",
+      "instruction": "Choose the correct word or phrase. If both are possible, choose the option that includes both.",
+      "items": [
+        {
+          "id": "b1",
+          "prompt": "When I told Mr Peters that the dog ___ eaten my homework, he didn't believe me.",
+          "options": ["has", "had", "has / had"],
+          "acceptedAnswers": ["has / had"]
+        },
+        {
+          "id": "b2",
+          "prompt": "Adam told me that his girlfriend ___ eat meat at all.",
+          "options": ["doesn't", "didn't", "doesn't / didn't"],
+          "acceptedAnswers": ["doesn't / didn't"]
+        },
+        {
+          "id": "b3",
+          "prompt": "When I saw Ed yesterday morning, he told me that he ___ going to look at a flat in the afternoon.",
+          "options": ["is", "was", "is / was"],
+          "acceptedAnswers": ["was"]
+        },
+        {
+          "id": "b4",
+          "prompt": "Roger told me about the pop quiz. He said his team ___ doing well in the first few rounds.",
+          "options": ["were", "was", "were / was"],
+          "acceptedAnswers": ["were / was"]
+        },
+        {
+          "id": "b5",
+          "prompt": "… but that it ___ wrong with the round about dance music.",
+          "options": ["all went", "had all gone", "all went / had all gone"],
+          "acceptedAnswers": ["all went / had all gone"]
+        },
+        {
+          "id": "b6",
+          "prompt": "When we watched Death Watch III, Paul said he ___ never seen a worse movie in his life!",
+          "options": ["has", "had", "has / had"],
+          "acceptedAnswers": ["has / had"]
+        },
+        {
+          "id": "b7",
+          "prompt": "Did Galileo say that the Earth ___ round the sun?",
+          "options": ["goes", "went", "goes / went"],
+          "acceptedAnswers": ["goes"]
+        },
+        {
+          "id": "b8",
+          "prompt": "Phil told me on Friday that he ___ just bumped into Wally Deacon.",
+          "options": ["has", "had", "has / had"],
+          "acceptedAnswers": ["had"]
+        },
+        {
+          "id": "b9",
+          "prompt": "Babs announced to us all last night that she ___ finally giving up smoking.",
+          "options": ["is", "was", "is / was"],
+          "acceptedAnswers": ["is / was"]
+        },
+        {
+          "id": "b10",
+          "prompt": "Did you say that you ___ want sugar in your coffee or not?",
+          "options": ["do", "did", "do / did"],
+          "acceptedAnswers": ["do / did"]
+        },
+        {
+          "id": "b11",
+          "prompt": "I told Brian last week that the office ___ opening on Tuesday so I don't know why he showed up yesterday morning.",
+          "options": ["isn't", "wasn't", "isn't / wasn't"],
+          "acceptedAnswers": ["wasn't"]
+        }
+      ]
+    },
+    {
+      "id": "c",
+      "type": "rewrite",
+      "title": "C · Tick or rewrite",
+      "instruction": "If the word or phrase in bold is correct, write a tick (✓). If it is incorrect, rewrite it correctly.",
+      "items": [
+        {
+          "id": "c1",
+          "prompt": "Bob did tell me that he probably **wouldn't** be coming in today.",
+          "acceptedAnswers": ["✓", "tick", "correct", "wouldn't"]
+        },
+        {
+          "id": "c2",
+          "prompt": "Last week he told us that we **don't have to** do that exercise and then yesterday he said we'd made a mistake.",
+          "acceptedAnswers": ["didn't have to", "✓", "tick", "correct", "don't have to"]
+        },
+        {
+          "id": "c3",
+          "prompt": "Did you say these bills **had to** be paid before tomorrow?",
+          "acceptedAnswers": ["✓", "tick", "correct", "had to"]
+        },
+        {
+          "id": "c4",
+          "prompt": "Steve said he **could** play guitar when he was two years old. Do you believe that?",
+          "acceptedAnswers": ["✓", "tick", "correct", "could"]
+        },
+        {
+          "id": "c5",
+          "prompt": "Pauline told my mum that **she'd had better** get a lawyer. I think she's right.",
+          "acceptedAnswers": ["she'd better", "she had better", "had better"]
+        },
+        {
+          "id": "c6",
+          "prompt": "When we went to the party, Claudia told me that I **must be** on my best behaviour all evening. It was very rude of her, I thought.",
+          "acceptedAnswers": ["had to be", "should be", "was to be"]
+        },
+        {
+          "id": "c7",
+          "prompt": "Darren said that Mr Taylor **was to have forgotten** about the meeting, but I'm not so sure. I think he just didn't want to come.",
+          "acceptedAnswers": ["must have forgotten"]
+        },
+        {
+          "id": "c8",
+          "prompt": "When I was a teenager, my dad always told me that **I'm not to** stay out later than ten o'clock.",
+          "acceptedAnswers": [
+            "I wasn't to",
+            "I was not to",
+            "I shouldn't",
+            "I mustn't",
+            "I was not allowed to"
+          ]
+        },
+        {
+          "id": "c9",
+          "prompt": "I was pleased when Jilly told us that she **can** help us paint the flat. If only I'd known then what that meant!",
+          "acceptedAnswers": ["could"]
+        },
+        {
+          "id": "c10",
+          "prompt": "When I was at school, my English teacher always told us that we **don't have to** pay attention but we **do have to** be quiet.",
+          "acceptedAnswers": [
+            "didn't have to pay attention but we had to",
+            "didn't have to pay attention but we did have to",
+            "didn't have to ... had to"
+          ]
+        },
+        {
+          "id": "c11",
+          "prompt": "The letter they sent six months ago said that they **shall** be in touch again soon. Well, I haven't heard anything since!",
+          "acceptedAnswers": ["would"]
+        },
+        {
+          "id": "c12",
+          "prompt": "Seven years ago, the Prime Minister stated that his government **will** be corruption-free. It doesn't look that way now, does it?",
+          "acceptedAnswers": ["would"]
+        }
+      ]
+    },
+    {
+      "id": "d",
+      "type": "gap-fill",
+      "title": "D · Pronouns and determiners",
+      "instruction": "Write one word in each gap.",
+      "items": [
+        {
+          "id": "d1",
+          "prompt": "'Oh no! These shoes don't go with that suit at all!' I actually really liked the shoes but Maureen told me ___ didn't go with the suit I was planning to wear.",
+          "acceptedAnswers": ["they"]
+        },
+        {
+          "id": "d2",
+          "prompt": "'This play is rubbish!' Susan told us in no uncertain terms that ___ play was rubbish.",
+          "acceptedAnswers": ["the", "that"]
+        },
+        {
+          "id": "d3",
+          "prompt": "'My sister Chloe's coming to stay for a few days.' Why did Derek say that ___ sister's called Chloe? She's called Clarissa, isn't she?",
+          "acceptedAnswers": ["his"]
+        },
+        {
+          "id": "d4",
+          "prompt": "'This is not what I ordered!' Mike told the waiter – quite rudely in my opinion – that ___ wasn't what he'd ordered.",
+          "acceptedAnswers": ["it", "that"]
+        },
+        {
+          "id": "d5",
+          "prompt": "'These trainers are far too expensive!' My mum said that ___ trainers were too expensive so I didn't get them in the end.",
+          "acceptedAnswers": ["the", "those"]
+        },
+        {
+          "id": "d6",
+          "prompt": "'My number's easy. It's 123456.' You don't know Sindy's phone number, do you? She did actually tell me ___ number but I stupidly forgot to write it down.",
+          "acceptedAnswers": ["her", "the"]
+        },
+        {
+          "id": "d7",
+          "prompt": "'Could you put these on the table?' Mum asked me to put ___ on the table.",
+          "acceptedAnswers": ["them"]
+        },
+        {
+          "id": "d8",
+          "prompt": "'You won't believe what happened to us last night.' Angus and James told me that ___ house was broken into last night.",
+          "acceptedAnswers": ["their", "the"]
+        }
+      ]
+    },
+    {
+      "id": "e",
+      "type": "gap-fill",
+      "title": "E · Time and place",
+      "instruction": "Read the phone conversation, then write one word in each gap in the reported version.",
+      "items": [
+        {
+          "id": "e1",
+          "prompt": "Seamus asked Marios what he was doing at ___ moment.",
+          "acceptedAnswers": ["that", "the"]
+        },
+        {
+          "id": "e2",
+          "prompt": "Marios replied that right ___ he was not doing anything much.",
+          "acceptedAnswers": ["then"]
+        },
+        {
+          "id": "e3",
+          "prompt": "Seamus mentioned a conversation they'd had the ___ week.",
+          "acceptedAnswers": ["previous"]
+        },
+        {
+          "id": "e4",
+          "prompt": "Marios admitted that he'd been to the gym two days ___ .",
+          "acceptedAnswers": ["before", "earlier", "previously"]
+        },
+        {
+          "id": "e5",
+          "prompt": "Marios reminded Seamus that he was taking part in the London Marathon ___ month.",
+          "acceptedAnswers": ["next", "the following", "the next"]
+        },
+        {
+          "id": "e6",
+          "prompt": "Marios told Seamus that he had been planning to call him the day ___ .",
+          "acceptedAnswers": ["before"]
+        },
+        {
+          "id": "e7",
+          "prompt": "Seamus said he was at the office and suggested they meet ___ .",
+          "acceptedAnswers": ["there"]
+        }
+      ]
+    },
+    {
+      "id": "f",
+      "type": "rewrite",
+      "title": "F · Direct to reported speech",
+      "instruction": "Complete each second sentence so that it has a similar meaning to the first sentence. Write only the missing part.",
+      "items": [
+        {
+          "id": "f1",
+          "prompt": "'Carol and I went to a great museum when we were in Italy last month,' said Shirley.\nShirley told her friends that ___ .",
+          "acceptedAnswers": [
+            "she and Carol had been to a great museum when they were in Italy the previous month",
+            "she and Carol had gone to a great museum when they were in Italy the previous month",
+            "she and Carol had been to a great museum when they were in Italy the month before",
+            "Carol and she had been to a great museum when they were in Italy the previous month"
+          ]
+        },
+        {
+          "id": "f2",
+          "prompt": "'I only washed these trousers yesterday, Tony!' said his mum.\nTony's mum told ___ .",
+          "acceptedAnswers": [
+            "him (that) she had only washed those trousers the day before",
+            "him she had only washed those trousers the day before",
+            "him that she had only washed those trousers the previous day",
+            "Tony (that) she had only washed those trousers the day before"
+          ]
+        },
+        {
+          "id": "f3",
+          "prompt": "'You have to get all the letters sent off by tomorrow,' said Jake to his secretary as he was leaving.\nAs he was leaving, Jake told ___ .",
+          "acceptedAnswers": [
+            "his secretary (that) she had to get all the letters sent off by the following day",
+            "his secretary she had to get all the letters sent off by the next day",
+            "his secretary that he had to get all the letters sent off by the following day",
+            "his secretary (that) they had to get all the letters sent off by the following day"
+          ]
+        },
+        {
+          "id": "f4",
+          "prompt": "'We shall meet you all back here in exactly half an hour from now.'\nMum told me that ___ .",
+          "acceptedAnswers": [
+            "they would meet us all back there in exactly half an hour",
+            "they would meet us all back there in exactly half an hour from then",
+            "we would meet them all back there in exactly half an hour"
+          ]
+        },
+        {
+          "id": "f5",
+          "prompt": "'Luckily I don't have to go into the office this Saturday,' said Olivia.\nOlivia said happily that ___ .",
+          "acceptedAnswers": [
+            "luckily she didn't have to go into the office that Saturday",
+            "she didn't have to go into the office that Saturday",
+            "luckily she did not have to go into the office that Saturday"
+          ]
+        },
+        {
+          "id": "f6",
+          "prompt": "'It can't be very nice having all these cars going by all the time.'\nAlan commented to Ros that ___ .",
+          "acceptedAnswers": [
+            "it couldn't be very nice having all those cars going by all the time",
+            "it couldn't be very nice having all the cars going by all the time"
+          ]
+        },
+        {
+          "id": "f7",
+          "prompt": "'I'll put these in water right now.'\nDaniel's mum said that ___ .",
+          "acceptedAnswers": [
+            "she would put them in water right then",
+            "she would put them in water immediately",
+            "she'd put them in water right then"
+          ]
+        },
+        {
+          "id": "f8",
+          "prompt": "'I told Dan two days ago that this report would have to be rewritten,' said Greg.\nGreg told Jeanne that ___ .",
+          "acceptedAnswers": [
+            "he had told Dan two days before that that report would have to be rewritten",
+            "he'd told Dan two days before that the report would have to be rewritten",
+            "he had told Dan two days earlier that that report would have to be rewritten"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g",
+      "type": "rewrite",
+      "title": "G · Key word transformation",
+      "instruction": "Complete the second sentence so that it has a similar meaning to the first sentence, using the word given. Do not change the word given. Use between three and eight words, including the word given. Write only the missing part.",
+      "items": [
+        {
+          "id": "g1",
+          "prompt": "'Will you come with me to the concert next Thursday?' Andrea asked Gareth.\n**go**\nAndrea asked Gareth if ___ to the concert the following Thursday.",
+          "acceptedAnswers": [
+            "he would go with her",
+            "he'd go with her",
+            "he would go"
+          ]
+        },
+        {
+          "id": "g2",
+          "prompt": "'Does the train get in at four o'clock?' asked Pete.\n**whether**\nPete asked ___ at four o'clock.",
+          "acceptedAnswers": [
+            "whether the train got in",
+            "whether the train gets in"
+          ]
+        },
+        {
+          "id": "g3",
+          "prompt": "'Have you been talking on the phone all evening, Tim?' asked his dad.\n**if**\nTim's dad asked ___ on the phone all evening.",
+          "acceptedAnswers": [
+            "him if he had been talking",
+            "if he had been talking",
+            "Tim if he had been talking",
+            "if Tim had been talking"
+          ]
+        },
+        {
+          "id": "g4",
+          "prompt": "'Are you all coming tomorrow?' Fiona asked us.\n**whether**\nFiona asked ___ day.",
+          "acceptedAnswers": [
+            "us whether we were all coming the following",
+            "whether we were all coming the following",
+            "us whether we were all coming the next"
+          ]
+        },
+        {
+          "id": "g5",
+          "prompt": "'Doesn't Jerry live near you anymore?' asked Dominic.\n**me**\nDominic asked whether ___ any more.",
+          "acceptedAnswers": [
+            "Jerry lived near me",
+            "Jerry still lived near me"
+          ]
+        },
+        {
+          "id": "g6",
+          "prompt": "'Shall I send you an e-mail about it, Trevor?' asked Kevin.\n**him**\nKevin asked ___ an e-mail about it.",
+          "acceptedAnswers": [
+            "him if he should send him",
+            "him whether he should send him",
+            "Trevor if he should send him"
+          ]
+        },
+        {
+          "id": "g7",
+          "prompt": "'Shall I help you do the dishes, Carlo?' said Robert.\n**offered**\nRobert ___ the dishes.",
+          "acceptedAnswers": [
+            "offered to help Carlo do",
+            "offered to help Carlo to do",
+            "offered to help with",
+            "offered to help Carlo with"
+          ]
+        },
+        {
+          "id": "g8",
+          "prompt": "'Do we really have to go to bed right now?' Toby asked his parents.\n**did**\nToby asked his parents ___ go to bed right then.",
+          "acceptedAnswers": [
+            "if they really did have to",
+            "whether they really did have to",
+            "if they did have to",
+            "whether they did have to"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "h",
+      "type": "multiple-choice",
+      "title": "H · Reported question form",
+      "instruction": "Choose the correct word or phrase.",
+      "items": [
+        {
+          "id": "h1",
+          "prompt": "Kostas didn't dare ask Eleni where ___ been the previous evening.",
+          "options": ["had she", "she had"],
+          "acceptedAnswers": ["she had"]
+        },
+        {
+          "id": "h2",
+          "prompt": "I was tempted to ask why ___ to sit next to Li Han so badly.",
+          "options": ["did Ranji want", "Ranji wanted"],
+          "acceptedAnswers": ["Ranji wanted"]
+        },
+        {
+          "id": "h3",
+          "prompt": "We did ask Carol who ___ invited but for some reason she wouldn't tell us.",
+          "options": ["she had", "had she"],
+          "acceptedAnswers": ["she had"]
+        },
+        {
+          "id": "h4",
+          "prompt": "Can you believe it? Fred actually asked me ___ send an e-mail.",
+          "options": ["how to", "could he"],
+          "acceptedAnswers": ["how to"]
+        },
+        {
+          "id": "h5",
+          "prompt": "No one has asked me why ___ come to work yesterday.",
+          "options": ["didn't I", "I didn't"],
+          "acceptedAnswers": ["I didn't"]
+        },
+        {
+          "id": "h6",
+          "prompt": "I'm going to ask them what on earth ___ they were doing.",
+          "options": ["did they think", "they thought"],
+          "acceptedAnswers": ["they thought"]
+        },
+        {
+          "id": "h7",
+          "prompt": "Ask that man over there who ___ complain to.",
+          "options": ["should we", "to"],
+          "acceptedAnswers": ["to"]
+        },
+        {
+          "id": "h8",
+          "prompt": "Doug and Sally didn't even ask me how ___ going.",
+          "options": ["the website was", "was the website"],
+          "acceptedAnswers": ["the website was"]
+        }
+      ]
+    },
+    {
+      "id": "i",
+      "type": "gap-fill",
+      "title": "I · Verb patterns",
+      "instruction": "Write a verb from the box in the correct form in each gap. Use each verb once.",
+      "wordBank": [
+        "attack",
+        "do",
+        "get",
+        "like",
+        "make",
+        "pass",
+        "take",
+        "talk",
+        "turn",
+        "use",
+        "want",
+        "work"
+      ],
+      "items": [
+        {
+          "id": "i1",
+          "prompt": "You'd better ask the security guard how ___ into the building at the weekend.",
+          "acceptedAnswers": ["to get"]
+        },
+        {
+          "id": "i2",
+          "prompt": "That was so nice of them to ask whether I ___ to stay the night.",
+          "acceptedAnswers": ["wanted"]
+        },
+        {
+          "id": "i3",
+          "prompt": "I know you asked me ___ the washing-up now but it'll only take a minute, I promise.",
+          "acceptedAnswers": ["to do"]
+        },
+        {
+          "id": "i4",
+          "prompt": "Why did the officer order his men ___ when he knew they were outnumbered?",
+          "acceptedAnswers": ["to attack"]
+        },
+        {
+          "id": "i5",
+          "prompt": "I would ask you ___ judgement until you know all the facts.",
+          "acceptedAnswers": ["not to pass", "to pass"]
+        },
+        {
+          "id": "i6",
+          "prompt": "I couldn't believe it when Sandy came out and asked me ___ drugs before.",
+          "acceptedAnswers": [
+            "if I'd taken",
+            "if I had taken",
+            "whether I'd taken",
+            "if I'd used",
+            "whether I'd used"
+          ]
+        },
+        {
+          "id": "i7",
+          "prompt": "I don't like asking you ___ on a Saturday, but I'm afraid there's no alternative.",
+          "acceptedAnswers": ["to work"]
+        },
+        {
+          "id": "i8",
+          "prompt": "You should have asked your mother which cloth ___ . She'd know.",
+          "acceptedAnswers": ["to use"]
+        },
+        {
+          "id": "i9",
+          "prompt": "It was funny when we were asked by the technician how ___ the computer on.",
+          "acceptedAnswers": ["to turn"]
+        },
+        {
+          "id": "i10",
+          "prompt": "She very kindly asked me if I ___ fruit cake and said there was a fruit salad if I preferred.",
+          "acceptedAnswers": ["liked"]
+        },
+        {
+          "id": "i11",
+          "prompt": "Go and ask your dad ___ us a coffee, would you?",
+          "acceptedAnswers": ["to make"]
+        },
+        {
+          "id": "i12",
+          "prompt": "I'm sorry, but we've been instructed ___ to reporters under any circumstances.",
+          "acceptedAnswers": ["not to talk"]
+        }
+      ]
+    },
+    {
+      "id": "j",
+      "type": "multiple-choice",
+      "title": "J · Choose the correct answer",
+      "instruction": "Choose the correct option.",
+      "items": [
+        {
+          "id": "j1",
+          "prompt": "Do you deny ___ this with the defendant on the day in question?",
+          "options": ["to discuss", "discussing", "of having discussed", "to have discussed"],
+          "acceptedAnswers": ["discussing"]
+        },
+        {
+          "id": "j2",
+          "prompt": "Why did you refuse ___ the police officer's questions? It only makes you look guilty.",
+          "options": ["to answer", "answering", "that you answer", "for answering"],
+          "acceptedAnswers": ["to answer"]
+        },
+        {
+          "id": "j3",
+          "prompt": "It's about time Mrs Richards apologised to me ___ a gossip in front of everybody.",
+          "options": ["to have called", "from calling", "that she called", "for having called"],
+          "acceptedAnswers": ["for having called"]
+        },
+        {
+          "id": "j4",
+          "prompt": "She may claim ___ a PhD but nobody's ever actually seen the certificate.",
+          "options": ["having", "to have", "to having", "if she has"],
+          "acceptedAnswers": ["to have"]
+        },
+        {
+          "id": "j5",
+          "prompt": "The kids suggested ___ a pizza tonight. What do you think?",
+          "options": ["to get", "we'll get", "getting", "for getting"],
+          "acceptedAnswers": ["getting"]
+        },
+        {
+          "id": "j6",
+          "prompt": "I do agree there ___ simple solution to this problem.",
+          "options": ["is no", "is not", "not to be", "not being"],
+          "acceptedAnswers": ["is no"]
+        },
+        {
+          "id": "j7",
+          "prompt": "Tammy responded ___ that at least she'd never lied to her parents.",
+          "options": ["to say", "that she said", "by saying", "with having said"],
+          "acceptedAnswers": ["by saying"]
+        },
+        {
+          "id": "j8",
+          "prompt": "I'm begging ___ .",
+          "options": ["you to stay", "that you stay", "your staying", "you for staying"],
+          "acceptedAnswers": ["you to stay"]
+        }
+      ]
+    },
+    {
+      "id": "k",
+      "type": "gap-fill",
+      "title": "K · Hobbies",
+      "instruction": "Write one word in each gap.",
+      "items": [
+        {
+          "id": "k1",
+          "prompt": "The next time someone asks me ___ my hobbies are, or, indeed,",
+          "acceptedAnswers": ["what"]
+        },
+        {
+          "id": "k2",
+          "prompt": "___ I have any hobbies, I'm tempted to refuse",
+          "acceptedAnswers": ["if", "whether"]
+        },
+        {
+          "id": "k3",
+          "prompt": "to refuse ___ answer.",
+          "acceptedAnswers": ["to"]
+        },
+        {
+          "id": "k4",
+          "prompt": "Better still, I'll turn the question round and ask them to ___ me what their hobbies are.",
+          "acceptedAnswers": ["tell"]
+        },
+        {
+          "id": "k5",
+          "prompt": "Doubtless they'll claim to ___ an avid collector of rare postage stamps, but I shan't believe it.",
+          "acceptedAnswers": ["be"]
+        },
+        {
+          "id": "k6",
+          "prompt": "I don't think they should deny ___ any longer: the hobby is dead.",
+          "acceptedAnswers": ["it", "this"]
+        },
+        {
+          "id": "k7",
+          "prompt": "I would like to suggest ___ from now on, the word 'hobby' is erased from our vocabulary.",
+          "acceptedAnswers": ["that"]
+        },
+        {
+          "id": "k8",
+          "prompt": "You may accuse me ___ being naive, but I strongly believe the facts support my case.",
+          "acceptedAnswers": ["of"]
+        },
+        {
+          "id": "k9",
+          "prompt": "Ask any teenager – or adult, for that matter – how they ___ their spare time.",
+          "acceptedAnswers": ["spend", "pass", "use"]
+        },
+        {
+          "id": "k10",
+          "prompt": "They'll respond ___ a list of activities – going to the gym, playing computer games, watching TV.",
+          "acceptedAnswers": ["with"]
+        }
+      ]
+    }
+  ]
+}

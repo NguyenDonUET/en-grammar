@@ -1,0 +1,974 @@
+{
+  "id": "unit-11-conditionals",
+  "level": "c1-c2",
+  "unitNumber": 11,
+  "title": "Conditionals",
+  "subtitle": "Zero to mixed conditionals, inversion, and other if-structures",
+  "theory": [
+    {
+      "id": "zero",
+      "title": "Zero conditional (if / when / whenever + present, present)",
+      "icon": "BookOpen",
+      "blocks": [
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "General or scientific facts and definitions",
+              "example": "If you **heat** ice, it **melts**."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "first",
+      "title": "First conditional (if + present, will + bare infinitive / imperative)",
+      "icon": "Sparkles",
+      "blocks": [
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "Real conditions in the present or future and their results",
+              "example": "If we **keep** dumping plastic in rivers, wildlife **will suffer**."
+            },
+            {
+              "use": "To give conditional instructions",
+              "example": "If the press office **rings**, **take** a message and I'll call them later."
+            }
+          ]
+        },
+        {
+          "type": "watch-out",
+          "text": "Other modals and semi-modals can replace **will** in the result clause: **be going to, can, could, may, might, shall, should, have to, ought to**.",
+          "note": "We **might** avoid the worst of the crisis if we **change** how we live now."
+        }
+      ]
+    },
+    {
+      "id": "second",
+      "title": "Second conditional (if + past simple / past continuous, would + bare infinitive)",
+      "icon": "Lightbulb",
+      "blocks": [
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "Hypothetical conditions now or in the future, and their hypothetical results",
+              "example": "What **would** the council **do** if there **was** a cyclone in the region?"
+            }
+          ]
+        },
+        {
+          "type": "watch-out",
+          "text": "**Might** and **could** can replace **would** in the result clause.",
+          "note": "If the forecast **were** better, we **could** eat outside."
+        },
+        {
+          "type": "hints",
+          "intro": "was vs were",
+          "items": [
+            "In British English, both **was** and **were** are possible after **if** with first and third person singular. **Were** is more common in a formal style. In American English, **were** is usual.",
+            "UK: If I **was/were** a trader, I'd put money on Lena arriving late.",
+            "US: If I **were** a trader, I'd put money on Lena arriving late.",
+            "In both varieties, **were** is usual in **If I were you, …**"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "third",
+      "title": "Third conditional (if + past perfect, would have + past participle)",
+      "icon": "AlertTriangle",
+      "blocks": [
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "Hypothetical conditions in the past and their past results",
+              "example": "Far more people **would have been stranded** by the storm if the barrier **hadn't been** raised."
+            }
+          ]
+        },
+        {
+          "type": "watch-out",
+          "text": "**Might, could** and **should** can replace **would** in the result clause.",
+          "note": "If you **hadn't had** such a lucky break, you **could have lost** everything."
+        }
+      ]
+    },
+    {
+      "id": "mixed",
+      "title": "Mixed conditionals",
+      "icon": "Table2",
+      "blocks": [
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "Hypothetical past condition → present result",
+              "example": "You **might not be** in this mess if you **hadn't started** betting."
+            },
+            {
+              "use": "Hypothetical present condition → past result",
+              "example": "If I **were** you, I **would have told** Nina to buy her own ticket."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "inverted",
+      "title": "Inverted conditionals",
+      "icon": "CheckCircle2",
+      "blocks": [
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "More formal first conditional (with should)",
+              "example": "**Should** the drought **continue**, many families **will be forced** to leave. (= If the drought should continue … / If the drought continues …)"
+            },
+            {
+              "use": "More formal second conditional",
+              "example": "**Were we to** abandon fossil fuels tomorrow, it **would still take** decades for the climate to recover. (= If we were to stop … / If we stopped …)"
+            },
+            {
+              "use": "More formal third conditional",
+              "example": "**Had** Darwin **not visited** those islands, he **might never have developed** his theory. (= If Darwin hadn't visited …)"
+            }
+          ]
+        },
+        {
+          "type": "watch-out",
+          "text": "When the inverted verb is negative, **not** comes after the subject.",
+          "note": "**Had we not** attended the briefing, we would have missed the council's plans."
+        },
+        {
+          "type": "watch-out",
+          "text": "When the **if** clause comes before the result, we usually separate the two clauses with a comma. When the result comes first, we do not use a comma.",
+          "note": "If you share a lift, you can cut your costs. · You can cut your costs if you share a lift."
+        }
+      ]
+    },
+    {
+      "id": "other-structures",
+      "title": "Other conditional structures",
+      "icon": "ListChecks",
+      "blocks": [
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "as / so long as",
+              "example": "We'll hike this weekend **as long as** the weather holds."
+            },
+            {
+              "use": "provided / providing (that)",
+              "example": "You can keep a dog **provided that** you look after it properly."
+            },
+            {
+              "use": "on condition (that)",
+              "example": "Applications are accepted **on condition that** candidates are over 18."
+            },
+            {
+              "use": "suppose / supposing",
+              "example": "**Supposing** the price of oil tripled overnight. What do you think would happen?"
+            },
+            {
+              "use": "if it wasn't / weren't for + noun",
+              "example": "I'd feel quite lonely **if it weren't for** my dog, Buster."
+            },
+            {
+              "use": "were it not for + noun",
+              "example": "**Were it not for** Buster, I think I'd be quite lonely."
+            },
+            {
+              "use": "but for + noun",
+              "example": "**But for** your support, I wouldn't have been able to quit."
+            },
+            {
+              "use": "if it hadn't been for + noun",
+              "example": "**If it hadn't been for** your support, I wouldn't have been able to quit."
+            },
+            {
+              "use": "had it not been for + noun",
+              "example": "**Had it not been for** your support, I wouldn't have been able to quit."
+            },
+            {
+              "use": "if … (should) happen to",
+              "example": "**If you (should) happen to** see Davina, ask whether she would look after the cats."
+            },
+            {
+              "use": "if … should",
+              "example": "**If you should** see Davina, ask whether she would look after the cats."
+            },
+            {
+              "use": "if … happened to",
+              "example": "**If you happened to** see someone drop litter in the street, what would you do?"
+            },
+            {
+              "use": "if … were to",
+              "example": "Do you think it would cut pollution **if the government were to** introduce a new tax on petrol?"
+            },
+            {
+              "use": "if so / if not",
+              "example": "Are you worried about the climate? **If so**, you might want to join a campaign group."
+            },
+            {
+              "use": "otherwise",
+              "example": "You should have the boiler serviced, **otherwise** you'll waste a lot of energy."
+            },
+            {
+              "use": "unless",
+              "example": "**Unless** governments act now, the environment is really going to suffer."
+            },
+            {
+              "use": "in case of + noun",
+              "example": "**In case of** fire, leave the building by the nearest emergency exit."
+            },
+            {
+              "use": "in case",
+              "example": "Take a coat with you **in case** the weather gets worse."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "other-uses-of-if",
+      "title": "Other uses of if",
+      "icon": "PencilLine",
+      "blocks": [
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "To mean 'if it is true that'",
+              "example": "**If** you were at the meeting, why didn't you raise the recycling issue?"
+            },
+            {
+              "use": "To mean 'if you are willing to'",
+              "example": "**If** you'll follow me, I'll show you into the manager's office."
+            },
+            {
+              "use": "To mean 'I'm saying this in case'",
+              "example": "**If** you like aquariums, the one in Singapore is spectacular."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "a",
+      "type": "multiple-choice",
+      "title": "A · Match to make sentences",
+      "instruction": "Choose the clause that correctly completes each sentence.",
+      "items": [
+        {
+          "id": "a1",
+          "prompt": "If you stay with us for three days,",
+          "options": [
+            "we'll have enough time to see a few sights.",
+            "you can't really complain about the government.",
+            "they have to go through a complicated procedure.",
+            "I'm pretty sure they won't let you check in."
+          ],
+          "acceptedAnswers": ["we'll have enough time to see a few sights."]
+        },
+        {
+          "id": "a2",
+          "prompt": "If you decide not to vote in the election,",
+          "options": [
+            "you can't really complain about the government.",
+            "we'd be happy to give you a good reference.",
+            "give us a call and we'll come to pick you up.",
+            "very few people would obey the law."
+          ],
+          "acceptedAnswers": ["you can't really complain about the government."]
+        },
+        {
+          "id": "a3",
+          "prompt": "If you didn't eat your lunch so fast,",
+          "options": [
+            "you wouldn't get hiccups, would you?",
+            "we might get served a bit more quickly.",
+            "more areas of natural beauty will be destroyed.",
+            "they have to go through a complicated procedure."
+          ],
+          "acceptedAnswers": ["you wouldn't get hiccups, would you?"]
+        },
+        {
+          "id": "a4",
+          "prompt": "If there were a few more people working,",
+          "options": [
+            "we might get served a bit more quickly.",
+            "give us a call and we'll come to pick you up.",
+            "I'm pretty sure they won't let you check in.",
+            "you can't really complain about the government."
+          ],
+          "acceptedAnswers": ["we might get served a bit more quickly."]
+        },
+        {
+          "id": "a5",
+          "prompt": "If you forget to take your passport,",
+          "options": [
+            "I'm pretty sure they won't let you check in.",
+            "we'd be happy to give you a good reference.",
+            "very few people would obey the law.",
+            "more areas of natural beauty will be destroyed."
+          ],
+          "acceptedAnswers": ["I'm pretty sure they won't let you check in."]
+        },
+        {
+          "id": "a6",
+          "prompt": "If the fire car isn't there when you arrive,",
+          "options": [
+            "give us a call and we'll come to pick you up.",
+            "they have to go through a complicated procedure.",
+            "we'll have enough time to see a few sights.",
+            "you wouldn't get hiccups, would you?"
+          ],
+          "acceptedAnswers": ["give us a call and we'll come to pick you up."]
+        },
+        {
+          "id": "a7",
+          "prompt": "If the city continues to expand,",
+          "options": [
+            "more areas of natural beauty will be destroyed.",
+            "we'd be happy to give you a good reference.",
+            "we might get served a bit more quickly.",
+            "you can't really complain about the government."
+          ],
+          "acceptedAnswers": ["more areas of natural beauty will be destroyed."]
+        },
+        {
+          "id": "a8",
+          "prompt": "If the police didn't fine people,",
+          "options": [
+            "very few people would obey the law.",
+            "give us a call and we'll come to pick you up.",
+            "I'm pretty sure they won't let you check in.",
+            "we'll have enough time to see a few sights."
+          ],
+          "acceptedAnswers": ["very few people would obey the law."]
+        },
+        {
+          "id": "a9",
+          "prompt": "If you did decide to leave the company,",
+          "options": [
+            "we'd be happy to give you a good reference.",
+            "they have to go through a complicated procedure.",
+            "more areas of natural beauty will be destroyed.",
+            "you wouldn't get hiccups, would you?"
+          ],
+          "acceptedAnswers": ["we'd be happy to give you a good reference."]
+        },
+        {
+          "id": "a10",
+          "prompt": "If MPs wish to resign,",
+          "options": [
+            "they have to go through a complicated procedure.",
+            "we might get served a bit more quickly.",
+            "give us a call and we'll come to pick you up.",
+            "very few people would obey the law."
+          ],
+          "acceptedAnswers": ["they have to go through a complicated procedure."]
+        }
+      ]
+    },
+    {
+      "id": "b",
+      "type": "rewrite",
+      "title": "B · Rewrite with the words given",
+      "instruction": "Rewrite using an appropriate conditional form, starting with the words given. Write the rest of the sentence.",
+      "items": [
+        {
+          "id": "b1",
+          "prompt": "Sue didn't get me a birthday present, which is why I didn't get her one.\nIf Sue",
+          "acceptedAnswers": [
+            "had got me a birthday present, I would have got her one.",
+            "had given me a birthday present, I would have given her one.",
+            "had got me a birthday present, I'd have got her one."
+          ]
+        },
+        {
+          "id": "b2",
+          "prompt": "We didn't pay them on time because they made a mistake with our order.\nIf they",
+          "acceptedAnswers": [
+            "hadn't made a mistake with our order, we would have paid them on time.",
+            "hadn't made a mistake with our order, we'd have paid them on time."
+          ]
+        },
+        {
+          "id": "b3",
+          "prompt": "The climate is undergoing such radical changes that scientists are worried.\nIf",
+          "acceptedAnswers": [
+            "the climate weren't undergoing such radical changes, scientists wouldn't be worried.",
+            "the climate wasn't undergoing such radical changes, scientists wouldn't be worried.",
+            "the climate were not undergoing such radical changes, scientists would not be worried."
+          ]
+        },
+        {
+          "id": "b4",
+          "prompt": "Did California become an important area because they found gold there?\nWould",
+          "acceptedAnswers": [
+            "California have become an important area if they hadn't found gold there?",
+            "California have become an important area if they had not found gold there?"
+          ]
+        },
+        {
+          "id": "b5",
+          "prompt": "It's the sunset that attracts tourists to that place.\nIf it",
+          "acceptedAnswers": [
+            "weren't for the sunset, tourists wouldn't be attracted to that place.",
+            "wasn't for the sunset, tourists wouldn't be attracted to that place.",
+            "weren't for the sunset, tourists would not be attracted to that place."
+          ]
+        },
+        {
+          "id": "b6",
+          "prompt": "There was a traffic jam on the motorway so I was late for my interview.\nIf there",
+          "acceptedAnswers": [
+            "hadn't been a traffic jam on the motorway, I wouldn't have been late for my interview.",
+            "hadn't been a traffic jam on the motorway, I would not have been late for my interview."
+          ]
+        },
+        {
+          "id": "b7",
+          "prompt": "I suggest you use a sunblock, and then you won't go red.\nIf I were",
+          "acceptedAnswers": [
+            "you, I'd use a sunblock and then you won't go red.",
+            "you, I would use a sunblock and then you won't go red.",
+            "you, I'd use a sunblock so you won't go red."
+          ]
+        },
+        {
+          "id": "b8",
+          "prompt": "The accident happened as a result of the driver not paying attention to the road.\nIf the driver",
+          "acceptedAnswers": [
+            "had been paying attention to the road, the accident wouldn't have happened.",
+            "had paid attention to the road, the accident wouldn't have happened.",
+            "had been paying attention to the road, the accident would not have happened."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c",
+      "type": "gap-fill",
+      "title": "C · Verb forms",
+      "instruction": "Complete using the correct form of the verbs in brackets. Add any other words you need.",
+      "items": [
+        {
+          "id": "c1",
+          "prompt": "So, today marks one year since I became a Park Ranger. If I ___ that then, I never would have had so many fantastic experiences. (do)",
+          "acceptedAnswers": ["hadn't done", "had not done"]
+        },
+        {
+          "id": "c2",
+          "prompt": "If I hadn't done that then, I never ___ so many fantastic experiences. (have)",
+          "acceptedAnswers": ["would have had"]
+        },
+        {
+          "id": "c3",
+          "prompt": "If you ___ me now, I would say that I knew nothing when I started, but I've learnt a huge amount. (ask)",
+          "acceptedAnswers": ["asked", "were to ask", "should ask"]
+        },
+        {
+          "id": "c4",
+          "prompt": "On a typical day, I'll deal with complaints, check on the running of the park and lead guided tours, if any ___. (book)",
+          "acceptedAnswers": ["are booked", "have been booked"]
+        },
+        {
+          "id": "c5",
+          "prompt": "If it's low season, I ___ time to check on forest management and fire control measures. (have)",
+          "acceptedAnswers": ["have", "'ll have", "will have"]
+        },
+        {
+          "id": "c6",
+          "prompt": "It can get stressful at times, especially if visitors to the park ___ lost or injured. (get)",
+          "acceptedAnswers": ["get"]
+        },
+        {
+          "id": "c7",
+          "prompt": "We had a case last week, which wouldn't ___ if the woman involved had been a bit more careful. (happen)",
+          "acceptedAnswers": ["have happened"]
+        },
+        {
+          "id": "c8",
+          "prompt": "We had a case last week, which wouldn't have happened if the woman involved ___ a bit more careful. (be)",
+          "acceptedAnswers": ["had been"]
+        },
+        {
+          "id": "c9",
+          "prompt": "You see, if you ___ around a large National Park like this without a map, you're bound to get lost. (wander)",
+          "acceptedAnswers": ["wander"]
+        },
+        {
+          "id": "c10",
+          "prompt": "This particular case might ___ so bad if it hadn't started raining. (be)",
+          "acceptedAnswers": ["not have been"]
+        },
+        {
+          "id": "c11",
+          "prompt": "This particular case might not have been so bad if it ___ raining. (start)",
+          "acceptedAnswers": ["hadn't started", "had not started"]
+        },
+        {
+          "id": "c12",
+          "prompt": "She was only wearing light clothes, so she was wet through and freezing when we found her. I dread to think what might ___ if we hadn't! (happen)",
+          "acceptedAnswers": ["have happened"]
+        }
+      ]
+    },
+    {
+      "id": "d",
+      "type": "multiple-choice",
+      "title": "D · Circle the correct word or phrase",
+      "instruction": "Choose the correct option.",
+      "items": [
+        {
+          "id": "d1",
+          "prompt": "If we hadn't taken a wrong turning back there, we wouldn't ___ in this mess now.",
+          "options": ["be", "have been"],
+          "acceptedAnswers": ["be"]
+        },
+        {
+          "id": "d2",
+          "prompt": "___ you need any further assistance, please don't hesitate to ask.",
+          "options": ["Should", "Would"],
+          "acceptedAnswers": ["Should"]
+        },
+        {
+          "id": "d3",
+          "prompt": "___ they not warned people in time, a lot more lives could have been lost.",
+          "options": ["Had", "Hadn't"],
+          "acceptedAnswers": ["Had"]
+        },
+        {
+          "id": "d4",
+          "prompt": "If you ___ last weekend when the boss asked you, then you would have to work this weekend.",
+          "options": ["worked", "had worked"],
+          "acceptedAnswers": ["had worked"]
+        },
+        {
+          "id": "d5",
+          "prompt": "Were all the members of staff to attend the conference, would the hotel ___ enough rooms for everyone?",
+          "options": ["have", "have had"],
+          "acceptedAnswers": ["have"]
+        },
+        {
+          "id": "d6",
+          "prompt": "Had the government acted sooner, the general public wouldn't ___ so much about the current situation.",
+          "options": ["be worrying", "have worried"],
+          "acceptedAnswers": ["be worrying"]
+        },
+        {
+          "id": "d7",
+          "prompt": "Tom Cruise wouldn't be the star he is today had he not / should he not have made a good impression in his early films.",
+          "options": ["had he not", "should he not have"],
+          "acceptedAnswers": ["had he not"]
+        },
+        {
+          "id": "d8",
+          "prompt": "___ we to build more roads, the traffic system would collapse by 2030.",
+          "options": ["Weren't we", "Were we not"],
+          "acceptedAnswers": ["Were we not"]
+        },
+        {
+          "id": "d9",
+          "prompt": "It would be hard enough to pass the exam tomorrow even if you ___ to all the lectures this year.",
+          "options": ["went", "had gone"],
+          "acceptedAnswers": ["had gone"]
+        },
+        {
+          "id": "d10",
+          "prompt": "You can contact the hotel manager on extension 142 should / could you need to.",
+          "options": ["should", "could"],
+          "acceptedAnswers": ["should"]
+        },
+        {
+          "id": "d11",
+          "prompt": "Shouldn't you / Should you not receive confirmation of your flight by e-mail, please click the link below.",
+          "options": ["Should you not", "Shouldn't you"],
+          "acceptedAnswers": ["Should you not"]
+        },
+        {
+          "id": "d12",
+          "prompt": "I would have asked the person for ID before I let him in, if I ___ you.",
+          "options": ["were", "have been"],
+          "acceptedAnswers": ["were"]
+        }
+      ]
+    },
+    {
+      "id": "e",
+      "type": "gap-fill",
+      "title": "E · Words in the box",
+      "instruction": "Complete using the words in the box.",
+      "wordBank": ["case", "condition", "long", "otherwise", "provided", "so", "suppose", "unless"],
+      "items": [
+        {
+          "id": "e1",
+          "prompt": "Do you want a highly-paid career, and, if ___, are you prepared to retrain? Contact us.",
+          "acceptedAnswers": ["so"]
+        },
+        {
+          "id": "e2",
+          "prompt": "I'm quite happy to lend you money, as ___ as you make sure I get it back.",
+          "acceptedAnswers": ["long"]
+        },
+        {
+          "id": "e3",
+          "prompt": "The village fair should be a great success, ___ we don't have the same problems with the weather as last year.",
+          "acceptedAnswers": ["provided", "unless"]
+        },
+        {
+          "id": "e4",
+          "prompt": "It'd be great to see you on Saturday evening, ___ you've already got other plans.",
+          "acceptedAnswers": ["unless"]
+        },
+        {
+          "id": "e5",
+          "prompt": "You may go to the shop for me if I have to stay in in ___ the courier comes.",
+          "acceptedAnswers": ["case"]
+        },
+        {
+          "id": "e6",
+          "prompt": "Your idea sounds fine in theory, but just ___ something goes wrong. What then?",
+          "acceptedAnswers": ["suppose"]
+        },
+        {
+          "id": "e7",
+          "prompt": "Write your name at the top of your essay, ___ I won't know which one's yours.",
+          "acceptedAnswers": ["otherwise"]
+        },
+        {
+          "id": "e8",
+          "prompt": "The judge allowed the accused to stay at home on ___ she reported to the police every morning.",
+          "acceptedAnswers": ["condition"]
+        }
+      ]
+    },
+    {
+      "id": "f",
+      "type": "gap-fill",
+      "title": "F · One word",
+      "instruction": "Write one word in each gap.",
+      "items": [
+        {
+          "id": "f1",
+          "prompt": "I would never be able to afford a new house if it ___ for all the overtime I've been doing.",
+          "acceptedAnswers": ["weren't", "wasn't"]
+        },
+        {
+          "id": "f2",
+          "prompt": "If it hadn't ___ for the fact that his uncle was a partner in the business, Angus would never have got the job.",
+          "acceptedAnswers": ["been"]
+        },
+        {
+          "id": "f3",
+          "prompt": "How do you think you'd feel if someone happened ___ damage your car like that?",
+          "acceptedAnswers": ["to"]
+        },
+        {
+          "id": "f4",
+          "prompt": "___ for the kindness of a complete stranger, I would never have found the hotel.",
+          "acceptedAnswers": ["But"]
+        },
+        {
+          "id": "f5",
+          "prompt": "I don't think I'd be surprised in the slightest ___ Paul were to suddenly announce that he was moving abroad.",
+          "acceptedAnswers": ["if"]
+        },
+        {
+          "id": "f6",
+          "prompt": "Don't forget to mention the new schedule to Veronica if you ___ happen to see her this evening.",
+          "acceptedAnswers": ["should"]
+        },
+        {
+          "id": "f7",
+          "prompt": "Football matches would be ideal family outings ___ it not for the danger of violence.",
+          "acceptedAnswers": ["were"]
+        },
+        {
+          "id": "f8",
+          "prompt": "If it hadn't been ___ the children, I'm sure Trisha would have left Tom a long time ago.",
+          "acceptedAnswers": ["for"]
+        },
+        {
+          "id": "f9",
+          "prompt": "I would have lost the game ___ it not been for some quick thinking.",
+          "acceptedAnswers": ["had"]
+        },
+        {
+          "id": "f10",
+          "prompt": "If you ___ find the book I was asking you about, give me a call.",
+          "acceptedAnswers": ["should", "happen"]
+        }
+      ]
+    },
+    {
+      "id": "g",
+      "type": "rewrite",
+      "title": "G · Rewrite, starting with the words given",
+      "instruction": "Rewrite the sentences, starting with the words given. Write the rest of the sentence.",
+      "items": [
+        {
+          "id": "g1",
+          "prompt": "The only reason we won the contract was Debbie's fantastic presentation.\nWe wouldn't have",
+          "acceptedAnswers": [
+            "won the contract if it hadn't been for Debbie's fantastic presentation.",
+            "won the contract but for Debbie's fantastic presentation.",
+            "won the contract if Debbie hadn't given a fantastic presentation."
+          ]
+        },
+        {
+          "id": "g2",
+          "prompt": "The eventual arrival of the ferry prevented a fight from breaking out amongst the passengers.\nIf it hadn't been for",
+          "acceptedAnswers": [
+            "the eventual arrival of the ferry, a fight would have broken out amongst the passengers.",
+            "the ferry eventually arriving, a fight would have broken out amongst the passengers."
+          ]
+        },
+        {
+          "id": "g3",
+          "prompt": "None of the passengers was injured because of the driver's quick reaction.\nBut",
+          "acceptedAnswers": [
+            "for the driver's quick reaction, some of the passengers would have been injured.",
+            "for the driver's quick reaction, the passengers would have been injured."
+          ]
+        },
+        {
+          "id": "g4",
+          "prompt": "We'll have to cancel the meeting if Wendy doesn't turn up soon.\nUnless",
+          "acceptedAnswers": [
+            "Wendy turns up soon, we'll have to cancel the meeting.",
+            "Wendy turns up soon, we will have to cancel the meeting."
+          ]
+        },
+        {
+          "id": "g5",
+          "prompt": "Mr Jones would be quite lonely if he didn't have his daughter's visits.\nWere it",
+          "acceptedAnswers": [
+            "not for his daughter's visits, Mr Jones would be quite lonely.",
+            "not for his daughter's visits, Mr Jones would be quite lonely"
+          ]
+        },
+        {
+          "id": "g6",
+          "prompt": "Here's my phone number, because you might need it.\nIn case",
+          "acceptedAnswers": [
+            "you need it, here's my phone number.",
+            "you need it, here's my phone number"
+          ]
+        },
+        {
+          "id": "g7",
+          "prompt": "Agree to be back by midnight and you can go.\nProviding",
+          "acceptedAnswers": [
+            "you agree to be back by midnight, you can go.",
+            "(that) you agree to be back by midnight, you can go.",
+            "that you agree to be back by midnight, you can go."
+          ]
+        },
+        {
+          "id": "g8",
+          "prompt": "Officer Hughes prevented the robbers from escaping.\nHad it",
+          "acceptedAnswers": [
+            "not been for Officer Hughes, the robbers would have escaped.",
+            "not been for Officer Hughes, the robbers would have escaped"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "h",
+      "type": "multiple-choice",
+      "title": "H · Choose the correct answer",
+      "instruction": "Choose the correct option.",
+      "items": [
+        {
+          "id": "h1",
+          "prompt": "If you saw another student cheating in an exam, ___ somebody?",
+          "options": ["did you tell", "do you tell", "would you tell", "would you told"],
+          "acceptedAnswers": ["would you tell"]
+        },
+        {
+          "id": "h2",
+          "prompt": "Make sure you mix the ingredients well, ___ you might get lumps in your cake.",
+          "options": ["unless", "otherwise", "provided", "supposing"],
+          "acceptedAnswers": ["otherwise"]
+        },
+        {
+          "id": "h3",
+          "prompt": "Were ___ my dad, I would never have started playing tennis in the first place.",
+          "options": ["it for", "it hadn't been for", "it to be for", "it not for"],
+          "acceptedAnswers": ["it not for"]
+        },
+        {
+          "id": "h4",
+          "prompt": "If I ___ hear from Nigel, I'll tell him you were asking after him.",
+          "options": ["happened", "should happen to", "should to", "will happen to"],
+          "acceptedAnswers": ["should happen to"]
+        },
+        {
+          "id": "h5",
+          "prompt": "The book would have been perfect ___ the ending.",
+          "options": ["had it not been for", "it had not been for", "it hadn't been for", "hadn't it been for"],
+          "acceptedAnswers": ["had it not been for"]
+        },
+        {
+          "id": "h6",
+          "prompt": "If you hadn't taken the money, you ___ in prison now.",
+          "options": ["wouldn't have been", "hadn't been", "haven't been", "wouldn't be"],
+          "acceptedAnswers": ["wouldn't be"]
+        },
+        {
+          "id": "h7",
+          "prompt": "Do you think that if we ___ earlier we might not have missed the coach?",
+          "options": ["have been leaving", "left", "had left", "would have left"],
+          "acceptedAnswers": ["had left"]
+        },
+        {
+          "id": "h8",
+          "prompt": "Unless Ray ___ here soon, I'm going to leave because I'm getting bored.",
+          "options": ["doesn't get", "gets", "won't get", "will get"],
+          "acceptedAnswers": ["gets"]
+        },
+        {
+          "id": "h9",
+          "prompt": "What if I ___ you that there's a good chance I can get tickets for the concert?",
+          "options": ["were to tell", "were telling", "have told", "would to tell"],
+          "acceptedAnswers": ["were to tell"]
+        },
+        {
+          "id": "h10",
+          "prompt": "If there ___ happen to be any reason for late delivery, please inform our Accounts Department.",
+          "options": ["might", "could", "would", "should"],
+          "acceptedAnswers": ["should"]
+        }
+      ]
+    },
+    {
+      "id": "i",
+      "type": "gap-fill",
+      "title": "I · CFCs cloze",
+      "instruction": "Write one word in each gap.",
+      "items": [
+        {
+          "id": "i1",
+          "prompt": "Had ___ not been for the invention of CFCs in the 1920s, at least one environmental problem might have been avoided.",
+          "acceptedAnswers": ["it"]
+        },
+        {
+          "id": "i2",
+          "prompt": "In fact, ___ they to be invented today, they would no doubt be immediately banned.",
+          "acceptedAnswers": ["were"]
+        },
+        {
+          "id": "i3",
+          "prompt": "Were they to be invented today, they ___ no doubt be immediately banned.",
+          "acceptedAnswers": ["would"]
+        },
+        {
+          "id": "i4",
+          "prompt": "For fifty years, though, if you bought an air conditioner or a spray, there ___ a good chance that it contained CFCs — and those CFCs are still around in the atmosphere.",
+          "acceptedAnswers": ["was"]
+        },
+        {
+          "id": "i5",
+          "prompt": "If you ___ able to travel into the upper layers of the atmosphere, you would see the chlorine and fluorine from CFCs breaking down the ozone.",
+          "acceptedAnswers": ["were"]
+        },
+        {
+          "id": "i6",
+          "prompt": "If you were able to travel into the upper layers of the atmosphere, you ___ see the chlorine and fluorine from CFCs breaking down the ozone.",
+          "acceptedAnswers": ["would", "could", "might"]
+        },
+        {
+          "id": "i7",
+          "prompt": "Ozone could damage your lungs ___ you were to breathe it, but high in the atmosphere it performs a useful function.",
+          "acceptedAnswers": ["if"]
+        },
+        {
+          "id": "i8",
+          "prompt": "Ultraviolet rays from the sun can cause skin cancer if you ___ exposed to them.",
+          "acceptedAnswers": ["are", "were"]
+        },
+        {
+          "id": "i9",
+          "prompt": "We might ___ have known about the process had it not been for the work of two American scientists.",
+          "acceptedAnswers": ["not", "never"]
+        },
+        {
+          "id": "i10",
+          "prompt": "We might not have known about the process ___ it not been for the work of Frank Rowland and Mario Molina.",
+          "acceptedAnswers": ["had"]
+        },
+        {
+          "id": "i11",
+          "prompt": "A number of industries fought against their conclusions, and might have won ___ the evidence not been so clear.",
+          "acceptedAnswers": ["had"]
+        },
+        {
+          "id": "i12",
+          "prompt": "Rowland and Molina received the Nobel Prize in 1995, ___ which we might today be facing an even greater problem.",
+          "acceptedAnswers": ["without"]
+        }
+      ]
+    },
+    {
+      "id": "j",
+      "type": "rewrite",
+      "title": "J · Key word transformation",
+      "instruction": "Complete the second sentence so that it has a similar meaning to the first sentence, using the word given. Do not change the word given. Use between three and eight words, including the word given. Write only the missing part.",
+      "items": [
+        {
+          "id": "j1",
+          "prompt": "Without this new diet, Henry would never have lost so much weight.\n**it**\nHad ___ this new diet, Henry would never have lost so much weight.",
+          "acceptedAnswers": ["it not been for"]
+        },
+        {
+          "id": "j2",
+          "prompt": "Unless the plans change, we'll see you on the 19th.\n**no**\nProvided ___ the plans, we'll see you on the 19th.",
+          "acceptedAnswers": ["there is no change to", "there are no changes to", "there is no change in"]
+        },
+        {
+          "id": "j3",
+          "prompt": "If you applied now, there's a good chance you would get the job.\n**apply**\nWere ___ , there's a good chance you would get the job.",
+          "acceptedAnswers": ["you to apply now"]
+        },
+        {
+          "id": "j4",
+          "prompt": "I didn't know about your problem so I didn't offer to help.\n**have**\nIf I'd known about your problem, I ___ to help.",
+          "acceptedAnswers": ["would have offered", "would have offered"]
+        },
+        {
+          "id": "j5",
+          "prompt": "It could get cold at night, so take some warm clothes.\n**in**\nTake some warm clothes ___ cold at night.",
+          "acceptedAnswers": ["in case it gets", "in case it should get"]
+        },
+        {
+          "id": "j6",
+          "prompt": "I'd love to travel the world if I didn't have to pay off my mortgage.\n**having**\nWere ___ to pay off my mortgage, I'd love to travel the world.",
+          "acceptedAnswers": ["it not for having", "I not having"]
+        },
+        {
+          "id": "j7",
+          "prompt": "Ten years ago, people would have complained at seeing this film.\n**seen**\nHad ___ , they would have complained.",
+          "acceptedAnswers": ["people seen this film ten years ago", "this film been seen ten years ago"]
+        },
+        {
+          "id": "j8",
+          "prompt": "Drivers are allowed to park here if they display a local resident permit.\n**condition**\nDrivers are allowed to park here ___ they display a local resident permit.",
+          "acceptedAnswers": ["on condition that", "on the condition that"]
+        }
+      ]
+    }
+  ]
+}

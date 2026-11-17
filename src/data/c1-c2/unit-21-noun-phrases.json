@@ -1,0 +1,1085 @@
+{
+  "id": "unit-21-noun-phrases",
+  "level": "c1-c2",
+  "unitNumber": 21,
+  "title": "Noun phrases",
+  "subtitle": "Countable and uncountable nouns, articles and quantifiers",
+  "theory": [
+    {
+      "id": "countable-nouns",
+      "title": "Countable nouns",
+      "icon": "BookOpen",
+      "blocks": [
+        {
+          "type": "prose",
+          "text": "Countable nouns have a singular and a plural form. **That painting** is amazing. **Those paintings** are dreadful."
+        },
+        {
+          "type": "hints",
+          "intro": "Some countable nouns …",
+          "items": [
+            "have irregular plurals, e.g. **person/people, mouse/mice**.",
+            "do not change in their plural form, e.g. **the sheep is …, the sheep are …**.",
+            "with hyphens usually form the plural by pluralising the key word, e.g. **brothers-in-law, over-achievers**.",
+            "with organisations and groups of people (e.g. **group/team/etc**), it often makes no difference whether the verb is singular or plural. **The government is/are** not doing anything to help the arts.",
+            "when we want to refer to a group, we use certain phrases ending in **of**. These include: **a flock of birds/sheep, a herd of cows/elephants, a pack of cards/dogs, a bunch of flowers/grapes/keys, a set of encyclopaedias/keys**."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "singular-uncountable",
+      "title": "Singular uncountable nouns",
+      "icon": "Table2",
+      "blocks": [
+        {
+          "type": "prose",
+          "text": "Singular uncountable nouns only have a singular form. They only take verbs in the singular. **Is the information** reliable?"
+        },
+        {
+          "type": "word-list",
+          "intro": "Singular uncountable nouns include:",
+          "words": [
+            "advice",
+            "blood",
+            "bread",
+            "furniture",
+            "hair",
+            "information",
+            "jewellery",
+            "knowledge",
+            "luggage",
+            "milk",
+            "money",
+            "news",
+            "permission",
+            "respect",
+            "water"
+          ]
+        },
+        {
+          "type": "hints",
+          "items": [
+            "With singular uncountable nouns, if we want to describe one particular item, we have to use a phrase ending in **of** before the noun.",
+            "Common phrases include: **a bar of chocolate/soap, a bit of help/advice, a blade of grass, a block of concrete, a breath of fresh air, a drop of water, a grain of salt/sand, a gust of wind, a loaf of bread, a lump of sugar, a piece of bread/information, a scrap of paper, a sheet of paper, a slice of bread/cheese, a speck of dust/dirt, a spot of ink**."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "plural-uncountable",
+      "title": "Plural uncountable nouns",
+      "icon": "Sparkles",
+      "blocks": [
+        {
+          "type": "prose",
+          "text": "Plural uncountable nouns only have a plural form. They only take verbs in the plural. **The scissors aren't** on the table."
+        },
+        {
+          "type": "word-list",
+          "intro": "Plural uncountable nouns include:",
+          "words": [
+            "arms",
+            "binoculars",
+            "cattle",
+            "clothes",
+            "congratulations",
+            "earnings",
+            "glasses",
+            "goods",
+            "groceries",
+            "jeans",
+            "odds",
+            "pants",
+            "pliers",
+            "premises",
+            "pyjamas",
+            "regards",
+            "remains",
+            "scales",
+            "scissors",
+            "shorts",
+            "surroundings",
+            "thanks",
+            "tights",
+            "trousers",
+            "valuables"
+          ]
+        },
+        {
+          "type": "hints",
+          "items": [
+            "With plural uncountable nouns, we can sometimes use **a pair of**, usually when we see something as having two parts/legs/etc, e.g. **a pair of binoculars/trousers/scissors/etc**."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "countable-uncountable-watch",
+      "title": "Countable or uncountable?",
+      "icon": "AlertTriangle",
+      "blocks": [
+        {
+          "type": "watch-out",
+          "text": "Some uncountable nouns end in **-s** but are singular, e.g. **diabetes, news, physics, politics**."
+        },
+        {
+          "type": "watch-out",
+          "text": "Many nouns are countable with one meaning and uncountable with another meaning. These include: **cake, chicken, chocolate, damage, glass, hair, paper, time, wood, work**.",
+          "note": "The table is made of **wood**. (uncountable = the material) · It's a picture of **a wood**. (countable = a small forest)"
+        },
+        {
+          "type": "hints",
+          "items": [
+            "Some nouns which are usually uncountable are used as countable nouns in certain expressions, e.g. **a knowledge of, a great help**."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "quantifiers",
+      "title": "Quantifiers",
+      "icon": "ListChecks",
+      "blocks": [
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "only with countable nouns",
+              "example": "**a couple of (the), a number of (the), both (of) (the), each (of the), either (of the), every, neither (of the), the entire, the whole (of) (the), (a) few (of the), only a few (of the), half (of) (the), many (of the), several (of the)**"
+            },
+            {
+              "use": "only with singular uncountable nouns",
+              "example": "**an amount of, a great deal of, a little (of the), little (of the), much (of the), only a little (of the)**"
+            },
+            {
+              "use": "with countable and uncountable nouns",
+              "example": "**all (of) (the), a lot of / lots of (the), all (of) (the), any (of the), enough (of the), more (of the), most (of the), no, none (of the), plenty of (the), some (of the)**"
+            }
+          ]
+        },
+        {
+          "type": "watch-out",
+          "text": "**a few** = some; **few** = not many; **only a few** = not many. **little** + countable noun = small; **little** + uncountable noun = not much; **a little** + uncountable noun = some."
+        }
+      ]
+    },
+    {
+      "id": "indefinite-article",
+      "title": "Indefinite articles: a / an",
+      "icon": "PencilLine",
+      "blocks": [
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "talking about one thing, but not being specific",
+              "example": "I'd like to go to **a concert** tonight but there's nothing good on."
+            },
+            {
+              "use": "mentioning something for the first time",
+              "example": "I've had **a great idea**!"
+            },
+            {
+              "use": "talking about things generally (formal)",
+              "example": "**A poet** sees the world differently. (= Poets see … )"
+            }
+          ]
+        },
+        {
+          "type": "watch-out",
+          "text": "We use **a** before a consonant **sound**, and **an** before a vowel **sound**. It is the sound, not the spelling, that is important.",
+          "note": "**a unique** experience, **an umbrella**"
+        },
+        {
+          "type": "hints",
+          "items": [
+            "We use **a/an** to show what group someone or something belongs to, or to classify it/him/her. **Liz is a modernist.**"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "definite-article",
+      "title": "Definite article: the",
+      "icon": "CheckCircle2",
+      "blocks": [
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "singular countable nouns · being specific",
+              "example": "Is that **the band** you were talking about?"
+            },
+            {
+              "use": "singular countable nouns · talking generally (formal)",
+              "example": "**The guitar** is one of the oldest musical instruments. (= Guitars are … )"
+            },
+            {
+              "use": "plural countable and uncountable nouns · being specific",
+              "example": "**The scales** are balanced to symbolise equality."
+            },
+            {
+              "use": "singular uncountable nouns · being specific",
+              "example": "Who did **the publicity** for the show?"
+            },
+            {
+              "use": "with some adjectives to mean groups of people",
+              "example": "Pop music has always appealed more to **the young** than **the old**."
+            }
+          ]
+        },
+        {
+          "type": "watch-out",
+          "text": "We often use **the** with physical things that are unique (e.g. **the moon, the Queen**). We often use **the** with superlatives (e.g. **the best**) and cardinal numbers (e.g. **the first**)."
+        },
+        {
+          "type": "hints",
+          "items": [
+            "We can use **the** to mean the well-known or the famous. **I bumped into Damien Hirst, the artist, in the supermarket.** (= the well-known artist)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "zero-article",
+      "title": "Zero article: no article at all",
+      "icon": "Lightbulb",
+      "blocks": [
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "with plural countable and uncountable nouns · talking generally",
+              "example": "Don't let your young child use **scissors** unsupervised."
+            },
+            {
+              "use": "with singular uncountable nouns · talking generally",
+              "example": "An artist always needs **inspiration**."
+            }
+          ]
+        },
+        {
+          "type": "watch-out",
+          "text": "We often use no article for concepts (i.e. not physical things), e.g. **society, space, nature**."
+        }
+      ]
+    },
+    {
+      "id": "articles-by-category",
+      "title": "Articles by category and with particular phrases",
+      "icon": "Table2",
+      "blocks": [
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "Time",
+              "example": "indefinite: **in an hour, in a second** · definite: **in the 1840s, in the winter, in the afternoon** · zero: **in 2010, in winter, in December, on Tuesday, at night**"
+            },
+            {
+              "use": "People and work",
+              "example": "indefinite: **have a job, work as a teacher, I met a very nice American last night** · definite: **the King, the Principal, the President, the British** · zero: **Russians, become President, go to work, be at work, have work to do**"
+            },
+            {
+              "use": "Places",
+              "example": "indefinite: **Is there a beach near here?** · definite: **the Himalayas, the Pacific Ocean, the Seine, the Earth, the Antarctic, the USA, the UK, the Scilly Isles** · zero: **Mount Everest, Berlin, America, Antarctica, Jupiter, Fleet Street, Lake Michigan, Mykonos**"
+            },
+            {
+              "use": "Public buildings",
+              "example": "indefinite: **Is there a bank near here?** · definite: **the bank, the post office, go to the hospital/prison/school (as a visitor)** · zero: **go to school/hospital/prison (as a student/patient/prisoner)**"
+            },
+            {
+              "use": "Entertainment and sport",
+              "example": "indefinite: **Play us a song!, I've got a tennis ball** · definite: **play the guitar, the media, on the radio, go to the cinema, watch the TV** · zero: **play tennis, play guitar, listen to music, on television, watch TV**"
+            },
+            {
+              "use": "Organisations",
+              "example": "indefinite: **Does Switzerland have an army?** · definite: **the BBC, the police, the emergency services, the United Nations** · zero: **NATO**"
+            },
+            {
+              "use": "Education",
+              "example": "indefinite: **have a lesson, take an exam** · definite: **in the first year** · zero: **geography, be in class/year/form 5**"
+            },
+            {
+              "use": "Travel",
+              "example": "indefinite: **take a taxi, catch a bus/train** · definite: **in the car/taxi, on the bus/plane** · zero: **go by car/plane, go home, go by car/plane**"
+            },
+            {
+              "use": "Health",
+              "example": "indefinite: **have a cold/headache/toothache/stomach ache** · definite: **have the flu/measles** · zero: **have flu/measles/toothache/stomach ache**"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "a",
+      "type": "multiple-choice",
+      "title": "A · Circle the correct word",
+      "instruction": "Choose the correct word. If both forms are possible, choose the option that includes both.",
+      "items": [
+        {
+          "id": "a1",
+          "prompt": "Are those ___ or goats in that field over there?",
+          "options": ["sheep", "sheeps", "sheep / sheeps"],
+          "acceptedAnswers": ["sheep"]
+        },
+        {
+          "id": "a2",
+          "prompt": "How many ___ have you got?",
+          "options": ["sister-in-laws", "sisters-in-law", "sister-in-laws / sisters-in-law"],
+          "acceptedAnswers": ["sisters-in-law"]
+        },
+        {
+          "id": "a3",
+          "prompt": "Look at those lovely little ___ !",
+          "options": ["fish", "fishes", "fish / fishes"],
+          "acceptedAnswers": ["fish / fishes"]
+        },
+        {
+          "id": "a4",
+          "prompt": "I've only got one important piece of ___ to tell you, I think.",
+          "options": ["new", "news", "new / news"],
+          "acceptedAnswers": ["news"]
+        },
+        {
+          "id": "a5",
+          "prompt": "The hairdresser quickly swept up the ___ on the floor.",
+          "options": ["hair", "hairs", "hair / hairs"],
+          "acceptedAnswers": ["hair / hairs"]
+        },
+        {
+          "id": "a6",
+          "prompt": "I'll be giving you a lot of ___ , so do please take notes.",
+          "options": ["information", "informations", "information / informations"],
+          "acceptedAnswers": ["information"]
+        },
+        {
+          "id": "a7",
+          "prompt": "We've bought quite a lot of ___ in the last few days.",
+          "options": ["furniture", "furnitures", "furniture / furnitures"],
+          "acceptedAnswers": ["furniture"]
+        },
+        {
+          "id": "a8",
+          "prompt": "Could you give us both ___ to miss PE tomorrow?",
+          "options": ["permission", "permissions", "permission / permissions"],
+          "acceptedAnswers": ["permission"]
+        },
+        {
+          "id": "a9",
+          "prompt": "___ is my favourite subject by far.",
+          "options": ["Physic", "Physics", "Physic / Physics"],
+          "acceptedAnswers": ["Physics"]
+        },
+        {
+          "id": "a10",
+          "prompt": "I think I've got some ___ on me.",
+          "options": ["money", "monies", "money / monies"],
+          "acceptedAnswers": ["money"]
+        },
+        {
+          "id": "a11",
+          "prompt": "I'm going to give them all the ___ I can.",
+          "options": ["advice", "advices", "advice / advices"],
+          "acceptedAnswers": ["advice"]
+        },
+        {
+          "id": "a12",
+          "prompt": "What kind of ___ are you interested in getting?",
+          "options": ["jewellery", "jewelleries", "jewellery / jewelleries"],
+          "acceptedAnswers": ["jewellery"]
+        },
+        {
+          "id": "a13",
+          "prompt": "Would you like some ___ ?",
+          "options": ["chocolate", "chocolates", "chocolate / chocolates"],
+          "acceptedAnswers": ["chocolate / chocolates"]
+        },
+        {
+          "id": "a14",
+          "prompt": "I've got to have very good general ___ to go on Who Wants To Be A Millionaire.",
+          "options": ["knowledge", "knowledges", "knowledge / knowledges"],
+          "acceptedAnswers": ["knowledge"]
+        },
+        {
+          "id": "a15",
+          "prompt": "I've always been interested in ___ .",
+          "options": ["politic", "politics", "politic / politics"],
+          "acceptedAnswers": ["politics"]
+        }
+      ]
+    },
+    {
+      "id": "b",
+      "type": "gap-fill",
+      "title": "B · Verb form",
+      "instruction": "Complete using the correct form of the verb in brackets.",
+      "items": [
+        {
+          "id": "b1",
+          "prompt": "___ all the furniture very expensive when you got it? (be)",
+          "acceptedAnswers": ["Was"]
+        },
+        {
+          "id": "b2",
+          "prompt": "My earnings ___ considerably over the last two years. (increase)",
+          "acceptedAnswers": ["have increased", "'ve increased"]
+        },
+        {
+          "id": "b3",
+          "prompt": "___ all the luggage yours? (be)",
+          "acceptedAnswers": ["Is"]
+        },
+        {
+          "id": "b4",
+          "prompt": "Your pyjamas ___ on your bed, I think. (be)",
+          "acceptedAnswers": ["are"]
+        },
+        {
+          "id": "b5",
+          "prompt": "Politics ___ a love of mine, as well as my profession. (be)",
+          "acceptedAnswers": ["is"]
+        },
+        {
+          "id": "b6",
+          "prompt": "___ your team doing well in the league right now? (be)",
+          "acceptedAnswers": ["Is", "Are"]
+        },
+        {
+          "id": "b7",
+          "prompt": "The people over there ___ serving. (need)",
+          "acceptedAnswers": ["need"]
+        },
+        {
+          "id": "b8",
+          "prompt": "___ the news good or bad? (be)",
+          "acceptedAnswers": ["Is"]
+        },
+        {
+          "id": "b9",
+          "prompt": "There ___ blood all over the floor! (be)",
+          "acceptedAnswers": ["is", "was"]
+        },
+        {
+          "id": "b10",
+          "prompt": "The cattle ___ at the moment. (eat)",
+          "acceptedAnswers": ["are eating"]
+        },
+        {
+          "id": "b11",
+          "prompt": "Diabetes ___ very common these days. (be)",
+          "acceptedAnswers": ["is"]
+        },
+        {
+          "id": "b12",
+          "prompt": "Where ___ the scissors? (be)",
+          "acceptedAnswers": ["are"]
+        },
+        {
+          "id": "b13",
+          "prompt": "My work ___ the most important thing in my life. (be)",
+          "acceptedAnswers": ["is"]
+        },
+        {
+          "id": "b14",
+          "prompt": "I think the milk ___ . Shall I pour it away? (go off)",
+          "acceptedAnswers": ["has gone off", "'s gone off", "is going off"]
+        },
+        {
+          "id": "b15",
+          "prompt": "The jeans I tried on in the shop yesterday ___ far too small. (be)",
+          "acceptedAnswers": ["were"]
+        }
+      ]
+    },
+    {
+      "id": "c",
+      "type": "rewrite",
+      "title": "C · Phrases ending in of",
+      "instruction": "If the word in bold is correct, write a tick (✓). If it is in the wrong sentence, write the correct word.",
+      "items": [
+        {
+          "id": "c1",
+          "prompt": "I'm off to the newsagent's to get a **pair** of chocolate. Do you want anything?",
+          "acceptedAnswers": ["bar"]
+        },
+        {
+          "id": "c2",
+          "prompt": "Could you get me a **flock** of chewing gum when you go to the shops?",
+          "acceptedAnswers": ["pack", "packet"]
+        },
+        {
+          "id": "c3",
+          "prompt": "I think I'll have another **herd** of toast.",
+          "acceptedAnswers": ["slice", "piece", "bit"]
+        },
+        {
+          "id": "c4",
+          "prompt": "Just add a **breath** of milk if the mixture starts to get a bit dry.",
+          "acceptedAnswers": ["drop", "spot", "splash"]
+        },
+        {
+          "id": "c5",
+          "prompt": "I'm popping out for a **pack** of fresh air. Do you want to come?",
+          "acceptedAnswers": ["breath"]
+        },
+        {
+          "id": "c6",
+          "prompt": "There was a **block** of cows being taken down the lane for milking, and it took us ages to get by.",
+          "acceptedAnswers": ["herd"]
+        },
+        {
+          "id": "c7",
+          "prompt": "You said you wanted to get a new **bar** of trousers, didn't you?",
+          "acceptedAnswers": ["pair"]
+        },
+        {
+          "id": "c8",
+          "prompt": "Get us a **bunch** of bread when you go to the shops, won't you?",
+          "acceptedAnswers": ["loaf"]
+        },
+        {
+          "id": "c9",
+          "prompt": "I was thinking of getting Jill a **blade** of flowers for our anniversary. Do you think that's romantic?",
+          "acceptedAnswers": ["bunch"]
+        },
+        {
+          "id": "c10",
+          "prompt": "There was a really strong **drop** of wind and it blew a man's wig off!",
+          "acceptedAnswers": ["gust"]
+        },
+        {
+          "id": "c11",
+          "prompt": "My mum's so houseproud; there's never a **gust** of dust anywhere in the house.",
+          "acceptedAnswers": ["speck", "spot"]
+        },
+        {
+          "id": "c12",
+          "prompt": "Could you cut me off a small **slice** of that cheese?",
+          "acceptedAnswers": ["✓", "tick", "correct", "slice"]
+        },
+        {
+          "id": "c13",
+          "prompt": "That **speck** of birds will be migrating south for the winter, I'd imagine.",
+          "acceptedAnswers": ["flock"]
+        },
+        {
+          "id": "c14",
+          "prompt": "Since we got the goat, there's not a **loaf** of grass longer than about two centimetres!",
+          "acceptedAnswers": ["blade"]
+        },
+        {
+          "id": "c15",
+          "prompt": "We do like a nice **bit** of steak every now and again, don't we, Francis?",
+          "acceptedAnswers": ["✓", "tick", "correct", "bit", "piece"]
+        },
+        {
+          "id": "c16",
+          "prompt": "How heavy's that **sheet** of concrete, would you say?",
+          "acceptedAnswers": ["block"]
+        },
+        {
+          "id": "c17",
+          "prompt": "We'll give you a **set** of keys and a security pass.",
+          "acceptedAnswers": ["✓", "tick", "correct", "set"]
+        },
+        {
+          "id": "c18",
+          "prompt": "There's not a **grain** of truth in what she said.",
+          "acceptedAnswers": ["✓", "tick", "correct", "grain"]
+        },
+        {
+          "id": "c19",
+          "prompt": "Is one **piece** of sugar enough?",
+          "acceptedAnswers": ["lump"]
+        },
+        {
+          "id": "c20",
+          "prompt": "I'll tear you off a **lump** of paper if you're going to take notes.",
+          "acceptedAnswers": ["sheet", "scrap", "piece"]
+        }
+      ]
+    },
+    {
+      "id": "d",
+      "type": "gap-fill",
+      "title": "D · Countable and uncountable pairs",
+      "instruction": "Complete the pairs of sentences using the correct form of a word in the box.",
+      "wordBank": [
+        "arm",
+        "cake",
+        "chicken",
+        "chocolate",
+        "damage",
+        "glass",
+        "hair",
+        "help",
+        "knowledge",
+        "paper",
+        "space",
+        "time",
+        "wood",
+        "work"
+      ],
+      "items": [
+        {
+          "id": "d1",
+          "prompt": "Right! I'm off to ___ .",
+          "acceptedAnswers": ["work"]
+        },
+        {
+          "id": "d2",
+          "prompt": "How many ___ of art by Picasso can you actually name?",
+          "acceptedAnswers": ["works"]
+        },
+        {
+          "id": "d3",
+          "prompt": "The storm did quite a lot of ___ , so I hear.",
+          "acceptedAnswers": ["damage"]
+        },
+        {
+          "id": "d4",
+          "prompt": "The jury awarded them ___ of over €500,000.",
+          "acceptedAnswers": ["damages"]
+        },
+        {
+          "id": "d5",
+          "prompt": "I don't think I've ever baked three ___ from scratch in one day.",
+          "acceptedAnswers": ["cakes"]
+        },
+        {
+          "id": "d6",
+          "prompt": "Would you like another piece of ___ ?",
+          "acceptedAnswers": ["cake"]
+        },
+        {
+          "id": "d7",
+          "prompt": "Thanks, you've been a great ___ .",
+          "acceptedAnswers": ["help"]
+        },
+        {
+          "id": "d8",
+          "prompt": "Without your ___ , we don't know what we'd have done.",
+          "acceptedAnswers": ["help"]
+        },
+        {
+          "id": "d9",
+          "prompt": "Ed was looking in the mirror and noticed one of his ___ had gone grey.",
+          "acceptedAnswers": ["hairs"]
+        },
+        {
+          "id": "d10",
+          "prompt": "I gather that long ___ is back in fashion amongst the young.",
+          "acceptedAnswers": ["hair"]
+        },
+        {
+          "id": "d11",
+          "prompt": "Did you know that ___ is actually a kind of liquid?",
+          "acceptedAnswers": ["glass"]
+        },
+        {
+          "id": "d12",
+          "prompt": "I can't find my ___ . Have you seen them anywhere?",
+          "acceptedAnswers": ["glasses"]
+        },
+        {
+          "id": "d13",
+          "prompt": "Is your left ___ really longer than your right?",
+          "acceptedAnswers": ["arm"]
+        },
+        {
+          "id": "d14",
+          "prompt": "The ___ trade is an industry I'd rather have nothing to do with.",
+          "acceptedAnswers": ["arms"]
+        },
+        {
+          "id": "d15",
+          "prompt": "Let's have a picnic in the ___ .",
+          "acceptedAnswers": ["wood"]
+        },
+        {
+          "id": "d16",
+          "prompt": "That table's not made of ___ . It's plastic!",
+          "acceptedAnswers": ["wood"]
+        },
+        {
+          "id": "d17",
+          "prompt": "Phil's ___ of eighteenth century pottery is astounding.",
+          "acceptedAnswers": ["knowledge"]
+        },
+        {
+          "id": "d18",
+          "prompt": "Phil's got a great ___ of eighteenth century pottery.",
+          "acceptedAnswers": ["knowledge"]
+        },
+        {
+          "id": "d19",
+          "prompt": "No one can hear you scream in ___ because there's no sound.",
+          "acceptedAnswers": ["space"]
+        },
+        {
+          "id": "d20",
+          "prompt": "Why are there no parking ___ round here at all?",
+          "acceptedAnswers": ["spaces"]
+        },
+        {
+          "id": "d21",
+          "prompt": "How did people write things down before ___ was invented?",
+          "acceptedAnswers": ["paper"]
+        },
+        {
+          "id": "d22",
+          "prompt": "The story appeared in most of the Sunday ___ .",
+          "acceptedAnswers": ["papers"]
+        },
+        {
+          "id": "d23",
+          "prompt": "One of our ___ is ill so we've had to call the vet out.",
+          "acceptedAnswers": ["chickens"]
+        },
+        {
+          "id": "d24",
+          "prompt": "This ___ tastes delicious!",
+          "acceptedAnswers": ["chicken"]
+        },
+        {
+          "id": "d25",
+          "prompt": "How many ___ have I told you not to do that?",
+          "acceptedAnswers": ["times"]
+        },
+        {
+          "id": "d26",
+          "prompt": "What ___ did you get home last night?",
+          "acceptedAnswers": ["time"]
+        },
+        {
+          "id": "d27",
+          "prompt": "Let's get a big bar of milk ___ .",
+          "acceptedAnswers": ["chocolate"]
+        },
+        {
+          "id": "d28",
+          "prompt": "Oh no! There are only two ___ left in the box!",
+          "acceptedAnswers": ["chocolates"]
+        }
+      ]
+    },
+    {
+      "id": "e",
+      "type": "rewrite",
+      "title": "E · Similar meaning",
+      "instruction": "Complete each second sentence using one of the two words in bold and any other words you need so that it has a similar meaning to the first sentence. Write only the missing part.",
+      "items": [
+        {
+          "id": "e1",
+          "prompt": "Only two boys volunteered to hand out programmes.\n**double / couple**\nOnly ___ boys volunteered to hand out programmes.",
+          "acceptedAnswers": ["a couple of"]
+        },
+        {
+          "id": "e2",
+          "prompt": "There were quite a few people at the party who I knew.\n**number / amount**\nThere were ___ people at the party who I knew.",
+          "acceptedAnswers": ["a number of", "quite a number of"]
+        },
+        {
+          "id": "e3",
+          "prompt": "When I was small, I'd never heard of computers.\n**little / few**\nWhen I was ___ girl, I'd never heard of computers.",
+          "acceptedAnswers": ["a little"]
+        },
+        {
+          "id": "e4",
+          "prompt": "There's not much ketchup left in the bottle.\n**little / few**\nThere's only ___ ketchup left in the bottle.",
+          "acceptedAnswers": ["a little", "little"]
+        },
+        {
+          "id": "e5",
+          "prompt": "Some kids have put their names down already.\n**little / few**\nOnly ___ kids have put their names down already.",
+          "acceptedAnswers": ["a few", "few"]
+        },
+        {
+          "id": "e6",
+          "prompt": "I haven't got much money on me, I'm afraid.\n**number / amount**\nI've only got ___ money on me, I'm afraid.",
+          "acceptedAnswers": ["a small amount of", "a tiny amount of", "an amount of"]
+        },
+        {
+          "id": "e7",
+          "prompt": "I didn't understand a lot of what she said, to be honest.\n**much / many**\nI didn't understand ___ what she said, to be honest.",
+          "acceptedAnswers": ["much of"]
+        },
+        {
+          "id": "e8",
+          "prompt": "Not enough British people can speak a foreign language.\n**little / few**\n___ British people can speak a foreign language.",
+          "acceptedAnswers": ["Few", "Very few"]
+        }
+      ]
+    },
+    {
+      "id": "f",
+      "type": "multiple-choice",
+      "title": "F · Quantifiers",
+      "instruction": "Choose the correct word or phrase. More than one option may be correct — if so, choose the combined option.",
+      "items": [
+        {
+          "id": "f1",
+          "prompt": "Would you like ___ coffee?",
+          "options": ["any", "some", "any / some"],
+          "acceptedAnswers": ["any / some"]
+        },
+        {
+          "id": "f2",
+          "prompt": "I've hardly got ___ money left!",
+          "options": ["any", "some", "any / some"],
+          "acceptedAnswers": ["any"]
+        },
+        {
+          "id": "f3",
+          "prompt": "___ of the ducks have names.",
+          "options": ["Only a few", "Few", "A few", "Only a few / Few / A few"],
+          "acceptedAnswers": ["Only a few"]
+        },
+        {
+          "id": "f4",
+          "prompt": "I've only got ___ time, so make it quick!",
+          "options": ["a little", "little", "a small amount of", "a little / a small amount of"],
+          "acceptedAnswers": ["a little / a small amount of"]
+        },
+        {
+          "id": "f5",
+          "prompt": "___ guards was injured in the attack.",
+          "options": ["Neither", "Neither of the", "Both", "Neither / Neither of the"],
+          "acceptedAnswers": ["Neither / Neither of the"]
+        },
+        {
+          "id": "f6",
+          "prompt": "___ of the clothes were filthy.",
+          "options": ["All / Most / Many / Both", "Much", "All / Much", "Most / Much / Both"],
+          "acceptedAnswers": ["All / Most / Many / Both"]
+        },
+        {
+          "id": "f7",
+          "prompt": "___ of the glasses has been smashed.",
+          "options": ["None / Each", "Half / Whole / Every", "None / Half / Each", "Whole / Every"],
+          "acceptedAnswers": ["None / Each"]
+        },
+        {
+          "id": "f8",
+          "prompt": "___ student in the class whose surname begins with a vowel, please stand up.",
+          "options": ["Each / Every", "All", "Each / Every / All", "All / Every"],
+          "acceptedAnswers": ["Each / Every"]
+        },
+        {
+          "id": "f9",
+          "prompt": "There's ___ we can do about the situation, I'm afraid.",
+          "options": ["a little / little / not much", "not many", "a little / not many", "little / not many"],
+          "acceptedAnswers": ["a little / little / not much"]
+        },
+        {
+          "id": "f10",
+          "prompt": "We've got ___ of time, so don't worry.",
+          "options": ["most", "plenty / a lot / lots", "most / plenty / a lot / lots", "most / plenty"],
+          "acceptedAnswers": ["plenty / a lot / lots"]
+        }
+      ]
+    },
+    {
+      "id": "g",
+      "type": "rewrite",
+      "title": "G · Articles",
+      "instruction": "Complete the sentences with a, an or the. If no article is required, put a dash (-). Write the articles in order, separated by / .",
+      "items": [
+        {
+          "id": "g1",
+          "prompt": "I think there's ___ chemist open in ___ main road somewhere.",
+          "acceptedAnswers": ["a / the"]
+        },
+        {
+          "id": "g2",
+          "prompt": "One of ___ people who I met at ___ lecture ___ last night is ___ architect for quite ___ well-known firm.",
+          "acceptedAnswers": ["the / a / - / an / a", "the / the / - / an / a"]
+        },
+        {
+          "id": "g3",
+          "prompt": "___ quality screwdriver is ___ essential part of any tool box.",
+          "acceptedAnswers": ["A / an", "A / an"]
+        },
+        {
+          "id": "g4",
+          "prompt": "Who designed ___ invitations for ___ wedding?",
+          "acceptedAnswers": ["the / the"]
+        },
+        {
+          "id": "g5",
+          "prompt": "___ poor and ___ elderly are often left behind when it comes to ___ modern technology.",
+          "acceptedAnswers": ["The / the / -"]
+        },
+        {
+          "id": "g6",
+          "prompt": "When I was at ___ school, we had to wear ___ shorts until we were ___ 11 and then we were allowed to wear ___ pair of long trousers.",
+          "acceptedAnswers": ["- / - / - / a"]
+        },
+        {
+          "id": "g7",
+          "prompt": "I met ___ writer ___ Catherine Hawkins ___ other day. She signed ___ copy of her ___ latest book for me.",
+          "acceptedAnswers": ["the / - / the / a / -", "a / - / the / a / -"]
+        },
+        {
+          "id": "g8",
+          "prompt": "I honestly believe that ___ car is one of ___ worst inventions in ___ history of ___ world.",
+          "acceptedAnswers": ["the / the / the / the"]
+        },
+        {
+          "id": "g9",
+          "prompt": "Is that ___ ewe or ___ elk?",
+          "acceptedAnswers": ["a / an"]
+        },
+        {
+          "id": "g10",
+          "prompt": "What's ___ difference between ___ unicorn and ___ postbox? Then, I'm not going to ask you to post ___ letter for me!",
+          "acceptedAnswers": ["the / a / a / a"]
+        }
+      ]
+    },
+    {
+      "id": "h",
+      "type": "multiple-choice",
+      "title": "H · Choose the correct answer",
+      "instruction": "Choose the correct option.",
+      "items": [
+        {
+          "id": "h1",
+          "prompt": "Are these windows really not made of ___ ?",
+          "options": ["the glass", "a glass", "glass", "glasses"],
+          "acceptedAnswers": ["glass"]
+        },
+        {
+          "id": "h2",
+          "prompt": "I fancy playing poker. Have we got a ___ of cards anywhere?",
+          "options": ["pack", "pair", "bunch", "set"],
+          "acceptedAnswers": ["pack"]
+        },
+        {
+          "id": "h3",
+          "prompt": "Luckily, only ___ of the medicine got spilt.",
+          "options": ["little", "a little", "few", "a few"],
+          "acceptedAnswers": ["a little"]
+        },
+        {
+          "id": "h4",
+          "prompt": "The ___ on the kitchen table.",
+          "options": ["grocery is", "grocery are", "groceries is", "groceries are"],
+          "acceptedAnswers": ["groceries are"]
+        },
+        {
+          "id": "h5",
+          "prompt": "Hardly ___ of the paintings at the gallery were for sale.",
+          "options": ["none", "few", "some", "any"],
+          "acceptedAnswers": ["any"]
+        },
+        {
+          "id": "h6",
+          "prompt": "It's ___ opportunity to see African wildlife in its natural environment.",
+          "options": ["an unique", "a unique", "the unique", "unique"],
+          "acceptedAnswers": ["a unique"]
+        },
+        {
+          "id": "h7",
+          "prompt": "You can't just demand ___ , you have to earn it.",
+          "options": ["a respect", "the respect", "any respect", "respect"],
+          "acceptedAnswers": ["respect"]
+        },
+        {
+          "id": "h8",
+          "prompt": "Almost ___ person I've asked says they're going on the anti-war demonstration next Saturday.",
+          "options": ["every", "each", "all the", "the entire"],
+          "acceptedAnswers": ["every"]
+        }
+      ]
+    },
+    {
+      "id": "i",
+      "type": "gap-fill",
+      "title": "I · Artists and money",
+      "instruction": "Write one word in each gap.",
+      "items": [
+        {
+          "id": "i1",
+          "prompt": "In publishing, ___ author will usually earn royalties on sales.",
+          "acceptedAnswers": ["an", "the"]
+        },
+        {
+          "id": "i2",
+          "prompt": "For ___ book sold, the author gets a percentage.",
+          "acceptedAnswers": ["each", "every"]
+        },
+        {
+          "id": "i3",
+          "prompt": "The more successful the author, the more they are able to negotiate with their publisher, and ___ bigger the percentage they can get.",
+          "acceptedAnswers": ["the"]
+        },
+        {
+          "id": "i4",
+          "prompt": "Although the 'struggling author' is still common, it is quite possible for a successful novelist to earn a ___ deal of money.",
+          "acceptedAnswers": ["great"]
+        },
+        {
+          "id": "i5",
+          "prompt": "You only have to look at ___ children's author J. K. Rowling to see that.",
+          "acceptedAnswers": ["the"]
+        },
+        {
+          "id": "i6",
+          "prompt": "A painter sells his or her work for ___ fee.",
+          "acceptedAnswers": ["a"]
+        },
+        {
+          "id": "i7",
+          "prompt": "___ time it is sold, its value increases.",
+          "acceptedAnswers": ["Each", "Every"]
+        },
+        {
+          "id": "i8",
+          "prompt": "The painter doesn't receive ___ benefit from this, though.",
+          "acceptedAnswers": ["any"]
+        },
+        {
+          "id": "i9",
+          "prompt": "More than a ___ artists today, however, are very aware of this, and so practise what is sometimes called 'holding back'.",
+          "acceptedAnswers": ["few"]
+        },
+        {
+          "id": "i10",
+          "prompt": "They produce, say, ten paintings for an exhibition, but only allow a certain ___ of them, say eight, to be sold.",
+          "acceptedAnswers": ["number"]
+        },
+        {
+          "id": "i11",
+          "prompt": "The other two they keep, in ___ hope that when they sell them in later years they will have greatly increased in value.",
+          "acceptedAnswers": ["the"]
+        },
+        {
+          "id": "i12",
+          "prompt": "However, since ___ illegal transfer of digital music via the Internet has become widespread,",
+          "acceptedAnswers": ["the"]
+        },
+        {
+          "id": "i13",
+          "prompt": "___ songwriters and performers have become worried that their main source of income will dry up.",
+          "acceptedAnswers": ["many", "some"]
+        },
+        {
+          "id": "i14",
+          "prompt": "Certainly, the ___ music industry – be it pop, rock or classical – is in turmoil at the moment, but its future is not bleak.",
+          "acceptedAnswers": ["whole"]
+        },
+        {
+          "id": "i15",
+          "prompt": "There is still a huge ___ of money to be made from live performances.",
+          "acceptedAnswers": ["amount"]
+        }
+      ]
+    }
+  ]
+}

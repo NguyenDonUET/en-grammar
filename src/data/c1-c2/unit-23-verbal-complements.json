@@ -1,0 +1,1115 @@
+{
+  "id": "unit-23-verbal-complements",
+  "level": "c1-c2",
+  "unitNumber": 23,
+  "title": "Verbal complements",
+  "subtitle": "-ing forms, infinitives, preparatory it and the subjunctive",
+  "theory": [
+    {
+      "id": "verb-ing",
+      "title": "Verb + -ing form",
+      "icon": "BookOpen",
+      "blocks": [
+        {
+          "type": "prose",
+          "text": "Sue **admitted feeling** rather upset."
+        },
+        {
+          "type": "word-list",
+          "intro": "Verbs followed by an -ing form include:",
+          "words": [
+            "admit",
+            "adore",
+            "advocate",
+            "appreciate",
+            "avoid",
+            "can't help",
+            "carry on",
+            "consider",
+            "contemplate",
+            "delay",
+            "deny",
+            "detest",
+            "discuss",
+            "dislike",
+            "end up",
+            "endure",
+            "enjoy",
+            "escape",
+            "face",
+            "fancy",
+            "feel like",
+            "finish",
+            "foresee",
+            "give up",
+            "include",
+            "involve",
+            "justify",
+            "keep (on)",
+            "mention",
+            "mind",
+            "miss",
+            "postpone",
+            "practise",
+            "put off",
+            "recommend",
+            "resent",
+            "resist",
+            "risk",
+            "suggest",
+            "take up"
+          ]
+        },
+        {
+          "type": "watch-out",
+          "text": "Many verbs are followed by a preposition + **-ing** form.",
+          "note": "Darren insisted **on going** to the party. · I'm looking forward **to meeting** your brother."
+        },
+        {
+          "type": "hints",
+          "items": [
+            "The verbs **feel, hear, see, notice, overhear** and **watch** can also be followed by an object + the bare infinitive (without **to**).",
+            "**I saw Martha cross** the road. (= I saw all of it.) · **I saw Martha crossing** the road. (= I saw part of it.)",
+            "When the verb and the gerund refer to different subjects, we can use an object pronoun or a possessive pronoun to make it clear.",
+            "**Do you mind me/my going** out with your sister?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "verb-object-ing",
+      "title": "Verb + object + -ing form",
+      "icon": "Sparkles",
+      "blocks": [
+        {
+          "type": "prose",
+          "text": "They **caught him taking** money from the till."
+        },
+        {
+          "type": "word-list",
+          "intro": "Verbs followed by object + -ing include:",
+          "words": [
+            "catch",
+            "feel",
+            "find",
+            "glimpse",
+            "hear",
+            "notice",
+            "observe",
+            "overhear",
+            "see",
+            "smell",
+            "watch"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "verb-full-infinitive",
+      "title": "Verb + full infinitive",
+      "icon": "Table2",
+      "blocks": [
+        {
+          "type": "prose",
+          "text": "**Can you afford to buy** that car?"
+        },
+        {
+          "type": "word-list",
+          "intro": "Verbs followed by a full infinitive include:",
+          "words": [
+            "afford",
+            "agree",
+            "aim",
+            "appear",
+            "apply",
+            "arrange",
+            "aspire",
+            "attempt",
+            "beg",
+            "cease",
+            "choose",
+            "claim",
+            "come",
+            "dare",
+            "decide",
+            "demand",
+            "deserve",
+            "desire",
+            "expect",
+            "fail",
+            "happen",
+            "help",
+            "hesitate",
+            "hope",
+            "learn",
+            "manage",
+            "need",
+            "neglect",
+            "offer",
+            "opt",
+            "plan",
+            "prepare",
+            "pretend",
+            "promise",
+            "refuse",
+            "resolve",
+            "rush",
+            "seem",
+            "strive",
+            "tend",
+            "undertake",
+            "volunteer",
+            "vote",
+            "wait",
+            "want",
+            "wish",
+            "work",
+            "yearn"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "verb-object-infinitive",
+      "title": "Verb + object + full infinitive",
+      "icon": "PencilLine",
+      "blocks": [
+        {
+          "type": "prose",
+          "text": "My sister **advised me to tell** Jim the truth."
+        },
+        {
+          "type": "word-list",
+          "intro": "Verbs followed by object + full infinitive include:",
+          "words": [
+            "advise",
+            "allow",
+            "ask",
+            "assist",
+            "authorise",
+            "beg",
+            "cause",
+            "challenge",
+            "choose",
+            "command",
+            "compel",
+            "convince",
+            "dare",
+            "decide",
+            "defy",
+            "desire",
+            "employ",
+            "empower",
+            "enable",
+            "encourage",
+            "expect",
+            "force",
+            "free",
+            "help",
+            "hire",
+            "inspire",
+            "instruct",
+            "intend",
+            "invite",
+            "lead",
+            "motivate",
+            "move",
+            "need",
+            "nominate",
+            "order",
+            "permit",
+            "persuade",
+            "pick",
+            "prepare",
+            "prompt",
+            "qualify",
+            "raise",
+            "recommend",
+            "recruit",
+            "remind",
+            "request",
+            "select",
+            "send",
+            "signal",
+            "teach",
+            "tell",
+            "tempt",
+            "trust",
+            "want",
+            "warn"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "verb-object-bare",
+      "title": "Verb + object + bare infinitive",
+      "icon": "ListChecks",
+      "blocks": [
+        {
+          "type": "prose",
+          "text": "The teacher **let the class leave** early."
+        },
+        {
+          "type": "word-list",
+          "intro": "Verbs followed by object + bare infinitive include:",
+          "words": ["help", "let", "make", "feel", "hear", "notice", "overhear", "see", "watch"]
+        },
+        {
+          "type": "watch-out",
+          "text": "In passive forms, **make** is followed by the full infinitive.",
+          "note": "I **was made to apologise** to my sister. · Mum **made me apologise** to my sister."
+        },
+        {
+          "type": "hints",
+          "items": [
+            "The verbs **dare** and **need** can be used as modals, in which case they are followed by the bare infinitive.",
+            "**I don't dare tell** Simone what happened. · **You needn't invite** Ralph if you'd rather not."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "little-change",
+      "title": "Infinitive or -ing with little or no change in meaning",
+      "icon": "CheckCircle2",
+      "blocks": [
+        {
+          "type": "word-list",
+          "intro": "These verbs can take an infinitive or an -ing form with little or no change in meaning:",
+          "words": [
+            "begin",
+            "bother",
+            "can't bear/stand",
+            "continue",
+            "hate",
+            "intend",
+            "love",
+            "prefer",
+            "start"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "change-in-meaning",
+      "title": "Infinitive or -ing with a change in meaning",
+      "icon": "AlertTriangle",
+      "blocks": [
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "consider / imagine + infinitive · believe; think something is/was",
+              "example": "I've always **considered him to be** a friend."
+            },
+            {
+              "use": "consider / imagine + -ing · think about",
+              "example": "We're **considering getting** engaged."
+            },
+            {
+              "use": "forget + infinitive · not do something you were planning to do",
+              "example": "I **forgot to ask** Brian about the wedding."
+            },
+            {
+              "use": "forget + -ing · not be able to remember a past event",
+              "example": "I'll never **forget asking** Helen to marry me."
+            },
+            {
+              "use": "go on + infinitive · stop one action or subject of discussion and start another",
+              "example": "We chatted about the football for a while and then he **went on to tell** me about his divorce."
+            },
+            {
+              "use": "go on + -ing · continue",
+              "example": "How can you **go on living** with Michael?"
+            },
+            {
+              "use": "like + infinitive · be in the habit of doing; think it right to do",
+              "example": "I **like to eat** with my family once a week."
+            },
+            {
+              "use": "like + -ing · enjoy",
+              "example": "I **don't like being spoken to** in such a rude manner."
+            },
+            {
+              "use": "mean + infinitive · intend",
+              "example": "I'm sure Riana didn't **mean to upset** you."
+            },
+            {
+              "use": "mean + -ing · involve",
+              "example": "Being in love **means never having** to say you're sorry."
+            },
+            {
+              "use": "regret + infinitive · be sorry about giving someone bad news (used with verbs such as say, tell, inform, etc.)",
+              "example": "We **regret to inform** you that the hotel is full."
+            },
+            {
+              "use": "regret + -ing · be sorry about what (has) happened",
+              "example": "Do you **regret splitting up** with Alec?"
+            },
+            {
+              "use": "remember + infinitive · do something you are/were planning to do",
+              "example": "Did you **remember to order** the flowers?"
+            },
+            {
+              "use": "remember + -ing · think of a past event",
+              "example": "I **don't remember asking** for your opinion."
+            },
+            {
+              "use": "stop + infinitive · interrupt an action to do something else",
+              "example": "Why didn't you **stop to think** before you acted?"
+            },
+            {
+              "use": "stop + -ing · stop an action",
+              "example": "Will you please just **stop telling** me what to do?"
+            },
+            {
+              "use": "try + infinitive · make an effort to achieve something",
+              "example": "**Try not to forget** her birthday."
+            },
+            {
+              "use": "try + -ing · do something as an experiment to solve a problem",
+              "example": "You could **try buying** her some flowers."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "preparatory-it-subjunctive",
+      "title": "Preparatory it and the subjunctive",
+      "icon": "Lightbulb",
+      "blocks": [
+        {
+          "type": "prose",
+          "text": "With some verbs, such as **find, think** or **consider**, it is often possible to use **it** as a preparatory object."
+        },
+        {
+          "type": "hints",
+          "items": [
+            "**I consider it incredible** that James and Alice are still together."
+          ]
+        },
+        {
+          "type": "prose",
+          "text": "The subjunctive is a verb form which does not take **-s** in the third person singular. It is possible to use the subjunctive in **that** clauses after words suggesting that something is necessary or preferable."
+        },
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "subjunctive",
+              "example": "The doctor suggested that Sam **take** some time off work. · It is very important that Greg **know** about this."
+            },
+            {
+              "use": "subjunctive of be",
+              "example": "The subjunctive forms for **be** are **I be, you be**, etc. **It's absolutely essential that I be informed** as soon as the President arrives."
+            },
+            {
+              "use": "should as an alternative",
+              "example": "The doctor suggested that Sam **(should) take** some time off work."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "a",
+      "type": "multiple-choice",
+      "title": "A · Circle the correct word or phrase",
+      "instruction": "Choose the correct verb form.",
+      "items": [
+        {
+          "id": "a1",
+          "prompt": "I don't know how you could even contemplate ___ Vicky to go on holiday with her friends.",
+          "options": ["to allow", "allowing"],
+          "acceptedAnswers": ["allowing"]
+        },
+        {
+          "id": "a2",
+          "prompt": "The interviewer somehow managed ___ the politician to admit his mistake.",
+          "options": ["to get", "getting"],
+          "acceptedAnswers": ["to get"]
+        },
+        {
+          "id": "a3",
+          "prompt": "Did you mention ___ to book the restaurant when you saw Angie?",
+          "options": ["to have", "having"],
+          "acceptedAnswers": ["having"]
+        },
+        {
+          "id": "a4",
+          "prompt": "We missed our flight so we ended up ___ on the floor in the airport.",
+          "options": ["to sleep", "sleeping"],
+          "acceptedAnswers": ["sleeping"]
+        },
+        {
+          "id": "a5",
+          "prompt": "The woman demanded ___ who was in charge.",
+          "options": ["to know", "knowing"],
+          "acceptedAnswers": ["to know"]
+        },
+        {
+          "id": "a6",
+          "prompt": "I can't help ___ that I've forgotten something.",
+          "options": ["to feel", "feeling"],
+          "acceptedAnswers": ["feeling"]
+        },
+        {
+          "id": "a7",
+          "prompt": "The board of directors opted ___ to the bank for a loan.",
+          "options": ["to apply", "applying"],
+          "acceptedAnswers": ["to apply"]
+        },
+        {
+          "id": "a8",
+          "prompt": "What happened when Sandra applied ___ the army?",
+          "options": ["to join", "joining"],
+          "acceptedAnswers": ["to join"]
+        },
+        {
+          "id": "a9",
+          "prompt": "We don't foresee ___ to employ anyone to replace Amy when she's on maternity leave.",
+          "options": ["to need", "needing"],
+          "acceptedAnswers": ["needing"]
+        },
+        {
+          "id": "a10",
+          "prompt": "I really wasn't expecting ___ into Ken in Birmingham.",
+          "options": ["to bump", "bumping"],
+          "acceptedAnswers": ["to bump"]
+        },
+        {
+          "id": "a11",
+          "prompt": "I'm beginning to wish I hadn't volunteered ___ Sandra move house.",
+          "options": ["to help", "helping"],
+          "acceptedAnswers": ["to help"]
+        },
+        {
+          "id": "a12",
+          "prompt": "Please don't hesitate ___ me if you require further information.",
+          "options": ["to contact", "contacting"],
+          "acceptedAnswers": ["to contact"]
+        }
+      ]
+    },
+    {
+      "id": "b",
+      "type": "multiple-choice",
+      "title": "B · Blind date",
+      "instruction": "Choose the correct verb form in the conversation.",
+      "items": [
+        {
+          "id": "b1",
+          "prompt": "Preston: I have to admit ___ a bit nervous. This is the first blind date I've been on.",
+          "options": ["to be", "to being"],
+          "acceptedAnswers": ["to being"]
+        },
+        {
+          "id": "b2",
+          "prompt": "Kathy: Me too. I almost didn't come ___ you, actually.",
+          "options": ["to see", "seeing"],
+          "acceptedAnswers": ["to see"]
+        },
+        {
+          "id": "b3",
+          "prompt": "Kathy: But then you just have to risk ___ someone you don't like, don't you?",
+          "options": ["to meet", "meeting"],
+          "acceptedAnswers": ["meeting"]
+        },
+        {
+          "id": "b4",
+          "prompt": "Preston: Do you mind ___ by the window?",
+          "options": ["to sit", "sitting"],
+          "acceptedAnswers": ["sitting"]
+        },
+        {
+          "id": "b5",
+          "prompt": "Kathy: It was my sister, Jane, who suggested ___ you.",
+          "options": ["to meet", "meeting"],
+          "acceptedAnswers": ["meeting"]
+        },
+        {
+          "id": "b6",
+          "prompt": "Kathy: Did she happen ___ you anything about me?",
+          "options": ["to tell", "telling"],
+          "acceptedAnswers": ["to tell"]
+        },
+        {
+          "id": "b7",
+          "prompt": "Preston: She said you work together, but she refused ___ anything else.",
+          "options": ["to say", "saying"],
+          "acceptedAnswers": ["to say"]
+        },
+        {
+          "id": "b8",
+          "prompt": "Preston: Well, I've been looking forward ___ you.",
+          "options": ["to meet", "to meeting"],
+          "acceptedAnswers": ["to meeting"]
+        },
+        {
+          "id": "b9",
+          "prompt": "Preston: Erm … do you feel like ___ ? I'm starving.",
+          "options": ["to order", "ordering"],
+          "acceptedAnswers": ["ordering"]
+        },
+        {
+          "id": "b10",
+          "prompt": "Kathy: Okay. I think I fancy ___ seafood. What about you?",
+          "options": ["to have", "having"],
+          "acceptedAnswers": ["having"]
+        }
+      ]
+    },
+    {
+      "id": "c",
+      "type": "gap-fill",
+      "title": "C · Verb + complement",
+      "instruction": "Complete using the verbs in the box in the correct form. You may need to add a preposition.",
+      "wordBank": [
+        "allow",
+        "ask",
+        "buy",
+        "commit",
+        "promote",
+        "prove",
+        "put",
+        "recycle",
+        "rob",
+        "wait"
+      ],
+      "items": [
+        {
+          "id": "c1",
+          "prompt": "How can you justify ___ so many lives at risk like that?",
+          "acceptedAnswers": ["putting"]
+        },
+        {
+          "id": "c2",
+          "prompt": "Everyone voted ___ Mr Greenwood to join the golf club.",
+          "acceptedAnswers": ["to allow"]
+        },
+        {
+          "id": "c3",
+          "prompt": "The government have undertaken ___ more than a dozen helicopters from the US military.",
+          "acceptedAnswers": ["to buy"]
+        },
+        {
+          "id": "c4",
+          "prompt": "People who have been accused ___ serious crimes are usually sent to prison to await their trial.",
+          "acceptedAnswers": ["of committing"]
+        },
+        {
+          "id": "c5",
+          "prompt": "The man claimed ___ by two young men, but something about him made me suspicious.",
+          "acceptedAnswers": ["to have been robbed", "to be robbed"]
+        },
+        {
+          "id": "c6",
+          "prompt": "We can't afford ___ for everyone to agree or we'll miss this opportunity.",
+          "acceptedAnswers": ["to wait"]
+        },
+        {
+          "id": "c7",
+          "prompt": "We are trying to encourage all local people ___ more of their rubbish.",
+          "acceptedAnswers": ["to recycle"]
+        },
+        {
+          "id": "c8",
+          "prompt": "Why do you keep ___ me about what Susan said?",
+          "acceptedAnswers": ["asking", "on asking"]
+        },
+        {
+          "id": "c9",
+          "prompt": "I challenge you ___ those accusations!",
+          "acceptedAnswers": ["to prove"]
+        },
+        {
+          "id": "c10",
+          "prompt": "The assistant manager hoped ___ before too long.",
+          "acceptedAnswers": ["to be promoted", "to get promoted"]
+        }
+      ]
+    },
+    {
+      "id": "d",
+      "type": "rewrite",
+      "title": "D · Wrong verb form",
+      "instruction": "One verb in each sentence is in the wrong form. Rewrite only the incorrect verb phrase in the correct form.",
+      "items": [
+        {
+          "id": "d1",
+          "prompt": "You deserve to be given a medal for all the work you did when you volunteered to help Alan **finish to clear** out the attic.",
+          "acceptedAnswers": ["finish clearing", "finish clearing out"]
+        },
+        {
+          "id": "d2",
+          "prompt": "The company has resolved to improve performance in the coming months and **plans resisting** being forced to close any offices.",
+          "acceptedAnswers": ["plans to resist"]
+        },
+        {
+          "id": "d3",
+          "prompt": "Being married **involves to make** a lot of compromises and being prepared to learn to live with other people's faults.",
+          "acceptedAnswers": ["involves making"]
+        },
+        {
+          "id": "d4",
+          "prompt": "Alec often appears to want to join in discussions but he needs to **avoid to be** so shy or he'll never get his opinion across.",
+          "acceptedAnswers": ["avoid being"]
+        },
+        {
+          "id": "d5",
+          "prompt": "Health experts recommend taking up a sport, so consider joining a team or, if you can't **face to exercise** in front of so many people, plan to go running with a friend.",
+          "acceptedAnswers": ["face exercising"]
+        },
+        {
+          "id": "d6",
+          "prompt": "I detest being kept waiting, and it **tends happening** at this hotel more than any other, so stop giving me excuses.",
+          "acceptedAnswers": ["tends to happen"]
+        },
+        {
+          "id": "d7",
+          "prompt": "What **prompted me applying** to join the police force was that my parents expected me to find a job which promised to offer security and good prospects.",
+          "acceptedAnswers": ["prompted me to apply"]
+        },
+        {
+          "id": "d8",
+          "prompt": "Many young people yearn to get involved in making films, but few are prepared to **endure to work** for years to perfect their acting skills.",
+          "acceptedAnswers": ["endure working"]
+        },
+        {
+          "id": "d9",
+          "prompt": "I dislike having to **pretend getting** on with someone when they don't attempt to get to know me.",
+          "acceptedAnswers": ["pretend to get", "pretend to be getting"]
+        },
+        {
+          "id": "d10",
+          "prompt": "If you are considering applying to become a student at Central University, we recommend you to contact the secretary, who **needs knowing** which course you are planning to follow.",
+          "acceptedAnswers": ["needs to know"]
+        }
+      ]
+    },
+    {
+      "id": "e",
+      "type": "rewrite",
+      "title": "E · Verb pairs",
+      "instruction": "Complete each sentence with a pair of verbs from the box in the correct form. Write both verbs in order, separated by a comma.",
+      "wordBank": [
+        "catch / wish",
+        "feel / follow",
+        "find / hide",
+        "glimpse / walk",
+        "hear / say",
+        "notice / try",
+        "observe / interact",
+        "see / come",
+        "smell / burn",
+        "watch / climb"
+      ],
+      "items": [
+        {
+          "id": "e1",
+          "prompt": "I couldn't see clearly, but I thought I ___ Lily ___ past the window.",
+          "acceptedAnswers": ["glimpsed, walking", "saw, walking", "glimpsed Lily walking"]
+        },
+        {
+          "id": "e2",
+          "prompt": "Did you ___ Nigel ___ that he was thinking of moving to France?",
+          "acceptedAnswers": ["hear, say", "hear, saying"]
+        },
+        {
+          "id": "e3",
+          "prompt": "During the experiment, we ___ the animals ___ with each other.",
+          "acceptedAnswers": ["observed, interacting", "watched, interacting"]
+        },
+        {
+          "id": "e4",
+          "prompt": "Did you turn the oven off? I can ___ something ___ .",
+          "acceptedAnswers": ["smell, burning"]
+        },
+        {
+          "id": "e5",
+          "prompt": "I looked everywhere for Johnnie and I finally ___ him ___ under the stairs.",
+          "acceptedAnswers": ["found, hiding"]
+        },
+        {
+          "id": "e6",
+          "prompt": "We ___ the burglar ___ out of the window and then called the police.",
+          "acceptedAnswers": ["watched, climbing", "saw, climbing", "watched, climb", "saw, climb"]
+        },
+        {
+          "id": "e7",
+          "prompt": "I couldn't help ___ Simon ___ to get his car started, so I went to help him.",
+          "acceptedAnswers": ["noticing, trying"]
+        },
+        {
+          "id": "e8",
+          "prompt": "I thought I ___ somebody ___ me, but when I turned round there was no one there.",
+          "acceptedAnswers": ["felt, following", "heard, following"]
+        },
+        {
+          "id": "e9",
+          "prompt": "Patrick ___ himself ___ he had never accepted the job in the first place.",
+          "acceptedAnswers": ["caught, wishing"]
+        },
+        {
+          "id": "e10",
+          "prompt": "I ___ Vanessa ___ towards me, so I quickly dived into the nearest shop to avoid her.",
+          "acceptedAnswers": ["saw, coming"]
+        }
+      ]
+    },
+    {
+      "id": "f",
+      "type": "error-correction",
+      "title": "F · Divorce",
+      "instruction": "Tap twelve verbs in the wrong form, then write each one correctly.",
+      "paragraph": "Legal and social changes in Britain have led to many more people {click:choosing getting} divorced over the last three decades. The Divorce Reform Act (1969) {click:let people to get} divorced far more easily and, despite {click:promising staying} together for life, over 160,000 couples {click:ended up to get} divorced each year during the late 80s and early 90s, compared to just over 27,000 in 1961. Towards the end of the twentieth century, divorce rates {click:tended falling}, then started to rise again over the first years of the twenty-first century. When asked what {click:motivated them getting} divorced, people usually mention things like {click:not to feel} that the relationship was developing, or their partner {click:making them to feel} inadequate. Whatever {click:causes people separating}, it is often the children who have to {click:learn living} in a different family setting. They often {click:resent to have} to change their lives because the adults involved can't {click:manage resolving} their difficulties. Divorce has got easier legally, but it hasn't got any easier emotionally.",
+      "items": [
+        {
+          "id": "f1",
+          "prompt": "choosing + infinitive",
+          "targetSpan": "choosing getting",
+          "acceptedAnswers": ["choosing to get"]
+        },
+        {
+          "id": "f2",
+          "prompt": "let + object + bare infinitive",
+          "targetSpan": "let people to get",
+          "acceptedAnswers": ["let people get"]
+        },
+        {
+          "id": "f3",
+          "prompt": "promise + infinitive",
+          "targetSpan": "promising staying",
+          "acceptedAnswers": ["promising to stay"]
+        },
+        {
+          "id": "f4",
+          "prompt": "end up + -ing",
+          "targetSpan": "ended up to get",
+          "acceptedAnswers": ["ended up getting"]
+        },
+        {
+          "id": "f5",
+          "prompt": "tend + infinitive",
+          "targetSpan": "tended falling",
+          "acceptedAnswers": ["tended to fall"]
+        },
+        {
+          "id": "f6",
+          "prompt": "motivate + object + infinitive",
+          "targetSpan": "motivated them getting",
+          "acceptedAnswers": ["motivated them to get"]
+        },
+        {
+          "id": "f7",
+          "prompt": "mention + -ing",
+          "targetSpan": "not to feel",
+          "acceptedAnswers": ["not feeling"]
+        },
+        {
+          "id": "f8",
+          "prompt": "make + object + bare infinitive",
+          "targetSpan": "making them to feel",
+          "acceptedAnswers": ["making them feel"]
+        },
+        {
+          "id": "f9",
+          "prompt": "cause + object + infinitive",
+          "targetSpan": "causes people separating",
+          "acceptedAnswers": ["causes people to separate"]
+        },
+        {
+          "id": "f10",
+          "prompt": "learn + infinitive",
+          "targetSpan": "learn living",
+          "acceptedAnswers": ["learn to live"]
+        },
+        {
+          "id": "f11",
+          "prompt": "resent + -ing",
+          "targetSpan": "resent to have",
+          "acceptedAnswers": ["resent having"]
+        },
+        {
+          "id": "f12",
+          "prompt": "manage + infinitive",
+          "targetSpan": "manage resolving",
+          "acceptedAnswers": ["manage to resolve"]
+        }
+      ]
+    },
+    {
+      "id": "g",
+      "type": "gap-fill",
+      "title": "G · Change in meaning",
+      "instruction": "Write the verb in bold in the correct form in each sentence.",
+      "items": [
+        {
+          "id": "g1",
+          "prompt": "I wish you'd stop ___ us you're going to get an A because it's not certain, you know. (tell)",
+          "acceptedAnswers": ["telling"]
+        },
+        {
+          "id": "g2",
+          "prompt": "Miss Edwards was explaining some grammar to us but she had to stop ___ a couple of the girls to be quiet. (tell)",
+          "acceptedAnswers": ["to tell"]
+        },
+        {
+          "id": "g3",
+          "prompt": "When you're in town, remember ___ some snacks for this evening. (get)",
+          "acceptedAnswers": ["to get"]
+        },
+        {
+          "id": "g4",
+          "prompt": "I remember ___ out of the car and I think I saw the motorbike, but everything after that is a blank. (get)",
+          "acceptedAnswers": ["getting"]
+        },
+        {
+          "id": "g5",
+          "prompt": "We regret ___ that flight RA 721 has been cancelled. (announce)",
+          "acceptedAnswers": ["to announce"]
+        },
+        {
+          "id": "g6",
+          "prompt": "I regret ___ that I was going to resign because I changed my mind soon after. (announce)",
+          "acceptedAnswers": ["announcing"]
+        },
+        {
+          "id": "g7",
+          "prompt": "The lecturer ignored the interruption and went on ___ as if nothing had happened. (talk)",
+          "acceptedAnswers": ["talking"]
+        },
+        {
+          "id": "g8",
+          "prompt": "The lecturer described the social conditions in the 1930s and went on ___ about the effect of the war. (talk)",
+          "acceptedAnswers": ["to talk"]
+        },
+        {
+          "id": "g9",
+          "prompt": "You're going to be angry, but I forgot ___ to the bank to pay that cheque in. (go)",
+          "acceptedAnswers": ["to go"]
+        },
+        {
+          "id": "g10",
+          "prompt": "Don't tell me you've forgotten ___ to the Blue Mountains! It was only last summer. (go)",
+          "acceptedAnswers": ["going"]
+        },
+        {
+          "id": "g11",
+          "prompt": "The air conditioner wasn't working so I tried ___ the batteries in the remote control, but it didn't make any difference. (change)",
+          "acceptedAnswers": ["changing"]
+        },
+        {
+          "id": "g12",
+          "prompt": "There must be something wrong with the remote control because every time I try ___ channels, nothing happens. (change)",
+          "acceptedAnswers": ["to change"]
+        },
+        {
+          "id": "g13",
+          "prompt": "We like ___ the car serviced at least once a year, just to be on the safe side. (have)",
+          "acceptedAnswers": ["to have", "having"]
+        },
+        {
+          "id": "g14",
+          "prompt": "No, don't! I really don't like ___ my feet tickled like that! (have)",
+          "acceptedAnswers": ["having", "to have"]
+        }
+      ]
+    },
+    {
+      "id": "h",
+      "type": "rewrite",
+      "title": "H · Key word transformation",
+      "instruction": "Complete the second sentence so that it has a similar meaning to the first sentence, using the word given. Do not change the word given. Use between three and eight words, including the word given. Write only the missing part.",
+      "items": [
+        {
+          "id": "h1",
+          "prompt": "After working for six hours, I finally managed to finish the report.\n**in**\nI finally ___ the report after working for six hours.",
+          "acceptedAnswers": ["succeeded in finishing"]
+        },
+        {
+          "id": "h2",
+          "prompt": "Oscar is qualified to teach Russian because he has a degree in it.\n**to**\nOscar's Russian degree ___ the language.",
+          "acceptedAnswers": [
+            "enables him to teach",
+            "qualifies him to teach",
+            "allows him to teach"
+          ]
+        },
+        {
+          "id": "h3",
+          "prompt": "I couldn't believe it when they suggested that I should speak to the head teacher about the problem.\n**nominated**\nI couldn't believe it when they ___ to the head teacher about the problem.",
+          "acceptedAnswers": ["nominated me to speak"]
+        },
+        {
+          "id": "h4",
+          "prompt": "I shared a bedroom with my brothers when I was young and I quite liked it.\n**like**\nI used ___ a bedroom with my brothers when I was young.",
+          "acceptedAnswers": ["to like sharing", "to like to share"]
+        },
+        {
+          "id": "h5",
+          "prompt": "Tim resolved that he would stay out of trouble when he left prison.\n**to**\nOn being released from prison, Tim resolved ___ trouble again.",
+          "acceptedAnswers": [
+            "not to get into",
+            "never to get into",
+            "not to be in"
+          ]
+        },
+        {
+          "id": "h6",
+          "prompt": "Are you sorry that you invited Liam to join us on the trip?\n**regret**\nDo ___ Liam to join us on the trip?",
+          "acceptedAnswers": [
+            "you regret inviting",
+            "you regret having invited"
+          ]
+        },
+        {
+          "id": "h7",
+          "prompt": "The arrangement is that you are staying with Mr and Mrs Andrews.\n**for**\nWe ___ with Mr and Mrs Andrews.",
+          "acceptedAnswers": [
+            "have arranged for you to stay",
+            "arranged for you to stay"
+          ]
+        },
+        {
+          "id": "h8",
+          "prompt": "What was your inspiration for creating such a fantastic character in your new novel?\n**to**\nWhat ___ such a fantastic character in your new novel?",
+          "acceptedAnswers": [
+            "inspired you to create",
+            "inspired you to write"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "i",
+      "type": "multiple-choice",
+      "title": "I · Choose the correct answer",
+      "instruction": "Choose the correct option.",
+      "items": [
+        {
+          "id": "i1",
+          "prompt": "When she suggested ___ over the weekend, I was so angry that I threatened to quit.",
+          "options": ["me to working", "me to work", "me work", "me working"],
+          "acceptedAnswers": ["me working"]
+        },
+        {
+          "id": "i2",
+          "prompt": "The manager requested that all staff ___ present at the meeting.",
+          "options": ["have been", "be", "are being", "being"],
+          "acceptedAnswers": ["be"]
+        },
+        {
+          "id": "i3",
+          "prompt": "Didn't you ___ that Martha wasn't with Ashley?",
+          "options": ["think it strange", "think strange", "think strangely", "think it strangely"],
+          "acceptedAnswers": ["think it strange"]
+        },
+        {
+          "id": "i4",
+          "prompt": "It's very important that we ___ as soon as there's any change in the patient's condition.",
+          "options": ["be it notified", "being notified", "were notified", "be notified"],
+          "acceptedAnswers": ["be notified"]
+        },
+        {
+          "id": "i5",
+          "prompt": "I feel ___ to inform the committee that a number of members are very unhappy with the decision.",
+          "options": ["my duty", "this my duty", "it my duty", "that my duty"],
+          "acceptedAnswers": ["it my duty"]
+        },
+        {
+          "id": "i6",
+          "prompt": "After what the manager said this morning, I didn't ___ him about the problems I've been having.",
+          "options": ["dare telling", "dare it telling", "dare tell", "dare to telling"],
+          "acceptedAnswers": ["dare tell"]
+        },
+        {
+          "id": "i7",
+          "prompt": "Don't you ___ that Veronica and George are still together?",
+          "options": ["incredibly find", "find incredible", "find incredibly", "find it incredible"],
+          "acceptedAnswers": ["find it incredible"]
+        },
+        {
+          "id": "i8",
+          "prompt": "You shouldn't have let Kerry ___ without apologising for what you said to her.",
+          "options": ["leave", "to leave", "leaving", "to leaving"],
+          "acceptedAnswers": ["leave"]
+        },
+        {
+          "id": "i9",
+          "prompt": "It was a bit embarrassing when the teacher caught us ___ during the test.",
+          "options": ["to cheat", "cheating", "cheat", "to cheating"],
+          "acceptedAnswers": ["cheating"]
+        },
+        {
+          "id": "i10",
+          "prompt": "It's not fair to make the dog ___ in the car on such a hot day.",
+          "options": ["to wait", "waiting", "wait", "for waiting"],
+          "acceptedAnswers": ["wait"]
+        }
+      ]
+    },
+    {
+      "id": "j",
+      "type": "gap-fill",
+      "title": "J · Speed Dating",
+      "instruction": "Write one word in each gap.",
+      "items": [
+        {
+          "id": "j1",
+          "prompt": "'You've been trying ___ find that certain someone for far too long, Debbie,' they said.",
+          "acceptedAnswers": ["to"]
+        },
+        {
+          "id": "j2",
+          "prompt": "'Can't you feel ___ getting older?",
+          "acceptedAnswers": ["yourself"]
+        },
+        {
+          "id": "j3",
+          "prompt": "Don't you ___ it strange to be 25 and not married yet?' they asked.",
+          "acceptedAnswers": ["find"]
+        },
+        {
+          "id": "j4",
+          "prompt": "They recommended ___ to check out something called 'speed dating'.",
+          "acceptedAnswers": ["me", "us"]
+        },
+        {
+          "id": "j5",
+          "prompt": "Two days later I found ___ sitting in a club in central London with 100 other people with name badges on.",
+          "acceptedAnswers": ["myself"]
+        },
+        {
+          "id": "j6",
+          "prompt": "You keep ___ going like that all night, making a note of anybody you like.",
+          "acceptedAnswers": ["on"]
+        },
+        {
+          "id": "j7",
+          "prompt": "I didn't ___ tell them that I worked for a young women's magazine, so I pretended to be a hairdresser.",
+          "acceptedAnswers": ["dare", "even"]
+        },
+        {
+          "id": "j8",
+          "prompt": "Everyone obviously found ___ hard to know what to say – well, what do you say to sell yourself in three minutes?",
+          "acceptedAnswers": ["it"]
+        },
+        {
+          "id": "j9",
+          "prompt": "The Kevins, Jonathans and Michaels came and went, and I ___ to feel like I couldn't bear to hear another potted biography.",
+          "acceptedAnswers": ["started", "began", "came"]
+        },
+        {
+          "id": "j10",
+          "prompt": "I started to feel like I couldn't ___ to hear another potted biography.",
+          "acceptedAnswers": ["bear", "stand"]
+        }
+      ]
+    }
+  ]
+}

@@ -46,6 +46,14 @@ import unit03PastTimeC1C2 from '@/data/c1-c2/unit-03-past-time.json' with { type
 import unit05FutureTimeC1C2 from '@/data/c1-c2/unit-05-future-time.json' with { type: 'json' }
 import unit07PassivesCausativesC1C2 from '@/data/c1-c2/unit-07-passives-causatives.json' with { type: 'json' }
 import unit09ModalsSemiModalsC1C2 from '@/data/c1-c2/unit-09-modals-semi-modals.json' with { type: 'json' }
+import unit11ConditionalsC1C2 from '@/data/c1-c2/unit-11-conditionals.json' with { type: 'json' }
+import unit13UnrealTimeC1C2 from '@/data/c1-c2/unit-13-unreal-time.json' with { type: 'json' }
+import unit15AdjectivesAdverbsC1C2 from '@/data/c1-c2/unit-15-adjectives-adverbs.json' with { type: 'json' }
+import unit17ClausesC1C2 from '@/data/c1-c2/unit-17-clauses.json' with { type: 'json' }
+import unit19ComplexSentencesC1C2 from '@/data/c1-c2/unit-19-complex-sentences.json' with { type: 'json' }
+import unit21NounPhrasesC1C2 from '@/data/c1-c2/unit-21-noun-phrases.json' with { type: 'json' }
+import unit23VerbalComplementsC1C2 from '@/data/c1-c2/unit-23-verbal-complements.json' with { type: 'json' }
+import unit25ReportingC1C2 from '@/data/c1-c2/unit-25-reporting.json' with { type: 'json' }
 
 export const LEVELS: { id: LevelId; label: string; description: string }[] = [
   { id: 'b1', label: 'B1', description: 'Intermediate' },
@@ -102,6 +110,14 @@ const units: GrammarUnit[] = [
   unit05FutureTimeC1C2 as GrammarUnit,
   unit07PassivesCausativesC1C2 as GrammarUnit,
   unit09ModalsSemiModalsC1C2 as GrammarUnit,
+  unit11ConditionalsC1C2 as GrammarUnit,
+  unit13UnrealTimeC1C2 as GrammarUnit,
+  unit15AdjectivesAdverbsC1C2 as GrammarUnit,
+  unit17ClausesC1C2 as GrammarUnit,
+  unit19ComplexSentencesC1C2 as GrammarUnit,
+  unit21NounPhrasesC1C2 as GrammarUnit,
+  unit23VerbalComplementsC1C2 as GrammarUnit,
+  unit25ReportingC1C2 as GrammarUnit,
 ]
 
 export function getUnitsByLevel(level: LevelId): UnitSummary[] {

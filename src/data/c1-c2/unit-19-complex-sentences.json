@@ -1,0 +1,944 @@
+{
+  "id": "unit-19-complex-sentences",
+  "level": "c1-c2",
+  "unitNumber": 19,
+  "title": "Complex sentences",
+  "subtitle": "Inversion, cleft sentences, and so / such / too / enough",
+  "theory": [
+    {
+      "id": "negative-inversion",
+      "title": "Inversions with negative adverbial words and phrases",
+      "icon": "BookOpen",
+      "blocks": [
+        {
+          "type": "prose",
+          "text": "When a negative or restrictive adverbial starts the sentence, we invert the auxiliary (or **do/does/did**) and the subject. This is typical of formal written English."
+        },
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "hardly (… when)",
+              "example": "**Hardly** had the new law been introduced **when** the mistake was realised."
+            },
+            {
+              "use": "scarcely (… when)",
+              "example": "**Scarcely** had I opened the front door **when** I heard a noise from the kitchen."
+            },
+            {
+              "use": "barely (… when)",
+              "example": "**Barely** had we solved one problem **when** another one arose."
+            },
+            {
+              "use": "no sooner (… than)",
+              "example": "**No sooner** had the alarm gone off **than** the police arrived."
+            },
+            {
+              "use": "only",
+              "example": "**Only** in an emergency should you dial 999."
+            },
+            {
+              "use": "only after",
+              "example": "**Only after** I had checked that the burglars had left did I call the police."
+            },
+            {
+              "use": "only when",
+              "example": "**Only when** we agree what measures are needed will we be able to solve the problem."
+            },
+            {
+              "use": "not until",
+              "example": "**Not until** the next election will we know how the public feel about this news."
+            },
+            {
+              "use": "at no time / point / stage",
+              "example": "**At no point** did I realise that he was the Prime Minister."
+            },
+            {
+              "use": "in no way",
+              "example": "**In no way** does this decision represent a change in government policy."
+            },
+            {
+              "use": "little",
+              "example": "**Little** did Ralph know that the burglar was still inside his house."
+            },
+            {
+              "use": "never",
+              "example": "**Never** have I heard such a ridiculous suggestion!"
+            },
+            {
+              "use": "not",
+              "example": "**Not** one vote did the proposal receive."
+            },
+            {
+              "use": "not only (… but also / too)",
+              "example": "**Not only** has this government failed **but it has also** stolen ideas from other parties."
+            },
+            {
+              "use": "on no account",
+              "example": "**On no account** should you try to tackle a burglar yourself."
+            },
+            {
+              "use": "rarely",
+              "example": "**Rarely** do the newspapers present a balanced view of current events."
+            },
+            {
+              "use": "seldom",
+              "example": "**Seldom** do people leaving prison stay out of trouble."
+            },
+            {
+              "use": "under no circumstances",
+              "example": "**Under no circumstances** will we accept an increase in working hours."
+            }
+          ]
+        },
+        {
+          "type": "watch-out",
+          "text": "With **not until** and **only** (when / after), invert the verb and subject in the **main clause**, not in the clause that immediately follows **not until / only when**.",
+          "note": "**Not until / Only when** this government realises what a mistake it is making **will things change**."
+        }
+      ]
+    },
+    {
+      "id": "place-inversion",
+      "title": "Inversions with adverbial expressions of place",
+      "icon": "Sparkles",
+      "blocks": [
+        {
+          "type": "prose",
+          "text": "After **here, there** and some adverbial or participle phrases of place, we can invert a verb of movement or position and the subject. This is common in literary or journalistic style."
+        },
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "here",
+              "example": "**Here comes** the Minister now."
+            },
+            {
+              "use": "there",
+              "example": "**There stood** the next king of England."
+            },
+            {
+              "use": "adverbial phrases",
+              "example": "**At the top of society** are the aristocracy. · **Beside the Town Hall** stood the public library. · **In this prison** are housed some of the most dangerous criminals. · **On the corner of the street** sat a homeless man."
+            },
+            {
+              "use": "participle phrases",
+              "example": "**Running down the road** was a young man with a woman's handbag under his arm."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "other-inversions",
+      "title": "Other inversions",
+      "icon": "Table2",
+      "blocks": [
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "short answers with so, neither and nor",
+              "example": "'I voted for Smith.' '**So did I.**' · 'I don't believe a word this government says.' '**Neither / Nor do I.**'"
+            },
+            {
+              "use": "after as, than, so and such",
+              "example": "I am very worried about bullying in the school, **as are** a lot of the parents. · The police in this area make more arrests **than do** officers in other parts of the country. · **So rare** is burglary here that many people don't bother to lock their doors. · **Such public interest was there** in the story that it was on the front pages of the newspapers."
+            },
+            {
+              "use": "in conditional sentences (see Unit 11)",
+              "example": "**Were** the Foreign Secretary to resign, it would cause serious problems for the Prime Minister. · **Should** the Foreign Secretary resign, it would cause serious problems for the Prime Minister. · **Had I known** about the crime problem, I would never have moved here."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cleft-sentences",
+      "title": "Cleft sentences",
+      "icon": "Lightbulb",
+      "blocks": [
+        {
+          "type": "prose",
+          "text": "Cleft sentences split one idea into two clauses so that we can emphasise a particular part of the sentence."
+        },
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "all (that)",
+              "example": "**All that** Keith wanted was to get his money back. · To get his money back was **all that** Keith wanted."
+            },
+            {
+              "use": "It is/was … who/which/that",
+              "example": "**It was Carol who/that** called the police."
+            },
+            {
+              "use": "the … thing",
+              "example": "**The first thing** is to check to see what's missing. · To check to see what's missing **is the first thing**."
+            },
+            {
+              "use": "the day/year etc when/that · the day/year etc on/in/at which",
+              "example": "**The year** when this government came to power was 2006. · 2006 was **the year when** this government came to power. · 2006 was **the year in which** this government came to power."
+            },
+            {
+              "use": "the person who/that",
+              "example": "**The person who** stole the money was Thomas. · Thomas was **the person who** stole the money."
+            },
+            {
+              "use": "the place where",
+              "example": "**The place where** the Queen stays in Scotland is Balmoral Castle. · Balmoral Castle is **the place where** the Queen stays in Scotland."
+            },
+            {
+              "use": "the reason (why)",
+              "example": "**The reason (why)** I joined this political party was to make a difference. · To make a difference was **the reason (why)** I joined this political party."
+            },
+            {
+              "use": "the thing that",
+              "example": "**The thing that** annoys me is the boss's attitude. · The boss's attitude is **the thing that** annoys me."
+            },
+            {
+              "use": "what",
+              "example": "**What** annoys me is the boss's attitude. · The boss's attitude is **what** annoys me."
+            },
+            {
+              "use": "what … do/did",
+              "example": "**What** Churchill **did** was bring people together."
+            },
+            {
+              "use": "what happens/happened is/was …",
+              "example": "**What happened was** that a witness saw the man leave the house."
+            }
+          ]
+        },
+        {
+          "type": "watch-out",
+          "text": "With **It is/was …** in cleft sentences, there are two possibilities when the subject is a pronoun. They differ in formality.",
+          "note": "**It was I who** stole the money. (formal) · **It was me that** stole the money. (informal)"
+        }
+      ]
+    },
+    {
+      "id": "so-such-too-enough",
+      "title": "so / such / too / enough",
+      "icon": "CheckCircle2",
+      "blocks": [
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "so",
+              "example": "It all happened **so quickly** that I didn't have time to see the man's face. · This problem has gone on for **so long** that I don't think they'll ever find a solution. · It was **so terrible a crime** that the judge sentenced him to life in prison. · There is **so much crime** around here **that** I'm thinking of moving."
+            },
+            {
+              "use": "such",
+              "example": "This problem has gone on for **such a long time** that I don't think they'll ever find a solution. · It was **such a terrible crime** that the judge sentenced him to life in prison. · There is **such a lot of crime** around here **that** I'm thinking of moving."
+            },
+            {
+              "use": "too",
+              "example": "I had **too little time** to get a good look at his face. · This problem seems to be **too difficult** for them to solve. · The police responded **too slowly** to have any chance of catching the burglar."
+            },
+            {
+              "use": "enough",
+              "example": "There just aren't **enough** police officers on the streets. · The police weren't **quick enough** to catch the burglar. · The police didn't respond **quickly enough** to catch the burglar."
+            }
+          ]
+        },
+        {
+          "type": "watch-out",
+          "text": "**So** and **such** can also be used in various ways without a **that** clause.",
+          "note": "There's **so much** crime around here these days. · Politics is **so boring**! · You're **such a bully**!"
+        },
+        {
+          "type": "watch-out",
+          "text": "We only use **too** to describe something that is more than necessary and which has a negative effect. It is not the same as **very, really, extremely**, etc."
+        },
+        {
+          "type": "correct-incorrect",
+          "correct": "This problem seems too difficult for them to solve.",
+          "incorrect": "This problem seems too difficult for them to solve it."
+        },
+        {
+          "type": "hints",
+          "items": [
+            "It is not necessary to add an extra object in sentences such as **too + adjective + for + object + to-infinitive**.",
+            "**Enough** usually comes before nouns and after adjectives and adverbs."
+          ]
+        }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "a",
+      "type": "rewrite",
+      "title": "A · Tick or rewrite",
+      "instruction": "If the phrase in bold is correct, write a tick (✓). If it is incorrect, rewrite the inverted phrase correctly.",
+      "items": [
+        {
+          "id": "a1",
+          "prompt": "**Hardly I had sat down** when the doorbell rang.",
+          "acceptedAnswers": ["Hardly had I sat down", "Hardly had I sat down when"]
+        },
+        {
+          "id": "a2",
+          "prompt": "**Scarcely had Julian finished** writing when the teacher told the students to put their pens down.",
+          "acceptedAnswers": ["✓", "tick", "correct", "Scarcely had Julian finished"]
+        },
+        {
+          "id": "a3",
+          "prompt": "We had barely set off on our journey when **the kids started** asking when we would get there.",
+          "acceptedAnswers": ["✓", "tick", "correct", "the kids started"]
+        },
+        {
+          "id": "a4",
+          "prompt": "**No sooner the government changes** the tax laws than businesses find a way around them.",
+          "acceptedAnswers": ["No sooner does the government change", "No sooner has the government changed"]
+        },
+        {
+          "id": "a5",
+          "prompt": "**Scarcely they had finished** painting the house when it started to rain.",
+          "acceptedAnswers": ["Scarcely had they finished"]
+        },
+        {
+          "id": "a6",
+          "prompt": "**Hardly the new computer system had been installed** when it started to go wrong.",
+          "acceptedAnswers": ["Hardly had the new computer system been installed"]
+        },
+        {
+          "id": "a7",
+          "prompt": "It's true that **no sooner we had started** eating than we realised we had forgotten the potatoes.",
+          "acceptedAnswers": ["no sooner had we started"]
+        },
+        {
+          "id": "a8",
+          "prompt": "Barely had the politician started to speak when **began the crowd** to boo.",
+          "acceptedAnswers": ["the crowd began"]
+        },
+        {
+          "id": "a9",
+          "prompt": "**Hardly the new park was finished** when vandals destroyed the flowerbeds.",
+          "acceptedAnswers": ["Hardly had the new park been finished", "Hardly was the new park finished"]
+        },
+        {
+          "id": "a10",
+          "prompt": "**Scarcely Keith had arrived** in Argentina when he was arrested.",
+          "acceptedAnswers": ["Scarcely had Keith arrived"]
+        }
+      ]
+    },
+    {
+      "id": "b",
+      "type": "gap-fill",
+      "title": "B · Negative adverbials",
+      "instruction": "Complete using the words and phrases in the box. Use each one once.",
+      "wordBank": [
+        "at no point",
+        "in no way",
+        "little",
+        "never",
+        "not",
+        "not only",
+        "only after",
+        "on no account",
+        "rarely",
+        "under no circumstances"
+      ],
+      "items": [
+        {
+          "id": "b1",
+          "prompt": "___ were the security guards to blame for what happened.",
+          "acceptedAnswers": ["In no way", "At no point"]
+        },
+        {
+          "id": "b2",
+          "prompt": "___ once did the old woman thank me for helping her.",
+          "acceptedAnswers": ["Not"]
+        },
+        {
+          "id": "b3",
+          "prompt": "___ seeing the doctor was Theresa allowed to leave hospital.",
+          "acceptedAnswers": ["Only after"]
+        },
+        {
+          "id": "b4",
+          "prompt": "___ will passengers be allowed to carry more than 6 kg of hand luggage.",
+          "acceptedAnswers": ["On no account", "Under no circumstances"]
+        },
+        {
+          "id": "b5",
+          "prompt": "___ were you late, but you also forgot to bring the correct documents.",
+          "acceptedAnswers": ["Not only"]
+        },
+        {
+          "id": "b6",
+          "prompt": "___ during the meeting did anyone mention that the managing director was planning to leave.",
+          "acceptedAnswers": ["At no point", "Never"]
+        },
+        {
+          "id": "b7",
+          "prompt": "___ did the passengers know that the driver was really an undercover police officer.",
+          "acceptedAnswers": ["Little"]
+        },
+        {
+          "id": "b8",
+          "prompt": "___ do you meet anyone as charming as Mr Beeching.",
+          "acceptedAnswers": ["Rarely"]
+        },
+        {
+          "id": "b9",
+          "prompt": "___ should unaccompanied children be allowed to enter the area.",
+          "acceptedAnswers": ["Under no circumstances", "On no account"]
+        },
+        {
+          "id": "b10",
+          "prompt": "___ before has the company found itself facing such stiff competition.",
+          "acceptedAnswers": ["Never"]
+        }
+      ]
+    },
+    {
+      "id": "c",
+      "type": "gap-fill",
+      "title": "C · Verb form after inversion",
+      "instruction": "Complete using the words in brackets with the verb in the correct form. Write the inverted (or non-inverted) verb phrase only.",
+      "items": [
+        {
+          "id": "c1",
+          "prompt": "Not until the area is made safe ___ . (construction / can continue)",
+          "acceptedAnswers": ["can construction continue"]
+        },
+        {
+          "id": "c2",
+          "prompt": "In no way ___ how strongly we felt about the situation. (the announcement / affect)",
+          "acceptedAnswers": ["did the announcement affect"]
+        },
+        {
+          "id": "c3",
+          "prompt": "Seldom ___ a vintage car in quite such good condition these days. (you / see)",
+          "acceptedAnswers": ["do you see", "have you seen"]
+        },
+        {
+          "id": "c4",
+          "prompt": "Not only ___ my birthday, but he also forgot our wedding anniversary. (Jerry / forget)",
+          "acceptedAnswers": ["did Jerry forget"]
+        },
+        {
+          "id": "c5",
+          "prompt": "At no time ___ my opinion on the subject. (I / ask)",
+          "acceptedAnswers": ["was I asked", "did they ask", "have I been asked", "was I asked for"]
+        },
+        {
+          "id": "c6",
+          "prompt": "Only when ___ the ticket again did I realise that I had won first prize! (I / check)",
+          "acceptedAnswers": ["I checked", "I had checked", "I'd checked"]
+        },
+        {
+          "id": "c7",
+          "prompt": "Little ___ that I had a big surprise planned for her. (Caroline / realise)",
+          "acceptedAnswers": ["did Caroline realise"]
+        },
+        {
+          "id": "c8",
+          "prompt": "Under no circumstances ___ a contract you haven't read thoroughly. (you / should sign)",
+          "acceptedAnswers": ["should you sign"]
+        },
+        {
+          "id": "c9",
+          "prompt": "At no stage ___ likely that Wilkinson would win the championship. (it / appear)",
+          "acceptedAnswers": ["did it appear"]
+        },
+        {
+          "id": "c10",
+          "prompt": "Only if the weather is clear ___ to launch. (the space shuttle / will allow)",
+          "acceptedAnswers": ["will the space shuttle be allowed"]
+        }
+      ]
+    },
+    {
+      "id": "d",
+      "type": "gap-fill",
+      "title": "D · Neighbourhood noise",
+      "instruction": "Complete using a verb from the box in the correct form. Try to use each verb at least once.",
+      "wordBank": ["appear", "be", "come", "go", "lie", "sit", "stand"],
+      "items": [
+        {
+          "id": "d1",
+          "prompt": "'There ___ our new neighbour now,' said Joe.",
+          "acceptedAnswers": ["goes", "comes"]
+        },
+        {
+          "id": "d2",
+          "prompt": "I looked up and coming along the path ___ a short, fat man.",
+          "acceptedAnswers": ["was", "came"]
+        },
+        {
+          "id": "d3",
+          "prompt": "On his head ___ a bright red baseball cap.",
+          "acceptedAnswers": ["was", "sat"]
+        },
+        {
+          "id": "d4",
+          "prompt": "From an upstairs window ___ the sound of loud rock music.",
+          "acceptedAnswers": ["came"]
+        },
+        {
+          "id": "d5",
+          "prompt": "In his hand ___ a letter from the council.",
+          "acceptedAnswers": ["was"]
+        },
+        {
+          "id": "d6",
+          "prompt": "There ___ a little old woman, looking up at us, smiling.",
+          "acceptedAnswers": ["stood", "was", "sat"]
+        },
+        {
+          "id": "d7",
+          "prompt": "On the sofa behind her ___ a fat old cat.",
+          "acceptedAnswers": ["sat", "lay", "was"]
+        },
+        {
+          "id": "d8",
+          "prompt": "Suddenly, in the doorway ___ the same fat man I had seen earlier.",
+          "acceptedAnswers": ["appeared", "stood", "was"]
+        }
+      ]
+    },
+    {
+      "id": "e",
+      "type": "multiple-choice",
+      "title": "E · Circle the correct phrase",
+      "instruction": "Choose the correct phrase. If both are possible, choose the option that includes both.",
+      "items": [
+        {
+          "id": "e1",
+          "prompt": "Dave doesn't really trust Ian, and I have to say that neither ___.",
+          "options": ["I do", "do I", "I do / do I"],
+          "acceptedAnswers": ["do I"]
+        },
+        {
+          "id": "e2",
+          "prompt": "Such a valuable painting ___ that the public are not allowed to get close to it.",
+          "options": ["it is", "is it", "it is / is it"],
+          "acceptedAnswers": ["is it"]
+        },
+        {
+          "id": "e3",
+          "prompt": "So ___ watch TV while we ate, we moved the television onto the balcony.",
+          "options": ["we could", "could we", "we could / could we"],
+          "acceptedAnswers": ["we could"]
+        },
+        {
+          "id": "e4",
+          "prompt": "My dad's never been abroad, and nor ___.",
+          "options": ["my mum has", "has my mum", "my mum has / has my mum"],
+          "acceptedAnswers": ["has my mum"]
+        },
+        {
+          "id": "e5",
+          "prompt": "Such ___ in the wedding that there were over a dozen photographers.",
+          "options": ["the media interest was", "was the media interest", "the media interest was / was the media interest"],
+          "acceptedAnswers": ["was the media interest"]
+        },
+        {
+          "id": "e6",
+          "prompt": "It's been a hard season for the team, as ___.",
+          "options": ["last season was", "was last season", "last season was / was last season"],
+          "acceptedAnswers": ["was last season"]
+        },
+        {
+          "id": "e7",
+          "prompt": "Russia is a country with vast natural resources, and so ___.",
+          "options": ["China is", "is China", "China is / is China"],
+          "acceptedAnswers": ["is China"]
+        },
+        {
+          "id": "e8",
+          "prompt": "We in this country spend more per person on fuel than ___.",
+          "options": ["the French do", "do the French", "the French do / do the French"],
+          "acceptedAnswers": ["the French do / do the French"]
+        },
+        {
+          "id": "e9",
+          "prompt": "The Minister was forced to resign, such ___ on her.",
+          "options": ["the pressure was", "was the pressure", "the pressure was / was the pressure"],
+          "acceptedAnswers": ["was the pressure"]
+        },
+        {
+          "id": "e10",
+          "prompt": "So nervous ___ that I was almost certain he was lying.",
+          "options": ["he was", "was he", "he was / was he"],
+          "acceptedAnswers": ["was he"]
+        }
+      ]
+    },
+    {
+      "id": "f",
+      "type": "rewrite",
+      "title": "F · Cleft sentences",
+      "instruction": "Rewrite each sentence, starting with the word(s) given. Write the complete sentence.",
+      "items": [
+        {
+          "id": "f1",
+          "prompt": "The window was broken by a cricket ball.\n**It**",
+          "acceptedAnswers": [
+            "It was a cricket ball that broke the window.",
+            "It was a cricket ball which broke the window.",
+            "It was a cricket ball that the window was broken by."
+          ]
+        },
+        {
+          "id": "f2",
+          "prompt": "I will never forget the day I heard I'd got into my chosen university.\n**The day**",
+          "acceptedAnswers": [
+            "The day I heard I'd got into my chosen university is one I will never forget.",
+            "The day I heard I'd got into my chosen university was one I will never forget.",
+            "The day I heard I'd got into my chosen university is a day I will never forget.",
+            "The day when I heard I'd got into my chosen university is one I will never forget."
+          ]
+        },
+        {
+          "id": "f3",
+          "prompt": "Glynn became a social worker to help people less fortunate than himself.\n**The reason**",
+          "acceptedAnswers": [
+            "The reason Glynn became a social worker was to help people less fortunate than himself.",
+            "The reason why Glynn became a social worker was to help people less fortunate than himself."
+          ]
+        },
+        {
+          "id": "f4",
+          "prompt": "Getting through the summer without getting injured was the only thing the athlete wanted.\n**All**",
+          "acceptedAnswers": [
+            "All the athlete wanted was to get through the summer without getting injured.",
+            "All that the athlete wanted was to get through the summer without getting injured.",
+            "All the athlete wanted was getting through the summer without getting injured."
+          ]
+        },
+        {
+          "id": "f5",
+          "prompt": "The driver didn't see the motorcyclist.\n**What happened**",
+          "acceptedAnswers": [
+            "What happened was that the driver didn't see the motorcyclist.",
+            "What happened was the driver didn't see the motorcyclist."
+          ]
+        },
+        {
+          "id": "f6",
+          "prompt": "Christopher Columbus discovered America.\n**The person**",
+          "acceptedAnswers": [
+            "The person who discovered America was Christopher Columbus.",
+            "The person that discovered America was Christopher Columbus."
+          ]
+        },
+        {
+          "id": "f7",
+          "prompt": "Seeing Patricia cry like that made me feel guilty.\n**What**",
+          "acceptedAnswers": [
+            "What made me feel guilty was seeing Patricia cry like that.",
+            "What made me feel guilty was to see Patricia cry like that."
+          ]
+        },
+        {
+          "id": "f8",
+          "prompt": "What we had to do first was decide where to meet.\n**The first thing**",
+          "acceptedAnswers": [
+            "The first thing we had to do was decide where to meet.",
+            "The first thing that we had to do was decide where to meet.",
+            "The first thing we had to do was to decide where to meet."
+          ]
+        },
+        {
+          "id": "f9",
+          "prompt": "There are lots of facilities where we go camping.\n**The place**",
+          "acceptedAnswers": [
+            "The place where we go camping has lots of facilities.",
+            "The place where we go camping is one with lots of facilities.",
+            "The place where we go camping has a lot of facilities."
+          ]
+        },
+        {
+          "id": "f10",
+          "prompt": "Einstein proved that energy and mass are basically the same thing.\n**What**",
+          "acceptedAnswers": [
+            "What Einstein proved was that energy and mass are basically the same thing.",
+            "What Einstein did was prove that energy and mass are basically the same thing."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g",
+      "type": "gap-fill",
+      "title": "G · so, such, too or enough",
+      "instruction": "Write so, such, too or enough in each gap.",
+      "wordBank": ["so", "such", "too", "enough"],
+      "items": [
+        {
+          "id": "g1",
+          "prompt": "It was ___ good a meal that we left the waiter quite a large tip.",
+          "acceptedAnswers": ["so"]
+        },
+        {
+          "id": "g2",
+          "prompt": "It's becoming increasingly clear that there just aren't ___ people willing to buy our products online.",
+          "acceptedAnswers": ["enough"]
+        },
+        {
+          "id": "g3",
+          "prompt": "I'm quite enjoying my maths degree, but I just find statistics ___ boring!",
+          "acceptedAnswers": ["so", "too"]
+        },
+        {
+          "id": "g4",
+          "prompt": "Angela seemed to be having ___ a good time at the party that I decided not to tell her how late it was.",
+          "acceptedAnswers": ["such"]
+        },
+        {
+          "id": "g5",
+          "prompt": "We've all been working ___ hard on the latest project the manager gave us a couple of extra days off.",
+          "acceptedAnswers": ["so"]
+        },
+        {
+          "id": "g6",
+          "prompt": "I worry about my grandparents because they have ___ a lot of health problems.",
+          "acceptedAnswers": ["such"]
+        },
+        {
+          "id": "g7",
+          "prompt": "It's ___ early to tell whether the business is going to succeed or not.",
+          "acceptedAnswers": ["too"]
+        },
+        {
+          "id": "g8",
+          "prompt": "Set the alarm or we'll never wake up early ___ to catch the first train.",
+          "acceptedAnswers": ["enough"]
+        },
+        {
+          "id": "g9",
+          "prompt": "I never knew that Andrew had ___ few friends.",
+          "acceptedAnswers": ["so"]
+        },
+        {
+          "id": "g10",
+          "prompt": "Everyone was surprised when Dan failed because he's ___ a good student.",
+          "acceptedAnswers": ["such"]
+        },
+        {
+          "id": "g11",
+          "prompt": "A year after losing my job, I had ___ many debts that I was really beginning to panic.",
+          "acceptedAnswers": ["so"]
+        },
+        {
+          "id": "g12",
+          "prompt": "I was hoping to have a word with Alan before he left, but it seems to be ___ late now.",
+          "acceptedAnswers": ["too"]
+        }
+      ]
+    },
+    {
+      "id": "h",
+      "type": "rewrite",
+      "title": "H · Key word transformation",
+      "instruction": "Complete the second sentence so that it has a similar meaning to the first sentence, using the word given. Do not change the word given. Use between three and eight words, including the word given. Write only the missing part.",
+      "items": [
+        {
+          "id": "h1",
+          "prompt": "I had to clear the spare room before I could start decorating.\n**cleared**\nOnly when ___ start decorating.",
+          "acceptedAnswers": [
+            "I had had the spare room cleared could I",
+            "I had the spare room cleared could I",
+            "the spare room had been cleared could I",
+            "I had had the spare room cleared was I able to",
+            "the spare room had been cleared was I able to"
+          ]
+        },
+        {
+          "id": "h2",
+          "prompt": "The phone rang again as soon as I put it down.\n**had**\nHardly ___ it rang again.",
+          "acceptedAnswers": [
+            "had I put it down when",
+            "had I put the phone down when"
+          ]
+        },
+        {
+          "id": "h3",
+          "prompt": "The Watsons moved to London and very soon after they decided to get divorced.\n**had**\nNo sooner ___ they decided to get divorced.",
+          "acceptedAnswers": [
+            "had the Watsons moved to London than",
+            "had they moved to London than"
+          ]
+        },
+        {
+          "id": "h4",
+          "prompt": "I had no idea the manager wanted to see me to fire me.\n**realise**\nLittle ___ the manager wanted to see me to fire me.",
+          "acceptedAnswers": [
+            "did I realise",
+            "did I realise that"
+          ]
+        },
+        {
+          "id": "h5",
+          "prompt": "I was told about the website by Charlie.\n**who**\nIt ___ me about the website.",
+          "acceptedAnswers": [
+            "was Charlie who told",
+            "was Charlie who told me"
+          ]
+        },
+        {
+          "id": "h6",
+          "prompt": "Buying a plane ticket at the last minute isn't often possible.\n**to**\nRarely ___ a plane ticket at the last minute.",
+          "acceptedAnswers": [
+            "is it possible to buy",
+            "can you buy",
+            "is it possible to get"
+          ]
+        },
+        {
+          "id": "h7",
+          "prompt": "They didn't ask me anything about my plans for the summer.\n**question**\nNot ___ about my plans for the summer.",
+          "acceptedAnswers": [
+            "one question did they ask me",
+            "a question did they ask me",
+            "a single question did they ask me"
+          ]
+        },
+        {
+          "id": "h8",
+          "prompt": "There is no situation in which we will allow the management to lower wages.\n**no**\nUnder ___ the management to lower wages.",
+          "acceptedAnswers": [
+            "no circumstances will we allow",
+            "no circumstances will we let",
+            "no circumstances are we going to allow"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "i",
+      "type": "multiple-choice",
+      "title": "I · Choose the correct answer",
+      "instruction": "Choose the correct option.",
+      "items": [
+        {
+          "id": "i1",
+          "prompt": "Not until we have no choice ___ the business down.",
+          "options": ["close we", "we will close", "will we close", "we close"],
+          "acceptedAnswers": ["will we close"]
+        },
+        {
+          "id": "i2",
+          "prompt": "It was ___ a victory that even Smith's fans couldn't believe it.",
+          "options": ["such surprising", "so surprising", "too surprising", "surprising enough"],
+          "acceptedAnswers": ["so surprising"]
+        },
+        {
+          "id": "i3",
+          "prompt": "At no time ___ I was going to fail the exam.",
+          "options": ["did I think", "thought I", "I thought", "was I thought"],
+          "acceptedAnswers": ["did I think"]
+        },
+        {
+          "id": "i4",
+          "prompt": "So ___ that they actually finished three weeks early.",
+          "options": ["were the builders fast", "fast the builders were", "the builders were fast", "fast were the builders"],
+          "acceptedAnswers": ["fast were the builders"]
+        },
+        {
+          "id": "i5",
+          "prompt": "Never ___ complete and utter rubbish!",
+          "options": ["have I heard so", "I heard such", "did I hear so", "have I heard such"],
+          "acceptedAnswers": ["have I heard such"]
+        },
+        {
+          "id": "i6",
+          "prompt": "In no way ___ that people will be prevented from organising peaceful protests.",
+          "options": ["this law means", "this means this law", "does this law mean", "this law does mean"],
+          "acceptedAnswers": ["does this law mean"]
+        },
+        {
+          "id": "i7",
+          "prompt": "If you don't put the tent up ___, it might blow away!",
+          "options": ["too carefully", "so carefully", "such carefully", "carefully enough"],
+          "acceptedAnswers": ["carefully enough"]
+        },
+        {
+          "id": "i8",
+          "prompt": "No sooner ___ everyone started to gossip about him.",
+          "options": ["had Mike left than", "did Mike leave when", "left Mike when", "Mike had left than"],
+          "acceptedAnswers": ["had Mike left than"]
+        },
+        {
+          "id": "i9",
+          "prompt": "'I can't stand this hot weather!' '___ !'",
+          "options": ["So can't I", "Neither can I", "So I can't", "Nor I can"],
+          "acceptedAnswers": ["Neither can I"]
+        },
+        {
+          "id": "i10",
+          "prompt": "'We were at the Rolling Stones concert last weekend.' 'Were you? So ___ !'",
+          "options": ["I was", "was I being", "I was there", "was I"],
+          "acceptedAnswers": ["was I"]
+        }
+      ]
+    },
+    {
+      "id": "j",
+      "type": "gap-fill",
+      "title": "J · Problems close to home",
+      "instruction": "Write one word in each gap.",
+      "items": [
+        {
+          "id": "j1",
+          "prompt": "Rarely ___ neighbours have the best of relationships for any length of time.",
+          "acceptedAnswers": ["do"]
+        },
+        {
+          "id": "j2",
+          "prompt": "Of course, some people become close friends, but only if there is a lot of give and take ___ this possible.",
+          "acceptedAnswers": ["is"]
+        },
+        {
+          "id": "j3",
+          "prompt": "___ common are disputes between neighbours that there are many laws to cover arguments over noise, property and rubbish.",
+          "acceptedAnswers": ["So"]
+        },
+        {
+          "id": "j4",
+          "prompt": "Before things go ___ far for the relationship to be saved, there are a few simple things you can do.",
+          "acceptedAnswers": ["too"]
+        },
+        {
+          "id": "j5",
+          "prompt": "The first is ___ speak to your neighbour.",
+          "acceptedAnswers": ["to"]
+        },
+        {
+          "id": "j6",
+          "prompt": "You'd be amazed at how many arguments are avoided by ___ a simple step.",
+          "acceptedAnswers": ["such"]
+        },
+        {
+          "id": "j7",
+          "prompt": "___ only does it give you the chance to express your complaint, it also gives your neighbour the chance to explain.",
+          "acceptedAnswers": ["Not"]
+        },
+        {
+          "id": "j8",
+          "prompt": "Not only does it give you the chance to express your complaint, it ___ gives your neighbour the chance to explain and, perhaps, take action.",
+          "acceptedAnswers": ["also"]
+        },
+        {
+          "id": "j9",
+          "prompt": "On ___ account should you do anything to damage your neighbours' property without knowing what your legal rights are.",
+          "acceptedAnswers": ["no"]
+        },
+        {
+          "id": "j10",
+          "prompt": "___ until you are sure you are acting within the law should you do anything.",
+          "acceptedAnswers": ["Not"]
+        }
+      ]
+    }
+  ]
+}

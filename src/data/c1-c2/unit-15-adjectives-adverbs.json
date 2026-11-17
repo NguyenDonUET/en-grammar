@@ -1,0 +1,919 @@
+{
+  "id": "unit-15-adjectives-adverbs",
+  "level": "c1-c2",
+  "unitNumber": 15,
+  "title": "Adjectives and adverbs",
+  "subtitle": "Position, order, comparison, gradable adjectives, and confusing pairs",
+  "theory": [
+    {
+      "id": "position-adjectives",
+      "title": "Position of adjectives",
+      "icon": "BookOpen",
+      "blocks": [
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "Before a noun",
+              "example": "I love your **new** house."
+            },
+            {
+              "use": "After verbs such as appear, be, become, feel, get, grow, look, seem, smell, sound, taste and turn",
+              "example": "The material this dress is made out of **feels rough**."
+            }
+          ]
+        },
+        {
+          "type": "watch-out",
+          "text": "The verbs in the table above are not normally followed by adverbs. However, some of them can be followed by adverbs when the verb refers to an action.",
+          "note": "She **looked angrily** at the man behind the counter."
+        },
+        {
+          "type": "hints",
+          "items": [
+            "After **as, how, so, this** (= so), **that** (= so) and **too**, adjectives come before the article.",
+            "I could never live in **as crowded a city** as Tokyo.",
+            "Tokyo's **so/that crowded a city** that I'd hate to live there.",
+            "**How crowded a city** is Tokyo?",
+            "I could never live in Tokyo — it's **too crowded a city**."
+          ]
+        },
+        {
+          "type": "watch-out",
+          "text": "Some adjectives only appear after a verb and not before a noun. These include adjectives beginning with **a-**, such as **afraid, aghast, alike, alive, alone, asleep, awake**, etc.",
+          "note": "A boy was **asleep** in the street. · There was an **asleep** boy in the street. (incorrect)"
+        }
+      ]
+    },
+    {
+      "id": "multiple-adjectives",
+      "title": "Position of multiple adjectives",
+      "icon": "Table2",
+      "blocks": [
+        {
+          "type": "prose",
+          "text": "When more than one adjective is used before a noun, they usually appear in this order: **judgement, size, shape, colour, origin, material, purpose**. Sometimes they are separated by commas."
+        },
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "Judgement + size + material",
+              "example": "We've got a **lovely little wooden** cabin in the mountains."
+            },
+            {
+              "use": "Size + colour + origin + material",
+              "example": "I love your **long, red, Chinese, silk** curtains."
+            },
+            {
+              "use": "Size + origin + purpose",
+              "example": "What you need for your living room is a **large oak dining** table."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "adjectives-as-nouns",
+      "title": "Adjectives used as nouns",
+      "icon": "Sparkles",
+      "blocks": [
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "To refer to members of a general social group",
+              "example": "We need to provide better housing for **the poor**."
+            },
+            {
+              "use": "To refer to members of a specific group",
+              "example": "When the building collapsed, **the injured** were rushed to hospital."
+            },
+            {
+              "use": "To refer to some nationalities",
+              "example": "**The French** have introduced new housing regulations in Paris."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "position-adverbs",
+      "title": "Position of adverbs",
+      "icon": "ListChecks",
+      "blocks": [
+        {
+          "type": "prose",
+          "text": "There are three places in a clause where an adverb (or adverbial phrase) might appear: at the beginning, at the end and with the verb. Different kinds of adverb go in different positions, and some may go in more than one position."
+        },
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "Adverbs do not normally appear between a verb and its direct object",
+              "example": "They built the house **very quickly**. (not *They built very quickly the house.*)"
+            },
+            {
+              "use": "With verbs formed using auxiliary verbs, the adverb normally follows the (first) auxiliary",
+              "example": "The town **has always been** popular with tourists. · Our house **will probably have been decorated** by the time you get there."
+            },
+            {
+              "use": "Adverbs of frequency follow auxiliary verbs and **be** and come before other verbs",
+              "example": "I'm **rarely** in the city centre. · I **rarely go** to the city centre."
+            },
+            {
+              "use": "Connecting adverbs usually go at the beginning of a clause",
+              "example": "We bought it as an investment; **then**, all the property prices in the area fell."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "comparisons",
+      "title": "Comparisons",
+      "icon": "CheckCircle2",
+      "blocks": [
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "Comparative: to compare things or people that are different",
+              "example": "Your flat is much **bigger** and **more comfortable** than ours."
+            },
+            {
+              "use": "Superlative: to compare one member of a group of people or things with the whole group",
+              "example": "Mexico City is probably my **least favourite** city. · I think my home town is **the best** place in the world."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "modifiers",
+      "title": "Comparative and superlative modifiers",
+      "icon": "Lightbulb",
+      "blocks": [
+        {
+          "type": "word-list",
+          "intro": "Modifiers with comparatives",
+          "words": ["quite a bit", "a great deal", "a good deal", "a little", "(quite) a lot", "any", "considerably", "even", "far", "just", "little", "much", "no", "slightly", "somewhat"]
+        },
+        {
+          "type": "word-list",
+          "intro": "Modifiers with superlatives",
+          "words": ["by far", "far and away", "easily", "far from", "much", "quite"]
+        },
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "With a comparative",
+              "example": "This area has become **considerably** more crowded and **far** noisier in the last ten years."
+            },
+            {
+              "use": "With a superlative",
+              "example": "If you ask me, Ladybridge is **easily** the nicest area of town to live in."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "comparison-structures",
+      "title": "Structures used to make comparisons",
+      "icon": "PencilLine",
+      "blocks": [
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "(nearly/almost/just/half/twice/easily/etc) as … as",
+              "example": "Platinum is about **twice as expensive as** gold. · Iron isn't **nearly as hard as** diamond."
+            },
+            {
+              "use": "not (nearly/quite) as/so … as",
+              "example": "Iron isn't **nearly as** hard as diamond. · Gold is **not quite as** valuable as it was last month."
+            },
+            {
+              "use": "nothing like as … as / nowhere near as … as",
+              "example": "Iron is **nothing like as / nowhere near as** hard as diamond."
+            },
+            {
+              "use": "the … , the …",
+              "example": "The **taller** the building, **the greater** the fire risk."
+            }
+          ]
+        },
+        {
+          "type": "watch-out",
+          "text": "**as** + adjective/adverb + **as** refers to a large difference between the things being referred to when used with **nothing like / nowhere near**. **not quite as** refers to a small difference.",
+          "note": "Paper is **not nearly as** strong as plastic. · Gold is **not quite as** valuable as it was last month."
+        }
+      ]
+    },
+    {
+      "id": "gradable",
+      "title": "Gradable and ungradable adjectives",
+      "icon": "AlertTriangle",
+      "blocks": [
+        {
+          "type": "prose",
+          "text": "Ungradable adjectives describe qualities which are extreme and which cannot be 'more' or 'less', e.g. **amazing, dead, exhausted, fantastic, helpless, impossible, incredible, necessary, perfect, pointless, right, splendid, unacceptable, wonderful, wrong**, etc. Other adjectives are gradable."
+        },
+        {
+          "type": "hints",
+          "intro": "Typical modifiers",
+          "items": [
+            "With ungradable adjectives: **absolutely, completely, quite, totally, utterly**, etc.",
+            "With gradable adjectives: **a bit, a little, fairly, quite, really, too, very**, etc."
+          ]
+        },
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "Ungradable + absolutely",
+              "example": "After working on the building site all day, Tim was **absolutely exhausted**."
+            },
+            {
+              "use": "Gradable + a bit",
+              "example": "Pete was **a bit tired** after working on the building site all day, but it wasn't too bad."
+            }
+          ]
+        },
+        {
+          "type": "watch-out",
+          "text": "When **quite** is used with gradable adjectives, it means 'rather, fairly'. When **quite** is used with ungradable adjectives, it means 'absolutely, completely'.",
+          "note": "Our flat's **quite** nice, but not perfect. · I love your flat! The balconies are **quite** splendid!"
+        }
+      ]
+    },
+    {
+      "id": "confusing",
+      "title": "Confusing cases",
+      "icon": "AlertTriangle",
+      "blocks": [
+        {
+          "type": "prose",
+          "text": "Some words have the same form as an adjective and as an adverb and some also form adjectives with **-ly**. The different forms can have different meanings."
+        },
+        {
+          "type": "word-list",
+          "intro": "Pairs to watch",
+          "words": ["fair / fairly", "free / freely", "late / lately", "short / shortly", "fast", "hard / hardly", "near / nearly", "straight", "fine / finely", "high / highly", "right / rightly", "wide / widely", "well"]
+        },
+        {
+          "type": "correct-incorrect",
+          "correct": "Sandstone is not a **very hard** material. · Hit it **too hard** and you'll break it. · I could **hardly** hear the music.",
+          "incorrect": "Hit it **too hardly** and you'll break it."
+        },
+        {
+          "type": "watch-out",
+          "text": "Some adjectives end in **-ly**, e.g. **costly, deadly, friendly, likely, lively, lonely, lovely**. They do not form adverbs, but we often use a phrase such as **in a … way** to describe how something is done.",
+          "note": "She looked at me **in a very friendly way**."
+        }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "a",
+      "type": "rewrite",
+      "title": "A · Tick or rewrite",
+      "instruction": "If the word in bold is correct, write a tick (✓). If it is incorrect, rewrite it correctly.",
+      "items": [
+        {
+          "id": "a1",
+          "prompt": "Whenever she gets home from work, Mum always seems **unhappily** about something.",
+          "acceptedAnswers": ["unhappy"]
+        },
+        {
+          "id": "a2",
+          "prompt": "I don't know what's in it, but it smells **strongly** of cinnamon.",
+          "acceptedAnswers": ["strong"]
+        },
+        {
+          "id": "a3",
+          "prompt": "When Terry finally became **calmly**, I asked him what had happened.",
+          "acceptedAnswers": ["calm"]
+        },
+        {
+          "id": "a4",
+          "prompt": "I'm glad I didn't go on holiday with Ely and Graham because it sounded **dreadfully**.",
+          "acceptedAnswers": ["dreadful"]
+        },
+        {
+          "id": "a5",
+          "prompt": "It's hard to believe that the seeds you planted have grown so **quickly**.",
+          "acceptedAnswers": ["✓", "tick", "correct", "quickly"]
+        },
+        {
+          "id": "a6",
+          "prompt": "The car sped past me and turned **sharply** into the next street.",
+          "acceptedAnswers": ["✓", "tick", "correct", "sharply"]
+        },
+        {
+          "id": "a7",
+          "prompt": "The actors could tell that the audience were growing **restlessly**.",
+          "acceptedAnswers": ["restless"]
+        },
+        {
+          "id": "a8",
+          "prompt": "Why are you looking so **accusingly** at me?",
+          "acceptedAnswers": ["✓", "tick", "correct", "accusingly"]
+        },
+        {
+          "id": "a9",
+          "prompt": "Add some chilli to the curry because it doesn't taste **spicily** enough.",
+          "acceptedAnswers": ["spicy"]
+        },
+        {
+          "id": "a10",
+          "prompt": "I don't think I get **angrily** very often, but one or two people do really annoy me.",
+          "acceptedAnswers": ["angry"]
+        },
+        {
+          "id": "a11",
+          "prompt": "In the darkness, I felt **nervously** for the light switch and finally found it.",
+          "acceptedAnswers": ["✓", "tick", "correct", "nervously"]
+        },
+        {
+          "id": "a12",
+          "prompt": "Tim appeared **tiredly** after his tennis match.",
+          "acceptedAnswers": ["tired"]
+        }
+      ]
+    },
+    {
+      "id": "b",
+      "type": "gap-fill",
+      "title": "B · so / such / too / as",
+      "instruction": "Complete the sentences using the words in bold. Add any other words you need.",
+      "items": [
+        {
+          "id": "b1",
+          "prompt": "I haven't had this ___ at work for a long time. (day, hard)",
+          "acceptedAnswers": ["hard a day", "hard a day's work"]
+        },
+        {
+          "id": "b2",
+          "prompt": "So ___ was it that I never went back to that country again. (experience, frightening)",
+          "acceptedAnswers": ["frightening an experience", "frightening was the experience"]
+        },
+        {
+          "id": "b3",
+          "prompt": "If we'd known how ___ it was going to be, we wouldn't have agreed to do it. (difficult, task)",
+          "acceptedAnswers": ["difficult a task"]
+        },
+        {
+          "id": "b4",
+          "prompt": "It was as ___ as I'd seen in a long time. (moving, performance)",
+          "acceptedAnswers": ["moving a performance"]
+        },
+        {
+          "id": "b5",
+          "prompt": "Alex has got that ___ he never seems to have to work hard at school. (good, memory)",
+          "acceptedAnswers": ["good a memory"]
+        },
+        {
+          "id": "b6",
+          "prompt": "It was too ___ to turn down. (offer, tempting)",
+          "acceptedAnswers": ["tempting an offer"]
+        },
+        {
+          "id": "b7",
+          "prompt": "No matter how ___ you have, there's always the risk of failure. (career, successful)",
+          "acceptedAnswers": ["successful a career"]
+        },
+        {
+          "id": "b8",
+          "prompt": "I don't think I'll ever be as ___ as my brother. (good, pianist)",
+          "acceptedAnswers": ["good a pianist"]
+        }
+      ]
+    },
+    {
+      "id": "c",
+      "type": "rewrite",
+      "title": "C · Adjective order",
+      "instruction": "Complete the sentences using the words in bold in the correct order.",
+      "items": [
+        {
+          "id": "c1",
+          "prompt": "Oh, what a/an ___ sculpture! Did you buy it when you were there? (African, gorgeous, little)",
+          "acceptedAnswers": ["gorgeous little African"]
+        },
+        {
+          "id": "c2",
+          "prompt": "Have you seen my ___ boots anywhere? I'm sure I left them here. (black, climbing, leather)",
+          "acceptedAnswers": ["black leather climbing"]
+        },
+        {
+          "id": "c3",
+          "prompt": "They've got some ___ shoes in the sale at Derbyshire's. (ballet, fantastic, pink, Russian, silk)",
+          "acceptedAnswers": ["fantastic pink Russian silk ballet"]
+        },
+        {
+          "id": "c4",
+          "prompt": "Didn't the bride look lovely in that ___ dress? (beautiful, cotton, cream, wedding)",
+          "acceptedAnswers": ["beautiful cream cotton wedding"]
+        },
+        {
+          "id": "c5",
+          "prompt": "Does Spencer still drive that ___ car of his? (blue, foreign, ugly)",
+          "acceptedAnswers": ["ugly blue foreign"]
+        },
+        {
+          "id": "c6",
+          "prompt": "It's hard to imagine that such a ___ frog is so important to the local environment. (Amazonian, green, tiny)",
+          "acceptedAnswers": ["tiny green Amazonian"]
+        },
+        {
+          "id": "c7",
+          "prompt": "Andrea has a ___ rug on the floor in her bedroom. (long, lovely, sheepskin, white)",
+          "acceptedAnswers": ["lovely long white sheepskin"]
+        },
+        {
+          "id": "c8",
+          "prompt": "The clown was wearing a ___ wig and a red nose. (funny, plastic, red)",
+          "acceptedAnswers": ["funny red plastic"]
+        },
+        {
+          "id": "c9",
+          "prompt": "I couldn't believe it when Sylvia turned up in the same ___ hat that she wore last time. (horrible, wide, yellow)",
+          "acceptedAnswers": ["horrible wide yellow"]
+        },
+        {
+          "id": "c10",
+          "prompt": "When are you going to get rid of those ___ trousers? (dreadful, French, nylon, short)",
+          "acceptedAnswers": ["dreadful short French nylon"]
+        }
+      ]
+    },
+    {
+      "id": "d",
+      "type": "multiple-choice",
+      "title": "D · Adverb position",
+      "instruction": "Choose the best position for each adverb in bold.",
+      "items": [
+        {
+          "id": "d1",
+          "prompt": "The Millennium Dome, or the O2 as (A) it (B) is (C) called (D) now that the mobile company of that name owns the naming rights, has become a distinctive part of the London skyline. **correctly**",
+          "options": ["A", "B", "C", "D"],
+          "acceptedAnswers": ["C"]
+        },
+        {
+          "id": "d2",
+          "prompt": "It was built for the millennium celebrations of 2000, and (A) a number of people (B) criticised (C) the high (D) cost of construction. **strongly**",
+          "options": ["A", "B", "C", "D"],
+          "acceptedAnswers": ["B"]
+        },
+        {
+          "id": "d3",
+          "prompt": "Costing £789 million to build and operate for a year, (A) it (B) failed (C) to reach (D) its target of 12 million visitors. **completely**",
+          "options": ["A", "B", "C", "D"],
+          "acceptedAnswers": ["B"]
+        },
+        {
+          "id": "d4",
+          "prompt": "Even Michael Heseltine, the politician who was originally in charge of the Dome, later admitted that (A) it (B) would (C) have been (D) better to build something else. **probably**",
+          "options": ["A", "B", "C", "D"],
+          "acceptedAnswers": ["B"]
+        },
+        {
+          "id": "d5",
+          "prompt": "Although the press were critical, (A) people who visited the Dome (B) had (C) a positive experience (D). **often**",
+          "options": ["A", "B", "C", "D"],
+          "acceptedAnswers": ["B"]
+        },
+        {
+          "id": "d6",
+          "prompt": "Even with low visitor numbers, (A) it (B) was (C) the most popular attraction in Britain in 2000 (D). **easily**",
+          "options": ["A", "B", "C", "D"],
+          "acceptedAnswers": ["C"]
+        },
+        {
+          "id": "d7",
+          "prompt": "Although (A) it (B) is (C) closed (D), the Dome has a bright future as a venue for pop concerts and other events.",
+          "options": ["A", "B", "C", "D"],
+          "acceptedAnswers": ["C"],
+          "explanation": "The implied adverb from the book is now/currently with closed: 'Although it is now closed' — position C."
+        }
+      ]
+    },
+    {
+      "id": "e",
+      "type": "gap-fill",
+      "title": "E · Comparative and superlative forms",
+      "instruction": "Complete with an appropriate comparative or superlative form of the words in the box. Add any other words you need.",
+      "wordBank": ["demanding", "few", "funny", "hard", "long", "observant", "reliable", "slight", "ugly", "valuable"],
+      "items": [
+        {
+          "id": "e1",
+          "prompt": "I thought this week's programme was far ___ last week's, so it's definitely improving.",
+          "acceptedAnswers": ["funnier than"]
+        },
+        {
+          "id": "e2",
+          "prompt": "My new laptop is ___ my old one, but I suppose it was quite cheap so I shouldn't be surprised.",
+          "acceptedAnswers": ["less reliable than", "not as reliable as"]
+        },
+        {
+          "id": "e3",
+          "prompt": "Jim Carter knows what he wants from employees, and I don't think I've ever worked for ___ manager.",
+          "acceptedAnswers": ["a more demanding", "a more demanding a"]
+        },
+        {
+          "id": "e4",
+          "prompt": "Because of its internal structure, diamond is ___ substance known.",
+          "acceptedAnswers": ["the hardest"]
+        },
+        {
+          "id": "e5",
+          "prompt": "Beside the house, there stood ___ tower block I had ever seen.",
+          "acceptedAnswers": ["the ugliest"]
+        },
+        {
+          "id": "e6",
+          "prompt": "If the conflict goes on any ___ , more people are going to lose their lives.",
+          "acceptedAnswers": ["longer"]
+        },
+        {
+          "id": "e7",
+          "prompt": "___ his Portrait of Dr. Gachet, van Gogh's Irises still sold for $49 million.",
+          "acceptedAnswers": ["Even slightly more valuable than", "Slightly less valuable than"]
+        },
+        {
+          "id": "e8",
+          "prompt": "Even ___ amongst us soon realise when a friend has changed their appearance in some way.",
+          "acceptedAnswers": ["the least observant"]
+        },
+        {
+          "id": "e9",
+          "prompt": "I'm afraid that what you're saying doesn't make ___ difference to how I feel.",
+          "acceptedAnswers": ["the slightest"]
+        },
+        {
+          "id": "e10",
+          "prompt": "Frankly, I think ___ people who know about this, the better.",
+          "acceptedAnswers": ["the fewer"]
+        }
+      ]
+    },
+    {
+      "id": "f",
+      "type": "multiple-choice",
+      "title": "F · Circle the correct word or phrase",
+      "instruction": "Choose the correct option.",
+      "items": [
+        {
+          "id": "f1",
+          "prompt": "It's good to see that Rebecca has become a great ___ more independent than she used to be.",
+          "options": ["lot", "deal"],
+          "acceptedAnswers": ["deal"]
+        },
+        {
+          "id": "f2",
+          "prompt": "The hotel was ___ from the most luxurious I've stayed in.",
+          "options": ["away", "far"],
+          "acceptedAnswers": ["far"]
+        },
+        {
+          "id": "f3",
+          "prompt": "The new law is ___ more than an attempt to divert attention from the real problems.",
+          "options": ["less", "little"],
+          "acceptedAnswers": ["little"]
+        },
+        {
+          "id": "f4",
+          "prompt": "This is ___ far the worst public transport system I've ever been on.",
+          "options": ["by", "from"],
+          "acceptedAnswers": ["by"]
+        },
+        {
+          "id": "f5",
+          "prompt": "Have you noticed that the neighbours' trees have grown ___ bigger?",
+          "options": ["easily", "considerably"],
+          "acceptedAnswers": ["considerably"]
+        },
+        {
+          "id": "f6",
+          "prompt": "My mum's getting a little / little older now, so she needs someone to look after her.",
+          "options": ["a little", "little"],
+          "acceptedAnswers": ["a little"]
+        },
+        {
+          "id": "f7",
+          "prompt": "It was ___ the most delightful little puppy I had ever seen!",
+          "options": ["quite", "somewhat"],
+          "acceptedAnswers": ["quite"]
+        },
+        {
+          "id": "f8",
+          "prompt": "If you have ___ further problems with your computer, don't hesitate to call me.",
+          "options": ["any", "even"],
+          "acceptedAnswers": ["any"]
+        },
+        {
+          "id": "f9",
+          "prompt": "I'd say that the woman I saw running away from the bank was ___ taller than I am.",
+          "options": ["any", "no"],
+          "acceptedAnswers": ["no"]
+        },
+        {
+          "id": "f10",
+          "prompt": "Imogen was told that she would have to work a ___ deal harder than she had been doing.",
+          "options": ["better", "good"],
+          "acceptedAnswers": ["good"]
+        }
+      ]
+    },
+    {
+      "id": "g",
+      "type": "rewrite",
+      "title": "G · Key word transformation",
+      "instruction": "Complete the second sentence so that it has a similar meaning to the first sentence, using the word given. Do not change the word given. Use between three and eight words, including the word given. Write only the missing part.",
+      "items": [
+        {
+          "id": "g1",
+          "prompt": "The red shoes are slightly more expensive than the green ones.\n**quite**\nThe green shoes ___ the red ones.",
+          "acceptedAnswers": ["are not quite as expensive as", "aren't quite as expensive as"]
+        },
+        {
+          "id": "g2",
+          "prompt": "Richard is much more committed to the project than Grant seems to be.\n**like**\nGrant seems to be ___ to the project.",
+          "acceptedAnswers": ["nothing like as committed as Richard", "nowhere near as committed as Richard"]
+        },
+        {
+          "id": "g3",
+          "prompt": "If you argue about it more, we'll get to Denver later.\n**the**\nThe ___ we'll get to Denver.",
+          "acceptedAnswers": ["more you argue about it, the later"]
+        },
+        {
+          "id": "g4",
+          "prompt": "My new MP3 player was twice the price of yours.\n**expensive**\nYour MP3 player was ___ mine.",
+          "acceptedAnswers": ["half as expensive as"]
+        },
+        {
+          "id": "g5",
+          "prompt": "England is much bigger than Wales.\n**nowhere**\nWales ___ England.",
+          "acceptedAnswers": ["is nowhere near as big as", "is nowhere near as large as"]
+        },
+        {
+          "id": "g6",
+          "prompt": "Derek is quite a bit more adventurous than his sister, Annabelle.\n**nearly**\nAnnabelle ___ her brother, Derek.",
+          "acceptedAnswers": ["is not nearly as adventurous as", "isn't nearly as adventurous as"]
+        },
+        {
+          "id": "g7",
+          "prompt": "Bigger cities have higher crime rates.\n**the**\nThe ___ the crime rate.",
+          "acceptedAnswers": ["bigger the city, the higher"]
+        },
+        {
+          "id": "g8",
+          "prompt": "Their first album was considerably more successful than their second.\n**near**\nTheir second album ___ their first.",
+          "acceptedAnswers": ["was nowhere near as successful as"]
+        }
+      ]
+    },
+    {
+      "id": "h",
+      "type": "multiple-choice",
+      "title": "H · Which cannot complete the sentence?",
+      "instruction": "Choose the word or phrase which cannot complete the sentence.",
+      "items": [
+        {
+          "id": "h1",
+          "prompt": "Jackie didn't like the show so much, but I thought it was ___ perfect.",
+          "options": ["absolutely", "quite", "very"],
+          "acceptedAnswers": ["very"]
+        },
+        {
+          "id": "h2",
+          "prompt": "You were ___ right about Laura — she is from Manchester.",
+          "options": ["completely", "fairly", "totally"],
+          "acceptedAnswers": ["fairly"]
+        },
+        {
+          "id": "h3",
+          "prompt": "We've been ___ busy at work, so I'm looking forward to a break.",
+          "options": ["absolutely", "a little", "quite"],
+          "acceptedAnswers": ["absolutely"]
+        },
+        {
+          "id": "h4",
+          "prompt": "It's ___ very pointless trying to persuade Michael to lend you his new car.",
+          "options": ["completely", "totally", "very"],
+          "acceptedAnswers": ["very"]
+        },
+        {
+          "id": "h5",
+          "prompt": "Anthony seems to be a little / really / utterly worried about the situation.",
+          "options": ["a little", "really", "utterly"],
+          "acceptedAnswers": ["utterly"]
+        },
+        {
+          "id": "h6",
+          "prompt": "Jackson's shot from the halfway line was absolutely / quite / too incredible.",
+          "options": ["absolutely", "quite", "too"],
+          "acceptedAnswers": ["too"]
+        },
+        {
+          "id": "h7",
+          "prompt": "If you think I'm going to help you after what you did, you're a bit / completely / quite wrong.",
+          "options": ["a bit", "completely", "quite"],
+          "acceptedAnswers": ["a bit"]
+        },
+        {
+          "id": "h8",
+          "prompt": "In the end, the documents that the tax office sent us were completely / totally / very useless.",
+          "options": ["completely", "totally", "very"],
+          "acceptedAnswers": ["very"]
+        }
+      ]
+    },
+    {
+      "id": "i",
+      "type": "gap-fill",
+      "title": "I · Confusing pairs",
+      "instruction": "Complete using the words in the boxes. You need to use one word in each box twice.",
+      "items": [
+        {
+          "id": "i1",
+          "prompt": "Don't press the keys so ___ or you'll break the keyboard. (hard / hardly)",
+          "acceptedAnswers": ["hard"]
+        },
+        {
+          "id": "i2",
+          "prompt": "This is ___ the most attractive part of the city, is it? (hard / hardly)",
+          "acceptedAnswers": ["hardly"]
+        },
+        {
+          "id": "i3",
+          "prompt": "It's ___ to understand why Isabelle reacted in the way she did. (hard / hardly)",
+          "acceptedAnswers": ["hard"]
+        },
+        {
+          "id": "i4",
+          "prompt": "It's not ___ ! You never let me go to parties! (fair / fairly)",
+          "acceptedAnswers": ["fair"]
+        },
+        {
+          "id": "i5",
+          "prompt": "Divide the money between you ___. (fair / fairly)",
+          "acceptedAnswers": ["fairly"]
+        },
+        {
+          "id": "i6",
+          "prompt": "I'm ___ satisfied with your progress. (fair / fairly)",
+          "acceptedAnswers": ["fairly"]
+        },
+        {
+          "id": "i7",
+          "prompt": "They're giving away ___ tickets to the concert! (free / freely)",
+          "acceptedAnswers": ["free"]
+        },
+        {
+          "id": "i8",
+          "prompt": "This tool moves ___ in any direction. (free / freely)",
+          "acceptedAnswers": ["freely"]
+        },
+        {
+          "id": "i9",
+          "prompt": "Can we get in ___ if we're members of the club? (free / freely)",
+          "acceptedAnswers": ["free"]
+        },
+        {
+          "id": "i10",
+          "prompt": "I'm always uncomfortable in ___ places. (high / highly)",
+          "acceptedAnswers": ["high"]
+        },
+        {
+          "id": "i11",
+          "prompt": "This request is ___ unusual. (high / highly)",
+          "acceptedAnswers": ["highly"]
+        },
+        {
+          "id": "i12",
+          "prompt": "The dog jumped ___ and cleared the fence. (high / highly)",
+          "acceptedAnswers": ["high"]
+        }
+      ]
+    },
+    {
+      "id": "j",
+      "type": "gap-fill",
+      "title": "J · Vertical living",
+      "instruction": "Write one word in each gap.",
+      "items": [
+        {
+          "id": "j1",
+          "prompt": "In the 1950s and 60s, the tower block seemed to offer a solution to two problems. Firstly, houses built ___ earlier in the century, or even in the nineteenth century, were no longer suitable for people to live in.",
+          "acceptedAnswers": ["much"]
+        },
+        {
+          "id": "j2",
+          "prompt": "Secondly, an increasing population placed a great ___ more strain on available space.",
+          "acceptedAnswers": ["deal"]
+        },
+        {
+          "id": "j3",
+          "prompt": "New, vertical tower blocks, able to house more people in a relatively small space ___ a horizontal street, started to appear.",
+          "acceptedAnswers": ["than"]
+        },
+        {
+          "id": "j4",
+          "prompt": "The more people got used to living in these structures, ___ more they would form the heart of communities, or so the thinking went.",
+          "acceptedAnswers": ["the"]
+        },
+        {
+          "id": "j5",
+          "prompt": "Initially, these blocks were ___ popular than the old housing they replaced.",
+          "acceptedAnswers": ["more"]
+        },
+        {
+          "id": "j6",
+          "prompt": "They were ___ and away the most affordable alternative for many people, and they also offered excellent views.",
+          "acceptedAnswers": ["far"]
+        },
+        {
+          "id": "j7",
+          "prompt": "However, these buildings soon became ___ attractive to residents as crime rose.",
+          "acceptedAnswers": ["less"]
+        },
+        {
+          "id": "j8",
+          "prompt": "It also became clear that a tower block was ___ like as friendly a place to live in as a traditional street.",
+          "acceptedAnswers": ["nothing", "nowhere"]
+        },
+        {
+          "id": "j9",
+          "prompt": "More often ___ not, residents in a tower block didn't interact with each other on a regular basis.",
+          "acceptedAnswers": ["than"]
+        },
+        {
+          "id": "j10",
+          "prompt": "Although modern tower blocks are making something of a comeback amongst young professionals, they still have a poor reputation in the minds of ___ people.",
+          "acceptedAnswers": ["many"]
+        }
+      ]
+    },
+    {
+      "id": "k",
+      "type": "multiple-choice",
+      "title": "K · Choose the correct answer",
+      "instruction": "Choose the correct option.",
+      "items": [
+        {
+          "id": "k1",
+          "prompt": "I ___ when Colin asked me to make him a cup of tea.",
+          "options": ["had sat hard down", "had sat down hardly", "had hardly sat down", "had hard sat down"],
+          "acceptedAnswers": ["had hardly sat down"]
+        },
+        {
+          "id": "k2",
+          "prompt": "Where's that ___ dress that your grandma gave you?",
+          "options": ["lovely, long, pink, silk", "pink, long, lovely, silk", "lovely, pink, long, silk", "long, pink, silk, lovely"],
+          "acceptedAnswers": ["lovely, long, pink, silk"]
+        },
+        {
+          "id": "k3",
+          "prompt": "Although he ___ to Ernest Hemingway, I think his books are unique.",
+          "options": ["often has been compared", "has often been compared", "has been compared often", "has been comparing often"],
+          "acceptedAnswers": ["has often been compared"]
+        },
+        {
+          "id": "k4",
+          "prompt": "Don't you think ___ in society have a responsibility to help those less fortunate?",
+          "options": ["a wealthy", "wealthier", "wealthiest", "the wealthy"],
+          "acceptedAnswers": ["the wealthy"]
+        },
+        {
+          "id": "k5",
+          "prompt": "The rents in this area are ___ the highest in the city.",
+          "options": ["far from away", "away by far", "far and away", "far to away"],
+          "acceptedAnswers": ["far and away"]
+        },
+        {
+          "id": "k6",
+          "prompt": "The coastguard boarded the ship and found ___.",
+          "options": ["a four injured alive men", "alive four men injured", "four injured men alive", "injured four alive men"],
+          "acceptedAnswers": ["four injured men alive"]
+        },
+        {
+          "id": "k7",
+          "prompt": "To be honest, Harry has ___ than you have.",
+          "options": ["been more helpful considerably", "been considerably more helpful", "been more considerably helpful", "considerably been more helpful"],
+          "acceptedAnswers": ["been considerably more helpful"]
+        },
+        {
+          "id": "k8",
+          "prompt": "I'm ___ my brother is.",
+          "options": ["nowhere like so ambitious", "nothing near as ambitious as", "nothing as ambitious than", "nowhere near as ambitious as"],
+          "acceptedAnswers": ["nowhere near as ambitious as"]
+        }
+      ]
+    }
+  ]
+}
