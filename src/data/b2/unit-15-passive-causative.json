@@ -1,0 +1,975 @@
+{
+  "id": "unit-15-passive-causative",
+  "level": "b2",
+  "unitNumber": 15,
+  "title": "The passive, the causative, objects",
+  "subtitle": "Passive forms, have/get something done, direct and indirect objects",
+  "theory": [
+    {
+      "id": "passive-form",
+      "title": "The passive",
+      "icon": "Table2",
+      "blocks": [
+        {
+          "type": "prose",
+          "text": "Form: noun + **be** in the correct form + past participle (+ **by / with** + noun)."
+        },
+        {
+          "type": "form-table",
+          "statementLabel": "Active",
+          "negativeLabel": "Passive",
+          "questionLabel": "Pattern",
+          "rows": [
+            {
+              "person": "present simple",
+              "statement": "They **grow** cocoa in West Africa.",
+              "negative": "Cocoa **is grown** in West Africa.",
+              "question": "am / is / are + past participle"
+            },
+            {
+              "person": "present continuous",
+              "statement": "They **are redecorating** the lobby.",
+              "negative": "The lobby **is being redecorated**.",
+              "question": "am / is / are + being + past participle"
+            },
+            {
+              "person": "present perfect simple",
+              "statement": "Has anyone **sliced** the onions?",
+              "negative": "**Have** the onions **been sliced**?",
+              "question": "have / has + been + past participle"
+            },
+            {
+              "person": "past simple",
+              "statement": "They **served** dessert in the garden.",
+              "negative": "Dessert **was served** in the garden.",
+              "question": "was / were + past participle"
+            },
+            {
+              "person": "past continuous",
+              "statement": "We **asked** for water while they **were preparing** the bill.",
+              "negative": "We asked for water while the bill **was being prepared**.",
+              "question": "was / were + being + past participle"
+            },
+            {
+              "person": "past perfect simple",
+              "statement": "Someone **had eaten** all the biscuits by the time I arrived.",
+              "negative": "All the biscuits **had been eaten** by the time I arrived.",
+              "question": "had + been + past participle"
+            },
+            {
+              "person": "will future",
+              "statement": "We **will deliver** your order in twenty minutes.",
+              "negative": "Your order **will be delivered** in twenty minutes.",
+              "question": "will + be + past participle"
+            },
+            {
+              "person": "be going to",
+              "statement": "Angry customers **are going to sue** the airline.",
+              "negative": "The airline **is going to be sued** by angry customers.",
+              "question": "am / is / are going to + be + past participle"
+            },
+            {
+              "person": "future perfect simple",
+              "statement": "They **will have packed** every box by Friday.",
+              "negative": "Every box **will have been packed** by Friday.",
+              "question": "will + have + been + past participle"
+            },
+            {
+              "person": "modal",
+              "statement": "You **should brush** the pastry with egg and then bake it.",
+              "negative": "The pastry **should be brushed** with egg and then baked.",
+              "question": "modal + be + past participle"
+            },
+            {
+              "person": "modal + perfect infinitive",
+              "statement": "They **should have delivered** the parcels by now.",
+              "negative": "The parcels **should have been delivered** by now.",
+              "question": "modal + have + been + past participle"
+            },
+            {
+              "person": "-ing (gerund)",
+              "statement": "I don't like people **telling** me what to chop in the kitchen.",
+              "negative": "I don't like **being told** what to chop in the kitchen.",
+              "question": "being + past participle"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "passive-use",
+      "title": "When we use the passive",
+      "icon": "Lightbulb",
+      "blocks": [
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "When we do not know who does or did something",
+              "example": "My suitcase **has been stolen**."
+            },
+            {
+              "use": "When it is obvious who does or did something",
+              "example": "A teenager **was arrested** last night for shoplifting."
+            },
+            {
+              "use": "When it is not important who does or did something",
+              "example": "The old cinema **is being knocked down**."
+            },
+            {
+              "use": "When we want to emphasise new information or use a more formal style",
+              "example": "Tomatoes **were brought** to Europe in the sixteenth century."
+            }
+          ]
+        },
+        {
+          "type": "watch-out",
+          "text": "We do not normally use verbs in the passive in the present perfect continuous, past perfect continuous, future continuous or future perfect continuous. Use a different phrase instead.",
+          "note": "The hotel **has been under construction** for four years. (not *has been being built*) · Dave **has been in training** as a chef for three years. (not *has been being trained*)"
+        },
+        {
+          "type": "watch-out",
+          "text": "We only normally use **by** to say who did something when that person is important information.",
+          "note": "The best pizzas **are made by** the Italians. (not *This steak has been overcooked by someone.*)"
+        },
+        {
+          "type": "watch-out",
+          "text": "We usually use **with** when we talk about the thing used to do something.",
+          "note": "The soup **should then be stirred with** a spoon. (not *stirred by a spoon*)"
+        },
+        {
+          "type": "hints",
+          "items": [
+            "Some verbs are not normally used in the passive. They include intransitive verbs (without objects), such as **appear** and **die**, and some common transitive verbs, such as **have**, **let**, **lack**."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "impersonal-passive",
+      "title": "The impersonal passive",
+      "icon": "Sparkles",
+      "blocks": [
+        {
+          "type": "prose",
+          "text": "To report other people's opinions in a formal style, we can use two special forms of the passive. They work with verbs such as **say, believe, think, claim, estimate**. Some other verbs (**argue, suggest, calculate**) are usually used with only the **It is said that** structure."
+        },
+        {
+          "type": "hints",
+          "intro": "Two patterns:",
+          "items": [
+            "noun + **is / are said to** + bare infinitive / perfect infinitive",
+            "**It is said that** + clause"
+          ]
+        },
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "People think he is a great chef.",
+              "example": "He **is thought to be** a great chef. · **It is thought that** he is a great chef."
+            },
+            {
+              "use": "People believe he was a great chef.",
+              "example": "He **is believed to have been** a great chef. · **It is believed that** he was a great chef."
+            },
+            {
+              "use": "People claim she has influenced many cooks.",
+              "example": "She **is claimed to have had** an influence on many cooks. · **It is claimed that** she has had an influence on many other cooks."
+            },
+            {
+              "use": "People say she has been making the best cheese for decades.",
+              "example": "She **is said to have been making** the best cheese in the area for over thirty years. · **It is said that** she has been making the best cheese in the area for over thirty years."
+            },
+            {
+              "use": "People estimated that the restaurant was worth over $10 million.",
+              "example": "His restaurant **was estimated to be / to have been** worth over $10 million. · **It was estimated that** his restaurant was worth over $10 million."
+            },
+            {
+              "use": "People have suggested that he is a great chef.",
+              "example": "**It has been suggested that** he is a great chef."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "causative",
+      "title": "The causative",
+      "icon": "BookOpen",
+      "blocks": [
+        {
+          "type": "prose",
+          "text": "Form: noun + **have / get** in the correct form + noun + past participle (+ **by / with** + noun)."
+        },
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "To show that someone arranges for someone else to do something for them",
+              "example": "I **have my groceries delivered** by the supermarket once a week. · We **are having** a new cooker **put in** tomorrow. · We **had** a large wedding cake **made**. · **Have** you **had** your kitchen **decorated**? · We **are going to have** the food for the party **made** by a catering company."
+            },
+            {
+              "use": "To refer to an unpleasant situation which hasn't been arranged",
+              "example": "We **had** our herb garden **vandalised** while we were away. · The Smiths **have had** their new microwave **stolen**."
+            }
+          ]
+        },
+        {
+          "type": "watch-out",
+          "text": "Using the verb **get** is usually more informal than using **have**.",
+          "note": "Can you go and **get** this recipe **photocopied** for me?"
+        },
+        {
+          "type": "hints",
+          "items": [
+            "We can also use **get somebody to do** and **have somebody do** when we want to refer to the person we arrange to do something for us.",
+            "Why don't you **get the chef to prepare** you a vegetarian meal?",
+            "Why don't you **have the chef prepare** you a vegetarian meal?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "objects",
+      "title": "Direct and indirect objects",
+      "icon": "CheckCircle2",
+      "blocks": [
+        {
+          "type": "prose",
+          "text": "Some verbs can be followed by both a direct and an indirect object (usually a person)."
+        },
+        {
+          "type": "word-list",
+          "intro": "These verbs include:",
+          "words": [
+            "bring",
+            "buy",
+            "give",
+            "lend",
+            "make",
+            "offer",
+            "owe",
+            "pass",
+            "promise",
+            "send",
+            "show",
+            "take",
+            "teach",
+            "tell",
+            "write"
+          ]
+        },
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "Active · indirect object immediately after the verb",
+              "example": "A friend **gave my sister** this cookery book."
+            },
+            {
+              "use": "Active · indirect object at the end with a preposition (for / to, etc.)",
+              "example": "A friend **gave** this cookery book **to my sister**."
+            },
+            {
+              "use": "Passive · the indirect object becomes the subject",
+              "example": "**My sister was given** this cookery book by a friend."
+            },
+            {
+              "use": "Passive · the direct object becomes the subject",
+              "example": "**This cookery book was given** to my sister by a friend."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "a",
+      "type": "multiple-choice",
+      "title": "A · Choose the correct word or phrase",
+      "instruction": "Select the form that completes each sentence.",
+      "items": [
+        {
+          "id": "a1",
+          "prompt": "The prime minister ___ for his recent actions.",
+          "options": ["was criticised", "has criticised"],
+          "acceptedAnswers": ["was criticised"]
+        },
+        {
+          "id": "a2",
+          "prompt": "When I walked past the Wilsons' house, their new sofa ___ .",
+          "options": ["was being delivered", "has been delivered"],
+          "acceptedAnswers": ["was being delivered"]
+        },
+        {
+          "id": "a3",
+          "prompt": "Our teacher ___ us to take our favourite book to school tomorrow.",
+          "options": ["was told", "has told"],
+          "acceptedAnswers": ["has told"]
+        },
+        {
+          "id": "a4",
+          "prompt": "I think my mobile ___ .",
+          "options": ["was stolen", "has been stolen"],
+          "acceptedAnswers": ["has been stolen"]
+        },
+        {
+          "id": "a5",
+          "prompt": "Jonathan ___ to play the lead role in the school play.",
+          "options": ["was chosen", "has chosen"],
+          "acceptedAnswers": ["was chosen"]
+        },
+        {
+          "id": "a6",
+          "prompt": "I'm sleeping downstairs because my bedroom ___ .",
+          "options": ["is being painted", "has been painting"],
+          "acceptedAnswers": ["is being painted"]
+        },
+        {
+          "id": "a7",
+          "prompt": "This picture ___ probably taken during the winter.",
+          "options": ["was", "has"],
+          "acceptedAnswers": ["was"]
+        },
+        {
+          "id": "a8",
+          "prompt": "Your essays must ___ in on Friday morning.",
+          "options": ["be handed", "have handed"],
+          "acceptedAnswers": ["be handed"]
+        },
+        {
+          "id": "a9",
+          "prompt": "Someone ___ their wallet on the floor.",
+          "options": ["was left", "has left"],
+          "acceptedAnswers": ["has left"]
+        },
+        {
+          "id": "a10",
+          "prompt": "Did you hear about the bank ___ ?",
+          "options": ["being robbed", "having robbed"],
+          "acceptedAnswers": ["being robbed"]
+        },
+        {
+          "id": "a11",
+          "prompt": "Treasure Island ___ written by Robert Louis Stevenson.",
+          "options": ["was", "has"],
+          "acceptedAnswers": ["was"]
+        },
+        {
+          "id": "a12",
+          "prompt": "It was a real shock when my dad ___ from his job.",
+          "options": ["was fired", "has fired"],
+          "acceptedAnswers": ["was fired"]
+        },
+        {
+          "id": "a13",
+          "prompt": "The Vikings had visited America before it ___ by Columbus.",
+          "options": ["was discovered", "has discovered"],
+          "acceptedAnswers": ["was discovered"]
+        },
+        {
+          "id": "a14",
+          "prompt": "When we got to the airport, we learned that our flight ___ delayed.",
+          "options": ["was", "had been"],
+          "acceptedAnswers": ["had been"]
+        },
+        {
+          "id": "a15",
+          "prompt": "___ your ticket for the concert tomorrow paid for by you or your parents?",
+          "options": ["Was", "Has"],
+          "acceptedAnswers": ["Was"]
+        }
+      ]
+    },
+    {
+      "id": "b",
+      "type": "gap-fill",
+      "title": "B · Passive forms of the verbs",
+      "instruction": "Complete using the correct passive form of the verbs in brackets.",
+      "items": [
+        {
+          "id": "b1",
+          "prompt": "The Earth ___ (hold) by the gravity of the Sun and orbits around it.",
+          "acceptedAnswers": ["is held"]
+        },
+        {
+          "id": "b2",
+          "prompt": "The first feature-length comedy film ___ (create) by Charlie Chaplin.",
+          "acceptedAnswers": ["was created"]
+        },
+        {
+          "id": "b3",
+          "prompt": "The award for best video ___ (present) later this evening.",
+          "acceptedAnswers": ["will be presented", "is going to be presented", "is being presented"]
+        },
+        {
+          "id": "b4",
+          "prompt": "By the time you read this, I ___ (arrest) for murder.",
+          "acceptedAnswers": ["will have been arrested"]
+        },
+        {
+          "id": "b5",
+          "prompt": "I don't know whether our tests ___ (mark) yet or not.",
+          "acceptedAnswers": ["have been marked"]
+        },
+        {
+          "id": "b6",
+          "prompt": "Radio waves ___ (discover) by Marconi.",
+          "acceptedAnswers": ["were discovered"]
+        },
+        {
+          "id": "b7",
+          "prompt": "You wouldn't think it to look at him now, but Jack ___ (bully) when he was at school.",
+          "acceptedAnswers": ["was bullied", "used to be bullied"]
+        },
+        {
+          "id": "b8",
+          "prompt": "Your application ___ (consider) and we will let you know as soon as we've made a decision.",
+          "acceptedAnswers": ["is being considered", "will be considered"]
+        },
+        {
+          "id": "b9",
+          "prompt": "The roof of the car can ___ (lower) by pressing this button here.",
+          "acceptedAnswers": ["be lowered"]
+        },
+        {
+          "id": "b10",
+          "prompt": "Our tent ___ (blow) over in the night by the wind.",
+          "acceptedAnswers": ["was blown"]
+        },
+        {
+          "id": "b11",
+          "prompt": "Chess ___ (play) for around two thousand years now.",
+          "acceptedAnswers": ["has been played"]
+        },
+        {
+          "id": "b12",
+          "prompt": "Two men ___ (question) at this moment by police in connection with the burglary.",
+          "acceptedAnswers": ["are being questioned"]
+        }
+      ]
+    },
+    {
+      "id": "c",
+      "type": "guided-sentence",
+      "title": "C · Write sentences in the passive",
+      "instruction": "Write a full passive sentence from the prompts. Add any extra words you need.",
+      "items": [
+        {
+          "id": "c1",
+          "prompt": "Our car / service / a mechanic / at the moment",
+          "acceptedAnswers": [
+            "Our car is being serviced by a mechanic at the moment.",
+            "Our car is being serviced by a mechanic at the moment"
+          ]
+        },
+        {
+          "id": "c2",
+          "prompt": "A man / shoot / an air gun / outside the petrol station last night",
+          "acceptedAnswers": [
+            "A man was shot with an air gun outside the petrol station last night.",
+            "A man was shot with an air gun outside the petrol station last night"
+          ]
+        },
+        {
+          "id": "c3",
+          "prompt": "Gunpowder / invent / the Chinese",
+          "acceptedAnswers": [
+            "Gunpowder was invented by the Chinese.",
+            "Gunpowder was invented by the Chinese"
+          ]
+        },
+        {
+          "id": "c4",
+          "prompt": "At the surgery yesterday / I / examine / Dr Peterson / and I / give / a prescription",
+          "acceptedAnswers": [
+            "At the surgery yesterday, I was examined by Dr Peterson and I was given a prescription.",
+            "At the surgery yesterday I was examined by Dr Peterson and I was given a prescription.",
+            "At the surgery yesterday, I was examined by Dr Peterson and given a prescription."
+          ]
+        },
+        {
+          "id": "c5",
+          "prompt": "I went to see it because I / tell / it was a good film / all my friends",
+          "acceptedAnswers": [
+            "I went to see it because I was told it was a good film by all my friends.",
+            "I went to see it because I had been told it was a good film by all my friends.",
+            "I went to see it because I was told by all my friends that it was a good film."
+          ]
+        },
+        {
+          "id": "c6",
+          "prompt": "This photograph / take / my grandfather",
+          "acceptedAnswers": [
+            "This photograph was taken by my grandfather.",
+            "This photograph was taken by my grandfather"
+          ]
+        },
+        {
+          "id": "c7",
+          "prompt": "It looked like the window / break / a hammer / some time before",
+          "acceptedAnswers": [
+            "It looked like the window had been broken with a hammer some time before.",
+            "It looked like the window had been broken with a hammer some time before"
+          ]
+        },
+        {
+          "id": "c8",
+          "prompt": "Our dog / give / an injection / a special syringe / the vet",
+          "acceptedAnswers": [
+            "Our dog was given an injection with a special syringe by the vet.",
+            "Our dog was given an injection by the vet with a special syringe."
+          ]
+        },
+        {
+          "id": "c9",
+          "prompt": "The winning goal in last night's match / score / Donatello / a brilliant free kick",
+          "acceptedAnswers": [
+            "The winning goal in last night's match was scored by Donatello with a brilliant free kick.",
+            "The winning goal in last night's match was scored with a brilliant free kick by Donatello."
+          ]
+        },
+        {
+          "id": "c10",
+          "prompt": "Your cheque / send / last Friday and / should / deliver / to you tomorrow",
+          "acceptedAnswers": [
+            "Your cheque was sent last Friday and should be delivered to you tomorrow.",
+            "Your cheque was sent last Friday and it should be delivered to you tomorrow."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d",
+      "type": "rewrite",
+      "title": "D · Rewrite using the phrase given",
+      "instruction": "Rewrite each sentence using the phrase in brackets. Do not use a continuous passive.",
+      "items": [
+        {
+          "id": "d1",
+          "prompt": "They have been building the new road for a long time now. **(under construction)**",
+          "acceptedAnswers": [
+            "The new road has been under construction for a long time now.",
+            "The new road has been under construction for a long time now"
+          ]
+        },
+        {
+          "id": "d2",
+          "prompt": "They had been training the horse for the race for over a year. **(in training)**",
+          "acceptedAnswers": [
+            "The horse had been in training for the race for over a year.",
+            "The horse had been in training for the race for over a year"
+          ]
+        },
+        {
+          "id": "d3",
+          "prompt": "They have been discussing the issue in Parliament. **(under discussion)**",
+          "acceptedAnswers": [
+            "The issue has been under discussion in Parliament.",
+            "The issue has been under discussion in Parliament"
+          ]
+        },
+        {
+          "id": "d4",
+          "prompt": "They had been observing the criminal for the past two weeks. **(under observation)**",
+          "acceptedAnswers": [
+            "The criminal had been under observation for the past two weeks.",
+            "The criminal had been under observation for the past two weeks"
+          ]
+        },
+        {
+          "id": "d5",
+          "prompt": "They have been using this plane for over 25 years now. **(in use)**",
+          "acceptedAnswers": [
+            "This plane has been in use for over 25 years now.",
+            "This plane has been in use for over 25 years now",
+            "This plane has been in use for over twenty-five years now."
+          ]
+        },
+        {
+          "id": "d6",
+          "prompt": "They have been developing the Cyborg D423 robot for over ten years. **(in development)**",
+          "acceptedAnswers": [
+            "The Cyborg D423 robot has been in development for over ten years.",
+            "The Cyborg D423 robot has been in development for over ten years"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e",
+      "type": "rewrite",
+      "title": "E · Impersonal passive",
+      "instruction": "Rewrite in the passive, starting with the words given.",
+      "items": [
+        {
+          "id": "e1",
+          "prompt": "People say that Bali is a beautiful island.\n**It**",
+          "acceptedAnswers": [
+            "It is said that Bali is a beautiful island.",
+            "It is said that Bali is a beautiful island"
+          ]
+        },
+        {
+          "id": "e2",
+          "prompt": "People generally think that life won't be found on Mars.\n**It**",
+          "acceptedAnswers": [
+            "It is generally thought that life won't be found on Mars.",
+            "It is generally thought that life won't be found on Mars",
+            "It is generally thought that life will not be found on Mars."
+          ]
+        },
+        {
+          "id": "e3",
+          "prompt": "It is generally said that Christmas is too commercialised.\n**Christmas**",
+          "acceptedAnswers": [
+            "Christmas is generally said to be too commercialised.",
+            "Christmas is generally said to be too commercialised"
+          ]
+        },
+        {
+          "id": "e4",
+          "prompt": "People often argue that prison doesn't work.\n**It**",
+          "acceptedAnswers": [
+            "It is often argued that prison doesn't work.",
+            "It is often argued that prison doesn't work",
+            "It is often argued that prison does not work."
+          ]
+        },
+        {
+          "id": "e5",
+          "prompt": "People have suggested that the school should start to produce a magazine.\n**It**",
+          "acceptedAnswers": [
+            "It has been suggested that the school should start to produce a magazine.",
+            "It has been suggested that the school should start to produce a magazine"
+          ]
+        },
+        {
+          "id": "e6",
+          "prompt": "People say that crocodile tastes like squid.\n**Crocodile**",
+          "acceptedAnswers": [
+            "Crocodile is said to taste like squid.",
+            "Crocodile is said to taste like squid"
+          ]
+        },
+        {
+          "id": "e7",
+          "prompt": "It is said that the Vikings discovered America before Columbus.\n**The Vikings**",
+          "acceptedAnswers": [
+            "The Vikings are said to have discovered America before Columbus.",
+            "The Vikings are said to have discovered America before Columbus"
+          ]
+        },
+        {
+          "id": "e8",
+          "prompt": "People think that heart disease is caused by eating the wrong things.\n**Heart disease**",
+          "acceptedAnswers": [
+            "Heart disease is thought to be caused by eating the wrong things.",
+            "Heart disease is thought to be caused by eating the wrong things"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f",
+      "type": "multiple-choice",
+      "title": "F · Choose the correct answer",
+      "instruction": "Select the option that completes each causative sentence.",
+      "items": [
+        {
+          "id": "f1",
+          "prompt": "We ___ a swimming pool put in this week.",
+          "options": ["get", "are having", "have", "have got"],
+          "acceptedAnswers": ["are having"]
+        },
+        {
+          "id": "f2",
+          "prompt": "Why don't you get a doctor ___ at your arm?",
+          "options": ["to look", "looked", "look", "be looking"],
+          "acceptedAnswers": ["to look"]
+        },
+        {
+          "id": "f3",
+          "prompt": "My teeth were a little yellow so I ___ by the dentist.",
+          "options": ["had cleaned them", "have them cleaned", "had them cleaned", "had them cleaning"],
+          "acceptedAnswers": ["had them cleaned"]
+        },
+        {
+          "id": "f4",
+          "prompt": "Stuart's thinking of having ___ !",
+          "options": ["shaved his head", "his head shaving", "his head shaved", "shaved to his head"],
+          "acceptedAnswers": ["his head shaved"]
+        },
+        {
+          "id": "f5",
+          "prompt": "My sister ___ her ear pierced last weekend.",
+          "options": ["made", "got", "did", "took"],
+          "acceptedAnswers": ["got"]
+        },
+        {
+          "id": "f6",
+          "prompt": "Mum and Dad didn't fancy cooking, so we got a pizza ___ .",
+          "options": ["be delivered", "to be delivered", "delivered", "deliver"],
+          "acceptedAnswers": ["delivered"]
+        },
+        {
+          "id": "f7",
+          "prompt": "You should ___ a professional to check your house for earthquake damage.",
+          "options": ["have", "make", "take", "get"],
+          "acceptedAnswers": ["get"]
+        },
+        {
+          "id": "f8",
+          "prompt": "Kelly wanted to have a live band ___ at her wedding.",
+          "options": ["to be played", "play", "played", "been playing"],
+          "acceptedAnswers": ["play"]
+        },
+        {
+          "id": "f9",
+          "prompt": "Can we ___ this summer?",
+          "options": ["get installed air-conditioning", "get air-conditioning to install", "have installed air-conditioning", "have air-conditioning installed"],
+          "acceptedAnswers": ["have air-conditioning installed"]
+        },
+        {
+          "id": "f10",
+          "prompt": "We ___ while we were on holiday.",
+          "options": ["were burgled our house", "had our house burgled", "had burgled our house", "got burgled our house"],
+          "acceptedAnswers": ["had our house burgled"]
+        }
+      ]
+    },
+    {
+      "id": "g",
+      "type": "rewrite",
+      "title": "G · Key word transformation",
+      "instruction": "Complete each second sentence using the word given, so that it has a similar meaning to the first sentence. Write between two and five words in each gap.",
+      "items": [
+        {
+          "id": "g1",
+          "prompt": "Someone has scratched my car on the door! **been**\nMy car ___ on the door!",
+          "acceptedAnswers": ["has been scratched", "has been scratched on the door"]
+        },
+        {
+          "id": "g2",
+          "prompt": "Tommy is having an operation right now. **being**\nTommy ___ right now.",
+          "acceptedAnswers": ["is being operated on", "is being operated upon"]
+        },
+        {
+          "id": "g3",
+          "prompt": "Has Fiona invited you to her party? **been**\nHave ___ party?",
+          "acceptedAnswers": ["you been invited to Fiona's", "you been invited to her"]
+        },
+        {
+          "id": "g4",
+          "prompt": "Shakespeare probably wrote this play in 1587. **written**\nThis play ___ Shakespeare in 1587.",
+          "acceptedAnswers": ["was probably written by", "was written by"]
+        },
+        {
+          "id": "g5",
+          "prompt": "The government is considering a new law to ban smoking following new research. **considered**\nA new law to ban smoking ___ following new research.",
+          "acceptedAnswers": ["is being considered", "is being considered by the government"]
+        },
+        {
+          "id": "g6",
+          "prompt": "My mum told me to go to Megagrocers. **sent**\nI ___ my mum.",
+          "acceptedAnswers": ["was sent to Megagrocers by", "was sent by"]
+        },
+        {
+          "id": "g7",
+          "prompt": "I didn't understand a word so I asked my teacher and she explained it to me. **got**\nI didn't understand a word so I ___ it to me.",
+          "acceptedAnswers": ["got my teacher to explain", "got the teacher to explain"]
+        }
+      ]
+    },
+    {
+      "id": "h",
+      "type": "gap-fill",
+      "title": "H · Wedding disaster — extra word",
+      "instruction": "Find the extra word in each line and write it in the gap.",
+      "items": [
+        {
+          "id": "h1",
+          "prompt": "My wedding had been being arranged for months. Extra word: ___",
+          "acceptedAnswers": ["being"]
+        },
+        {
+          "id": "h2",
+          "prompt": "I had the caterers to give me a menu. Extra word: ___",
+          "acceptedAnswers": ["to"]
+        },
+        {
+          "id": "h3",
+          "prompt": "I have got them to provide me with samples. Extra word: ___",
+          "acceptedAnswers": ["have"]
+        },
+        {
+          "id": "h4",
+          "prompt": "I also wanted to have us a string quartet play classical music. Extra word: ___",
+          "acceptedAnswers": ["us"]
+        },
+        {
+          "id": "h5",
+          "prompt": "My dress was been being made specially. Extra word: ___",
+          "acceptedAnswers": ["been"]
+        },
+        {
+          "id": "h6",
+          "prompt": "I had told the dressmaker put silver thread in it. Extra word: ___",
+          "acceptedAnswers": ["told"]
+        },
+        {
+          "id": "h7",
+          "prompt": "Finally, the big day got arrived. Extra word: ___",
+          "acceptedAnswers": ["got"]
+        },
+        {
+          "id": "h8",
+          "prompt": "They said it had been being damaged. Extra word: ___",
+          "acceptedAnswers": ["being"]
+        },
+        {
+          "id": "h9",
+          "prompt": "I had my best friend quickly to pop out and get a new dress. Extra word: ___",
+          "acceptedAnswers": ["to"]
+        },
+        {
+          "id": "h10",
+          "prompt": "I had got my lawyer to call to get my money back. Extra word: ___",
+          "acceptedAnswers": ["got"]
+        }
+      ]
+    },
+    {
+      "id": "i",
+      "type": "rewrite",
+      "title": "I · Indirect object at the end",
+      "instruction": "Rewrite with the indirect object at the end of the sentence.",
+      "items": [
+        {
+          "id": "i1",
+          "prompt": "My dad got me a great computer game!",
+          "acceptedAnswers": [
+            "My dad got a great computer game for me.",
+            "My dad got a great computer game for me!",
+            "My dad got a great computer game for me"
+          ]
+        },
+        {
+          "id": "i2",
+          "prompt": "Dave sent Jill a really nice letter.",
+          "acceptedAnswers": [
+            "Dave sent a really nice letter to Jill.",
+            "Dave sent a really nice letter to Jill"
+          ]
+        },
+        {
+          "id": "i3",
+          "prompt": "I threw Colin the ball.",
+          "acceptedAnswers": [
+            "I threw the ball to Colin.",
+            "I threw the ball to Colin"
+          ]
+        },
+        {
+          "id": "i4",
+          "prompt": "The waiter offered us a menu.",
+          "acceptedAnswers": [
+            "The waiter offered a menu to us.",
+            "The waiter offered a menu to us"
+          ]
+        },
+        {
+          "id": "i5",
+          "prompt": "The hotel provides its guests with satellite television.",
+          "acceptedAnswers": [
+            "The hotel provides satellite television for its guests.",
+            "The hotel provides satellite television to its guests."
+          ]
+        },
+        {
+          "id": "i6",
+          "prompt": "My grandma taught me this song.",
+          "acceptedAnswers": [
+            "My grandma taught this song to me.",
+            "My grandma taught this song to me"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "j",
+      "type": "gap-fill",
+      "title": "J · The European Diet",
+      "instruction": "Write one word in each gap.",
+      "items": [
+        {
+          "id": "j1",
+          "prompt": "It's hard for us to imagine what (1) ___ included in the European diet before America",
+          "acceptedAnswers": ["was"]
+        },
+        {
+          "id": "j2",
+          "prompt": "(2) ___ discovered",
+          "acceptedAnswers": ["was"]
+        },
+        {
+          "id": "j3",
+          "prompt": "(3) ___ Columbus in 1492. So many ingredients which today",
+          "acceptedAnswers": ["by"]
+        },
+        {
+          "id": "j4",
+          "prompt": "(4) ___ grown all over the world",
+          "acceptedAnswers": ["are"]
+        },
+        {
+          "id": "j5",
+          "prompt": "(5) ___ unknown to medieval Europeans.",
+          "acceptedAnswers": ["were"]
+        },
+        {
+          "id": "j6",
+          "prompt": "Potatoes, tomatoes, maize and chocolate (6) ___ all originally imported from the New World.",
+          "acceptedAnswers": ["were"]
+        },
+        {
+          "id": "j7",
+          "prompt": "Until then, meals had (7) ___ prepared using ingredients native to Europe, such as root vegetables.",
+          "acceptedAnswers": ["been"]
+        },
+        {
+          "id": "j8",
+          "prompt": "Of course, spices such as pepper (8) ___ been traded and added to food for centuries.",
+          "acceptedAnswers": ["had"]
+        },
+        {
+          "id": "j9",
+          "prompt": "When the potato (9) ___ first introduced, it took a long time to become common.",
+          "acceptedAnswers": ["was"]
+        },
+        {
+          "id": "j10",
+          "prompt": "It (10) ___ considered to be poisonous and it took a long time to become common.",
+          "acceptedAnswers": ["was"]
+        },
+        {
+          "id": "j11",
+          "prompt": "It is a story of Parmentier, a French army officer, who (11) ___ potatoes planted in the royal garden",
+          "acceptedAnswers": ["had", "got"]
+        },
+        {
+          "id": "j12",
+          "prompt": "and (12) ___ Marie Antoinette to wear a potato flower to make them fashionable.",
+          "acceptedAnswers": ["got", "had"]
+        },
+        {
+          "id": "j13",
+          "prompt": "The poor peasants were curious about the new plants and many of them (13) ___ stolen to be planted in their own gardens. It was the start of French fries!",
+          "acceptedAnswers": ["were"]
+        }
+      ]
+    }
+  ]
+}

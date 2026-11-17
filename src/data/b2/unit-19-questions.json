@@ -1,0 +1,840 @@
+{
+  "id": "unit-19-questions",
+  "level": "b2",
+  "unitNumber": 19,
+  "title": "Questions, question tags, indirect questions",
+  "subtitle": "Question forms, tags, and polite indirect questions",
+  "theory": [
+    {
+      "id": "questions",
+      "title": "Questions",
+      "icon": "Table2",
+      "blocks": [
+        {
+          "type": "form-table",
+          "statementLabel": "Examples",
+          "negativeLabel": "Notes",
+          "questionLabel": "Pattern",
+          "rows": [
+            {
+              "person": "be as a main verb",
+              "statement": "**Am / Was** I on time? · **Are / Were** you tired? · **Is / Was** he cold?",
+              "negative": "Invert be and the subject.",
+              "question": "be + subject + …"
+            },
+            {
+              "person": "be as an auxiliary",
+              "statement": "**Am / Was** I interrupting you? · **Are / Were** you going on a picnic?",
+              "negative": "Invert be and the subject.",
+              "question": "be + subject + -ing"
+            },
+            {
+              "person": "have as an auxiliary",
+              "statement": "**Have / Had** you got any money? · **Has / Had** she finished?",
+              "negative": "Invert have and the subject.",
+              "question": "have + subject + past participle"
+            },
+            {
+              "person": "have as a main verb, and other verbs",
+              "statement": "**Do / Did** they have enough time? · **Does / Did** he need anything?",
+              "negative": "Use do / does / did.",
+              "question": "do / does / did + subject + infinitive"
+            },
+            {
+              "person": "modals",
+              "statement": "**Should** I wait? · **Could** you help me? · **Will** she be here soon?",
+              "negative": "Invert the modal and the subject.",
+              "question": "modal + subject + infinitive"
+            },
+            {
+              "person": "who, whose, whom, what, which, where, when, why, how",
+              "statement": "**Who** is taking the rubbish out? · **What** is the weather like? · **Where** did you go?",
+              "negative": "Question word first, then normal question order.",
+              "question": "question word + auxiliary + subject"
+            }
+          ]
+        },
+        {
+          "type": "watch-out",
+          "text": "With the question words **who** and **what**, whether we use **do** or not depends on whether the question word refers to the subject or object of the verb.",
+          "note": "Subject: **Who saw you?** (= Someone saw you. Who?) · Object: **Who did you see?** (= You saw someone. Who?)"
+        },
+        {
+          "type": "correct-incorrect",
+          "correct": "**Did you go** to the talk on the environment?",
+          "incorrect": "**Did you went** to the talk on the environment?"
+        },
+        {
+          "type": "hints",
+          "items": [
+            "Remember that after **do / does**, we use the bare infinitive. **Does Tom want** a glass of orange juice? (not *Does Tom wants*)",
+            "Remember that the verb **mean** forms questions just like other main verbs. **What does 'environmental' mean?** (not *What means 'environmental'?*)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "question-tags",
+      "title": "Question tags",
+      "icon": "Lightbulb",
+      "blocks": [
+        {
+          "type": "form-table",
+          "statementLabel": "Statement",
+          "negativeLabel": "Tag",
+          "questionLabel": "Full example",
+          "rows": [
+            {
+              "person": "be as a main verb",
+              "statement": "You **are** Canadian",
+              "negative": "**aren't you?**",
+              "question": "You are Canadian, **aren't you**? · She is beautiful, **isn't she**?"
+            },
+            {
+              "person": "auxiliary verbs and modals",
+              "statement": "You **haven't** lost my CD",
+              "negative": "**have you?**",
+              "question": "We **are having** the lesson early tomorrow, **aren't we**? · People **should** recycle things, **shouldn't they**? · There **will be** lots of people there, **won't there**?"
+            },
+            {
+              "person": "have as a main verb",
+              "statement": "Tom **has** a lovely voice",
+              "negative": "**hasn't / doesn't he?**",
+              "question": "Tom has a lovely voice, **hasn't / doesn't he**?"
+            },
+            {
+              "person": "other verbs",
+              "statement": "You **play** the guitar",
+              "negative": "**don't you?**",
+              "question": "Frank lives in Germany now, **doesn't he**? · Your friends really enjoyed themselves at the party, **didn't they**?"
+            },
+            {
+              "person": "Let's",
+              "statement": "Let's get a DVD tonight",
+              "negative": "**shall we?**",
+              "question": "Let's get a DVD tonight, **shall we**?"
+            },
+            {
+              "person": "imperatives",
+              "statement": "Pass me that book",
+              "negative": "**will / would / could you?**",
+              "question": "Pass me that book, **will / would / could you**? · Don't forget tonight, **will you**?"
+            }
+          ]
+        },
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "To ask someone to agree with us (falling intonation)",
+              "example": "It's really hot, **isn't it**?"
+            },
+            {
+              "use": "To check whether something is true (rising intonation)",
+              "example": "You're Spanish, **aren't you**?"
+            }
+          ]
+        },
+        {
+          "type": "watch-out",
+          "text": "In sentences with **I am**, we use **aren't I?** as the question tag. In sentences with **I am not**, we use **am I?**",
+          "note": "I'm the best student in the class, **aren't I**? · I'm not very tall, **am I**?"
+        },
+        {
+          "type": "hints",
+          "items": [
+            "With **everyone, no one** and **someone**, we use question tags with a plural verb and **they**. Everyone's going to be there, **aren't they**? · No one wants to come, **do they**? · Someone's been in here, **haven't they**?",
+            "Usually, when we have a positive verb in a sentence, we use a negative question tag. When we have a negative verb in a sentence, we use a positive question tag. With a negative word like **no, little, never, nobody, no one, hardly**, etc., we use a positive question tag. You **have got** no manners, **have you**? · We **never** enjoy our holiday, **do we**?",
+            "In sentences where the subject is **there**, we repeat **there** in the question tag. There's no point calling Tim now, **is there**?"
+          ]
+        },
+        {
+          "type": "watch-out",
+          "text": "In American English, a question tag with **do** can be used after a sentence with **have got**. This is not usually done in British English.",
+          "note": "US: They've got a lot of money, **don't they**? · UK: They've got a lot of money, **haven't they**?"
+        }
+      ]
+    },
+    {
+      "id": "indirect-questions",
+      "title": "Indirect questions",
+      "icon": "Sparkles",
+      "blocks": [
+        {
+          "type": "prose",
+          "text": "Form: introductory phrase or question + clause with normal word order. We use indirect questions when we want to ask questions politely."
+        },
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "Can / Could you tell me …?",
+              "example": "**Could you tell me** what time it is?"
+            },
+            {
+              "use": "Could you let me know …?",
+              "example": "**Could you let me know** when it starts?"
+            },
+            {
+              "use": "Do you know …?",
+              "example": "**Do you know** who that woman is?"
+            },
+            {
+              "use": "I wonder if you could tell me …",
+              "example": "**I wonder if you could tell me** how much this costs."
+            },
+            {
+              "use": "I wonder if you know …",
+              "example": "**I wonder if you know** what the starting salary is."
+            },
+            {
+              "use": "I would like to know …",
+              "example": "**I would like to know** what your company is going to do about it."
+            }
+          ]
+        },
+        {
+          "type": "watch-out",
+          "text": "We do not use question word order in the second part of the sentence.",
+          "note": "I would like to know when **the next train to London leaves**. (not *when does the next train to London leave*)"
+        },
+        {
+          "type": "hints",
+          "items": [
+            "Some indirect questions, which begin with a question word, need a question mark at the end. **Could you tell me where the library is?**",
+            "If a direct question is a yes/no question, the equivalent indirect question uses **if** or **whether**. I wonder **if / whether** you have read this book."
+          ]
+        }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "a",
+      "type": "multiple-choice",
+      "title": "A · Choose the correct answer",
+      "instruction": "Select the question form that completes each sentence.",
+      "items": [
+        {
+          "id": "a1",
+          "prompt": "Oh, I'm sorry! ___ disturbing you?",
+          "options": ["Do I", "Have I", "Should I", "Am I"],
+          "acceptedAnswers": ["Am I"]
+        },
+        {
+          "id": "a2",
+          "prompt": "Did Dorothy ___ you about the meeting on Friday?",
+          "options": ["told", "tell", "has told", "tells"],
+          "acceptedAnswers": ["tell"]
+        },
+        {
+          "id": "a3",
+          "prompt": "___ hot when you were in Spain?",
+          "options": ["Was it", "It was", "Did it", "It made"],
+          "acceptedAnswers": ["Was it"]
+        },
+        {
+          "id": "a4",
+          "prompt": "Tony, ___ got time to call Mrs Roberts?",
+          "options": ["do you have", "you have", "are you", "have you"],
+          "acceptedAnswers": ["have you"]
+        },
+        {
+          "id": "a5",
+          "prompt": "When your boss arrived, ___ finished the report?",
+          "options": ["you had", "did you have", "had you", "were you"],
+          "acceptedAnswers": ["had you"]
+        },
+        {
+          "id": "a6",
+          "prompt": "I know Jane's pretty, but ___ seen someone spend so much time in front of the mirror?",
+          "options": ["do you ever", "you have never", "have you ever", "ever have you"],
+          "acceptedAnswers": ["have you ever"]
+        },
+        {
+          "id": "a7",
+          "prompt": "It's raining, so ___ cancel the concert?",
+          "options": ["will they", "they will", "do they will", "are they"],
+          "acceptedAnswers": ["will they"]
+        },
+        {
+          "id": "a8",
+          "prompt": "___ pass me the salt, please?",
+          "options": ["You could", "Are you", "You are", "Could you"],
+          "acceptedAnswers": ["Could you"]
+        },
+        {
+          "id": "a9",
+          "prompt": "Sir, ___ repeat what the homework is, please?",
+          "options": ["do you", "are you", "you", "can you"],
+          "acceptedAnswers": ["can you"]
+        },
+        {
+          "id": "a10",
+          "prompt": "___ the couple you met in France last year staying at the same hotel?",
+          "options": ["Did", "Have", "Were", "Could"],
+          "acceptedAnswers": ["Were"]
+        },
+        {
+          "id": "a11",
+          "prompt": "I know how to pronounce 'controversy', but what ___ ?",
+          "options": ["does it mean", "will you", "is it mean", "means it"],
+          "acceptedAnswers": ["does it mean"]
+        },
+        {
+          "id": "a12",
+          "prompt": "It's a great idea, but ___ it will work?",
+          "options": ["are you think", "do you think", "you think", "did you think"],
+          "acceptedAnswers": ["do you think"]
+        }
+      ]
+    },
+    {
+      "id": "b",
+      "type": "guided-sentence",
+      "title": "B · Write questions",
+      "instruction": "Write a full question from the prompts.",
+      "items": [
+        {
+          "id": "b1",
+          "prompt": "you / wash / your hair / when I rang?",
+          "acceptedAnswers": [
+            "Were you washing your hair when I rang?",
+            "Were you washing your hair when I rang"
+          ]
+        },
+        {
+          "id": "b2",
+          "prompt": "Julie / give / you / her e-mail address / yesterday?",
+          "acceptedAnswers": [
+            "Did Julie give you her e-mail address yesterday?",
+            "Did Julie give you her email address yesterday?",
+            "Did Julie give you her e-mail address yesterday"
+          ]
+        },
+        {
+          "id": "b3",
+          "prompt": "you / always / have / lunch / this late?",
+          "acceptedAnswers": [
+            "Do you always have lunch this late?",
+            "Do you always have lunch this late"
+          ]
+        },
+        {
+          "id": "b4",
+          "prompt": "Jack and Tom / come / to the party / tonight?",
+          "acceptedAnswers": [
+            "Are Jack and Tom coming to the party tonight?",
+            "Are Jack and Tom coming to the party tonight"
+          ]
+        },
+        {
+          "id": "b5",
+          "prompt": "you / can / give / me / a hand / later?",
+          "acceptedAnswers": [
+            "Can you give me a hand later?",
+            "Can you give me a hand later"
+          ]
+        },
+        {
+          "id": "b6",
+          "prompt": "how / you / spell / your name?",
+          "acceptedAnswers": [
+            "How do you spell your name?",
+            "How do you spell your name"
+          ]
+        },
+        {
+          "id": "b7",
+          "prompt": "why / the government / can't / do / something / about the situation?",
+          "acceptedAnswers": [
+            "Why can't the government do something about the situation?",
+            "Why can't the government do something about the situation"
+          ]
+        },
+        {
+          "id": "b8",
+          "prompt": "where / you / go / for your honeymoon / last year?",
+          "acceptedAnswers": [
+            "Where did you go for your honeymoon last year?",
+            "Where did you go for your honeymoon last year"
+          ]
+        },
+        {
+          "id": "b9",
+          "prompt": "what / your house / look like / when / it is finished?",
+          "acceptedAnswers": [
+            "What will your house look like when it is finished?",
+            "What will your house look like when it's finished?"
+          ]
+        },
+        {
+          "id": "b10",
+          "prompt": "which / flavour of ice cream / your favourite / be?",
+          "acceptedAnswers": [
+            "Which flavour of ice cream is your favourite?",
+            "Which flavour of ice cream is your favorite?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c",
+      "type": "gap-fill",
+      "title": "C · Help us help the environment",
+      "instruction": "Complete using the words in the box. Use each word only once. There is one extra word you do not need to use.",
+      "wordBank": ["who", "where", "which", "whose", "what", "whom", "how", "when", "why"],
+      "items": [
+        {
+          "id": "c1",
+          "prompt": "(1) ___ responsibility is it to look after the environment? Yours!",
+          "acceptedAnswers": ["Whose"]
+        },
+        {
+          "id": "c2",
+          "prompt": "And (2) ___ should you start? Right now is the answer!",
+          "acceptedAnswers": ["when"]
+        },
+        {
+          "id": "c3",
+          "prompt": "But (3) ___ is going to help you? We are! We are GreenWarriors,",
+          "acceptedAnswers": ["who"]
+        },
+        {
+          "id": "c4",
+          "prompt": "(4) ___ me? We all have a responsibility to the world around us.",
+          "acceptedAnswers": ["Why"]
+        },
+        {
+          "id": "c5",
+          "prompt": "But (5) ___ can I make a difference? By recycling your paper, glass and plastic",
+          "acceptedAnswers": ["how"]
+        },
+        {
+          "id": "c6",
+          "prompt": "(6) ___ 's the first step? The first step is to come along to the GreenWarrior offices",
+          "acceptedAnswers": ["What"]
+        },
+        {
+          "id": "c7",
+          "prompt": "(7) ___ other organisations are you connected to? GreenWarriors is a completely independent protest organisation.",
+          "acceptedAnswers": ["Which"]
+        },
+        {
+          "id": "c8",
+          "prompt": "(8) ___ is GreenWarriors based? We are a national organisation, with our headquarters in Northampton.",
+          "acceptedAnswers": ["Where"]
+        }
+      ]
+    },
+    {
+      "id": "d",
+      "type": "multiple-choice",
+      "title": "D · Circle the correct phrase",
+      "instruction": "Choose the question that matches the answer.",
+      "items": [
+        {
+          "id": "d1",
+          "prompt": "'Maria, but she told me she couldn't come.'",
+          "options": ["Who asked you to the party?", "Who did you ask to the party?"],
+          "acceptedAnswers": ["Who asked you to the party?"]
+        },
+        {
+          "id": "d2",
+          "prompt": "'Just Ben, but I don't think he saw me.'",
+          "options": ["Who saw you at the supermarket?", "Who did you see at the supermarket?"],
+          "acceptedAnswers": ["Who saw you at the supermarket?"]
+        },
+        {
+          "id": "d3",
+          "prompt": "'Oh, I don't know. He just seemed a bit down.'",
+          "options": ["What gave you the impression that Greg was depressed?", "What did you give the impression that Greg was depressed?"],
+          "acceptedAnswers": ["What gave you the impression that Greg was depressed?"]
+        },
+        {
+          "id": "d4",
+          "prompt": "'Jenny, but she believed me when I told her I hadn't done it.'",
+          "options": ["Who thought you had stolen the money?", "Who did you think had stolen the money?"],
+          "acceptedAnswers": ["Who thought you had stolen the money?"]
+        },
+        {
+          "id": "d5",
+          "prompt": "'Well, I learned a lot from Extreme History.'",
+          "options": ["Which programme taught you?", "Which programme did you teach the most?"],
+          "acceptedAnswers": ["Which programme taught you?"]
+        },
+        {
+          "id": "d6",
+          "prompt": "'Tracy, and I need to give it back to her tomorrow.'",
+          "options": ["Who borrowed you this book from?", "Who did you borrow this book from?"],
+          "acceptedAnswers": ["Who did you borrow this book from?"]
+        },
+        {
+          "id": "d7",
+          "prompt": "'Work, really, and I've always loved this country.'",
+          "options": ["What brought you to this part of the world?", "What did you bring to this part of the world?"],
+          "acceptedAnswers": ["What brought you to this part of the world?"]
+        },
+        {
+          "id": "d8",
+          "prompt": "'He says that John started it by calling him names.'",
+          "options": ["Who accused George of starting the fight?", "Who did George accuse of starting the fight?"],
+          "acceptedAnswers": ["Who did George accuse of starting the fight?"]
+        },
+        {
+          "id": "d9",
+          "prompt": "'I think I would still say my grandmother because she's worked hard all her life.'",
+          "options": ["Which person admires you?", "Which person do you admire the most?"],
+          "acceptedAnswers": ["Which person do you admire the most?"]
+        },
+        {
+          "id": "d10",
+          "prompt": "'I'm not sure, but I think Simone probably told him.'",
+          "options": ["Who told Dave your secret?", "Who did Dave tell your secret?"],
+          "acceptedAnswers": ["Who told Dave your secret?"]
+        }
+      ]
+    },
+    {
+      "id": "e",
+      "type": "gap-fill",
+      "title": "E · Early humans and the weather",
+      "instruction": "Write one word in each gap.",
+      "items": [
+        {
+          "id": "e1",
+          "prompt": "(1) ___ you think you understand the weather?",
+          "acceptedAnswers": ["Do"]
+        },
+        {
+          "id": "e2",
+          "prompt": "For early humans, the weather was a constant source of questions. (2) ___ is it raining?",
+          "acceptedAnswers": ["Why"]
+        },
+        {
+          "id": "e3",
+          "prompt": "What (3) ___ this storm mean?",
+          "acceptedAnswers": ["does"]
+        },
+        {
+          "id": "e4",
+          "prompt": "Where (4) ___ the wind go when it blows?",
+          "acceptedAnswers": ["does"]
+        },
+        {
+          "id": "e5",
+          "prompt": "People came up with many explanations for the weather, usually involving gods or ancestors. (5) ___ you explain what a rainbow is?",
+          "acceptedAnswers": ["Can", "Could", "Would"]
+        },
+        {
+          "id": "e6",
+          "prompt": "The weather has also been used to explain other things. What would you say if someone asked you (6) ___ kangaroos come from?",
+          "acceptedAnswers": ["where"]
+        },
+        {
+          "id": "e7",
+          "prompt": "You'd probably say Australia, but (7) ___ did the Aborigines explain these strange animals?",
+          "acceptedAnswers": ["how"]
+        },
+        {
+          "id": "e8",
+          "prompt": "Finally, the wind died down and the kangaroos landed on the ground. (8) ___ could they be?",
+          "acceptedAnswers": ["What"]
+        }
+      ]
+    },
+    {
+      "id": "f",
+      "type": "multiple-choice",
+      "title": "F · Match to make sentences",
+      "instruction": "Choose the question tag that completes each sentence.",
+      "items": [
+        {
+          "id": "f1",
+          "prompt": "You've sent that letter I gave you, ___",
+          "options": ["don't you?", "will you?", "haven't you?", "aren't you?"],
+          "acceptedAnswers": ["haven't you?"]
+        },
+        {
+          "id": "f2",
+          "prompt": "You catch the bus to school, ___",
+          "options": ["don't you?", "didn't you?", "haven't you?", "won't you?"],
+          "acceptedAnswers": ["don't you?"]
+        },
+        {
+          "id": "f3",
+          "prompt": "You won't tell anyone about this, ___",
+          "options": ["will you?", "won't you?", "do you?", "aren't you?"],
+          "acceptedAnswers": ["will you?"]
+        },
+        {
+          "id": "f4",
+          "prompt": "You're a friend of Charlie's, ___",
+          "options": ["aren't you?", "don't you?", "haven't you?", "weren't you?"],
+          "acceptedAnswers": ["aren't you?"]
+        },
+        {
+          "id": "f5",
+          "prompt": "You were living in Hong Kong then, ___",
+          "options": ["weren't you?", "didn't you?", "haven't you?", "aren't you?"],
+          "acceptedAnswers": ["weren't you?"]
+        },
+        {
+          "id": "f6",
+          "prompt": "You never work more than you have to, ___",
+          "options": ["do you?", "don't you?", "have you?", "will you?"],
+          "acceptedAnswers": ["do you?"]
+        },
+        {
+          "id": "f7",
+          "prompt": "You made no effort to make friends with Darren, ___",
+          "options": ["did you?", "didn't you?", "have you?", "weren't you?"],
+          "acceptedAnswers": ["did you?"]
+        },
+        {
+          "id": "f8",
+          "prompt": "You got Jimmy a cap for his birthday, ___",
+          "options": ["didn't you?", "haven't you?", "don't you?", "weren't you?"],
+          "acceptedAnswers": ["didn't you?"]
+        }
+      ]
+    },
+    {
+      "id": "g",
+      "type": "gap-fill",
+      "title": "G · Complete the question tags",
+      "instruction": "Write the missing words in each question tag.",
+      "items": [
+        {
+          "id": "g1",
+          "prompt": "Get me some chewing gum when you go to the shop, ___ you?",
+          "acceptedAnswers": ["will", "would", "could", "can"]
+        },
+        {
+          "id": "g2",
+          "prompt": "Let's watch that new DVD you bought today, ___ we?",
+          "acceptedAnswers": ["shall"]
+        },
+        {
+          "id": "g3",
+          "prompt": "There's not really much point waiting, ___ there?",
+          "acceptedAnswers": ["is"]
+        },
+        {
+          "id": "g4",
+          "prompt": "Tonia will put us up for the weekend, ___ she?",
+          "acceptedAnswers": ["won't"]
+        },
+        {
+          "id": "g5",
+          "prompt": "Nobody seems to like Jessica, ___ they?",
+          "acceptedAnswers": ["do"]
+        },
+        {
+          "id": "g6",
+          "prompt": "I'm not making much sense now, ___ I?",
+          "acceptedAnswers": ["am"]
+        },
+        {
+          "id": "g7",
+          "prompt": "Let's go because it's getting late, ___ it?",
+          "acceptedAnswers": ["isn't"]
+        },
+        {
+          "id": "g8",
+          "prompt": "If you borrow my coat, don't get it dirty, ___ you?",
+          "acceptedAnswers": ["will"]
+        },
+        {
+          "id": "g9",
+          "prompt": "Bill should be here by now, ___ he?",
+          "acceptedAnswers": ["shouldn't"]
+        },
+        {
+          "id": "g10",
+          "prompt": "I'm making you feel uncomfortable, ___ I?",
+          "acceptedAnswers": ["aren't"]
+        },
+        {
+          "id": "g11",
+          "prompt": "Someone left the door open, ___ they?",
+          "acceptedAnswers": ["didn't"]
+        },
+        {
+          "id": "g12",
+          "prompt": "Nobody knows about this, ___ they?",
+          "acceptedAnswers": ["do"]
+        }
+      ]
+    },
+    {
+      "id": "h",
+      "type": "rewrite",
+      "title": "H · Rewrite the sentences correctly",
+      "instruction": "Correct the word order in each indirect question.",
+      "items": [
+        {
+          "id": "h1",
+          "prompt": "I wonder if you could tell me what time does the plane from Frankfurt arrive?",
+          "acceptedAnswers": [
+            "I wonder if you could tell me what time the plane from Frankfurt arrives.",
+            "I wonder if you could tell me what time the plane from Frankfurt arrives?"
+          ]
+        },
+        {
+          "id": "h2",
+          "prompt": "Could you let me know when would you like me to come for an interview.",
+          "acceptedAnswers": [
+            "Could you let me know when you would like me to come for an interview?",
+            "Could you let me know when you would like me to come for an interview."
+          ]
+        },
+        {
+          "id": "h3",
+          "prompt": "I wonder if you know what bus should I catch for the town centre.",
+          "acceptedAnswers": [
+            "I wonder if you know what bus I should catch for the town centre.",
+            "I wonder if you know which bus I should catch for the town centre."
+          ]
+        },
+        {
+          "id": "h4",
+          "prompt": "Do you think you could tell me how do you work this ticket machine?",
+          "acceptedAnswers": [
+            "Do you think you could tell me how you work this ticket machine?",
+            "Do you think you could tell me how this ticket machine works?"
+          ]
+        },
+        {
+          "id": "h5",
+          "prompt": "I wonder you have seen George?",
+          "acceptedAnswers": [
+            "I wonder if you have seen George.",
+            "I wonder whether you have seen George.",
+            "I wonder if you've seen George."
+          ]
+        },
+        {
+          "id": "h6",
+          "prompt": "I would like to know do you have any double rooms?",
+          "acceptedAnswers": [
+            "I would like to know if you have any double rooms.",
+            "I would like to know whether you have any double rooms."
+          ]
+        },
+        {
+          "id": "h7",
+          "prompt": "Can you tell me what were you doing in my office?",
+          "acceptedAnswers": [
+            "Can you tell me what you were doing in my office?",
+            "Can you tell me what you were doing in my office"
+          ]
+        },
+        {
+          "id": "h8",
+          "prompt": "Do you know where is this address?",
+          "acceptedAnswers": [
+            "Do you know where this address is?",
+            "Do you know where this address is"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "i",
+      "type": "rewrite",
+      "title": "I · Key word transformation",
+      "instruction": "Complete each second sentence using the word given, so that it has a similar meaning to the first sentence. Write between two and five words in each gap.",
+      "items": [
+        {
+          "id": "i1",
+          "prompt": "When does Tina get back from Berlin? **know**\nDo ___ back from Berlin?",
+          "acceptedAnswers": ["you know when Tina gets"]
+        },
+        {
+          "id": "i2",
+          "prompt": "What time does the film start tonight? **starts**\nCould you tell me ___ tonight?",
+          "acceptedAnswers": ["what time the film starts"]
+        },
+        {
+          "id": "i3",
+          "prompt": "Is service included in the price? **know**\nI would like to ___ in the price.",
+          "acceptedAnswers": ["know if service is included", "know whether service is included"]
+        },
+        {
+          "id": "i4",
+          "prompt": "What is the salary? **let**\nCould you ___ the salary is?",
+          "acceptedAnswers": ["let me know what"]
+        },
+        {
+          "id": "i5",
+          "prompt": "Have you been to Brussels before? **wonder**\nI ___ to Brussels before.",
+          "acceptedAnswers": ["wonder if you have been", "wonder whether you have been"]
+        },
+        {
+          "id": "i6",
+          "prompt": "Did Gail pass her exam? **passed**\nDo you know ___ her exam?",
+          "acceptedAnswers": ["if Gail passed", "whether Gail passed"]
+        },
+        {
+          "id": "i7",
+          "prompt": "I wonder if you know where Mary went after the party last night. **go**\nWhere ___ after the party last night?",
+          "acceptedAnswers": ["did Mary go"]
+        },
+        {
+          "id": "i8",
+          "prompt": "I would like to know how many days holiday we get each year. **given**\nHow many days holiday ___ each year?",
+          "acceptedAnswers": ["are we given", "are given"]
+        }
+      ]
+    },
+    {
+      "id": "j",
+      "type": "gap-fill",
+      "title": "J · Extra word in each sentence",
+      "instruction": "Find the extra word in each sentence and write it in the gap.",
+      "items": [
+        {
+          "id": "j1",
+          "prompt": "Do you have much free time these days or are you be quite busy? Extra word: ___",
+          "acceptedAnswers": ["be"]
+        },
+        {
+          "id": "j2",
+          "prompt": "I would like to know it when I can expect my order to be delivered. Extra word: ___",
+          "acceptedAnswers": ["it"]
+        },
+        {
+          "id": "j3",
+          "prompt": "Do you think whether you could possibly let me know how soon you will have the work finished? Extra word: ___",
+          "acceptedAnswers": ["whether"]
+        },
+        {
+          "id": "j4",
+          "prompt": "I wonder if you know who it is responsible for cleaning the building. Extra word: ___",
+          "acceptedAnswers": ["it"]
+        },
+        {
+          "id": "j5",
+          "prompt": "Tell Roger who did you saw when you were at the police station the other day. Extra word: ___",
+          "acceptedAnswers": ["did"]
+        },
+        {
+          "id": "j6",
+          "prompt": "Did Dad mention who he sold him the car to? Extra word: ___",
+          "acceptedAnswers": ["him"]
+        },
+        {
+          "id": "j7",
+          "prompt": "You shouldn't leave your homework to the very last minute if you want to get a good mark, should not you? Extra word: ___",
+          "acceptedAnswers": ["not"]
+        },
+        {
+          "id": "j8",
+          "prompt": "I wonder if if you know where I can buy something to eat. Extra word: ___",
+          "acceptedAnswers": ["if"]
+        }
+      ]
+    }
+  ]
+}

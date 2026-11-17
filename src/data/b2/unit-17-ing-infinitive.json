@@ -1,0 +1,1003 @@
+{
+  "id": "unit-17-ing-infinitive",
+  "level": "b2",
+  "unitNumber": 17,
+  "title": "-ing form or infinitive",
+  "subtitle": "prefer, would rather, had better, infinitives of purpose",
+  "theory": [
+    {
+      "id": "ing-form",
+      "title": "verb / noun / adjective phrase + -ing form",
+      "icon": "BookOpen",
+      "blocks": [
+        {
+          "type": "prose",
+          "text": "Some verb, noun and adjective phrases are usually followed by the **-ing** form. I've **finished writing** my essay."
+        },
+        {
+          "type": "word-list",
+          "intro": "These include:",
+          "words": [
+            "admit",
+            "appreciate",
+            "avoid",
+            "can't help",
+            "delay",
+            "deny",
+            "detest",
+            "discuss",
+            "dislike",
+            "enjoy",
+            "escape",
+            "face",
+            "fancy",
+            "feel like",
+            "finish",
+            "give up",
+            "involve",
+            "keep (on)",
+            "mention",
+            "mind",
+            "miss",
+            "postpone",
+            "practise",
+            "put off",
+            "resist",
+            "risk",
+            "suggest",
+            "understand"
+          ]
+        },
+        {
+          "type": "watch-out",
+          "text": "Some of the verbs, nouns and adjectives in the list above can also be followed by an object before the **-ing** form.",
+          "note": "I can't **stand people cheating** in exams."
+        },
+        {
+          "type": "hints",
+          "items": [
+            "When we put a verb after a preposition, we almost always use an **-ing** form.",
+            "I'm interested **in hearing** more about that course."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "full-infinitive",
+      "title": "verb / noun / adjective phrase + full infinitive",
+      "icon": "Sparkles",
+      "blocks": [
+        {
+          "type": "prose",
+          "text": "Some verb, noun and adjective phrases are usually followed by the full infinitive. Your answer **appears to be** wrong."
+        },
+        {
+          "type": "word-list",
+          "intro": "These include:",
+          "words": [
+            "able",
+            "afford",
+            "agree",
+            "appear",
+            "arrange",
+            "ask",
+            "attempt",
+            "beg",
+            "choose",
+            "decide",
+            "encourage",
+            "expect",
+            "fail",
+            "happen",
+            "help",
+            "hope",
+            "manage",
+            "offer",
+            "plan",
+            "pleased",
+            "prepare",
+            "pretend",
+            "promise",
+            "refuse",
+            "seem",
+            "tend",
+            "want",
+            "wish",
+            "would like"
+          ]
+        },
+        {
+          "type": "watch-out",
+          "text": "Some of the verbs, nouns and adjectives in the list above can also be followed by an object before the full infinitive.",
+          "note": "I didn't **want to take** the exam. · My mum didn't **want me to take** the exam."
+        }
+      ]
+    },
+    {
+      "id": "bare-infinitive",
+      "title": "verb + bare infinitive",
+      "icon": "Table2",
+      "blocks": [
+        {
+          "type": "prose",
+          "text": "Some verbs can be followed by an object + the bare infinitive. You never **let me say** the answer."
+        },
+        {
+          "type": "word-list",
+          "intro": "These include:",
+          "words": ["feel", "hear", "let", "make", "notice", "see", "watch"]
+        },
+        {
+          "type": "watch-out",
+          "text": "The verbs **feel, hear, notice, see** and **watch** can also be followed by the **-ing** form. We often use the bare infinitive for a completed action (from start to finish). We often use the **-ing** form for an action in progress at the time.",
+          "note": "I **heard** Miss Jenkins **tell** Julie not to do that. (= I heard all of it.) · I **heard** Miss Jenkins **telling** Julie not to do that. (= I heard part of it.)"
+        },
+        {
+          "type": "hints",
+          "items": [
+            "In the passive, **hear, make** and **see** are followed by the full infinitive.",
+            "Active: The teacher **made me stand** in the corner.",
+            "Passive: I **was made to stand** in the corner."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "little-change",
+      "title": "full infinitive or -ing with little or no change",
+      "icon": "Lightbulb",
+      "blocks": [
+        {
+          "type": "prose",
+          "text": "Some verbs can be followed by the full infinitive or the **-ing** form with little or no change in meaning. We **continued to do** experiments in the lab all afternoon. · We **continued doing** experiments in the lab all afternoon."
+        },
+        {
+          "type": "word-list",
+          "intro": "These include:",
+          "words": ["begin", "can't bear/stand", "continue", "hate", "intend", "love", "prefer", "start"]
+        }
+      ]
+    },
+    {
+      "id": "change-in-meaning",
+      "title": "full infinitive or -ing with a change in meaning",
+      "icon": "AlertTriangle",
+      "blocks": [
+        {
+          "type": "prose",
+          "text": "Some verbs can be followed by both the full infinitive and the **-ing** form. The choice depends on the meaning. I **remember** teachers at my school **hitting** children when they were naughty! · Did you **remember to do** your homework?"
+        },
+        {
+          "type": "word-list",
+          "intro": "These verbs include:",
+          "words": [
+            "consider",
+            "forget",
+            "go on",
+            "imagine",
+            "learn",
+            "like",
+            "mean",
+            "regret",
+            "remember",
+            "stop",
+            "teach",
+            "try"
+          ]
+        },
+        {
+          "type": "hints",
+          "items": [
+            "**remember / forget + -ing**: a memory of the past. **remember / forget + infinitive**: something you need to do.",
+            "**stop + -ing**: quit an activity. **stop + infinitive**: pause in order to do something else.",
+            "**try + -ing**: experiment. **try + infinitive**: make an effort.",
+            "**regret + -ing**: be sorry about the past. **regret + infinitive**: be sorry about what you are about to say.",
+            "**go on + -ing**: continue. **go on + infinitive**: move on to the next thing.",
+            "**mean + -ing**: involve. **mean + infinitive**: intend."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "prefer-rather-better",
+      "title": "prefer, would rather, had better",
+      "icon": "CheckCircle2",
+      "blocks": [
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "prefer + noun / -ing + to + noun / -ing · general preference",
+              "example": "I **prefer** biology **to** history. · I **prefer reading** English texts **to speaking** in English."
+            },
+            {
+              "use": "would prefer + full infinitive + rather than (+ bare / full infinitive) · specific preference",
+              "example": "I'd **prefer to have** the lesson on Wednesday **rather than (to) have** it on Tuesday, if that's possible."
+            },
+            {
+              "use": "would rather + bare infinitive + than (+ bare infinitive) · specific preference",
+              "example": "I'd **rather have** the lesson on Wednesday **than (have it)** on Tuesday, if that's possible."
+            },
+            {
+              "use": "would rather + subject + past simple / past continuous · preference about someone else",
+              "example": "I'd **rather you didn't sit** next to Brian."
+            },
+            {
+              "use": "had better + bare infinitive · giving advice",
+              "example": "You'd **better ask** your parents if you can come on the school trip."
+            }
+          ]
+        },
+        {
+          "type": "watch-out",
+          "text": "We don't usually say **I don't prefer…**. We use **I prefer not to…**.",
+          "note": "I **prefer not to** have music on when I'm studying."
+        }
+      ]
+    },
+    {
+      "id": "purpose",
+      "title": "Infinitives of purpose",
+      "icon": "PencilLine",
+      "blocks": [
+        {
+          "type": "prose",
+          "text": "When we want to talk about someone's purpose (the reason they do something), we can use the full infinitive, **in order** + full infinitive, or **so as** + full infinitive."
+        },
+        {
+          "type": "use-examples",
+          "rows": [
+            {
+              "use": "full infinitive",
+              "example": "I went to university **to avoid getting** a job."
+            },
+            {
+              "use": "in order + full infinitive",
+              "example": "I went to university **in order to avoid getting** a job."
+            },
+            {
+              "use": "so as + full infinitive",
+              "example": "I went to university **so as to avoid getting** a job."
+            }
+          ]
+        },
+        {
+          "type": "watch-out",
+          "text": "We can also express the same idea using **so (that)**.",
+          "note": "I went to university **so (that) I could avoid getting** a job."
+        },
+        {
+          "type": "watch-out",
+          "text": "With a negative purpose we don't normally use the full infinitive on its own.",
+          "note": "I went to university **in order not to get** a job. · I went to university **so as not to get** a job. (not *I went to university not to get a job.*)"
+        },
+        {
+          "type": "correct-incorrect",
+          "correct": "I went to university **so as not to get** a job.",
+          "incorrect": "I went to university **not to get** a job."
+        }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "a",
+      "type": "multiple-choice",
+      "title": "A · Circle the correct word or phrase",
+      "instruction": "Choose the form that follows each verb or phrase.",
+      "items": [
+        {
+          "id": "a1",
+          "prompt": "I really don't feel like ___ out tonight. Do you?",
+          "options": ["going", "to go"],
+          "acceptedAnswers": ["going"]
+        },
+        {
+          "id": "a2",
+          "prompt": "Everyone expected his business ___ within the first few months.",
+          "options": ["failing", "to fail"],
+          "acceptedAnswers": ["to fail"]
+        },
+        {
+          "id": "a3",
+          "prompt": "What would you like ___ this evening?",
+          "options": ["doing", "to do"],
+          "acceptedAnswers": ["to do"]
+        },
+        {
+          "id": "a4",
+          "prompt": "We discussed ___ the attic into a spare bedroom with the architect.",
+          "options": ["turning", "to turn"],
+          "acceptedAnswers": ["turning"]
+        },
+        {
+          "id": "a5",
+          "prompt": "She wasn't able ___ very clearly after her accident.",
+          "options": ["speaking", "to speak"],
+          "acceptedAnswers": ["to speak"]
+        },
+        {
+          "id": "a6",
+          "prompt": "Do you mind ___ your car, please? You're blocking the road.",
+          "options": ["moving", "to move"],
+          "acceptedAnswers": ["moving"]
+        },
+        {
+          "id": "a7",
+          "prompt": "They're going to postpone ___ a decision until next month.",
+          "options": ["making", "to make"],
+          "acceptedAnswers": ["making"]
+        },
+        {
+          "id": "a8",
+          "prompt": "Are you planning ___ a new DVD player?",
+          "options": ["getting", "to get"],
+          "acceptedAnswers": ["to get"]
+        },
+        {
+          "id": "a9",
+          "prompt": "Are you thinking of ___ a PlayStation?",
+          "options": ["getting", "to get"],
+          "acceptedAnswers": ["getting"]
+        },
+        {
+          "id": "a10",
+          "prompt": "I'm very pleased ___ you that you've passed!",
+          "options": ["telling", "to tell"],
+          "acceptedAnswers": ["to tell"]
+        },
+        {
+          "id": "a11",
+          "prompt": "Sarah's offered ___ us up for the weekend.",
+          "options": ["putting", "to put"],
+          "acceptedAnswers": ["to put"]
+        },
+        {
+          "id": "a12",
+          "prompt": "I'm really looking forward to ___ on the cruise.",
+          "options": ["going", "to go"],
+          "acceptedAnswers": ["going"]
+        }
+      ]
+    },
+    {
+      "id": "b",
+      "type": "gap-fill",
+      "title": "B · Correct form of the verb",
+      "instruction": "Complete using the correct form (-ing form or full infinitive) of the verb in brackets. You may need to use the passive.",
+      "items": [
+        {
+          "id": "b1",
+          "prompt": "I'll never forgive June for ___ (lie) to me like that.",
+          "acceptedAnswers": ["lying"]
+        },
+        {
+          "id": "b2",
+          "prompt": "Daniel's not very good at ___ (make) friends.",
+          "acceptedAnswers": ["making"]
+        },
+        {
+          "id": "b3",
+          "prompt": "I can't resist ___ (buy) things when they're in the sales.",
+          "acceptedAnswers": ["buying"]
+        },
+        {
+          "id": "b4",
+          "prompt": "We've got to encourage students ___ (study), not blame them for not studying.",
+          "acceptedAnswers": ["to study"]
+        },
+        {
+          "id": "b5",
+          "prompt": "I don't know how you managed ___ (persuade) the bank manager to lend you so much money!",
+          "acceptedAnswers": ["to persuade"]
+        },
+        {
+          "id": "b6",
+          "prompt": "Does Jessica dislike ___ (walk) so much that she's not going to come with us?",
+          "acceptedAnswers": ["walking"]
+        },
+        {
+          "id": "b7",
+          "prompt": "Do you deny ___ (steal) the money? Yes or no?",
+          "acceptedAnswers": ["stealing"]
+        },
+        {
+          "id": "b8",
+          "prompt": "The kids were pretending ___ (be) asleep but they didn't fool me for a second.",
+          "acceptedAnswers": ["to be"]
+        },
+        {
+          "id": "b9",
+          "prompt": "I refuse ___ (accept) that there's no alternative.",
+          "acceptedAnswers": ["to accept"]
+        },
+        {
+          "id": "b10",
+          "prompt": "No one understands how Jill can afford ___ (go) on so many holidays each year.",
+          "acceptedAnswers": ["to go"]
+        },
+        {
+          "id": "b11",
+          "prompt": "He only just escaped ___ (send) to prison. Next time, the judge won't be so forgiving.",
+          "acceptedAnswers": ["being sent"]
+        },
+        {
+          "id": "b12",
+          "prompt": "He expected ___ (give) a brand new computer for Christmas, but all he got was a second-hand watch!",
+          "acceptedAnswers": ["to be given"]
+        }
+      ]
+    },
+    {
+      "id": "c",
+      "type": "multiple-choice",
+      "title": "C · Choose -ing, BI or FI",
+      "instruction": "Decide whether each gap in Exercise D should be filled with the -ing form, a bare infinitive or a full infinitive.",
+      "items": [
+        {
+          "id": "c1",
+          "prompt": "seems to be afraid of (1) ___ hard →",
+          "options": ["ing", "BI", "FI"],
+          "acceptedAnswers": ["ing"]
+        },
+        {
+          "id": "c2",
+          "prompt": "He can't help (2) ___ to avoid →",
+          "options": ["ing", "BI", "FI"],
+          "acceptedAnswers": ["ing"]
+        },
+        {
+          "id": "c3",
+          "prompt": "to avoid (3) ___ anything that involves →",
+          "options": ["ing", "BI", "FI"],
+          "acceptedAnswers": ["ing"]
+        },
+        {
+          "id": "c4",
+          "prompt": "anything that involves (4) ___ his brain →",
+          "options": ["ing", "BI", "FI"],
+          "acceptedAnswers": ["ing"]
+        },
+        {
+          "id": "c5",
+          "prompt": "He seems to detest (5) ___ life seriously →",
+          "options": ["ing", "BI", "FI"],
+          "acceptedAnswers": ["ing"]
+        },
+        {
+          "id": "c6",
+          "prompt": "isn't capable of (6) ___ anything of worth →",
+          "options": ["ing", "BI", "FI"],
+          "acceptedAnswers": ["ing"]
+        },
+        {
+          "id": "c7",
+          "prompt": "William could succeed in (7) ___ great progress →",
+          "options": ["ing", "BI", "FI"],
+          "acceptedAnswers": ["ing"]
+        },
+        {
+          "id": "c8",
+          "prompt": "frequently just wants (8) ___ the fool →",
+          "options": ["ing", "BI", "FI"],
+          "acceptedAnswers": ["FI"]
+        },
+        {
+          "id": "c9",
+          "prompt": "He enjoys (9) ___ jokes →",
+          "options": ["ing", "BI", "FI"],
+          "acceptedAnswers": ["ing"]
+        },
+        {
+          "id": "c10",
+          "prompt": "he imagines this (10) ___ the best way to make friends →",
+          "options": ["ing", "BI", "FI"],
+          "acceptedAnswers": ["BI"]
+        },
+        {
+          "id": "c11",
+          "prompt": "He has promised on several occasions (11) ___ →",
+          "options": ["ing", "BI", "FI"],
+          "acceptedAnswers": ["FI"]
+        },
+        {
+          "id": "c12",
+          "prompt": "from preventing the other students from (12) ___ →",
+          "options": ["ing", "BI", "FI"],
+          "acceptedAnswers": ["ing"]
+        },
+        {
+          "id": "c13",
+          "prompt": "he just keeps on (13) ___ in exactly the same way →",
+          "options": ["ing", "BI", "FI"],
+          "acceptedAnswers": ["ing"]
+        },
+        {
+          "id": "c14",
+          "prompt": "I have had to beg him (14) ___ and be quiet →",
+          "options": ["ing", "BI", "FI"],
+          "acceptedAnswers": ["FI"]
+        },
+        {
+          "id": "c15",
+          "prompt": "it's difficult to know how to make him (15) ___ to his senses →",
+          "options": ["ing", "BI", "FI"],
+          "acceptedAnswers": ["BI"]
+        },
+        {
+          "id": "c16",
+          "prompt": "He just doesn't seem interested in (16) ___ to my opinion →",
+          "options": ["ing", "BI", "FI"],
+          "acceptedAnswers": ["ing"]
+        },
+        {
+          "id": "c17",
+          "prompt": "I'm tempted to give up even (17) ___ that he might improve →",
+          "options": ["ing", "BI", "FI"],
+          "acceptedAnswers": ["ing"]
+        }
+      ]
+    },
+    {
+      "id": "d",
+      "type": "gap-fill",
+      "title": "D · Report: William Watson",
+      "instruction": "Complete using the correct form (-ing form, bare infinitive or full infinitive) of the verbs in the box. Use each verb only once.",
+      "wordBank": [
+        "achieve",
+        "be",
+        "behave",
+        "come",
+        "do",
+        "hope",
+        "improve",
+        "learn",
+        "listen",
+        "make",
+        "play",
+        "sit down",
+        "take",
+        "tell",
+        "try",
+        "use",
+        "work"
+      ],
+      "items": [
+        {
+          "id": "d1",
+          "prompt": "William Watson sometimes seems to be afraid of (1) ___ hard.",
+          "acceptedAnswers": ["working"]
+        },
+        {
+          "id": "d2",
+          "prompt": "He can't help (2) ___ to avoid",
+          "acceptedAnswers": ["trying"]
+        },
+        {
+          "id": "d3",
+          "prompt": "to avoid (3) ___ anything that involves",
+          "acceptedAnswers": ["doing"]
+        },
+        {
+          "id": "d4",
+          "prompt": "anything that involves (4) ___ his brain, particularly on Friday afternoons.",
+          "acceptedAnswers": ["using"]
+        },
+        {
+          "id": "d5",
+          "prompt": "He seems to detest (5) ___ life seriously,",
+          "acceptedAnswers": ["taking"]
+        },
+        {
+          "id": "d6",
+          "prompt": "and pretends he isn't capable of (6) ___ anything of worth.",
+          "acceptedAnswers": ["achieving"]
+        },
+        {
+          "id": "d7",
+          "prompt": "This is unfortunate as, with a little more effort, William could succeed in (7) ___ great progress.",
+          "acceptedAnswers": ["making"]
+        },
+        {
+          "id": "d8",
+          "prompt": "However, at present he frequently just wants (8) ___ the fool.",
+          "acceptedAnswers": ["to play"]
+        },
+        {
+          "id": "d9",
+          "prompt": "He enjoys (9) ___ jokes.",
+          "acceptedAnswers": ["telling"]
+        },
+        {
+          "id": "d10",
+          "prompt": "Presumably, he imagines this (10) ___ the best way to make friends,",
+          "acceptedAnswers": ["to be", "be"]
+        },
+        {
+          "id": "d11",
+          "prompt": "He has promised on several occasions (11) ___ .",
+          "acceptedAnswers": ["to improve", "to behave"]
+        },
+        {
+          "id": "d12",
+          "prompt": "but in fact he often just ends up preventing the other students from (12) ___ .",
+          "acceptedAnswers": ["learning"]
+        },
+        {
+          "id": "d13",
+          "prompt": "He has promised on several occasions to improve his behaviour in class, but then he just keeps on (13) ___ in exactly the same way.",
+          "acceptedAnswers": ["behaving"]
+        },
+        {
+          "id": "d14",
+          "prompt": "Recently, I have had to beg him (14) ___ and be quiet in the classroom,",
+          "acceptedAnswers": ["to sit down"]
+        },
+        {
+          "id": "d15",
+          "prompt": "but it's difficult to know how to make him (15) ___ to his senses.",
+          "acceptedAnswers": ["come"]
+        },
+        {
+          "id": "d16",
+          "prompt": "He just doesn't seem interested in (16) ___ to my opinion.",
+          "acceptedAnswers": ["listening"]
+        },
+        {
+          "id": "d17",
+          "prompt": "I'm tempted to give up even (17) ___ that he might improve.",
+          "acceptedAnswers": ["hoping"]
+        }
+      ]
+    },
+    {
+      "id": "e",
+      "type": "multiple-choice",
+      "title": "E · Same meaning or different?",
+      "instruction": "For each pair, choose whether both sentences mean the same thing or have different meanings.",
+      "items": [
+        {
+          "id": "e1",
+          "prompt": "a I can't bear being tickled! · b I can't bear to be tickled!",
+          "options": ["same meaning", "different meanings"],
+          "acceptedAnswers": ["same meaning"]
+        },
+        {
+          "id": "e2",
+          "prompt": "a My boss went on saying that he was very proud of all of us. · b My boss went on to say that he was very proud of all of us.",
+          "options": ["same meaning", "different meanings"],
+          "acceptedAnswers": ["different meanings"]
+        },
+        {
+          "id": "e3",
+          "prompt": "a Have you stopped having lunch yet? · b Have you stopped to have lunch yet?",
+          "options": ["same meaning", "different meanings"],
+          "acceptedAnswers": ["different meanings"]
+        },
+        {
+          "id": "e4",
+          "prompt": "a Have you started having lunch yet? · b Have you started to have lunch yet?",
+          "options": ["same meaning", "different meanings"],
+          "acceptedAnswers": ["same meaning"]
+        },
+        {
+          "id": "e5",
+          "prompt": "a They continued climbing the mountain. · b They continued to climb the mountain.",
+          "options": ["same meaning", "different meanings"],
+          "acceptedAnswers": ["same meaning"]
+        },
+        {
+          "id": "e6",
+          "prompt": "a We all saw the reporter interviewing the witness. · b We all saw the reporter interview the witness.",
+          "options": ["same meaning", "different meanings"],
+          "acceptedAnswers": ["different meanings"]
+        },
+        {
+          "id": "e7",
+          "prompt": "a I love playing practical jokes on my younger brother. · b I love to play practical jokes on my younger brother.",
+          "options": ["same meaning", "different meanings"],
+          "acceptedAnswers": ["same meaning"]
+        },
+        {
+          "id": "e8",
+          "prompt": "a Why don't you try holding your breath for a minute or two? · b Why don't you try to hold your breath for a minute or two?",
+          "options": ["same meaning", "different meanings"],
+          "acceptedAnswers": ["different meanings"]
+        },
+        {
+          "id": "e9",
+          "prompt": "a I hate being cheated by taxi drivers. · b I hate to be cheated by taxi drivers.",
+          "options": ["same meaning", "different meanings"],
+          "acceptedAnswers": ["same meaning"]
+        }
+      ]
+    },
+    {
+      "id": "f",
+      "type": "rewrite",
+      "title": "F · Key word transformation",
+      "instruction": "Complete each second sentence using the word given, so that it has a similar meaning to the first sentence. Write between two and five words in each gap.",
+      "items": [
+        {
+          "id": "f1",
+          "prompt": "I should have taken my medicine this morning but I didn't remember. **forgot**\nI ___ my medicine this morning.",
+          "acceptedAnswers": ["forgot to take"]
+        },
+        {
+          "id": "f2",
+          "prompt": "I'll always remember the time when I went up Mont Blanc. **never**\nI'll ___ Mont Blanc.",
+          "acceptedAnswers": ["never forget going up", "never forget climbing"]
+        },
+        {
+          "id": "f3",
+          "prompt": "I must hang up the washing later. **remember**\nI ___ up the washing later.",
+          "acceptedAnswers": ["must remember to hang"]
+        },
+        {
+          "id": "f4",
+          "prompt": "Darren thinks that wearing a suit to work is appropriate. **likes**\nDarren ___ a suit to work.",
+          "acceptedAnswers": ["likes wearing", "likes to wear"]
+        },
+        {
+          "id": "f5",
+          "prompt": "Jackie wishes she hadn't said that to Allie. **regrets**\nJackie ___ that to Allie.",
+          "acceptedAnswers": ["regrets saying", "regrets having said"]
+        },
+        {
+          "id": "f6",
+          "prompt": "I'm sorry but your credit card has been cancelled by the bank. **regret**\nI ___ your credit card has been cancelled by the bank.",
+          "acceptedAnswers": ["regret to inform you that", "regret to say that", "regret to tell you that"]
+        },
+        {
+          "id": "f7",
+          "prompt": "Crashing the car wasn't my intention, you know! **mean**\nI ___ the car, you know!",
+          "acceptedAnswers": ["didn't mean to crash", "did not mean to crash"]
+        },
+        {
+          "id": "f8",
+          "prompt": "If I take that job, I'll have to do a lot more travelling. **mean**\nTaking that job ___ to do a lot more travelling.",
+          "acceptedAnswers": ["will mean having", "means having"]
+        },
+        {
+          "id": "f9",
+          "prompt": "Jim's mum made him tidy his room before he could go and play in the park. **made**\nJim ___ his room before he could go and play in the park.",
+          "acceptedAnswers": ["was made to tidy"]
+        },
+        {
+          "id": "f10",
+          "prompt": "I don't suppose you watched that film last night on BBC2, did you? **happen**\nYou ___ that film last night on BBC2, did you?",
+          "acceptedAnswers": ["didn't happen to watch", "didn't happen to see"]
+        },
+        {
+          "id": "f11",
+          "prompt": "People often think that learning Latin is a waste of time. **considered**\nLearning Latin ___ a waste of time.",
+          "acceptedAnswers": ["is often considered to be", "is considered to be"]
+        }
+      ]
+    },
+    {
+      "id": "g",
+      "type": "rewrite",
+      "title": "G · Correct the bold words",
+      "instruction": "Each of the words or phrases in bold is incorrect. Rewrite them correctly.",
+      "items": [
+        {
+          "id": "g1",
+          "prompt": "I generally prefer coffee **from** tea.",
+          "acceptedAnswers": ["to"]
+        },
+        {
+          "id": "g2",
+          "prompt": "Do you prefer watching a DVD at home **to go** to the cinema?",
+          "acceptedAnswers": ["to going"]
+        },
+        {
+          "id": "g3",
+          "prompt": "I had **prefer to** meet you a bit later, if that's all right with you.",
+          "acceptedAnswers": ["would prefer to", "'d prefer to"]
+        },
+        {
+          "id": "g4",
+          "prompt": "He'd **prefer not** have to get up so early tomorrow, but he will if he has to.",
+          "acceptedAnswers": ["prefer not to", "rather not"]
+        },
+        {
+          "id": "g5",
+          "prompt": "I'd rather you **write** your essay in a notebook, to be honest.",
+          "acceptedAnswers": ["wrote"]
+        },
+        {
+          "id": "g6",
+          "prompt": "Would you prefer to get a pizza **rather from** go out tonight?",
+          "acceptedAnswers": ["rather than"]
+        },
+        {
+          "id": "g7",
+          "prompt": "You **would better** see a doctor if you're not feeling well.",
+          "acceptedAnswers": ["had better", "'d better"]
+        },
+        {
+          "id": "g8",
+          "prompt": "I **had rather** be poor and happy than rich and lonely.",
+          "acceptedAnswers": ["would rather", "'d rather"]
+        },
+        {
+          "id": "g9",
+          "prompt": "I'd prefer **having** an early night tonight, if that's okay with you.",
+          "acceptedAnswers": ["to have"]
+        },
+        {
+          "id": "g10",
+          "prompt": "She'd **rather start** revising if she wants to do well in the exam next week.",
+          "acceptedAnswers": ["better start", "had better start"]
+        },
+        {
+          "id": "g11",
+          "prompt": "Shona prefers **to not** wear make-up to work.",
+          "acceptedAnswers": ["not to"]
+        }
+      ]
+    },
+    {
+      "id": "h",
+      "type": "gap-fill",
+      "title": "H · One word in each gap",
+      "instruction": "Write one word in each gap.",
+      "items": [
+        {
+          "id": "h1",
+          "prompt": "I prefer pop music ___ rock, to be honest.",
+          "acceptedAnswers": ["to"]
+        },
+        {
+          "id": "h2",
+          "prompt": "I would prefer to go to the concert tomorrow ___ than on Saturday.",
+          "acceptedAnswers": ["rather"]
+        },
+        {
+          "id": "h3",
+          "prompt": "I ___ playing the piano on my own to performing.",
+          "acceptedAnswers": ["prefer"]
+        },
+        {
+          "id": "h4",
+          "prompt": "I'd rather ___ at the jazz club than a nightclub.",
+          "acceptedAnswers": ["be", "go"]
+        },
+        {
+          "id": "h5",
+          "prompt": "I'd ___ you didn't practise playing the trumpet while I'm trying to study.",
+          "acceptedAnswers": ["rather"]
+        },
+        {
+          "id": "h6",
+          "prompt": "You'd ___ get tickets soon as they're running out.",
+          "acceptedAnswers": ["better"]
+        },
+        {
+          "id": "h7",
+          "prompt": "We queued up early in ___ to get good seats.",
+          "acceptedAnswers": ["order"]
+        },
+        {
+          "id": "h8",
+          "prompt": "We waited for hours so ___ not to miss the VIPs arriving.",
+          "acceptedAnswers": ["as"]
+        },
+        {
+          "id": "h9",
+          "prompt": "I called the theatre ___ find out what time the concert started.",
+          "acceptedAnswers": ["to"]
+        },
+        {
+          "id": "h10",
+          "prompt": "I actually prefer ___ to listen to music through speakers; it sounds so much better through headphones.",
+          "acceptedAnswers": ["not"]
+        },
+        {
+          "id": "h11",
+          "prompt": "Don't you think we ___ better turn the music down a bit?",
+          "acceptedAnswers": ["had", "'d"]
+        }
+      ]
+    },
+    {
+      "id": "i",
+      "type": "multiple-choice",
+      "title": "I · Approaches to learning",
+      "instruction": "Choose the correct answer to complete the text.",
+      "items": [
+        {
+          "id": "i1",
+          "prompt": "People appear (1) ___ in different ways.",
+          "options": ["learning", "to learn", "learn", "having learnt"],
+          "acceptedAnswers": ["to learn"]
+        },
+        {
+          "id": "i2",
+          "prompt": "Some people expect (2) ___ mistakes in their studies and are capable of",
+          "options": ["making", "to make", "make", "having made"],
+          "acceptedAnswers": ["to make"]
+        },
+        {
+          "id": "i3",
+          "prompt": "(3) ___ from their mistakes.",
+          "options": ["benefiting", "to benefit", "benefit", "to have benefited"],
+          "acceptedAnswers": ["benefiting"]
+        },
+        {
+          "id": "i4",
+          "prompt": "They don't mind (4) ___ by their teacher and indeed often ask",
+          "options": ["correcting", "being corrected", "to correct", "to be corrected"],
+          "acceptedAnswers": ["being corrected"]
+        },
+        {
+          "id": "i5",
+          "prompt": "(5) ___ .",
+          "options": ["being", "be", "to have been", "to be"],
+          "acceptedAnswers": ["to be"]
+        },
+        {
+          "id": "i6",
+          "prompt": "Others, however, dislike (6) ___ mistakes.",
+          "options": ["making", "to make", "to be making", "make"],
+          "acceptedAnswers": ["making"]
+        },
+        {
+          "id": "i7",
+          "prompt": "They try to avoid (7) ___ anything which they might do badly.",
+          "options": ["doing", "to do", "having done", "to have done"],
+          "acceptedAnswers": ["doing"]
+        },
+        {
+          "id": "i8",
+          "prompt": "They would rather (8) ___ something in small steps and be sure they have got it right",
+          "options": ["to perfect", "perfecting", "perfect", "be perfected"],
+          "acceptedAnswers": ["perfect"]
+        },
+        {
+          "id": "i9",
+          "prompt": "(9) ___ attempt to do a task based on a subject they don't feel they have finished",
+          "options": ["to", "from", "that", "than"],
+          "acceptedAnswers": ["than"]
+        },
+        {
+          "id": "i10",
+          "prompt": "(10) ___ yet.",
+          "options": ["explore", "to explore", "exploring", "being explored"],
+          "acceptedAnswers": ["exploring"]
+        },
+        {
+          "id": "i11",
+          "prompt": "Both ways of learning seem (11) ___ equally valid, but a combination of the two may be the best solution.",
+          "options": ["that", "to be", "as", "being"],
+          "acceptedAnswers": ["to be"]
+        },
+        {
+          "id": "i12",
+          "prompt": "In (12) ___ to learn effectively, students have to remember",
+          "options": ["desire", "demand", "need", "order"],
+          "acceptedAnswers": ["order"]
+        },
+        {
+          "id": "i13",
+          "prompt": "(13) ___ risks sometimes.",
+          "options": ["to take", "taking", "to have taken", "having taken"],
+          "acceptedAnswers": ["to take"]
+        },
+        {
+          "id": "i14",
+          "prompt": "But they also have to feel comfortable and secure with what they're doing so (14) ___ not to become demotivated.",
+          "options": ["that", "much", "as", "many"],
+          "acceptedAnswers": ["as"]
+        },
+        {
+          "id": "i15",
+          "prompt": "All students should at least think about (15) ___ the way that they approach learning.",
+          "options": ["to question", "questioning", "question", "to be questioned"],
+          "acceptedAnswers": ["questioning"]
+        }
+      ]
+    }
+  ]
+}
