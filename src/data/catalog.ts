@@ -120,16 +120,18 @@ const units: GrammarUnit[] = [
   unit25ReportingC1C2 as GrammarUnit,
 ]
 
+export function getFullUnitsByLevel(level: LevelId): GrammarUnit[] {
+  return units.filter((unit) => unit.level === level)
+}
+
 export function getUnitsByLevel(level: LevelId): UnitSummary[] {
-  return units
-    .filter((unit) => unit.level === level)
-    .map(({ id, level, unitNumber, title, subtitle }) => ({
-      id,
-      level,
-      unitNumber,
-      title,
-      subtitle,
-    }))
+  return getFullUnitsByLevel(level).map(({ id, level, unitNumber, title, subtitle }) => ({
+    id,
+    level,
+    unitNumber,
+    title,
+    subtitle,
+  }))
 }
 
 export function getUnit(level: LevelId, unitId: string): GrammarUnit | undefined {
